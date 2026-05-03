@@ -12,6 +12,8 @@ Drought categories:
   D2 = Severe Drought
   D3 = Extreme Drought
   D4 = Exceptional Drought
+
+Compatible with Python 3.9+ (no X | Y union type hints).
 """
 
 import io
@@ -20,6 +22,7 @@ import os
 import zipfile
 from datetime import date, timedelta
 from pathlib import Path
+from typing import List, Optional
 
 import requests
 
@@ -38,32 +41,35 @@ DM_LABELS = {
 }
 
 
-def _latest_usdm_url() -> str:
+def _latest_usdm_url():
     """USDM releases every Tuesday (valid through following Monday). Find last Tuesday."""
     today = date.today()
     days_since_tuesday = (today.weekday() - 1) % 7
     last_tuesday = today - timedelta(days=days_since_tuesday)
     date_str = last_tuesday.strftime("%Y%m%d")
-    return f"{USDM_BASE}/USDM_{date_str}.zip", date_str
+    return "{}/USDM_{}.zip".format(USDM_BASE, date_str), date_str
 
 
-def _download_usdm(cache: bool = True) -> bytes | None:
+def _download_usdm(cache: bool = True) -> Optional[bytes]:
     url, date_str = _latest_usdm_url()
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     if cache and CACHE_PATH.exists():
-        logger.info(f"USDM: using cached shapefile")
+        logger.info("USDM: using cached shapefile")
         return CACHE_PATH.read_bytes()
 
-    logger.info(f"USDM: downloading {url}")
+    logger.info("USDM: downloading %s", url)
     try:
         r = requests.get(url, timeout=60)
         r.raise_for_status()
         if cache:
             CACHE_PATH.write_bytes(r.content)
         return r.content
+    except requests.exceptions.Timeout:
+        logger.error("USDM download timeout for %s", url)
+        return None
     except Exception as e:
-        logger.error(f"USDM download failed: {e}")
+        logger.error("USDM download failed: %s", e)
         return None
 
 
@@ -120,7 +126,7 @@ def _get_gdf():
     return _GDF
 
 
-def join_sensor(rows: list[dict]) -> list[dict]:
+def join_sensor(rows: List[dict]) -> List[dict]:
     """
     Append USDM drought category fields to each geocoded row.
     """

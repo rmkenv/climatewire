@@ -8,6 +8,8 @@ FIRMS CSV endpoint:
 
 Each article is matched to the nearest active fire detection within
 MAX_DIST_KM. Fire Radiative Power (FRP, MW) is the primary intensity field.
+
+Compatible with Python 3.9+ (no X | Y union type hints).
 """
 
 import csv
@@ -15,6 +17,7 @@ import io
 import logging
 import math
 from pathlib import Path
+from typing import List, Optional
 
 import requests
 
@@ -38,27 +41,32 @@ def _haversine_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     return R * 2 * math.asin(math.sqrt(a))
 
 
-def _download_firms(cache: bool = True) -> list[dict] | None:
+def _download_firms(cache: bool = True) -> Optional[List[dict]]:
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
     if cache and CACHE_PATH.exists():
         logger.info("FIRMS: using cached CSV")
         with open(CACHE_PATH, encoding="utf-8") as f:
             return list(csv.DictReader(f))
 
-    logger.info(f"FIRMS: downloading {FIRMS_URL}")
+    logger.info("FIRMS: downloading %s", FIRMS_URL)
     try:
         r = requests.get(FIRMS_URL, timeout=60)
         r.raise_for_status()
         text = r.text
         if cache:
             CACHE_PATH.write_text(text, encoding="utf-8")
-        return list(csv.DictReader(io.StringIO(text)))
+        rows = list(csv.DictReader(io.StringIO(text)))
+        logger.debug("FIRMS: loaded %d detections", len(rows))
+        return rows
+    except requests.exceptions.Timeout:
+        logger.error("FIRMS download timeout")
+        return None
     except Exception as e:
-        logger.error(f"FIRMS download failed: {e}")
+        logger.error("FIRMS download failed: %s", e)
         return None
 
 
-def _nearest_fire(detections: list[dict], lat: float, lon: float) -> dict | None:
+def _nearest_fire(detections: List[dict], lat: float, lon: float) -> Optional[dict]:
     best = None
     best_dist = MAX_DIST_KM
     for d in detections:
@@ -85,7 +93,7 @@ def _get_detections():
     return _DETECTIONS
 
 
-def join_sensor(rows: list[dict]) -> list[dict]:
+def join_sensor(rows: List[dict]) -> List[dict]:
     """
     Append nearest FIRMS VIIRS detection fields to each geocoded row.
     """

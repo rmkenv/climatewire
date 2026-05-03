@@ -4,11 +4,14 @@ compute WBGT (Wet Bulb Globe Temperature). Appends sensor fields to each row.
 
 Formula:  WBGT = 0.7*Tnwb + 0.2*Tg + 0.1*Tdb   (Liljegren et al. 2008)
 Tnwb via Stull 2011 empirical approximation.
+
+Compatible with Python 3.9+ (no X | Y union type hints).
 """
 
 import logging
 import math
 import requests
+from typing import List, Optional
 
 logger = logging.getLogger(__name__)
 
@@ -67,7 +70,7 @@ def _wbgt_flag(wbgt_f: float) -> str:
 # Open-Meteo fetch
 # ---------------------------------------------------------------------------
 
-def _fetch_current(lat: float, lon: float) -> dict | None:
+def _fetch_current(lat: float, lon: float) -> Optional[dict]:
     """Fetch current-hour Open-Meteo variables at lat/lon."""
     params = {
         "latitude": lat,
@@ -99,7 +102,7 @@ def _fetch_current(lat: float, lon: float) -> dict | None:
 # public API
 # ---------------------------------------------------------------------------
 
-def join_sensor(rows: list[dict]) -> list[dict]:
+def join_sensor(rows: List[dict]) -> List[dict]:
     """
     For each geocoded row, fetch Open-Meteo and append WBGT fields.
     Rows without sensor data are kept but with null sensor fields.

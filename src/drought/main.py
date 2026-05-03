@@ -1,5 +1,7 @@
 """
 drought/main.py — Drought Wire orchestrator.
+
+2 SerpAPI queries/day (60/month) — within free-tier budget across all 4 wires.
 """
 
 import argparse
@@ -16,25 +18,27 @@ logger = logging.getLogger(__name__)
 
 WIRE = "drought"
 
+# 1 query/day = 30 SerpAPI calls/month across all 4 wires
 QUERIES = [
-    '"drought emergency" OR "drought declaration" OR "water shortage" United States',
-    '"exceptional drought" OR "extreme drought" OR "D4 drought" OR "D3 drought" site:droughtmonitor.unl.edu OR site:noaa.gov',
-    '"drought conditions" OR "driest on record" OR "drought relief" United States 2025 OR 2026',
+    '"drought emergency" OR "drought declaration" OR "exceptional drought" OR "water shortage" OR "reservoir low" United States',
 ]
 
 EXCLUSION_PATTERNS = [
     r"\bdrought of talent\b",
     r"\bdrought of ideas\b",
-    r"\bscoring drought\b",    # sports
+    r"\bscoring drought\b",
     r"\bwinless drought\b",
     r"\bgoal drought\b",
+    r"\boffensive drought\b",
 ]
 
-SYSTEM_PROMPT = """You are a relevance screener for a drought news wire.
-Answer YES if the article describes a real drought event, drought emergency declaration, water shortage,
-reservoir depletion, groundwater decline, or crop loss due to drought in the United States.
-Answer NO if it is about sports, figurative uses of 'drought', or events outside the US.
-Respond with exactly one word: YES or NO."""
+SYSTEM_PROMPT = (
+    "You are a relevance screener for a drought news wire. "
+    "Answer YES if the article describes a real drought event, drought emergency declaration, water shortage, "
+    "reservoir depletion, groundwater decline, or crop loss due to drought in the United States. "
+    "Answer NO if it is about sports, figurative uses of 'drought', or events outside the US. "
+    "Respond with exactly one word: YES or NO."
+)
 
 CLASSIFICATION_MAP = {
     "drought_declaration": ["drought declaration", "drought emergency", "drought disaster"],
@@ -45,15 +49,15 @@ CLASSIFICATION_MAP = {
 }
 
 
-def classify(article: dict) -> str:
-    text = f"{article.get('title','')} {article.get('snippet','')}".lower()
+def classify(article):
+    text = "{} {}".format(article.get("title", ""), article.get("snippet", "")).lower()
     for event_type, triggers in CLASSIFICATION_MAP.items():
         if any(t in text for t in triggers):
             return event_type
     return "drought_event"
 
 
-def run(cfg: dict, test_mode: bool = False, no_screen: bool = False):
+def run(cfg, test_mode=False, no_screen=False, lookback_override=None):
     api = cfg.get("api", {})
     geo = cfg.get("geocoding", {})
     etl = cfg.get("etl", {})
@@ -61,7 +65,7 @@ def run(cfg: dict, test_mode: bool = False, no_screen: bool = False):
     serpapi_key = api.get("serpapi_key")
     ollama_key  = api.get("ollama_api_key")
     user_agent  = api.get("user_agent", "climatewire/1.0")
-    lookback    = etl.get("lookback_days", 1)
+    lookback    = lookback_override or etl.get("lookback_days", 1)
     data_dir    = etl.get("data_dir", "data")
     rate_nom    = geo.get("rate_limit_sec", 1.0)
     timeout     = geo.get("timeout_sec", 10.0)
@@ -71,6 +75,9 @@ def run(cfg: dict, test_mode: bool = False, no_screen: bool = False):
         logger.error("SERPAPI_KEY not set — aborting")
         return
 
+    logger.debug("[%s] starting run — lookback=%s days, test=%s, screen=%s",
+                 WIRE, lookback, test_mode, not no_screen)
+
     articles = extract.fetch_articles(
         queries=QUERIES,
         api_key=serpapi_key,
@@ -78,34 +85,44 @@ def run(cfg: dict, test_mode: bool = False, no_screen: bool = False):
         lookback_days=lookback,
         exclusion_patterns=EXCLUSION_PATTERNS,
     )
+    logger.debug("[%s] after fetch+exclusions: %d articles", WIRE, len(articles))
 
     if test_mode:
         articles = articles[:10]
 
     if not no_screen:
-        articles = screen.screen_articles(articles, SYSTEM_PROMPT, ollama_key, rate_limit_sec=screen_rate)
+        articles = screen.screen_articles(
+            articles, SYSTEM_PROMPT, ollama_key, rate_limit_sec=screen_rate
+        )
+    logger.debug("[%s] after screening: %d articles", WIRE, len(articles))
 
     articles = geocode.geocode_articles(articles, user_agent, rate_nom, timeout)
+    logger.debug("[%s] after geocoding: %d rows", WIRE, len(articles))
 
     for a in articles:
         a["event_type"] = classify(a)
 
     articles = join_sensor(articles)
+    logger.debug("[%s] after sensor join: %d rows", WIRE, len(articles))
 
     if not test_mode:
         new, total = load.write_outputs(articles, WIRE, data_dir)
-        logger.info(f"[{WIRE}] done — {new} new rows, {total} total")
+        logger.info("[%s] done — %d new rows, %d total", WIRE, new, total)
     else:
-        logger.info(f"[{WIRE}] test mode — would write {len(articles)} rows")
+        logger.info("[%s] test mode — would write %d rows", WIRE, len(articles))
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Drought Wire")
     parser.add_argument("--config", default=None)
-    parser.add_argument("--test", action="store_true")
-    parser.add_argument("--no-screen", action="store_true")
+    parser.add_argument("--test", action="store_true", help="10 articles, no file writes")
+    parser.add_argument("--no-screen", action="store_true", help="skip Ollama LLM screening")
+    parser.add_argument("--debug", action="store_true", help="set log level to DEBUG")
+    parser.add_argument("--lookback", type=int, default=None,
+                        help="override lookback_days from config")
     args = parser.parse_args()
 
     cfg = utils.load_config(args.config)
-    utils.setup_logging(cfg.get("etl", {}).get("log_level", "INFO"))
-    run(cfg, test_mode=args.test, no_screen=args.no_screen)
+    level = "DEBUG" if args.debug else cfg.get("etl", {}).get("log_level", "INFO")
+    utils.setup_logging(level)
+    run(cfg, test_mode=args.test, no_screen=args.no_screen, lookback_override=args.lookback)

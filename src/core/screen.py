@@ -1,11 +1,14 @@
 """
 core/screen.py — shared Ollama Cloud LLM relevance screener.
 Each wire passes its own system prompt / criteria.
+
+Compatible with Python 3.9+ (no X | Y union type hints).
 """
 
 import time
 import logging
 import requests
+from typing import List, Optional
 
 logger = logging.getLogger(__name__)
 
@@ -24,52 +27,60 @@ def _call_ollama(
     Falls back to True (keep) on API errors so we don't silently drop articles.
     """
     user_msg = (
-        f"Title: {article.get('title', '')}\n"
-        f"Snippet: {article.get('snippet', '')}\n"
-        f"URL: {article.get('url', '')}\n\n"
+        "Title: {}\nSnippet: {}\nURL: {}\n\n"
         "Respond with exactly one word: YES or NO."
+    ).format(
+        article.get("title", ""),
+        article.get("snippet", ""),
+        article.get("url", ""),
     )
     payload = {
         "model": model,
         "messages": [
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_msg},
+            {"role": "user",   "content": user_msg},
         ],
         "stream": False,
     }
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    headers = {"Authorization": "Bearer {}".format(api_key), "Content-Type": "application/json"}
     try:
         r = requests.post(OLLAMA_API_URL, json=payload, headers=headers, timeout=30)
         r.raise_for_status()
         answer = r.json()["message"]["content"].strip().upper()
+        logger.debug("Ollama → %s | %s", answer, article.get("title", "")[:60])
         return answer.startswith("YES")
+    except requests.exceptions.HTTPError as e:
+        logger.warning("Ollama HTTP %s — keeping article: %s",
+                       e.response.status_code if e.response else "?", e)
+        return True
+    except requests.exceptions.Timeout:
+        logger.warning("Ollama timeout — keeping article: %s", article.get("title", "")[:60])
+        return True
+    except KeyError:
+        logger.warning("Ollama unexpected response shape — keeping article")
+        return True
     except Exception as e:
-        logger.warning(f"Ollama error (keeping article): {e}")
-        return True  # fail-open
+        logger.warning("Ollama error (keeping article): %s", e)
+        return True
 
 
 def screen_articles(
-    articles: list[dict],
+    articles: List[dict],
     system_prompt: str,
-    api_key: str | None,
+    api_key: Optional[str],
     model: str = DEFAULT_MODEL,
     rate_limit_sec: float = 0.5,
-) -> list[dict]:
+) -> List[dict]:
     """
     Filter articles through the LLM. If api_key is None, screening is skipped.
-
-    Parameters
-    ----------
-    articles      : output of core.extract.fetch_articles
-    system_prompt : wire-specific relevance instructions
-    api_key       : Ollama Cloud API key (None → skip screening)
-    model         : Ollama model string
-    rate_limit_sec: pause between Ollama calls
     """
-    wire = articles[0]["wire"] if articles else "unknown"
+    if not articles:
+        return articles
+
+    wire = articles[0].get("wire", "unknown")
 
     if not api_key:
-        logger.warning(f"[{wire}] OLLAMA_API_KEY not set — skipping LLM screening")
+        logger.warning("[%s] OLLAMA_API_KEY not set — skipping LLM screening", wire)
         return articles
 
     passed = []
@@ -79,5 +90,5 @@ def screen_articles(
             passed.append(a)
         time.sleep(rate_limit_sec)
 
-    logger.info(f"[{wire}] screened {len(articles)} → {len(passed)} passed")
+    logger.info("[%s] screened %d → %d passed", wire, len(articles), len(passed))
     return passed

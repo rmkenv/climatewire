@@ -3,13 +3,13 @@ water/sensor_join.py — fetch nearest USGS gauge streamflow (00060) and
 groundwater depth (72019) at a geocoded point via USGS Water Services REST API.
 Free, no API key required.
 
-Nearest-gauge lookup uses a bounding-box query around the article's lat/lon,
-then picks the closest station by haversine distance.
+Compatible with Python 3.9+ (no X | Y union type hints).
 """
 
 import logging
 import math
 import requests
+from typing import Optional
 
 logger = logging.getLogger(__name__)
 
@@ -30,7 +30,7 @@ def _haversine_km(lat1, lon1, lat2, lon2):
     return R * 2 * math.asin(math.sqrt(a))
 
 
-def _find_nearest_gauge(lat: float, lon: float, param_cd: str) -> dict | None:
+def _find_nearest_gauge(lat: float, lon: float, param_cd: str) -> Optional[dict]:
     """
     Find the nearest USGS gauge that measures param_cd within SEARCH_RADIUS_DEG.
     Returns dict with site_no, station_nm, site_lat, site_lon, dist_km or None.
@@ -84,7 +84,7 @@ def _find_nearest_gauge(lat: float, lon: float, param_cd: str) -> dict | None:
         return None
 
 
-def _fetch_latest_value(site_no: str, param_cd: str) -> float | None:
+def _fetch_latest_value(site_no: str, param_cd: str) -> Optional[float]:
     """Fetch most recent instantaneous value for site + parameter."""
     params = {
         "format": "json",
@@ -108,7 +108,7 @@ def _fetch_latest_value(site_no: str, param_cd: str) -> float | None:
         return None
 
 
-def join_sensor(rows: list[dict]) -> list[dict]:
+def join_sensor(rows: list) -> list:
     """
     Append nearest USGS streamflow + groundwater fields to each geocoded row.
     """
