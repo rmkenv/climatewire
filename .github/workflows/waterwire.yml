@@ -1,0 +1,64 @@
+name: Waterwire — Water Scarcity ETL
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 07:00 ET daily
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: "Test mode"
+        required: false
+        default: "false"
+      skip_screening:
+        description: "Skip Ollama LLM screening"
+        required: false
+        default: "false"
+      debug:
+        description: "Enable DEBUG logging"
+        required: false
+        default: "false"
+      lookback:
+        description: "Override lookback days (e.g. 7 for backfill)"
+        required: false
+        default: ""
+
+jobs:
+  run-waterwire:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
+
+      - name: Run waterwire
+        env:
+          SERPAPI_KEY:    ${{ secrets.SERPAPI_KEY }}
+          OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+          USER_AGENT:     ${{ secrets.USER_AGENT }}
+        run: |
+          FLAGS=""
+          [ "${{ github.event.inputs.test_mode }}"      = "true" ] && FLAGS="$FLAGS --test"
+          [ "${{ github.event.inputs.skip_screening }}" = "true" ] && FLAGS="$FLAGS --no-screen"
+          [ "${{ github.event.inputs.debug }}" = "true" ] && FLAGS="$FLAGS --debug"
+          [ -n "${{ github.event.inputs.lookback }}" ] && FLAGS="$FLAGS --lookback ${{ github.event.inputs.lookback }}"
+          python src/water/main.py $FLAGS
+
+      - name: Commit updated data files
+        if: ${{ github.event.inputs.test_mode != 'true' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/water.geojson data/water.csv || true
+          git diff --cached --quiet || git commit -m "chore: waterwire update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
