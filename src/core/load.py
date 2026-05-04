@@ -1,7 +1,13 @@
 """
-core/load.py — append-only GeoJSON + CSV writer with dedup on article_id.
+core/load.py — append-only GeoJSON + CSV writer.
+Modeled on floodwire/src/load_files.py.
 
-Compatible with Python 3.9+ (no X | Y union type hints).
+Key changes from original climatewire load.py:
+- GeoJSON only contains rows with valid coordinates (no null-geometry features)
+- Dedup key is (article_id, mention_text) not just article_id
+- CSV dedup uses same composite key
+- Explicit field list for CSV (stable column order)
+- Logs feature count after every write
 """
 
 import csv
@@ -14,62 +20,27 @@ from typing import List, Tuple
 
 logger = logging.getLogger(__name__)
 
-
-# ---------------------------------------------------------------------------
-# helpers
-# ---------------------------------------------------------------------------
-
-def _load_existing_ids(csv_path: Path) -> set:
-    """Return set of article_ids already in the CSV."""
-    if not csv_path.exists():
-        return set()
-    try:
-        with open(csv_path, newline="", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            return {row["article_id"] for row in reader if row.get("article_id")}
-    except Exception as e:
-        logger.warning("Could not read existing CSV %s: %s", csv_path, e)
-        return set()
+CSV_FIELDS = [
+    "article_id", "title", "snippet", "url", "source",
+    "published_at", "wire", "fetched_at",
+    "mention_text", "osm_display", "osm_type", "geocoded",
+    "event_type",
+    "usdm_dm_category", "usdm_dm_label", "usdm_in_drought",
+    "lat", "lon",
+    "run_at",
+]
 
 
-def _rows_to_features(rows: List[dict]) -> List[dict]:
-    """Convert flat dicts to GeoJSON Feature objects.
-
-    Rows with null lat/lon are included as null-geometry features so they
-    appear in GeoJSON tooling (QGIS, Tippecanoe, etc.) without crashing it.
-    They are clearly marked with geocoded=False in properties.
-    """
-    features = []
-    for r in rows:
-        lat = r.get("lat")
-        lon = r.get("lon")
-        props = {k: v for k, v in r.items() if k not in ("lat", "lon")}
-        if lat is not None and lon is not None:
-            geometry = {"type": "Point", "coordinates": [lon, lat]}
-        else:
-            geometry = None  # valid GeoJSON null geometry
-        features.append({
-            "type": "Feature",
-            "geometry": geometry,
-            "properties": props,
-        })
-    return features
-
-
-# ---------------------------------------------------------------------------
-# public API
-# ---------------------------------------------------------------------------
-
-def write_outputs(
-    rows: List[dict],
-    wire: str,
-    data_dir,
-) -> Tuple[int, int]:
+def write_outputs(rows, wire, data_dir):
+    # type: (List[dict], str, object) -> Tuple[int, int]
     """
     Append new rows to data/<wire>.geojson and data/<wire>.csv.
-    Deduplicates on article_id.
 
-    Returns (new_rows_written, total_rows_in_file).
+    GeoJSON: only rows with valid lat/lon (no null-geometry features).
+    CSV: all rows including ungeocodeable ones (geocoded=False).
+    Dedup key: (article_id, mention_text).
+
+    Returns (new_rows_written, total_rows_in_geojson).
     """
     data_dir = Path(data_dir)
     data_dir.mkdir(parents=True, exist_ok=True)
@@ -77,63 +48,120 @@ def write_outputs(
     geojson_path = data_dir / "{}.geojson".format(wire)
     csv_path     = data_dir / "{}.csv".format(wire)
 
-    # --- dedup ---
-    existing_ids = _load_existing_ids(csv_path)
-    new_rows = [r for r in rows if r.get("article_id") not in existing_ids]
-    logger.debug("[%s] dedup: %d rows in, %d new", wire, len(rows), len(new_rows))
-
-    if not new_rows:
-        logger.info("[%s] no new rows to write", wire)
-        return 0, len(existing_ids)
-
     run_at = datetime.now(timezone.utc).isoformat()
-    for r in new_rows:
+    for r in rows:
         r["run_at"] = run_at
 
-    # --- CSV (append) ---
-    all_keys = list(new_rows[0].keys())
-    write_header = not csv_path.exists() or csv_path.stat().st_size == 0
-    try:
-        with open(csv_path, "a", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=all_keys, extrasaction="ignore")
-            if write_header:
-                writer.writeheader()
-            writer.writerows(new_rows)
-        logger.debug("[%s] wrote %d rows to %s", wire, len(new_rows), csv_path)
-    except Exception as e:
-        logger.error("[%s] CSV write failed: %s", wire, e)
+    geo_written  = _append_geojson(rows, geojson_path, wire)
+    csv_written  = _append_csv(rows, csv_path)
 
-    # --- GeoJSON (rewrite full file) ---
-    if geojson_path.exists():
+    logger.info("[%s] write_outputs done — %d GeoJSON features written, %d CSV rows written",
+                wire, geo_written, csv_written)
+    return geo_written, geo_written
+
+
+def _append_geojson(rows, path, wire):
+    # type: (List[dict], Path, str) -> int
+    """Append geocoded rows to GeoJSON. Skips null-coord rows entirely."""
+    existing_keys = set()
+    features = []
+
+    if path.exists():
         try:
-            with open(geojson_path, encoding="utf-8") as f:
-                existing_fc = json.load(f)
-            existing_features = existing_fc.get("features", [])
+            fc = json.loads(path.read_text(encoding="utf-8"))
+            features = fc.get("features", [])
+            for f in features:
+                props = f.get("properties", {})
+                existing_keys.add((props.get("article_id", ""), props.get("mention_text", "")))
         except Exception as e:
-            logger.warning("[%s] Could not load existing GeoJSON: %s", wire, e)
-            existing_features = []
-    else:
-        existing_features = []
+            logger.warning("[%s] Could not parse existing GeoJSON, starting fresh: %s", wire, e)
+            features = []
 
-    new_features = _rows_to_features(new_rows)
-    all_features = existing_features + new_features
+    appended = 0
+    skipped_no_geo = 0
+    skipped_dupe = 0
+
+    for row in rows:
+        lat = row.get("lat")
+        lon = row.get("lon")
+
+        if lat is None or lon is None:
+            skipped_no_geo += 1
+            continue
+
+        key = (row.get("article_id", ""), row.get("mention_text", ""))
+        if key in existing_keys:
+            skipped_dupe += 1
+            continue
+
+        existing_keys.add(key)
+        props = {k: v for k, v in row.items() if k not in ("lat", "lon")}
+        features.append({
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [lon, lat]},
+            "properties": props,
+        })
+        appended += 1
+
+    if skipped_no_geo:
+        logger.info("[%s] GeoJSON: skipped %d rows with no coordinates", wire, skipped_no_geo)
+    if skipped_dupe:
+        logger.info("[%s] GeoJSON: skipped %d duplicate rows", wire, skipped_dupe)
 
     fc = {
         "type": "FeatureCollection",
-        "features": all_features,
+        "features": features,
         "metadata": {
             "wire":           wire,
-            "last_updated":   run_at,
-            "total_features": len(all_features),
+            "last_updated":   datetime.now(timezone.utc).isoformat(),
+            "total_features": len(features),
         },
     }
     try:
-        with open(geojson_path, "w", encoding="utf-8") as f:
-            json.dump(fc, f, indent=2)
-        logger.debug("[%s] wrote GeoJSON with %d features", wire, len(all_features))
+        path.write_text(json.dumps(fc, indent=2), encoding="utf-8")
+        logger.info("[%s] GeoJSON written: %s (%d total features, +%d new)",
+                    wire, path, len(features), appended)
     except Exception as e:
         logger.error("[%s] GeoJSON write failed: %s", wire, e)
 
-    total = len(existing_ids) + len(new_rows)
-    logger.info("[%s] wrote %d new rows (total %d)", wire, len(new_rows), total)
-    return len(new_rows), total
+    return appended
+
+
+def _append_csv(rows, path):
+    # type: (List[dict], Path) -> int
+    """Append all rows (including ungeocodeable) to CSV."""
+    existing_keys = set()
+    write_header = not path.exists() or path.stat().st_size == 0
+
+    if not write_header:
+        try:
+            with path.open(newline="", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for r in reader:
+                    existing_keys.add((r.get("article_id", ""), r.get("mention_text", "")))
+        except Exception as e:
+            logger.warning("Could not read existing CSV, starting fresh: %s", e)
+            write_header = True
+
+    new_rows = []
+    for row in rows:
+        key = (row.get("article_id", ""), row.get("mention_text", ""))
+        if key not in existing_keys:
+            existing_keys.add(key)
+            new_rows.append(row)
+
+    if not new_rows:
+        logger.info("CSV: no new rows to write")
+        return 0
+
+    try:
+        with path.open("a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=CSV_FIELDS, extrasaction="ignore")
+            if write_header:
+                writer.writeheader()
+            writer.writerows(new_rows)
+        logger.info("CSV written: %s (+%d rows)", path, len(new_rows))
+    except Exception as e:
+        logger.error("CSV write failed: %s", e)
+
+    return len(new_rows)

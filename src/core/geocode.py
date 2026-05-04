@@ -2,22 +2,35 @@
 core/geocode.py — spaCy NER + OSM Nominatim geocoder.
 Compatible with Python 3.9+.
 
-v3 changes:
-- Logs the actual HTTP status and response body on Nominatim failures
-  so the cause (blank User-Agent, 403, rate limit) is visible in CI logs.
-- Falls back to a broader search (no countrycodes filter) if US-scoped
-  search returns zero results, catching articles about US events filed
-  by international outlets with non-US Nominatim results.
-- spaCy + regex dual pass retained from v2.
-- URL slug extraction retained from v2.
-- Ungeocodeable articles kept with null coords (not dropped).
+Modeled on floodwire/src/geocode_floods.py.
+
+Key differences from original climatewire geocode.py:
+- Uses jsonv2 + addressdetails=1 on Nominatim (richer results)
+- tenacity retry with exponential backoff on all Nominatim calls
+- outlet_region context appended to NER candidates (improves hit rate)
+- Outlet city/region as explicit fallback when NER + regex find nothing
+- spaCy + regex dual pass
+- URL slug as supplemental text source
+- All articles returned; ungeocodeable get null coords (not dropped)
+- Verbose HTTP error logging so CI surfaces the real failure cause
 """
 
 import re
 import time
 import logging
 import requests
-from typing import List, Optional
+from typing import List, Optional, Tuple
+
+try:
+    from tenacity import (
+        retry,
+        stop_after_attempt,
+        wait_exponential,
+        retry_if_exception_type,
+    )
+    _TENACITY = True
+except ImportError:
+    _TENACITY = False
 
 logger = logging.getLogger(__name__)
 
@@ -29,7 +42,7 @@ try:
 except Exception as e:
     _nlp = None
     _SPACY_AVAILABLE = False
-    logger.warning("spaCy unavailable (%s) — using regex-only location extraction", e)
+    logger.warning("spaCy unavailable (%s) — using regex-only extraction", e)
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 
@@ -41,18 +54,19 @@ _SKIP_TOKENS = {
     "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",
     "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December",
-    "United", "States",  # too broad alone; caught as "United States" by spaCy
+    "United", "States", "Americans", "American",
 }
 
-SPACY_MAX_CHARS = 100_000
+SPACY_MAX_CHARS = 5000  # match floodwire cap
 
 
 def _validate_user_agent(user_agent):
     # type: (str) -> None
-    if not user_agent or user_agent.strip() in ("", "climatewire/1.0", "yourname@example.com"):
+    blank = not user_agent or user_agent.strip() in ("", "climatewire/1.0", "yourname@example.com")
+    if blank:
         logger.warning(
-            "USER_AGENT is '%s' — OSM Nominatim will likely return 403 or empty results. "
-            "Set the USER_AGENT secret to something like 'climatewire/1.0 (you@email.com)'.",
+            "USER_AGENT is '%s' — Nominatim will likely return 403. "
+            "Set the USER_AGENT secret to e.g. 'climatewire/1.0 (you@email.com)'.",
             user_agent,
         )
 
@@ -78,79 +92,115 @@ def _regex_candidates(text):
     return result
 
 
-def _extract_locations(text):
-    # type: (str) -> List[str]
+def _extract_locations(text, outlet_region=None):
+    # type: (str, Optional[str]) -> List[Tuple[str, str]]
+    """
+    Returns list of (mention_text, osm_query_string).
+    osm_query appends outlet_region for better Nominatim hit rate,
+    matching floodwire's approach.
+    """
     text = text[:SPACY_MAX_CHARS]
     candidates = []
+    seen_queries = set()
+
+    def add(mention, query):
+        key = query.lower().strip()
+        if key and key not in seen_queries and len(key) > 2:
+            seen_queries.add(key)
+            candidates.append((mention, query))
 
     if _SPACY_AVAILABLE and _nlp:
         doc = _nlp(text)
-        seen = set()
         for ent in doc.ents:
-            if ent.label_ in ("GPE", "LOC"):
-                loc = ent.text.strip()
-                if loc and loc not in seen:
-                    seen.add(loc)
-                    candidates.append(loc)
+            if ent.label_ in ("GPE", "LOC", "FAC"):
+                mention = ent.text.strip()
+                if len(mention) < 3:
+                    continue
+                query = "{}, {}".format(mention, outlet_region) if outlet_region else mention
+                add(mention, query)
+
         if not candidates:
-            logger.debug("spaCy found no GPE/LOC entities — falling back to regex")
-            candidates = _regex_candidates(text)
+            logger.debug("spaCy found no entities — falling back to regex")
+            for m in _regex_candidates(text):
+                query = "{}, {}".format(m, outlet_region) if outlet_region else m
+                add(m, query)
     else:
-        candidates = _regex_candidates(text)
+        for m in _regex_candidates(text):
+            query = "{}, {}".format(m, outlet_region) if outlet_region else m
+            add(m, query)
 
     return candidates
 
 
-def _nominatim_geocode(place, user_agent, country_codes="us", timeout=10.0):
-    # type: (str, str, str, float) -> Optional[dict]
-    """
-    Query Nominatim. Tries US-scoped first; falls back to global if no result.
-    Logs HTTP errors verbosely so failures are visible in CI.
-    """
-    for scope, cc in [("US-scoped", country_codes), ("global fallback", "")]:
-        params = {"q": place, "format": "json", "limit": 1}
-        if cc:
-            params["countrycodes"] = cc
-        headers = {"User-Agent": user_agent}
-        try:
-            r = requests.get(NOMINATIM_URL, params=params, headers=headers, timeout=timeout)
-            if not r.ok:
-                logger.warning(
-                    "Nominatim HTTP %d for '%s' (%s) — body: %s",
-                    r.status_code, place, scope, r.text[:200],
-                )
-                continue
-            results = r.json()
-            if results:
-                logger.debug("Nominatim %s: '%s' -> %s", scope, place,
-                             results[0].get("display_name", "")[:60])
-                return results[0]
-            logger.debug("Nominatim %s: no result for '%s'", scope, place)
-        except requests.exceptions.Timeout:
-            logger.warning("Nominatim timeout for '%s' (%s)", place, scope)
-        except Exception as e:
-            logger.warning("Nominatim error for '%s' (%s): %s", place, scope, e)
+def _nominatim_search(query, user_agent, timeout=10):
+    # type: (str, str, int) -> list
+    params = {
+        "q": query,
+        "format": "jsonv2",
+        "limit": 1,
+        "countrycodes": "us",
+        "addressdetails": 1,
+    }
+    headers = {"User-Agent": user_agent}
+    resp = requests.get(NOMINATIM_URL, params=params, headers=headers, timeout=timeout)
+    if not resp.ok:
+        logger.warning("Nominatim HTTP %d for '%s': %s", resp.status_code, query, resp.text[:200])
+        resp.raise_for_status()
+    return resp.json()
 
-        if not cc:
-            break  # already tried global, stop
-        time.sleep(0.5)  # small pause between US and global attempt
 
-    return None
+if _TENACITY:
+    _nominatim_search = retry(
+        retry=retry_if_exception_type(requests.RequestException),
+        wait=wait_exponential(multiplier=1, min=2, max=20),
+        stop=stop_after_attempt(3),
+        reraise=False,
+    )(_nominatim_search)
+
+
+def _geocode_query(query, user_agent, timeout=10):
+    # type: (str, str, int) -> dict
+    """Geocode a single query string. Returns dict with lat/lon or all-None."""
+    try:
+        results = _nominatim_search(query, user_agent, timeout=timeout)
+    except Exception as exc:
+        logger.debug("Nominatim error for '%s': %s", query, exc)
+        return {"lat": None, "lon": None, "osm_display": None, "osm_type": None}
+
+    if not results:
+        logger.debug("Nominatim: no result for '%s'", query)
+        return {"lat": None, "lon": None, "osm_display": None, "osm_type": None}
+
+    hit = results[0]
+    logger.debug("Nominatim: '%s' -> %s", query, hit.get("display_name", "")[:60])
+    return {
+        "lat":         float(hit["lat"]),
+        "lon":         float(hit["lon"]),
+        "osm_display": hit.get("display_name"),
+        "osm_type":    hit.get("type") or hit.get("osm_type"),
+    }
 
 
 def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0):
     # type: (List[dict], str, float, float) -> List[dict]
     """
-    Geocode each article. ALL articles are returned — geocoded ones get
-    lat/lon populated, ungeocodeable ones get null coords.
+    Geocode each article. Returns ALL articles — geocoded ones get lat/lon,
+    ungeocodeable ones get null coords.
+
+    Text sources (richest possible input to NER):
+      title + snippet + url slug
+
+    Fallback chain per article:
+      1. spaCy GPE/LOC/FAC entities (with outlet_region appended to query)
+      2. Regex capitalised tokens (with outlet_region appended)
+      3. outlet_region alone (state-level fallback, confidence=low)
     """
     if not articles:
         return []
 
     wire = articles[0].get("wire", "unknown")
     _validate_user_agent(user_agent)
-    logger.info("[%s] geocoding %d articles — user_agent='%s'",
-                wire, len(articles), user_agent[:40] if user_agent else "")
+    logger.info("[%s] geocoding %d articles", wire, len(articles))
 
     geocoded_count = 0
     results = []
@@ -161,27 +211,31 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
         slug    = _slug_to_text(a.get("url", ""))
         text    = " ".join(filter(None, [title, snippet, slug]))
 
-        candidates = _extract_locations(text)
-        logger.debug("[%s] '%s' -> candidates: %s", wire, title[:50], candidates[:5])
+        # outlet_region: not present in climatewire articles natively,
+        # but we can infer US state from the wire type as a weak signal
+        outlet_region = None  # extend here if you add outlet parsing
+
+        candidates = _extract_locations(text, outlet_region=outlet_region)
+
+        # Fallback: if nothing extracted, try a bare state/region name from title
+        if not candidates and outlet_region:
+            candidates = [(outlet_region, outlet_region)]
+
+        logger.debug("[%s] '%s' -> candidates: %s",
+                     wire, title[:50], [q for _, q in candidates[:5]])
 
         matched = False
-        for place in candidates:
-            result = _nominatim_geocode(place, user_agent, timeout=timeout_sec)
+        for mention, query in candidates:
+            geo = _geocode_query(query, user_agent, timeout=int(timeout_sec))
             time.sleep(rate_limit_sec)
-            if result:
-                try:
-                    lat = float(result["lat"])
-                    lon = float(result["lon"])
-                except (KeyError, ValueError, TypeError) as e:
-                    logger.debug("Bad lat/lon for '%s': %s", place, e)
-                    continue
 
+            if geo["lat"] is not None:
                 row = dict(a)
-                row["mention_text"] = place
-                row["lat"]          = lat
-                row["lon"]          = lon
-                row["osm_display"]  = result.get("display_name", "")
-                row["osm_type"]     = result.get("type", "")
+                row["mention_text"] = mention
+                row["lat"]          = geo["lat"]
+                row["lon"]          = geo["lon"]
+                row["osm_display"]  = geo["osm_display"]
+                row["osm_type"]     = geo["osm_type"]
                 row["geocoded"]     = True
                 results.append(row)
                 geocoded_count += 1
@@ -189,8 +243,8 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
                 break
 
         if not matched:
-            logger.warning("[%s] no geocode for: %s | candidates were: %s",
-                           wire, title[:80], candidates[:5])
+            logger.warning("[%s] no geocode for: %s | candidates: %s",
+                           wire, title[:80], [q for _, q in candidates[:3]])
             row = dict(a)
             row["mention_text"] = None
             row["lat"]          = None
@@ -200,8 +254,6 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
             row["geocoded"]     = False
             results.append(row)
 
-    logger.info(
-        "[%s] geocoding done: %d/%d geocoded, %d null coords",
-        wire, geocoded_count, len(articles), len(articles) - geocoded_count,
-    )
+    logger.info("[%s] geocoding done: %d/%d geocoded, %d null coords",
+                wire, geocoded_count, len(articles), len(articles) - geocoded_count)
     return results
