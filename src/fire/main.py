@@ -9,7 +9,7 @@ import logging
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parents[2]))
+sys.path.insert(0, str(Path(__file__).parents))
 
 from core import extract, screen, geocode, load, utils
 from fire.sensor_join import join_sensor
