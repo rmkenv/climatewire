@@ -2,7 +2,7 @@ name: Heatwire — Extreme Heat ETL
 
 on:
   schedule:
-    - cron: "0 10 * * *"   # 06:00 ET daily (peak heat news cycle)
+    - cron: "0 10 * * *"
   workflow_dispatch:
     inputs:
       test_mode:
@@ -52,7 +52,7 @@ jobs:
           [ "${{ github.event.inputs.skip_screening }}" = "true" ] && FLAGS="$FLAGS --no-screen"
           [ "${{ github.event.inputs.debug }}"          = "true" ] && FLAGS="$FLAGS --debug"
           [ -n "${{ github.event.inputs.lookback }}" ]             && FLAGS="$FLAGS --lookback ${{ github.event.inputs.lookback }}"
-          python src/heat/main.py $FLAGS
+          PYTHONPATH=${GITHUB_WORKSPACE}/src python src/heat/main.py $FLAGS
 
       - name: Commit updated data files
         if: ${{ github.event.inputs.test_mode != 'true' }}
