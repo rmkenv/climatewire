@@ -1,18 +1,16 @@
 """
 core/geocode.py — spaCy NER + OSM Nominatim geocoder.
+Compatible with Python 3.9+.
 
-Compatible with Python 3.9+ (no X | Y union type hints).
-
-PATCH NOTES
------------
-v2:
-- Text fed to location extractor now includes title + snippet + URL slug,
-  since local news snippets are often empty but URLs contain place names.
-- spaCy NER is now followed by regex as a second-pass fallback when NER
-  returns zero candidates (e.g. short titles with no clear GPE).
-- Articles that cannot be geocoded are kept with null coords (not dropped).
-- USER_AGENT validation warns loudly if blank.
-- Geocode hit/miss summary logged at INFO level.
+v3 changes:
+- Logs the actual HTTP status and response body on Nominatim failures
+  so the cause (blank User-Agent, 403, rate limit) is visible in CI logs.
+- Falls back to a broader search (no countrycodes filter) if US-scoped
+  search returns zero results, catching articles about US events filed
+  by international outlets with non-US Nominatim results.
+- spaCy + regex dual pass retained from v2.
+- URL slug extraction retained from v2.
+- Ungeocodeable articles kept with null coords (not dropped).
 """
 
 import re
@@ -28,10 +26,10 @@ try:
     _nlp = spacy.load("en_core_web_sm")
     _SPACY_AVAILABLE = True
     logger.debug("spaCy loaded OK")
-except Exception:
+except Exception as e:
     _nlp = None
     _SPACY_AVAILABLE = False
-    logger.warning("spaCy not available — using regex-only location extraction")
+    logger.warning("spaCy unavailable (%s) — using regex-only location extraction", e)
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 
@@ -43,53 +41,36 @@ _SKIP_TOKENS = {
     "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",
     "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December",
+    "United", "States",  # too broad alone; caught as "United States" by spaCy
 }
 
 SPACY_MAX_CHARS = 100_000
-
-# US state names and abbreviations for slug parsing
-_US_STATES = {
-    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
-    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
-    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
-    "maine", "maryland", "massachusetts", "michigan", "minnesota",
-    "mississippi", "missouri", "montana", "nebraska", "nevada",
-    "new-hampshire", "new-jersey", "new-mexico", "new-york",
-    "north-carolina", "north-dakota", "ohio", "oklahoma", "oregon",
-    "pennsylvania", "rhode-island", "south-carolina", "south-dakota",
-    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
-    "west-virginia", "wisconsin", "wyoming",
-}
-
-
-def _slug_to_text(url):
-    # type: (str) -> str
-    """Extract human-readable words from a URL path slug."""
-    try:
-        path = url.split("://", 1)[-1].split("/", 1)[-1]  # strip scheme+domain
-        slug = path.replace("/", " ").replace("-", " ").replace("_", " ")
-        return slug
-    except Exception:
-        return ""
 
 
 def _validate_user_agent(user_agent):
     # type: (str) -> None
     if not user_agent or user_agent.strip() in ("", "climatewire/1.0", "yourname@example.com"):
         logger.warning(
-            "USER_AGENT is blank or placeholder ('%s'). "
-            "OSM Nominatim requires a meaningful User-Agent. "
-            "Set the USER_AGENT GitHub Actions secret.",
+            "USER_AGENT is '%s' — OSM Nominatim will likely return 403 or empty results. "
+            "Set the USER_AGENT secret to something like 'climatewire/1.0 (you@email.com)'.",
             user_agent,
         )
 
 
+def _slug_to_text(url):
+    # type: (str) -> str
+    try:
+        path = url.split("://", 1)[-1].split("/", 1)[-1]
+        return path.replace("/", " ").replace("-", " ").replace("_", " ")
+    except Exception:
+        return ""
+
+
 def _regex_candidates(text):
     # type: (str) -> List[str]
-    raw = _PLACE_RE.findall(text)
     seen = set()
     result = []
-    for m in raw:
+    for m in _PLACE_RE.findall(text):
         m = m.strip()
         if m and m not in _SKIP_TOKENS and m not in seen:
             seen.add(m)
@@ -99,23 +80,20 @@ def _regex_candidates(text):
 
 def _extract_locations(text):
     # type: (str) -> List[str]
-    """Extract candidate place names. spaCy first, regex as fallback/supplement."""
     text = text[:SPACY_MAX_CHARS]
     candidates = []
 
     if _SPACY_AVAILABLE and _nlp:
         doc = _nlp(text)
-        spacy_locs = [ent.text.strip() for ent in doc.ents if ent.label_ in ("GPE", "LOC")]
-        # Dedup
         seen = set()
-        for loc in spacy_locs:
-            if loc and loc not in seen:
-                seen.add(loc)
-                candidates.append(loc)
-
-        # If spaCy found nothing, fall back to regex
+        for ent in doc.ents:
+            if ent.label_ in ("GPE", "LOC"):
+                loc = ent.text.strip()
+                if loc and loc not in seen:
+                    seen.add(loc)
+                    candidates.append(loc)
         if not candidates:
-            logger.debug("spaCy found no GPE/LOC — trying regex fallback")
+            logger.debug("spaCy found no GPE/LOC entities — falling back to regex")
             candidates = _regex_candidates(text)
     else:
         candidates = _regex_candidates(text)
@@ -125,59 +103,66 @@ def _extract_locations(text):
 
 def _nominatim_geocode(place, user_agent, country_codes="us", timeout=10.0):
     # type: (str, str, str, float) -> Optional[dict]
-    params = {
-        "q": place,
-        "format": "json",
-        "limit": 1,
-        "countrycodes": country_codes,
-    }
-    headers = {"User-Agent": user_agent}
-    try:
-        r = requests.get(NOMINATIM_URL, params=params, headers=headers, timeout=timeout)
-        r.raise_for_status()
-        results = r.json()
-        if results:
-            logger.debug("Nominatim: '%s' -> %s", place, results[0].get("display_name", "")[:60])
-            return results[0]
-        logger.debug("Nominatim: no result for '%s'", place)
-    except requests.exceptions.Timeout:
-        logger.debug("Nominatim timeout for '%s'", place)
-    except Exception as e:
-        logger.debug("Nominatim error for '%s': %s", place, e)
+    """
+    Query Nominatim. Tries US-scoped first; falls back to global if no result.
+    Logs HTTP errors verbosely so failures are visible in CI.
+    """
+    for scope, cc in [("US-scoped", country_codes), ("global fallback", "")]:
+        params = {"q": place, "format": "json", "limit": 1}
+        if cc:
+            params["countrycodes"] = cc
+        headers = {"User-Agent": user_agent}
+        try:
+            r = requests.get(NOMINATIM_URL, params=params, headers=headers, timeout=timeout)
+            if not r.ok:
+                logger.warning(
+                    "Nominatim HTTP %d for '%s' (%s) — body: %s",
+                    r.status_code, place, scope, r.text[:200],
+                )
+                continue
+            results = r.json()
+            if results:
+                logger.debug("Nominatim %s: '%s' -> %s", scope, place,
+                             results[0].get("display_name", "")[:60])
+                return results[0]
+            logger.debug("Nominatim %s: no result for '%s'", scope, place)
+        except requests.exceptions.Timeout:
+            logger.warning("Nominatim timeout for '%s' (%s)", place, scope)
+        except Exception as e:
+            logger.warning("Nominatim error for '%s' (%s): %s", place, scope, e)
+
+        if not cc:
+            break  # already tried global, stop
+        time.sleep(0.5)  # small pause between US and global attempt
+
     return None
 
 
 def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0):
     # type: (List[dict], str, float, float) -> List[dict]
     """
-    Geocode each article. Returns ALL articles.
-    Successfully geocoded ones get lat/lon/osm_* populated.
-    Ungeocodeable ones get null coords — they still land in the CSV.
-
-    Text sources used (in order of extraction):
-      1. title
-      2. snippet
-      3. URL slug (catches local news URLs that embed place names)
+    Geocode each article. ALL articles are returned — geocoded ones get
+    lat/lon populated, ungeocodeable ones get null coords.
     """
     if not articles:
         return []
 
     wire = articles[0].get("wire", "unknown")
     _validate_user_agent(user_agent)
+    logger.info("[%s] geocoding %d articles — user_agent='%s'",
+                wire, len(articles), user_agent[:40] if user_agent else "")
 
     geocoded_count = 0
     results = []
 
     for a in articles:
-        # Build richest possible text: title + snippet + URL slug
         title   = a.get("title", "")
         snippet = a.get("snippet", "")
         slug    = _slug_to_text(a.get("url", ""))
         text    = " ".join(filter(None, [title, snippet, slug]))
 
         candidates = _extract_locations(text)
-        logger.debug("[%s] candidates for '%s': %s",
-                     wire, title[:50], candidates[:5])
+        logger.debug("[%s] '%s' -> candidates: %s", wire, title[:50], candidates[:5])
 
         matched = False
         for place in candidates:
@@ -188,7 +173,7 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
                     lat = float(result["lat"])
                     lon = float(result["lon"])
                 except (KeyError, ValueError, TypeError) as e:
-                    logger.debug("Bad lat/lon from Nominatim for '%s': %s", place, e)
+                    logger.debug("Bad lat/lon for '%s': %s", place, e)
                     continue
 
                 row = dict(a)
@@ -204,7 +189,8 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
                 break
 
         if not matched:
-            logger.debug("[%s] no geocode for: %s", wire, title[:80])
+            logger.warning("[%s] no geocode for: %s | candidates were: %s",
+                           wire, title[:80], candidates[:5])
             row = dict(a)
             row["mention_text"] = None
             row["lat"]          = None
@@ -215,7 +201,7 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
             results.append(row)
 
     logger.info(
-        "[%s] geocoding complete: %d/%d geocoded, %d null coords",
+        "[%s] geocoding done: %d/%d geocoded, %d null coords",
         wire, geocoded_count, len(articles), len(articles) - geocoded_count,
     )
     return results
