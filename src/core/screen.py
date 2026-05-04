@@ -13,7 +13,7 @@ from typing import List, Optional
 logger = logging.getLogger(__name__)
 
 OLLAMA_API_URL = "https://api.ollama.com/api/chat"
-DEFAULT_MODEL = "gpt-oss:120b"
+DEFAULT_MODEL = "gpt-oss:20b"
 
 
 def _call_ollama(

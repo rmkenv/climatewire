@@ -33,17 +33,24 @@ def _load_existing_ids(csv_path: Path) -> set:
 
 
 def _rows_to_features(rows: List[dict]) -> List[dict]:
-    """Convert flat dicts to GeoJSON Feature objects."""
+    """Convert flat dicts to GeoJSON Feature objects.
+
+    Rows with null lat/lon are included as null-geometry features so they
+    appear in GeoJSON tooling (QGIS, Tippecanoe, etc.) without crashing it.
+    They are clearly marked with geocoded=False in properties.
+    """
     features = []
     for r in rows:
         lat = r.get("lat")
         lon = r.get("lon")
-        if lat is None or lon is None:
-            continue
         props = {k: v for k, v in r.items() if k not in ("lat", "lon")}
+        if lat is not None and lon is not None:
+            geometry = {"type": "Point", "coordinates": [lon, lat]}
+        else:
+            geometry = None  # valid GeoJSON null geometry
         features.append({
             "type": "Feature",
-            "geometry": {"type": "Point", "coordinates": [lon, lat]},
+            "geometry": geometry,
             "properties": props,
         })
     return features

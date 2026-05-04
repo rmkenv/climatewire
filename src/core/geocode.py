@@ -3,6 +3,15 @@ core/geocode.py — spaCy NER + OSM Nominatim geocoder.
 Ported from floodwire2/src/geocode_floods.py, generalised for any wire.
 
 Compatible with Python 3.9+ (no X | Y union type hints).
+
+PATCH NOTES
+-----------
+- Articles that cannot be geocoded are NO LONGER silently dropped.
+  They are kept with lat=None, lon=None so the CSV always has rows
+  and the cause of missing data is visible in logs, not invisible.
+- USER_AGENT validation: logs a hard warning if blank so the operator
+  knows immediately why Nominatim is returning 0 results.
+- Geocode hit/miss summary logged at INFO level every run.
 """
 
 import re
@@ -39,6 +48,18 @@ _SKIP_TOKENS = {
 }
 
 SPACY_MAX_CHARS = 100_000  # safe cap for spaCy processing
+
+
+def _validate_user_agent(user_agent: str) -> None:
+    """Warn loudly if user_agent is blank — Nominatim will block the requests."""
+    if not user_agent or user_agent.strip() in ("", "climatewire/1.0", "yourname@example.com"):
+        logger.warning(
+            "USER_AGENT is blank or placeholder ('%s'). "
+            "OSM Nominatim requires a meaningful User-Agent (e.g. 'climatewire/1.0 (you@email.com)'). "
+            "Set the USER_AGENT GitHub Actions secret or Nominatim will return 0 results "
+            "and ALL articles will be written with null coordinates.",
+            user_agent,
+        )
 
 
 def _extract_locations(text: str) -> List[str]:
@@ -81,7 +102,7 @@ def _nominatim_geocode(
         r.raise_for_status()
         results = r.json()
         if results:
-            logger.debug("Nominatim: '%s' → %s", place, results[0].get("display_name", "")[:60])
+            logger.debug("Nominatim: '%s' -> %s", place, results[0].get("display_name", "")[:60])
             return results[0]
         logger.debug("Nominatim: no result for '%s'", place)
     except requests.exceptions.Timeout:
@@ -98,15 +119,21 @@ def geocode_articles(
     timeout_sec: float = 10.0,
 ) -> List[dict]:
     """
-    Geocode each article. Returns one row per article that could be geocoded.
-    Articles with no geocodeable location are dropped.
-    Only the first successfully geocoded location per article is kept.
+    Geocode each article. Returns ALL articles — those successfully geocoded
+    get lat/lon/osm_* fields populated; those that fail get null values.
+
+    Previously this function silently dropped ungeocodeable articles, causing
+    the CSV to be empty whenever Nominatim was unreachable or USER_AGENT was
+    blank. Now every article that passes screening makes it to the CSV.
     """
     if not articles:
         return []
 
     wire = articles[0].get("wire", "unknown")
-    geocoded = []
+    _validate_user_agent(user_agent)
+
+    geocoded_count = 0
+    results = []
 
     for a in articles:
         text = "{} {}".format(a.get("title", ""), a.get("snippet", ""))
@@ -132,12 +159,26 @@ def geocode_articles(
                 row["lon"]          = lon
                 row["osm_display"]  = result.get("display_name", "")
                 row["osm_type"]     = result.get("type", "")
-                geocoded.append(row)
+                row["geocoded"]     = True
+                results.append(row)
+                geocoded_count += 1
                 matched = True
                 break  # keep only first match per article
 
         if not matched:
             logger.debug("[%s] no geocode for: %s", wire, a.get("title", "")[:80])
+            # Keep the article with null coords so it still lands in the CSV
+            row = dict(a)
+            row["mention_text"] = None
+            row["lat"]          = None
+            row["lon"]          = None
+            row["osm_display"]  = None
+            row["osm_type"]     = None
+            row["geocoded"]     = False
+            results.append(row)
 
-    logger.info("[%s] geocoded %d / %d articles", wire, len(geocoded), len(articles))
-    return geocoded
+    logger.info(
+        "[%s] geocoding complete: %d/%d articles geocoded, %d written with null coords",
+        wire, geocoded_count, len(articles), len(articles) - geocoded_count,
+    )
+    return results

@@ -6,6 +6,7 @@ import logging
 import os
 import sys
 from pathlib import Path
+from typing import Optional, Union
 
 try:
     import yaml
@@ -13,7 +14,7 @@ except ImportError:
     yaml = None
 
 
-def load_config(config_path: str | Path | None = None) -> dict:
+def load_config(config_path = None  # type: Optional[Union[str, Path]]) -> dict:
     """
     Load config.yaml. Falls back to environment variables for secrets.
     Returns a flat dict with all keys.
@@ -52,7 +53,7 @@ def get(cfg: dict, *keys, default=None):
     return node
 
 
-def setup_logging(level: str = "INFO", log_file: str | None = None) -> None:
+def setup_logging(level: str = "INFO", log_file = None  # type: Optional[str]) -> None:
     handlers = [logging.StreamHandler(sys.stdout)]
     if log_file:
         handlers.append(logging.FileHandler(log_file))
