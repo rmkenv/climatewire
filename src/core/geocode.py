@@ -211,9 +211,7 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
         slug    = _slug_to_text(a.get("url", ""))
         text    = " ".join(filter(None, [title, snippet, slug]))
 
-        # outlet_region: not present in climatewire articles natively,
-        # but we can infer US state from the wire type as a weak signal
-        outlet_region = None  # extend here if you add outlet parsing
+        outlet_region = a.get("outlet_region") or None
 
         candidates = _extract_locations(text, outlet_region=outlet_region)
 
