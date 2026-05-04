@@ -14,12 +14,13 @@ except ImportError:
     yaml = None
 
 
-def load_config(config_path = None  # type: Optional[Union[str, Path]]) -> dict:
+def load_config(config_path=None, **_):
+    # type: (Optional[Union[str, Path]]) -> dict
     """
     Load config.yaml. Falls back to environment variables for secrets.
     Returns a flat dict with all keys.
     """
-    cfg: dict = {}
+    cfg = {}  # type: dict
 
     # Try YAML first
     paths_to_try = [config_path, "config.yaml", "config.yml"] if config_path else ["config.yaml", "config.yml"]
@@ -31,9 +32,9 @@ def load_config(config_path = None  # type: Optional[Union[str, Path]]) -> dict:
 
     # Layer in environment variables (GitHub Actions secrets)
     env_map = {
-        "SERPAPI_KEY": ("api", "serpapi_key"),
+        "SERPAPI_KEY":    ("api", "serpapi_key"),
         "OLLAMA_API_KEY": ("api", "ollama_api_key"),
-        "USER_AGENT": ("api", "user_agent"),
+        "USER_AGENT":     ("api", "user_agent"),
     }
     for env_var, (section, key) in env_map.items():
         val = os.environ.get(env_var)
@@ -43,8 +44,10 @@ def load_config(config_path = None  # type: Optional[Union[str, Path]]) -> dict:
     return cfg
 
 
-def get(cfg: dict, *keys, default=None):
+def get(cfg, *keys, **kwargs):
+    # type: (dict, ...) -> object
     """Safe nested dict getter: get(cfg, 'api', 'serpapi_key')"""
+    default = kwargs.get("default", None)
     node = cfg
     for k in keys:
         if not isinstance(node, dict):
@@ -53,7 +56,8 @@ def get(cfg: dict, *keys, default=None):
     return node
 
 
-def setup_logging(level: str = "INFO", log_file = None  # type: Optional[str]) -> None:
+def setup_logging(level="INFO", log_file=None):
+    # type: (str, Optional[str]) -> None
     handlers = [logging.StreamHandler(sys.stdout)]
     if log_file:
         handlers.append(logging.FileHandler(log_file))
