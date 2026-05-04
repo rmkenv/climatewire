@@ -7,9 +7,9 @@ drought/main.py — Drought Wire orchestrator.
 import argparse
 import logging
 import sys
-from pathlib import Path
+import os
 
-sys.path.insert(0, str(Path(__file__).parents))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 
 from core import extract, screen, geocode, load, utils
 from drought.sensor_join import join_sensor
