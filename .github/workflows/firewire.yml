@@ -2,7 +2,7 @@ name: Firewire — Wildfire ETL
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # 04:00 ET daily (NASA FIRMS updates ~03:00 ET)
+    - cron: "0 8 * * *"
   workflow_dispatch:
     inputs:
       test_mode:
@@ -50,9 +50,9 @@ jobs:
           FLAGS=""
           [ "${{ github.event.inputs.test_mode }}"      = "true" ] && FLAGS="$FLAGS --test"
           [ "${{ github.event.inputs.skip_screening }}" = "true" ] && FLAGS="$FLAGS --no-screen"
-          [ "${{ github.event.inputs.debug }}" = "true" ] && FLAGS="$FLAGS --debug"
-          [ -n "${{ github.event.inputs.lookback }}" ] && FLAGS="$FLAGS --lookback ${{ github.event.inputs.lookback }}"
-          python src/fire/main.py $FLAGS
+          [ "${{ github.event.inputs.debug }}"          = "true" ] && FLAGS="$FLAGS --debug"
+          [ -n "${{ github.event.inputs.lookback }}" ]             && FLAGS="$FLAGS --lookback ${{ github.event.inputs.lookback }}"
+          PYTHONPATH=${GITHUB_WORKSPACE}/src python src/fire/main.py $FLAGS
 
       - name: Commit updated data files
         if: ${{ github.event.inputs.test_mode != 'true' }}
