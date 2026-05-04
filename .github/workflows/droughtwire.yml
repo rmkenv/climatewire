@@ -41,6 +41,21 @@ jobs:
           pip install -r requirements.txt
           python -m spacy download en_core_web_sm
 
+      - name: Validate secrets
+        run: |
+          if [ -z "${{ secrets.SERPAPI_KEY }}" ]; then
+            echo "::error::SERPAPI_KEY secret is not set — pipeline will abort"
+            exit 1
+          fi
+          if [ -z "${{ secrets.USER_AGENT }}" ]; then
+            echo "::warning::USER_AGENT secret is not set — Nominatim geocoding will fail (articles will have null coordinates)"
+          else
+            echo "USER_AGENT is set"
+          fi
+          if [ -z "${{ secrets.OLLAMA_API_KEY }}" ]; then
+            echo "::warning::OLLAMA_API_KEY not set — LLM screening will be skipped"
+          fi
+
       - name: Run droughtwire
         env:
           SERPAPI_KEY:    ${{ secrets.SERPAPI_KEY }}
