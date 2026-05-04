@@ -1,17 +1,18 @@
 """
 core/geocode.py — spaCy NER + OSM Nominatim geocoder.
-Ported from floodwire2/src/geocode_floods.py, generalised for any wire.
 
 Compatible with Python 3.9+ (no X | Y union type hints).
 
 PATCH NOTES
 -----------
-- Articles that cannot be geocoded are NO LONGER silently dropped.
-  They are kept with lat=None, lon=None so the CSV always has rows
-  and the cause of missing data is visible in logs, not invisible.
-- USER_AGENT validation: logs a hard warning if blank so the operator
-  knows immediately why Nominatim is returning 0 results.
-- Geocode hit/miss summary logged at INFO level every run.
+v2:
+- Text fed to location extractor now includes title + snippet + URL slug,
+  since local news snippets are often empty but URLs contain place names.
+- spaCy NER is now followed by regex as a second-pass fallback when NER
+  returns zero candidates (e.g. short titles with no clear GPE).
+- Articles that cannot be geocoded are kept with null coords (not dropped).
+- USER_AGENT validation warns loudly if blank.
+- Geocode hit/miss summary logged at INFO level.
 """
 
 import re
@@ -22,7 +23,6 @@ from typing import List, Optional
 
 logger = logging.getLogger(__name__)
 
-# Try to load spaCy; fall back to regex-only if not installed
 try:
     import spacy
     _nlp = spacy.load("en_core_web_sm")
@@ -35,10 +35,8 @@ except Exception:
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 
-# Regex fallback: grab capitalised place-like tokens
 _PLACE_RE = re.compile(r"\b([A-Z][a-z]+(?: [A-Z][a-z]+)*(?:,\s*[A-Z]{2})?)\b")
 
-# Tokens to skip even if capitalised
 _SKIP_TOKENS = {
     "I", "A", "The", "In", "At", "On", "To", "Of", "And", "Or", "For",
     "By", "As", "An", "Is", "It", "Be", "We", "He", "She", "They",
@@ -47,49 +45,86 @@ _SKIP_TOKENS = {
     "July", "August", "September", "October", "November", "December",
 }
 
-SPACY_MAX_CHARS = 100_000  # safe cap for spaCy processing
+SPACY_MAX_CHARS = 100_000
+
+# US state names and abbreviations for slug parsing
+_US_STATES = {
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
+    "maine", "maryland", "massachusetts", "michigan", "minnesota",
+    "mississippi", "missouri", "montana", "nebraska", "nevada",
+    "new-hampshire", "new-jersey", "new-mexico", "new-york",
+    "north-carolina", "north-dakota", "ohio", "oklahoma", "oregon",
+    "pennsylvania", "rhode-island", "south-carolina", "south-dakota",
+    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
+    "west-virginia", "wisconsin", "wyoming",
+}
 
 
-def _validate_user_agent(user_agent: str) -> None:
-    """Warn loudly if user_agent is blank — Nominatim will block the requests."""
+def _slug_to_text(url):
+    # type: (str) -> str
+    """Extract human-readable words from a URL path slug."""
+    try:
+        path = url.split("://", 1)[-1].split("/", 1)[-1]  # strip scheme+domain
+        slug = path.replace("/", " ").replace("-", " ").replace("_", " ")
+        return slug
+    except Exception:
+        return ""
+
+
+def _validate_user_agent(user_agent):
+    # type: (str) -> None
     if not user_agent or user_agent.strip() in ("", "climatewire/1.0", "yourname@example.com"):
         logger.warning(
             "USER_AGENT is blank or placeholder ('%s'). "
-            "OSM Nominatim requires a meaningful User-Agent (e.g. 'climatewire/1.0 (you@email.com)'). "
-            "Set the USER_AGENT GitHub Actions secret or Nominatim will return 0 results "
-            "and ALL articles will be written with null coordinates.",
+            "OSM Nominatim requires a meaningful User-Agent. "
+            "Set the USER_AGENT GitHub Actions secret.",
             user_agent,
         )
 
 
-def _extract_locations(text: str) -> List[str]:
-    """Extract candidate place names from text via spaCy GPE/LOC or regex."""
-    text = text[:SPACY_MAX_CHARS]
-    if _SPACY_AVAILABLE and _nlp:
-        doc = _nlp(text)
-        locs = [ent.text.strip() for ent in doc.ents if ent.label_ in ("GPE", "LOC")]
-    else:
-        raw_matches = _PLACE_RE.findall(text)
-        locs = [m for m in raw_matches if m not in _SKIP_TOKENS]
-
-    # Dedup preserving order, filter empty
+def _regex_candidates(text):
+    # type: (str) -> List[str]
+    raw = _PLACE_RE.findall(text)
     seen = set()
     result = []
-    for loc in locs:
-        loc = loc.strip()
-        if loc and loc not in seen:
-            seen.add(loc)
-            result.append(loc)
+    for m in raw:
+        m = m.strip()
+        if m and m not in _SKIP_TOKENS and m not in seen:
+            seen.add(m)
+            result.append(m)
     return result
 
 
-def _nominatim_geocode(
-    place: str,
-    user_agent: str,
-    country_codes: str = "us",
-    timeout: float = 10.0,
-) -> Optional[dict]:
-    """Query OSM Nominatim and return first result or None."""
+def _extract_locations(text):
+    # type: (str) -> List[str]
+    """Extract candidate place names. spaCy first, regex as fallback/supplement."""
+    text = text[:SPACY_MAX_CHARS]
+    candidates = []
+
+    if _SPACY_AVAILABLE and _nlp:
+        doc = _nlp(text)
+        spacy_locs = [ent.text.strip() for ent in doc.ents if ent.label_ in ("GPE", "LOC")]
+        # Dedup
+        seen = set()
+        for loc in spacy_locs:
+            if loc and loc not in seen:
+                seen.add(loc)
+                candidates.append(loc)
+
+        # If spaCy found nothing, fall back to regex
+        if not candidates:
+            logger.debug("spaCy found no GPE/LOC — trying regex fallback")
+            candidates = _regex_candidates(text)
+    else:
+        candidates = _regex_candidates(text)
+
+    return candidates
+
+
+def _nominatim_geocode(place, user_agent, country_codes="us", timeout=10.0):
+    # type: (str, str, str, float) -> Optional[dict]
     params = {
         "q": place,
         "format": "json",
@@ -112,19 +147,17 @@ def _nominatim_geocode(
     return None
 
 
-def geocode_articles(
-    articles: List[dict],
-    user_agent: str,
-    rate_limit_sec: float = 1.0,
-    timeout_sec: float = 10.0,
-) -> List[dict]:
+def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0):
+    # type: (List[dict], str, float, float) -> List[dict]
     """
-    Geocode each article. Returns ALL articles — those successfully geocoded
-    get lat/lon/osm_* fields populated; those that fail get null values.
+    Geocode each article. Returns ALL articles.
+    Successfully geocoded ones get lat/lon/osm_* populated.
+    Ungeocodeable ones get null coords — they still land in the CSV.
 
-    Previously this function silently dropped ungeocodeable articles, causing
-    the CSV to be empty whenever Nominatim was unreachable or USER_AGENT was
-    blank. Now every article that passes screening makes it to the CSV.
+    Text sources used (in order of extraction):
+      1. title
+      2. snippet
+      3. URL slug (catches local news URLs that embed place names)
     """
     if not articles:
         return []
@@ -136,10 +169,15 @@ def geocode_articles(
     results = []
 
     for a in articles:
-        text = "{} {}".format(a.get("title", ""), a.get("snippet", ""))
+        # Build richest possible text: title + snippet + URL slug
+        title   = a.get("title", "")
+        snippet = a.get("snippet", "")
+        slug    = _slug_to_text(a.get("url", ""))
+        text    = " ".join(filter(None, [title, snippet, slug]))
+
         candidates = _extract_locations(text)
         logger.debug("[%s] candidates for '%s': %s",
-                     wire, a.get("title", "")[:50], candidates[:5])
+                     wire, title[:50], candidates[:5])
 
         matched = False
         for place in candidates:
@@ -163,11 +201,10 @@ def geocode_articles(
                 results.append(row)
                 geocoded_count += 1
                 matched = True
-                break  # keep only first match per article
+                break
 
         if not matched:
-            logger.debug("[%s] no geocode for: %s", wire, a.get("title", "")[:80])
-            # Keep the article with null coords so it still lands in the CSV
+            logger.debug("[%s] no geocode for: %s", wire, title[:80])
             row = dict(a)
             row["mention_text"] = None
             row["lat"]          = None
@@ -178,7 +215,7 @@ def geocode_articles(
             results.append(row)
 
     logger.info(
-        "[%s] geocoding complete: %d/%d articles geocoded, %d written with null coords",
+        "[%s] geocoding complete: %d/%d geocoded, %d null coords",
         wire, geocoded_count, len(articles), len(articles) - geocoded_count,
     )
     return results
