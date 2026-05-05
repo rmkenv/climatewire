@@ -1,1 +1,1064 @@
-{"type":"FeatureCollection","features":[],"metadata":{"wire":"heat","last_updated":null,"total_features":0}}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945007,
+          33.856892
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.southcarolinapublicradio.org/sc-news/2026-04-15/heat-dome-to-send-temperatures-into-record-territory-across-south-carolina",
+        "title": "Heat dome to send temperatures into record territory across South Carolina",
+        "snippet": "",
+        "url": "https://www.southcarolinapublicradio.org/sc-news/2026-04-15/heat-dome-to-send-temperatures-into-record-territory-across-south-carolina",
+        "source": "South Carolina Public Radio",
+        "published_at": "04/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "South Carolina",
+        "mention_text": "South Carolina",
+        "osm_display": "South Carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 67.8,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 8.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 57.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.worldweatherattribution.org/record-shattering-march-temperatures-in-western-north-america-virtually-impossible-without-climate-change/",
+        "title": "Record-shattering March temperatures in Western North America virtually impossible without climate change",
+        "snippet": "",
+        "url": "https://www.worldweatherattribution.org/record-shattering-march-temperatures-in-western-north-america-virtually-impossible-without-climate-change/",
+        "source": "World Weather Attribution",
+        "published_at": "03/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Western North America",
+        "osm_display": "Western North America, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 20.3,
+        "sensor_rh_pct": 94,
+        "sensor_wind_mph": 23.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 10.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.desertsun.com/story/weather/2026/03/24/california-heat-dome-eases-east-but-aboveaverage-temps-linger-into-april/89307979007/",
+        "title": "California's heat dome moves east, records broken, relief in sight",
+        "snippet": "",
+        "url": "https://www.desertsun.com/story/weather/2026/03/24/california-heat-dome-eases-east-but-aboveaverage-temps-linger-into-april/89307979007/",
+        "source": "The Desert Sun",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 57.7,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 7.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/03/12/record-heat-west-drought-california-utah-arizona/",
+        "title": "A record heat dome is about to hit the West \u2014 in March",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/03/12/record-heat-west-drought-california-utah-arizona/",
+        "source": "The Washington Post",
+        "published_at": "03/12/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 57.7,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 7.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/record-heat-climate-warming-arizona-california-11dcebf8ba88cfcd3fd9bc1144a5df10",
+        "title": "Record-smashing heat spreads: \u2018Basically the entire US is going to be hot\u2019",
+        "snippet": "",
+        "url": "https://apnews.com/article/record-heat-climate-warming-arizona-california-11dcebf8ba88cfcd3fd9bc1144a5df10",
+        "source": "AP News",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "arizona",
+        "osm_display": "arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 49.8,
+        "sensor_rh_pct": 51,
+        "sensor_wind_mph": 3.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 42.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://mavensnotebook.com/2026/03/15/daily-digest-weekend-edition-us-forecasts-blizzard-polar-vortex-heat-dome-and-atmospheric-river-all-at-once-caballero-bond-to-pay-for-updates-for-states-water-2026-ocean-salmon-season/",
+        "title": "DAILY DIGEST, weekend edition: US forecasts blizzard, polar vortex, heat dome and atmospheric river all at once; Caballero: Bond to pay for updates for state\u2019s water; 2026 ocean salmon season set to open April 11; Los Angeles area under its earliest ever ex",
+        "snippet": "",
+        "url": "https://mavensnotebook.com/2026/03/15/daily-digest-weekend-edition-us-forecasts-blizzard-polar-vortex-heat-dome-and-atmospheric-river-all-at-once-caballero-bond-to-pay-for-updates-for-states-water-2026-ocean-salmon-season/",
+        "source": "Maven's Notebook",
+        "published_at": "03/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles",
+        "osm_display": "Los Angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 55.6,
+        "sensor_rh_pct": 84,
+        "sensor_wind_mph": 4.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 51.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/story/weather/2026/03/25/nevadas-record-breaking-march-heat-to-cool-down-as-heat-dome-shifts/89317746007/",
+        "title": "Nevada saw record-breaking heat last week. Now cooler temps are ahead",
+        "snippet": "",
+        "url": "https://www.rgj.com/story/weather/2026/03/25/nevadas-record-breaking-march-heat-to-cool-down-as-heat-dome-shifts/89317746007/",
+        "source": "Reno Gazette Journal",
+        "published_at": "03/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 26.1,
+        "sensor_rh_pct": 96,
+        "sensor_wind_mph": 9.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 21.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tennessean.com/story/weather/2026/03/30/tennessee-heat-dome-2026-spring-forecasters-outlook/89315611007/",
+        "title": "2026 spring forecast points to warmer temperatures. Will Tennessee see a heat dome?",
+        "snippet": "",
+        "url": "https://www.tennessean.com/story/weather/2026/03/30/tennessee-heat-dome-2026-spring-forecasters-outlook/89315611007/",
+        "source": "The Tennessean",
+        "published_at": "03/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Tennessee",
+        "osm_display": "Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 66.4,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 14.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 55.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.369804,
+          29.760427
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonchronicle.com/news/houston-weather/forecast/article/houston-weather-heat-linked-to-larger-us-pattern-22085220.php",
+        "title": "Hot Houston weekend has ties to unusual heat dome crossing the nation",
+        "snippet": "",
+        "url": "https://www.houstonchronicle.com/news/houston-weather/forecast/article/houston-weather-heat-linked-to-larger-us-pattern-22085220.php",
+        "source": "Houston Chronicle",
+        "published_at": "03/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Houston",
+        "osm_display": "Houston, Texas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 73.9,
+        "sensor_rh_pct": 91,
+        "sensor_wind_mph": 7.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2025/07/21/weather/heat-dome-midwest-south-east-climate",
+        "title": "US heat dome: Extreme heat is back \u2014 here\u2019s where it will be the worst",
+        "snippet": "",
+        "url": "https://www.cnn.com/2025/07/21/weather/heat-dome-midwest-south-east-climate",
+        "source": "CNN",
+        "published_at": "07/21/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest south east",
+        "osm_display": "midwest south east",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 52.7,
+        "sensor_rh_pct": 31,
+        "sensor_wind_mph": 6.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 41.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/summerlike-heat-dome-to-send-southwest-temperatures-soaring-past-100-f/1872946",
+        "title": "Summerlike heat dome to send Southwest temperatures soaring past 100 F",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/summerlike-heat-dome-to-send-southwest-temperatures-soaring-past-100-f/1872946",
+        "source": "AccuWeather",
+        "published_at": "03/13/2026, 05:07 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwest",
+        "osm_display": "Southwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 44.6,
+        "sensor_rh_pct": 62,
+        "sensor_wind_mph": 7.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 37.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.indystar.com/story/weather/indianapolis/2026/03/22/is-indiana-in-a-heat-dome-what-is-indiana-spring-forecast-national-weather-service/89263639007/",
+        "title": "Will Indiana see a heat dome? What to know on spring forecast",
+        "snippet": "",
+        "url": "https://www.indystar.com/story/weather/indianapolis/2026/03/22/is-indiana-in-a-heat-dome-what-is-indiana-spring-forecast-national-weather-service/89263639007/",
+        "source": "IndyStar",
+        "published_at": "03/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Indiana",
+        "mention_text": "indiana",
+        "osm_display": "indiana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 50.2,
+        "sensor_rh_pct": 93,
+        "sensor_wind_mph": 7.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 46.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676483,
+          45.523064
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/weather/rare-march-heat-dome-builds-in-the-west-what-does-it-means-for-portland/",
+        "title": "Rare March heat dome builds in the West. What does it mean for Portland?",
+        "snippet": "",
+        "url": "https://www.koin.com/weather/rare-march-heat-dome-builds-in-the-west-what-does-it-means-for-portland/",
+        "source": "KOIN.com",
+        "published_at": "03/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Portland",
+        "osm_display": "Portland",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 60.1,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 3.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 55.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.369804,
+          29.760427
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.click2houston.com/weather/2026/03/19/houston-get-ready-for-some-early-summer-sizzle-as-a-heat-dome-will-dominate-our-weather-pattern/",
+        "title": "Houston! Get ready for some early summer sizzle as a heat dome will dominate our weather pattern",
+        "snippet": "",
+        "url": "https://www.click2houston.com/weather/2026/03/19/houston-get-ready-for-some-early-summer-sizzle-as-a-heat-dome-will-dominate-our-weather-pattern/",
+        "source": "Click2Houston",
+        "published_at": "03/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Houston",
+        "osm_display": "Houston",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 73.9,
+        "sensor_rh_pct": 91,
+        "sensor_wind_mph": 7.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/weather/article/california-heat-wave-science-22079635.php",
+        "title": "It\u2019s still winter. So why is California facing 100-degree heat?",
+        "snippet": "",
+        "url": "https://www.sfchronicle.com/weather/article/california-heat-wave-science-22079635.php",
+        "source": "San Francisco Chronicle",
+        "published_at": "03/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "California",
+        "osm_display": "California, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 57.7,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 7.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/news/heat-dome-map-2025-south-midwest-forecast/",
+        "title": "Heat dome map shows dangerous temperatures across U.S. Corn Belt, parts of the South",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/news/heat-dome-map-2025-south-midwest-forecast/",
+        "source": "CBS News",
+        "published_at": "07/21/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "south midwest",
+        "osm_display": "south midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/forecast/regional/news/2025-07-18-heat-dome-heat-wave-forecast-south-midwest-july",
+        "title": "Heat Dome Baking South, Midwest Is Now Spreading To Northeast",
+        "snippet": "",
+        "url": "https://weather.com/forecast/regional/news/2025-07-18-heat-dome-heat-wave-forecast-south-midwest-july",
+        "source": "The Weather Channel",
+        "published_at": "07/24/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/forecast/regional/news/2025-06-23-heat-dome-heat-wave-forecast-northeast-midwest",
+        "title": "Heat Wave For Northeast, Midwest To Ease For Some",
+        "snippet": "",
+        "url": "https://weather.com/forecast/regional/news/2025-06-23-heat-dome-heat-wave-forecast-northeast-midwest",
+        "source": "The Weather Channel",
+        "published_at": "06/25/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945007,
+          33.856892
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/state/south-carolina/article315157627.html",
+        "title": "Is dreaded heat dome headed to SC? Here\u2019s the latest spring weather forecast",
+        "snippet": "",
+        "url": "https://www.thestate.com/news/state/south-carolina/article315157627.html",
+        "source": "The State",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "south carolina",
+        "osm_display": "south carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/forecast/regional/news/2026-03-23-march-record-heat-wave-southwest-plains-california-arizona-0",
+        "title": "Historic March Heat Wave Smashed US And Monthly Records In Over 180 Cities, From California To The East",
+        "snippet": "",
+        "url": "https://weather.com/forecast/regional/news/2026-03-23-march-record-heat-wave-southwest-plains-california-arizona-0",
+        "source": "The Weather Channel",
+        "published_at": "03/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/forecast/article/heat-dome-south-texas-temperatures-thursday-22083268.php",
+        "title": "Rain-killing heat dome out west is headed for Texas. Here's what to expect this weekend.",
+        "snippet": "",
+        "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/heat-dome-south-texas-temperatures-thursday-22083268.php",
+        "source": "San Antonio Express-News",
+        "published_at": "03/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/03/18/record-heat-wave-west-california-arizona/",
+        "title": "It\u2019s so hot in the West that temperatures may even break April records soon",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/03/18/record-heat-wave-west-california-arizona/",
+        "source": "The Washington Post",
+        "published_at": "03/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "west california",
+        "osm_display": "west california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074036,
+          33.448376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-environment/2026/03/18/heat-dome-will-push-phoenix-temperatures-past-100-degrees/89202023007/",
+        "title": "Where did the Phoenix heat wave come from and when will it end?",
+        "snippet": "",
+        "url": "https://www.azcentral.com/story/news/local/arizona-environment/2026/03/18/heat-dome-will-push-phoenix-temperatures-past-100-degrees/89202023007/",
+        "source": "The Arizona Republic",
+        "published_at": "03/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "Phoenix",
+        "osm_display": "Phoenix",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945007,
+          33.856892
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenvilleonline.com/story/weather/2026/03/24/south-carolina-spring-2026-outlook-above-average-temps-is-it-heat-dome/89298099007/",
+        "title": "What\u2019s driving the spring sizzle in SC? Latest 2026 spring outlook",
+        "snippet": "",
+        "url": "https://www.greenvilleonline.com/story/weather/2026/03/24/south-carolina-spring-2026-outlook-above-average-temps-is-it-heat-dome/89298099007/",
+        "source": "Greenville Online",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "south carolina",
+        "osm_display": "south carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 67.8,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 8.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 57.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/03/16/heat-dome-weather-oregon-forecast-first-look/",
+        "title": "OPB\u2019s First Look: Goodbye, flood watch. Hello, heat dome?",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/03/16/heat-dome-weather-oregon-forecast-first-look/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "03/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 50.4,
+        "sensor_rh_pct": 86,
+        "sensor_wind_mph": 3.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 47.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/u-s-weather-forecast-update-heatwave-alert-heat-dome-in-14-states-as-temperature-boils-in-california-arizona-nevada-kansas-other-areas/articleshow/129765157.cms",
+        "title": "U.S. weather forecast update heatwave alert: Heat dome in 14 states as temperature boils in California, Ar",
+        "snippet": "",
+        "url": "https://m.economictimes.com/news/international/us/u-s-weather-forecast-update-heatwave-alert-heat-dome-in-14-states-as-temperature-boils-in-california-arizona-nevada-kansas-other-areas/articleshow/129765157.cms",
+        "source": "The Economic Times",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "California",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 57.7,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 7.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gpb.org/news/2025/06/23/georgia-will-experience-heat-dome-week-heres-what-means-and-how-you-can-prepare",
+        "title": "Georgia will experience a heat dome this week. Here's what that means and how you can prepare",
+        "snippet": "",
+        "url": "https://www.gpb.org/news/2025/06/23/georgia-will-experience-heat-dome-week-heres-what-means-and-how-you-can-prepare",
+        "source": "Georgia Public Broadcasting",
+        "published_at": "06/23/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 66.9,
+        "sensor_rh_pct": 43,
+        "sensor_wind_mph": 5.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 55.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.macon.com/news/state/georgia/article315154763.html",
+        "title": "Is dreaded heat dome headed to GA? Here\u2019s the latest spring weather forecast",
+        "snippet": "",
+        "url": "https://www.macon.com/news/state/georgia/article315154763.html",
+        "source": "Macon Telegraph",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": null,
+        "mention_text": "georgia",
+        "osm_display": "georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 66.9,
+        "sensor_rh_pct": 43,
+        "sensor_wind_mph": 5.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 55.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507141,
+          39.318523
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.delawareonline.com/story/news/2025/07/21/heat-dome-hitting-delaware-national-weather-service/85306472007/",
+        "title": "Is a heat dome coming to Delaware? Here's what we know about potential extreme heat",
+        "snippet": "",
+        "url": "https://www.delawareonline.com/story/news/2025/07/21/heat-dome-hitting-delaware-national-weather-service/85306472007/",
+        "source": "Delawareonline.com",
+        "published_at": "07/21/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Delaware",
+        "mention_text": "Delaware",
+        "osm_display": "Delaware",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 68.2,
+        "sensor_rh_pct": 49,
+        "sensor_wind_mph": 14.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 54.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.10tv.com/article/weather/weather-blog/extreme-heat-ohio-high-temperatures/530-2b284d7e-24e0-4b86-9591-8de019e3a623",
+        "title": "NWS issues Heat Advisories for Ohio as summer kicks off with temps soaring to 90s",
+        "snippet": "",
+        "url": "https://www.10tv.com/article/weather/weather-blog/extreme-heat-ohio-high-temperatures/530-2b284d7e-24e0-4b86-9591-8de019e3a623",
+        "source": "10TV",
+        "published_at": "06/20/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 55.6,
+        "sensor_rh_pct": 97,
+        "sensor_wind_mph": 4.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 53.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.inkfreenews.com/2026/03/26/will-indiana-see-heat-dome-what-to-know-on-spring-forecast/",
+        "title": "Will Indiana See Heat Dome? What To Know On Spring Forecast",
+        "snippet": "",
+        "url": "https://www.inkfreenews.com/2026/03/26/will-indiana-see-heat-dome-what-to-know-on-spring-forecast/",
+        "source": "InkFreeNews.com",
+        "published_at": "03/26/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-05T11:56:21.750143+00:00",
+        "outlet_region": "Indiana",
+        "mention_text": "indiana",
+        "osm_display": "indiana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-05T23:00",
+        "sensor_temp_f": 50.2,
+        "sensor_rh_pct": 93,
+        "sensor_wind_mph": 7.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 46.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-05T12:07:52.006734+00:00"
+      }
+    }
+  ],
+  "metadata": {
+    "wire": "heat",
+    "last_updated": "2026-05-05T12:07:52.007256+00:00",
+    "total_features": 31
+  }
+}
