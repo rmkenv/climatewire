@@ -92,16 +92,27 @@ def _regex_candidates(text):
     return result
 
 
-def _extract_locations(text, outlet_region=None):
-    # type: (str, Optional[str]) -> List[Tuple[str, str]]
+def _extract_locations(text, outlet_region=None, text_for_regex=None):
+    # type: (str, Optional[str], Optional[str]) -> List[Tuple[str, str]]
     """
     Returns list of (mention_text, osm_query_string).
     osm_query appends outlet_region for better Nominatim hit rate,
     matching floodwire's approach.
+    text_for_regex is used for the regex pass (title+snippet only, no slug).
     """
     text = text[:SPACY_MAX_CHARS]
+    re_text = (text_for_regex or text)[:SPACY_MAX_CHARS]
     candidates = []
     seen_queries = set()
+
+    def _build_query(mention, region):
+        # type: (str, Optional[str]) -> str
+        # Don't append region if the mention already contains it
+        if not region:
+            return mention
+        if region.lower() in mention.lower():
+            return mention
+        return "{}, {}".format(mention, region)
 
     def add(mention, query):
         key = query.lower().strip()
@@ -116,18 +127,15 @@ def _extract_locations(text, outlet_region=None):
                 mention = ent.text.strip()
                 if len(mention) < 3:
                     continue
-                query = "{}, {}".format(mention, outlet_region) if outlet_region else mention
-                add(mention, query)
+                add(mention, _build_query(mention, outlet_region))
 
         if not candidates:
             logger.debug("spaCy found no entities — falling back to regex")
-            for m in _regex_candidates(text):
-                query = "{}, {}".format(m, outlet_region) if outlet_region else m
-                add(m, query)
+            for m in _regex_candidates(re_text):
+                add(m, _build_query(m, outlet_region))
     else:
-        for m in _regex_candidates(text):
-            query = "{}, {}".format(m, outlet_region) if outlet_region else m
-            add(m, query)
+        for m in _regex_candidates(re_text):
+            add(m, _build_query(m, outlet_region))
 
     return candidates
 
@@ -209,11 +217,16 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
         title   = a.get("title", "")
         snippet = a.get("snippet", "")
         slug    = _slug_to_text(a.get("url", ""))
-        text    = " ".join(filter(None, [title, snippet, slug]))
+        # Full text for spaCy (slug adds context); title+snippet only for regex
+        # (slug is lowercase and produces garbage regex candidates)
+        text         = " ".join(filter(None, [title, snippet, slug]))
+        text_for_ner = text  # spaCy handles lowercase fine
+        text_for_re  = " ".join(filter(None, [title, snippet]))  # regex needs capitalised
 
         outlet_region = a.get("outlet_region") or None
 
-        candidates = _extract_locations(text, outlet_region=outlet_region)
+        candidates = _extract_locations(text_for_ner, outlet_region=outlet_region,
+                                          text_for_regex=text_for_re)
 
         # Fallback: if nothing extracted, try a bare state/region name from title
         if not candidates and outlet_region:
@@ -226,6 +239,12 @@ def geocode_articles(articles, user_agent, rate_limit_sec=1.0, timeout_sec=10.0)
         for mention, query in candidates:
             geo = _geocode_query(query, user_agent, timeout=int(timeout_sec))
             time.sleep(rate_limit_sec)
+
+            # If compound query failed, retry with bare mention
+            if geo["lat"] is None and query != mention:
+                logger.debug("Retrying bare mention: '%s'", mention)
+                geo = _geocode_query(mention, user_agent, timeout=int(timeout_sec))
+                time.sleep(rate_limit_sec)
 
             if geo["lat"] is not None:
                 row = dict(a)
