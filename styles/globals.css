@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,700;1,9..144,300&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Fraunces', serif;
+  --font-mono:    'IBM Plex Mono', monospace;
+  --font-body:    'IBM Plex Sans', sans-serif;
+
+  /* Dark editorial palette */
+  --bg:       #0c0c0e;
+  --surface:  #141416;
+  --surface2: #1c1c1f;
+  --border:   #2a2a2e;
+  --muted:    #6b6b72;
+  --ink:      #e8e8ea;
+  --ink2:     #a8a8b0;
+
+  /* Wire accent colours */
+  --drought: #e8892a;
+  --fire:    #e84a2a;
+  --heat:    #d4a017;
+  --water:   #2a7de8;
+
+  --accent:  var(--drought);
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Leaflet overrides */
+.leaflet-container {
+  background: #0c0c0e !important;
+  font-family: var(--font-body) !important;
+}
+.leaflet-tile {
+  filter: brightness(0.35) saturate(0.4) !important;
+}
+.leaflet-control-zoom a {
+  background: var(--surface2) !important;
+  color: var(--ink) !important;
+  border-color: var(--border) !important;
+}
+.leaflet-popup-content-wrapper {
+  background: var(--surface2) !important;
+  color: var(--ink) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 4px !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6) !important;
+}
+.leaflet-popup-tip {
+  background: var(--surface2) !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--surface); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+/* Utility classes */
+.wire-drought { color: var(--drought); }
+.wire-fire    { color: var(--fire); }
+.wire-heat    { color: var(--heat); }
+.wire-water   { color: var(--water); }
+
+.bg-wire-drought { background: var(--drought); }
+.bg-wire-fire    { background: var(--fire); }
+.bg-wire-heat    { background: var(--heat); }
+.bg-wire-water   { background: var(--water); }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp 0.4s ease both; }
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.6; transform: scale(0.85); }
+}
