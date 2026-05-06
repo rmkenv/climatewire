@@ -616,11 +616,221 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-05-04T16:56:54.094658+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hoover.org/research/california-adopts-permanent-water-rationing",
+        "title": "California Adopts Permanent Water Rationing",
+        "snippet": "",
+        "url": "https://www.hoover.org/research/california-adopts-permanent-water-rationing",
+        "source": "Hoover Institution",
+        "published_at": "01/08/2025, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-06T12:28:15.821892+00:00",
+        "outlet_region": "California",
+        "mention_text": "California Adopts Permanent Water Rationing",
+        "osm_display": "California Adopts Permanent Water Rationing",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-06T12:34:04.592234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://californiaglobe.com/fr/just-the-facts-about-californias-new-household-water-rationing-law/",
+        "title": "Just the Facts About California\u2019s New Household Water Rationing Law",
+        "snippet": "",
+        "url": "https://californiaglobe.com/fr/just-the-facts-about-californias-new-household-water-rationing-law/",
+        "source": "California Globe",
+        "published_at": "10/21/2021, 04:40 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-06T12:28:15.821892+00:00",
+        "outlet_region": "California",
+        "mention_text": "Just",
+        "osm_display": "Just, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 293.63,
+        "run_at": "2026-05-06T12:34:04.592234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://newsroom.unl.edu/announce/snr/7776/44488",
+        "title": "Nebraska sees modest groundwater decline",
+        "snippet": "",
+        "url": "https://newsroom.unl.edu/announce/snr/7776/44488",
+        "source": "University of Nebraska\u2013Lincoln",
+        "published_at": "08/14/2018, 11:01 PM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-06T12:28:15.821892+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "06772775",
+        "usgs_streamflow_name": "Warm Slough near Central City, Nebr.",
+        "usgs_streamflow_dist_km": 16.4,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "410618098113401",
+        "usgs_gw_name": "13N 8W11DDDD1 Archer",
+        "usgs_gw_dist_km": 6.71,
+        "usgs_gw_depth_ft": 11.56,
+        "run_at": "2026-05-06T12:34:04.592234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hppr.org/2024-02-12/aquifer-depletion-not-just-southwest-kansas",
+        "title": "Aquifer Depletion not Just Southwest Kansas",
+        "snippet": "",
+        "url": "https://www.hppr.org/2024-02-12/aquifer-depletion-not-just-southwest-kansas",
+        "source": "HPPR",
+        "published_at": "02/12/2024, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-06T12:28:15.821892+00:00",
+        "outlet_region": "Kansas",
+        "mention_text": "Aquifer Depletion",
+        "osm_display": "Aquifer Depletion, Kansas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "07182000",
+        "usgs_streamflow_name": "COTTONWOOD R AT COTTONWOOD FALLS, KS",
+        "usgs_streamflow_dist_km": 19.11,
+        "usgs_streamflow_cfs": 421.0,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-06T12:34:04.592234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgou.org/science-technology-and-environment/2023-08-31/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma",
+        "title": "Nationwide analysis of water wells shows groundwater decline in Oklahoma",
+        "snippet": "",
+        "url": "https://www.kgou.org/science-technology-and-environment/2023-08-31/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma",
+        "source": "KGOU",
+        "published_at": "08/31/2023, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-06T12:28:15.821892+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "07242380",
+        "usgs_streamflow_name": "Deep Fork at Warwick, OK",
+        "usgs_streamflow_dist_km": 14.72,
+        "usgs_streamflow_cfs": 48.4,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-06T12:34:04.592234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reviewjournal.com/news/politics-and-government/nevada/nevada-bans-new-residential-wells-in-pahrump-over-groundwater-decline/",
+        "title": "Nevada bans new residential wells in Pahrump over groundwater decline",
+        "snippet": "",
+        "url": "https://www.reviewjournal.com/news/politics-and-government/nevada/nevada-bans-new-residential-wells-in-pahrump-over-groundwater-decline/",
+        "source": "Las Vegas Review-Journal",
+        "published_at": "12/21/2017, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-06T12:28:15.821892+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "10249300",
+        "usgs_streamflow_name": "S TWIN RV NR ROUND MOUNTAIN, NV",
+        "usgs_streamflow_dist_km": 65.92,
+        "usgs_streamflow_cfs": 6.02,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-06T12:34:04.592234+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-05-04T17:30:13.239166+00:00",
-    "total_features": 22
+    "last_updated": "2026-05-06T12:34:04.592634+00:00",
+    "total_features": 28
   }
 }
