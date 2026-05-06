@@ -66,8 +66,8 @@
   .no-articles{padding:32px 14px;text-align:center;color:var(--ink2);font-size:11px}
 
   /* ── Map ── */
-  .leaflet-container{background:#0d0d0f!important}
-  .leaflet-tile{filter:brightness(.6) saturate(.5)!important}
+  .leaflet-container{background:#1a1a2e!important}
+  /* tile filter removed — using OSM default */
   .leaflet-control-zoom a{background:var(--surface2)!important;color:var(--ink)!important;border-color:var(--border)!important}
   .leaflet-popup-content-wrapper{background:var(--surface2)!important;color:var(--ink)!important;border:1px solid var(--border)!important;border-radius:4px!important;box-shadow:0 8px 32px rgba(0,0,0,.7)!important}
   .leaflet-popup-tip{background:var(--surface2)!important}
@@ -220,10 +220,9 @@ let counts       = {}
 // ── Map init ─────────────────────────────────────────────────────────────────
 function initMap() {
   map = L.map('map', { center:[39.5,-98.35], zoom:4, zoomControl:true, attributionControl:true })
-  // Dark basemap WITH labels and state borders
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_matter/{z}/{x}/{y}{r}.png', {
-    subdomains:'abcd', maxZoom:19,
-    attribution:'© <a href="https://openstreetmap.org">OSM</a> © <a href="https://carto.com">CARTO</a>'
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom:19,
+    attribution:'© <a href="https://openstreetmap.org">OpenStreetMap</a>'
   }).addTo(map)
   markerLayer = L.layerGroup().addTo(map)
 }
