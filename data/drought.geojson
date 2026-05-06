@@ -2162,11 +2162,1571 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-04T16:24:53.264824+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-eases-western-colorado-severe-conditions-expand-eastern-plains",
+        "title": "Exceptional drought eases in western Colorado as severe conditions expand on eastern plains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-eases-western-colorado-severe-conditions-expand-eastern-plains",
+        "source": "Kiowa County Press",
+        "published_at": "05/03/2026, 05:19 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kuow.org/stories/another-year-another-drought-emergency-declared-in-washington-state",
+        "title": "Another year, another drought emergency declared in Washington state",
+        "snippet": "",
+        "url": "https://www.kuow.org/stories/another-year-another-drought-emergency-declared-in-washington-state",
+        "source": "KUOW",
+        "published_at": "04/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxly.com/news/washington-declares-statewide-drought-emergency-as-snowpack-reaches-critically-low-levels/article_1b1daf6e-0e1e-41ae-a24c-61bd66077803.html",
+        "title": "Washington declares statewide drought emergency as snowpack reaches critically low levels",
+        "snippet": "",
+        "url": "https://www.kxly.com/news/washington-declares-statewide-drought-emergency-as-snowpack-reaches-critically-low-levels/article_1b1daf6e-0e1e-41ae-a24c-61bd66077803.html",
+        "source": "KXLY.com",
+        "published_at": "04/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theweathernetwork.com/en/news/weather/forecasts/will-canadas-chilly-pattern-help-bust-floridas-exceptional-drought",
+        "title": "Will Canada\u2019s chilly pattern help bust Florida\u2019s exceptional drought?",
+        "snippet": "",
+        "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/will-canadas-chilly-pattern-help-bust-floridas-exceptional-drought",
+        "source": "The Weather Network",
+        "published_at": "05/01/2026, 02:43 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "article_id": "https://magnoliatribune.com/2026/04/23/moderate-to-exceptional-drought-conditions-seen-throughout-mississippi/",
+        "title": "Moderate to exceptional drought conditions seen throughout Mississippi",
+        "snippet": "",
+        "url": "https://magnoliatribune.com/2026/04/23/moderate-to-exceptional-drought-conditions-seen-throughout-mississippi/",
+        "source": "Magnolia Tribune",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Mississippi",
+        "osm_display": "Mississippi, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://kpq.com/wa-drought-dclaration-fourth-year/",
+        "title": "Dept. Of Ecology Declares Drought For Washington State for Fourth Consecutive Year",
+        "snippet": "",
+        "url": "https://kpq.com/wa-drought-dclaration-fourth-year/",
+        "source": "NewsRadio 560 KPQ",
+        "published_at": "04/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington State",
+        "osm_display": "Washington State",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://blog.ucs.org/mrama-poccia/ask-a-scientist-how-do-we-solve-californias-water-shortage-crisis/",
+        "title": "Ask a Scientist: How Do We Solve California\u2019s Water Shortage Crisis?",
+        "snippet": "",
+        "url": "https://blog.ucs.org/mrama-poccia/ask-a-scientist-how-do-we-solve-californias-water-shortage-crisis/",
+        "source": "The Equation - Union of Concerned Scientists",
+        "published_at": "10/16/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "California",
+        "mention_text": "Ask",
+        "osm_display": "Ask, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/04/02/jackson-county-oregon-drought-emergency/",
+        "title": "Jackson County declares drought emergency in anticipation of dry summer",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/04/02/jackson-county-oregon-drought-emergency/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "04/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lmtribune.com/local-news/idaho-declares-statewide-drought-emergency-a52b63dd",
+        "title": "Idaho declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.lmtribune.com/local-news/idaho-declares-statewide-drought-emergency-a52b63dd",
+        "source": "The Lewiston Tribune",
+        "published_at": "04/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/02/02/opinion/water-shortage-colorado-river.html",
+        "title": "Opinion | These Four States Are in Denial Over a Looming Water Crisis",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/02/02/opinion/water-shortage-colorado-river.html",
+        "source": "The New York Times",
+        "published_at": "02/02/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://education.nationalgeographic.org/resource/explorer-caitlin-ochs/",
+        "title": "Caitlin Ochs Documents the Colorado River\u2019s Water Shortage Crisis",
+        "snippet": "",
+        "url": "https://education.nationalgeographic.org/resource/explorer-caitlin-ochs/",
+        "source": "National Geographic Society",
+        "published_at": "01/14/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "the Colorado River\u2019s Water Shortage Crisis",
+        "osm_display": "the Colorado River\u2019s Water Shortage Crisis",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wctv.tv/2025/11/20/exceptional-drought-develops-parts-big-bend-south-georgia/",
+        "title": "Exceptional drought develops for parts of Big Bend and South Georgia",
+        "snippet": "",
+        "url": "https://www.wctv.tv/2025/11/20/exceptional-drought-develops-parts-big-bend-south-georgia/",
+        "source": "WCTV",
+        "published_at": "11/20/2025, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "South Georgia",
+        "osm_display": "South Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wuft.org/weather/2026-02-12/south-floridas-water-shortage-whats-the-rain-outlook?_amp=true",
+        "title": "South Florida's water shortage: what's the rain outlook?",
+        "snippet": "",
+        "url": "https://www.wuft.org/weather/2026-02-12/south-floridas-water-shortage-whats-the-rain-outlook?_amp=true",
+        "source": "WUFT",
+        "published_at": "02/12/2026, 06:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "South Florida's",
+        "osm_display": "South Florida's",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/southeast-wildfires-explode-florida-georgia-190000021.html",
+        "title": "Southeast faces explosive wildfire activity despite recent rainfall due to exceptional drought",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/articles/southeast-wildfires-explode-florida-georgia-190000021.html",
+        "source": "Yahoo",
+        "published_at": "04/27/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "florida",
+        "osm_display": "florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://insideclimatenews.org/news/08032026/after-a-decade-of-missteps-a-texas-city-careens-toward-a-water-shortage-catastrophe/",
+        "title": "After a Decade of Missteps, a Texas City Careens Toward a Water-Shortage Catastrophe",
+        "snippet": "",
+        "url": "https://insideclimatenews.org/news/08032026/after-a-decade-of-missteps-a-texas-city-careens-toward-a-water-shortage-catastrophe/",
+        "source": "Inside Climate News",
+        "published_at": "03/08/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://coyotegulch.blog/2026/03/26/drought-news-march-26-2026-exceptional-drought-d4-expanded-in-northwest-colorado-while-extreme-drought-d3-grew-across-colorado-southern-wyoming-and-southern-nebraska/",
+        "title": "Drought news March 26, 2026: Exceptional drought (D4) expanded in northwest #Colorado, while extreme drought (D3) grew across Colorado, southern #Wyoming, and southern #Nebraska",
+        "snippet": "",
+        "url": "https://coyotegulch.blog/2026/03/26/drought-news-march-26-2026-exceptional-drought-d4-expanded-in-northwest-colorado-while-extreme-drought-d3-grew-across-colorado-southern-wyoming-and-southern-nebraska/",
+        "source": "coyotegulch.blog",
+        "published_at": "03/26/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/water-shortage-warning-colorado-river-extreme-heat-warning-drought-11685165",
+        "title": "Water Shortage Warning Issued for 40 Million People",
+        "snippet": "",
+        "url": "https://www.newsweek.com/water-shortage-warning-colorado-river-extreme-heat-warning-drought-11685165",
+        "source": "Newsweek",
+        "published_at": "03/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "colorado river",
+        "osm_display": "colorado river",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.palmbeachpost.com/story/weather/2026/02/20/florida-burn-bans-wildfires-water-shortage-orders-extreme-drought-ranks-worse-in-nation/88764223007/",
+        "title": "Parched Florida now most drought-stricken state and is feeling effects",
+        "snippet": "",
+        "url": "https://www.palmbeachpost.com/story/weather/2026/02/20/florida-burn-bans-wildfires-water-shortage-orders-extreme-drought-ranks-worse-in-nation/88764223007/",
+        "source": "The Palm Beach Post",
+        "published_at": "02/20/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.texastribune.org/2026/03/10/texas-governor-greg-abbott-corpus-christi-water-crisis/",
+        "title": "Corpus Christi\u2019s water issues spur threat of state takeover",
+        "snippet": "",
+        "url": "https://www.texastribune.org/2026/03/10/texas-governor-greg-abbott-corpus-christi-water-crisis/",
+        "source": "The Texas Tribune",
+        "published_at": "03/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "texas",
+        "osm_display": "texas, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.texastribune.org/2026/03/20/texas-corpus-christi-water-shortage-oil-gas-refineries/",
+        "title": "Corpus Christi refineries seek new water sources amid crisis",
+        "snippet": "",
+        "url": "https://www.texastribune.org/2026/03/20/texas-corpus-christi-water-shortage-oil-gas-refineries/",
+        "source": "The Texas Tribune",
+        "published_at": "03/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "texas",
+        "osm_display": "texas, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.671873,
+          36.507747
+        ]
+      },
+      "properties": {
+        "article_id": "https://opvp.navajo-nsn.gov/navajo-nation-declares-drought-emergency-as-the-water-crisis-intensifies/",
+        "title": "Navajo Nation Declares Drought Emergency as the Water Crisis Intensifies",
+        "snippet": "",
+        "url": "https://opvp.navajo-nsn.gov/navajo-nation-declares-drought-emergency-as-the-water-crisis-intensifies/",
+        "source": "Navajo Nation Office of the President (.gov)",
+        "published_at": "06/06/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "Navajo Nation Declares Drought Emergency",
+        "osm_display": "Navajo Nation Declares Drought Emergency",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.drought.gov/news/case-study-early-drought-declaration-gave-washington-communities-opportunity-prepare-2024-07",
+        "title": "Case Study: An Early Drought Declaration Gave Washington Communities Opportunity To Prepare",
+        "snippet": "",
+        "url": "https://www.drought.gov/news/case-study-early-drought-declaration-gave-washington-communities-opportunity-prepare-2024-07",
+        "source": "Drought.gov",
+        "published_at": "07/09/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.8newsnow.com/news/local-news/water-shortage-stays-at-tier-1-for-nevada-arizona-california-as-lake-mead-projections-released/",
+        "title": "Water shortage stays at Tier 1 for Nevada, Arizona, California as Lake Mead projections released",
+        "snippet": "",
+        "url": "https://www.8newsnow.com/news/local-news/water-shortage-stays-at-tier-1-for-nevada-arizona-california-as-lake-mead-projections-released/",
+        "source": "KLAS 8 News Now",
+        "published_at": "08/15/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.505898,
+          46.602076
+        ]
+      },
+      "properties": {
+        "article_id": "https://ecology.wa.gov/about-us/who-we-are/news/2025/april-8-drought",
+        "title": "Drought declared for Yakima region for third year in a row",
+        "snippet": "",
+        "url": "https://ecology.wa.gov/about-us/who-we-are/news/2025/april-8-drought",
+        "source": "Department of Ecology - State of Washington (.gov)",
+        "published_at": "04/08/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "Yakima",
+        "osm_display": "Yakima",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.drought.gov/drought-status-updates/drought-status-update-pacific-northwest-2024-07-25",
+        "title": "Drought Status Update for the Pacific Northwest | July 25, 2024",
+        "snippet": "",
+        "url": "https://www.drought.gov/drought-status-updates/drought-status-update-pacific-northwest-2024-07-25",
+        "source": "Drought.gov",
+        "published_at": "07/25/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "the Pacific Northwest",
+        "osm_display": "the Pacific Northwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://ecology.wa.gov/blog/february-2024/washington-s-july-drought-declaration-still-in-effect",
+        "title": "July drought declaration still in effect",
+        "snippet": "",
+        "url": "https://ecology.wa.gov/blog/february-2024/washington-s-july-drought-declaration-still-in-effect",
+        "source": "Department of Ecology - State of Washington (.gov)",
+        "published_at": "02/01/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://washingtonstatestandard.com/briefs/state-declares-drought-emergency-in-12-counties/",
+        "title": "Washington declares drought emergency in 12 counties",
+        "snippet": "",
+        "url": "https://washingtonstatestandard.com/briefs/state-declares-drought-emergency-in-12-counties/",
+        "source": "Washington State Standard",
+        "published_at": "07/24/2023, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.climate.gov/news-features/featured-images/exceptional-drought-parts-seven-states-us-southwest",
+        "title": "Exceptional drought in parts of seven states in U.S. Southwest",
+        "snippet": "",
+        "url": "https://www.climate.gov/news-features/featured-images/exceptional-drought-parts-seven-states-us-southwest",
+        "source": "NOAA (.gov)",
+        "published_at": "04/20/2018, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwest",
+        "osm_display": "Southwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2023/01/14/central-oregon-crook-county-extreme-drought-emergency/",
+        "title": "As a Central Oregon county struggles with extreme drought conditions, officials declare an emergency",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2023/01/14/central-oregon-crook-county-extreme-drought-emergency/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "01/14/2023, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13seattle.com/news/drought-emergency-declared-in-all-of-washington-except-these-cities",
+        "title": "Drought emergency declared in all of Washington state except these cities",
+        "snippet": "",
+        "url": "https://www.fox13seattle.com/news/drought-emergency-declared-in-all-of-washington-except-these-cities",
+        "source": "FOX 13 Seattle",
+        "published_at": "04/16/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2021/08/16/climate/colorado-river-water-cuts.html",
+        "title": "In a First, U.S. Declares Shortage on Colorado River, Forcing Water Cuts (Published 2021)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2021/08/16/climate/colorado-river-water-cuts.html",
+        "source": "The New York Times",
+        "published_at": "08/17/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River",
+        "osm_display": "Colorado River",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ohio.edu/news/2024/11/ohio-researchers-study-impact-exceptional-drought-southeast-ohio-ecosystems",
+        "title": "OHIO researchers study impact of exceptional drought on Southeast Ohio ecosystems",
+        "snippet": "",
+        "url": "https://www.ohio.edu/news/2024/11/ohio-researchers-study-impact-exceptional-drought-southeast-ohio-ecosystems",
+        "source": "Ohio University",
+        "published_at": "11/12/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "OHIO",
+        "osm_display": "OHIO",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.propublica.org/article/colorado-river-water-shortage-jay-famiglietti",
+        "title": "As Colorado River Dries, the U.S. Teeters on the Brink of Larger Water Crisis",
+        "snippet": "",
+        "url": "https://www.propublica.org/article/colorado-river-water-shortage-jay-famiglietti",
+        "source": "ProPublica",
+        "published_at": "08/25/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "colorado river",
+        "osm_display": "colorado river",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.258926,
+          37.06831
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/article/news/regional/scorched-earth/exceptional-drought-lake-powell-part-1/509-5e6180e0-b5fa-4bfb-83d1-8057820bec16",
+        "title": "Exceptional Drought: Why the Western United States is rooting for Lake Powell",
+        "snippet": "",
+        "url": "https://www.cbs8.com/article/news/regional/scorched-earth/exceptional-drought-lake-powell-part-1/509-5e6180e0-b5fa-4bfb-83d1-8057820bec16",
+        "source": "cbs8.com",
+        "published_at": "08/16/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "Lake Powell",
+        "osm_display": "Lake Powell",
+        "osm_type": "lake",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2021/may/30/california-drought-water-shortage-photo-essay",
+        "title": "California faces another drought as lake beds turn to dust \u2013 a photo essay",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2021/may/30/california-drought-water-shortage-photo-essay",
+        "source": "The Guardian",
+        "published_at": "05/30/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/california-expands-drought-emergency-to-large-swath-of-state",
+        "title": "California expands drought emergency to large swath of state",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/california-expands-drought-emergency-to-large-swath-of-state",
+        "source": "PBS",
+        "published_at": "05/10/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://earth.org/florida-water-shortage/",
+        "title": "The Looming Water Shortage Crisis in Florida",
+        "snippet": "",
+        "url": "https://earth.org/florida-water-shortage/",
+        "source": "Earth.Org",
+        "published_at": "05/13/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://psmag.com/news/washington-state-faces-a-drought-emergency-while-much-of-the-us-is-having-a-wet-spring/",
+        "title": "Washington State Faces a Drought Emergency While Much of the U.S. Is Having a Wet Spring. Is This Normal?",
+        "snippet": "",
+        "url": "https://psmag.com/news/washington-state-faces-a-drought-emergency-while-much-of-the-us-is-having-a-wet-spring/",
+        "source": "psmag.com",
+        "published_at": "05/22/2019, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://earth.org/lake-mead-and-colorado-river-basin-water-shortage/",
+        "title": "Causes And Effects of Lake Mead and Colorado River Basin Water Shortage",
+        "snippet": "",
+        "url": "https://earth.org/lake-mead-and-colorado-river-basin-water-shortage/",
+        "source": "Earth.Org",
+        "published_at": "09/25/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River Basin Water Shortage",
+        "osm_display": "Colorado River Basin Water Shortage",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kuow.org/stories/drought-emergency-declared-over-nearly-half-of-washington",
+        "title": "Drought emergency declared over nearly half of Washington",
+        "snippet": "",
+        "url": "https://www.kuow.org/stories/drought-emergency-declared-over-nearly-half-of-washington",
+        "source": "KUOW",
+        "published_at": "05/20/2019, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2021/10/20/us/california-drought-emergency-newsom.html",
+        "title": "As Drought Conditions Worsen, California Expands State of Emergency (Published 2021)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2021/10/20/us/california-drought-emergency-newsom.html",
+        "source": "The New York Times",
+        "published_at": "11/09/2021, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.keranews.org/texas-news/2025-03-21/texas-farmers-struggle-us-denies-water-shortage-mexico-treaty-shortfalls",
+        "title": "Texas farmers struggle as U.S. denies Mexico\u2019s water request over treaty shortfalls",
+        "snippet": "",
+        "url": "https://www.keranews.org/texas-news/2025-03-21/texas-farmers-struggle-us-denies-water-shortage-mexico-treaty-shortfalls",
+        "source": "KERA News",
+        "published_at": "03/21/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2021/06/30/climate/nyt-climate-newsletter-california-drought.html",
+        "title": "What a Water Shortage Is Doing to Some of America\u2019s Best Farmland (Published 2021)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2021/06/30/climate/nyt-climate-newsletter-california-drought.html",
+        "source": "The New York Times",
+        "published_at": "07/09/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nature.org/en-us/newsroom/drought-water-shortage-colorado-river/",
+        "title": "Tier 1 Shortage Declaration for the Colorado River",
+        "snippet": "",
+        "url": "https://www.nature.org/en-us/newsroom/drought-water-shortage-colorado-river/",
+        "source": "The Nature Conservancy",
+        "published_at": "08/14/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "the Colorado River",
+        "osm_display": "the Colorado River",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2021/08/16/1028300110/colorado-river-shortage-western-states-first-federal-water-cuts",
+        "title": "Western States Face Water Cuts As A Shortage In The Colorado River Is Declared",
+        "snippet": "",
+        "url": "https://www.npr.org/2021/08/16/1028300110/colorado-river-shortage-western-states-first-federal-water-cuts",
+        "source": "NPR",
+        "published_at": "08/16/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "The Colorado River",
+        "osm_display": "The Colorado River",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.globalelr.com/2024/02/california-water-challenges-remain-despite-significant-precipitation-in-2023/",
+        "title": "California Water Challenges Remain Despite Significant Precipitation in 2023",
+        "snippet": "",
+        "url": "https://www.globalelr.com/2024/02/california-water-challenges-remain-despite-significant-precipitation-in-2023/",
+        "source": "globalelr.com",
+        "published_at": "02/09/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/local/environment/article252257788.html",
+        "title": "SLO County is now in \u2018extreme\u2019 or \u2018exceptional\u2019 drought. What happens now?",
+        "snippet": "",
+        "url": "https://www.sanluisobispo.com/news/local/environment/article252257788.html",
+        "source": "San Luis Obispo Tribune",
+        "published_at": "06/21/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "SLO County",
+        "osm_display": "SLO County, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/world-us-canada-58248634",
+        "title": "Colorado River: First-ever shortage declared amid record US drought",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/world-us-canada-58248634",
+        "source": "BBC",
+        "published_at": "08/17/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River",
+        "osm_display": "Colorado River",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2021/07/13/1013446314/amid-a-mega-drought-a-water-shortage-will-be-declared-along-the-colorado-river",
+        "title": "Amid A Megadrought, Federal Water Shortage Limits Loom For The Colorado River",
+        "snippet": "",
+        "url": "https://www.npr.org/2021/07/13/1013446314/amid-a-mega-drought-a-water-shortage-will-be-declared-along-the-colorado-river",
+        "source": "NPR",
+        "published_at": "07/13/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "The Colorado River",
+        "osm_display": "The Colorado River",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://storymaps.arcgis.com/stories/c2dc21666e4d4f38841547520b0037a4",
+        "title": "Water Shortage in Arizona",
+        "snippet": "",
+        "url": "https://storymaps.arcgis.com/stories/c2dc21666e4d4f38841547520b0037a4",
+        "source": "ArcGIS StoryMaps",
+        "published_at": "02/12/2021, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.737778,
+          36.015556
+        ]
+      },
+      "properties": {
+        "article_id": "https://environmentamerica.org/articles/megadrought-intensifies-water-shortage-in-the-lake-mead-reservoir/",
+        "title": "\u2018Megadrought\u2019 intensifies water shortage in the Lake Mead reservoir",
+        "snippet": "",
+        "url": "https://environmentamerica.org/articles/megadrought-intensifies-water-shortage-in-the-lake-mead-reservoir/",
+        "source": "Environment America",
+        "published_at": "08/30/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": null,
+        "mention_text": "Lake Mead",
+        "osm_display": "Lake Mead",
+        "osm_type": "lake",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/nation/2021/08/16/colorado-river-water-cuts-drought/",
+        "title": "First-ever water shortage declared on the Colorado River, triggering water cuts for some states in the West",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/nation/2021/08/16/colorado-river-water-cuts-drought/",
+        "source": "The Washington Post",
+        "published_at": "08/16/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-06T14:05:09.965405+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "the Colorado River",
+        "osm_display": "the Colorado River",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-06T14:13:05.237518+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-05T11:16:45.373421+00:00",
-    "total_features": 94
+    "last_updated": "2026-05-06T14:13:05.238410+00:00",
+    "total_features": 146
   }
 }
