@@ -67,7 +67,7 @@
 
   /* ── Map ── */
   .leaflet-container{background:#0d0d0f!important}
-  .leaflet-tile{filter:brightness(.3) saturate(.3)!important}
+  .leaflet-tile{filter:brightness(.6) saturate(.5)!important}
   .leaflet-control-zoom a{background:var(--surface2)!important;color:var(--ink)!important;border-color:var(--border)!important}
   .leaflet-popup-content-wrapper{background:var(--surface2)!important;color:var(--ink)!important;border:1px solid var(--border)!important;border-radius:4px!important;box-shadow:0 8px 32px rgba(0,0,0,.7)!important}
   .leaflet-popup-tip{background:var(--surface2)!important}
@@ -220,7 +220,8 @@ let counts       = {}
 // ── Map init ─────────────────────────────────────────────────────────────────
 function initMap() {
   map = L.map('map', { center:[39.5,-98.35], zoom:4, zoomControl:true, attributionControl:true })
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_matter_no_labels/{z}/{x}/{y}{r}.png', {
+  // Dark basemap WITH labels and state borders
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_matter/{z}/{x}/{y}{r}.png', {
     subdomains:'abcd', maxZoom:19,
     attribution:'© <a href="https://openstreetmap.org">OSM</a> © <a href="https://carto.com">CARTO</a>'
   }).addTo(map)
