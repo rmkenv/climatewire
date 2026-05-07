@@ -1054,11 +1054,181 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-05T12:07:52.006734+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mahoningmatters.com/news/local/article315154946.html",
+        "title": "Is dreaded heat dome headed to Ohio? Here\u2019s the latest spring weather forecast",
+        "snippet": "",
+        "url": "https://www.mahoningmatters.com/news/local/article315154946.html",
+        "source": "Mahoning Matters",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-07T11:42:27.888679+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-07T23:00",
+        "sensor_temp_f": 45.7,
+        "sensor_rh_pct": 71,
+        "sensor_wind_mph": 5.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 40.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-07T11:55:19.896910+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/summerlike-heat-dome-send-southwest-170245958.html",
+        "title": "Summerlike heat dome to send Southwest temperatures soaring past 100 F",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/articles/summerlike-heat-dome-send-southwest-170245958.html",
+        "source": "Yahoo",
+        "published_at": "03/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-07T11:42:27.888679+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwest",
+        "osm_display": "Southwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-07T23:00",
+        "sensor_temp_f": 62.8,
+        "sensor_rh_pct": 12,
+        "sensor_wind_mph": 8.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 45.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-07T11:55:19.896910+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/heat-dome-moving-east-relief-155103965.html",
+        "title": "With heat dome moving east, some relief in sight for California",
+        "snippet": "",
+        "url": "https://www.aol.com/articles/heat-dome-moving-east-relief-155103965.html",
+        "source": "AOL.com",
+        "published_at": "03/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-07T11:42:27.888679+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-07T23:00",
+        "sensor_temp_f": 69.1,
+        "sensor_rh_pct": 52,
+        "sensor_wind_mph": 6.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 58.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-07T11:55:19.896910+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.493629,
+          29.424122
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/forecast/article/friday-warmer-drier-days-heat-dome-no-rainfall-21092125.php",
+        "title": "San Antonio stuck under heat dome, missing beneficial rainfall by 500 miles",
+        "snippet": "",
+        "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/friday-warmer-drier-days-heat-dome-no-rainfall-21092125.php",
+        "source": "San Antonio Express-News",
+        "published_at": "10/10/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-07T11:42:27.888679+00:00",
+        "outlet_region": null,
+        "mention_text": "San Antonio",
+        "osm_display": "San Antonio",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-07T23:00",
+        "sensor_temp_f": 69.1,
+        "sensor_rh_pct": 62,
+        "sensor_wind_mph": 3.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 61.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-07T11:55:19.896910+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.369804,
+          29.760427
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonchronicle.com/news/houston-weather/forecast/article/christmas-forecast-heat-dome-record-high-possible-21245750.php",
+        "title": "Houston Christmas forecast: Heat dome to fuel warmest holiday in years",
+        "snippet": "",
+        "url": "https://www.houstonchronicle.com/news/houston-weather/forecast/article/christmas-forecast-heat-dome-record-high-possible-21245750.php",
+        "source": "Houston Chronicle",
+        "published_at": "12/17/2025, 08:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-07T11:42:27.888679+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Houston",
+        "osm_display": "Houston, Texas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-07T11:55:19.896910+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-05T12:07:52.007256+00:00",
-    "total_features": 31
+    "last_updated": "2026-05-07T11:55:19.897402+00:00",
+    "total_features": 36
   }
 }
