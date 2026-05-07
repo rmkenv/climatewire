@@ -3722,11 +3722,131 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-06T14:13:05.237518+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-news/southeast-faces-explosive-wildfire-activity-despite-recent-rainfall-due-to-exceptional-drought/1885848",
+        "title": "Southeast faces explosive wildfire activity despite recent rainfall due to exceptional drought",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-news/southeast-faces-explosive-wildfire-activity-despite-recent-rainfall-due-to-exceptional-drought/1885848",
+        "source": "AccuWeather",
+        "published_at": "04/27/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-07T14:02:30.452661+00:00",
+        "outlet_region": null,
+        "mention_text": "Southeast",
+        "osm_display": "Southeast",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-07T14:10:13.333111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-environment/2026/02/13/az-colorado-river-states-tell-feds-no-deal-on-shortage-plan/88650356007/",
+        "title": "Colorado River states tell feds 'no deal' on water shortage plan",
+        "snippet": "",
+        "url": "https://www.azcentral.com/story/news/local/arizona-environment/2026/02/13/az-colorado-river-states-tell-feds-no-deal-on-shortage-plan/88650356007/",
+        "source": "The Arizona Republic",
+        "published_at": "02/13/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-07T14:02:30.452661+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River",
+        "osm_display": "Colorado River",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-07T14:10:13.333111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gov.ca.gov/2021/07/08/as-drought-conditions-intensify-governor-newsom-calls-on-californians-to-take-simple-actions-to-conserve-water/",
+        "title": "As Drought Conditions Intensify, Governor Newsom Calls on Californians to Take Simple Actions to Conserve Water",
+        "snippet": "",
+        "url": "https://www.gov.ca.gov/2021/07/08/as-drought-conditions-intensify-governor-newsom-calls-on-californians-to-take-simple-actions-to-conserve-water/",
+        "source": "California State Portal | CA.gov",
+        "published_at": "07/08/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-07T14:02:30.452661+00:00",
+        "outlet_region": null,
+        "mention_text": "Californians",
+        "osm_display": "Californians",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-07T14:10:13.333111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://blog.ucs.org/pablo-ortiz/can-the-us-survive-californias-drought/",
+        "title": "Can the US Survive California\u2019s Drought?",
+        "snippet": "",
+        "url": "https://blog.ucs.org/pablo-ortiz/can-the-us-survive-californias-drought/",
+        "source": "The Equation - Union of Concerned Scientists",
+        "published_at": "06/14/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-07T14:02:30.452661+00:00",
+        "outlet_region": "California",
+        "mention_text": "Can",
+        "osm_display": "Can, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-07T14:10:13.333111+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-06T14:13:05.238410+00:00",
-    "total_features": 146
+    "last_updated": "2026-05-07T14:10:13.334315+00:00",
+    "total_features": 150
   }
 }
