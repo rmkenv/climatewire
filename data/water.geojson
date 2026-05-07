@@ -826,11 +826,116 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-05-06T12:34:04.592234+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.739236
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/water-restriction-likely-ahead-for-denver-residents-due-to-impacts-of-dry-winter/",
+        "title": "Water restriction likely ahead for Denver residents due to impacts of dry winter",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/video/water-restriction-likely-ahead-for-denver-residents-due-to-impacts-of-dry-winter/",
+        "source": "CBS News",
+        "published_at": "03/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-07T12:58:05.670829+00:00",
+        "outlet_region": null,
+        "mention_text": "Denver",
+        "osm_display": "Denver",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "06713500",
+        "usgs_streamflow_name": "CHERRY CREEK AT DENVER, CO.",
+        "usgs_streamflow_dist_km": 1.34,
+        "usgs_streamflow_cfs": 40.8,
+        "usgs_gw_site_no": "393252104492101",
+        "usgs_gw_name": "SC00606607BDAB GRNDEV3",
+        "usgs_gw_dist_km": 25.4,
+        "usgs_gw_depth_ft": 141.39,
+        "run_at": "2026-05-07T13:03:50.775617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kosu.org/energy-environment/2023-08-30/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma",
+        "title": "Nationwide analysis of water wells shows groundwater decline in Oklahoma",
+        "snippet": "",
+        "url": "https://www.kosu.org/energy-environment/2023-08-30/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma",
+        "source": "KOSU",
+        "published_at": "08/30/2023, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-07T12:58:05.670829+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "07242380",
+        "usgs_streamflow_name": "Deep Fork at Warwick, OK",
+        "usgs_streamflow_dist_km": 14.72,
+        "usgs_streamflow_cfs": 46.3,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-07T13:03:50.775617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.texastribune.org/2016/12/21/corpus-christi-latest-water-emergency-different-re/",
+        "title": "In Corpus Christi, the latest water emergency was different",
+        "snippet": "",
+        "url": "https://www.texastribune.org/2016/12/21/corpus-christi-latest-water-emergency-different-re/",
+        "source": "The Texas Tribune",
+        "published_at": "12/21/2016, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-07T12:58:05.670829+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "In Corpus Christi",
+        "osm_display": "In Corpus Christi, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "06642000",
+        "usgs_streamflow_name": "NORTH PLATTE RIVER AT ALCOVA, WY",
+        "usgs_streamflow_dist_km": 53.81,
+        "usgs_streamflow_cfs": 2360.0,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-07T13:03:50.775617+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-05-06T12:34:04.592634+00:00",
-    "total_features": 28
+    "last_updated": "2026-05-07T13:03:50.776034+00:00",
+    "total_features": 31
   }
 }
