@@ -1719,11 +1719,419 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-05-06T10:16:07.917878+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.politico.com/news/2026/05/06/florida-wildfires-drought-fema-00906886",
+        "title": "The scorched scenes showing how Florida\u2019s wildfire seasons could look in the future",
+        "snippet": "",
+        "url": "https://www.politico.com/news/2026/05/06/florida-wildfires-drought-fema-00906886",
+        "source": "Politico",
+        "published_at": "05/06/2026, 06:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.48,
+        "firms_frp_mw": 4.47,
+        "firms_brightness": 331.11,
+        "firms_acq_datetime": "2026-05-06 1813",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/california-wildfires/article/home-insurance-state-farm-lawsuit-22237254.php",
+        "title": "State investigation alleges State Farm\u2019s wildfire response broke law 400 times",
+        "snippet": "",
+        "url": "https://www.sfchronicle.com/california-wildfires/article/home-insurance-state-farm-lawsuit-22237254.php",
+        "source": "San Francisco Chronicle",
+        "published_at": "05/04/2026, 09:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "california",
+        "osm_display": "california, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 38.89,
+        "firms_frp_mw": 10.56,
+        "firms_brightness": 352.43,
+        "firms_acq_datetime": "2026-05-06 1957",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/first-wildfire-of-the-year-near-sisters-burns-40-acres-in-deschutes-national-forest-oregon-portland-bend-sisters-oregon-wildfire-fire-blaze-cause",
+        "title": "First large wildfire of the year near Sisters burns 40 acres in Deschutes National Forest",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/first-wildfire-of-the-year-near-sisters-burns-40-acres-in-deschutes-national-forest-oregon-portland-bend-sisters-oregon-wildfire-fire-blaze-cause",
+        "source": "KATU",
+        "published_at": "05/04/2026, 12:52 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 47.19,
+        "firms_frp_mw": 10.86,
+        "firms_brightness": 342.84,
+        "firms_acq_datetime": "2026-05-06 2140",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4474392/georgia-guard-engineers-assist-wildfire-response/",
+        "title": "Georgia Guard Engineers Assist Wildfire Response",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4474392/georgia-guard-engineers-assist-wildfire-response/",
+        "source": "nationalguard.mil",
+        "published_at": "04/30/2026, 05:38 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia Guard Engineers Assist Wildfire Response",
+        "osm_display": "Georgia Guard Engineers Assist Wildfire Response",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.97,
+        "firms_frp_mw": 3.65,
+        "firms_brightness": 331.47,
+        "firms_acq_datetime": "2026-05-06 1813",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/292094/georgia_national_guard_engineers_support_wildfire_response",
+        "title": "Georgia National Guard engineers support wildfire response",
+        "snippet": "",
+        "url": "https://www.army.mil/article/292094/georgia_national_guard_engineers_support_wildfire_response",
+        "source": "army.mil",
+        "published_at": "04/30/2026, 02:32 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia National Guard",
+        "osm_display": "Georgia National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.97,
+        "firms_frp_mw": 3.65,
+        "firms_brightness": 331.47,
+        "firms_acq_datetime": "2026-05-06 1813",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/03/24/wildfires-plains-nebraska-colorado-california-risks/",
+        "title": "Wildfires rip through unusual parts of U.S., raising fears of a brutal season",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/03/24/wildfires-plains-nebraska-colorado-california-risks/",
+        "source": "The Washington Post",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": null,
+        "mention_text": "nebraska",
+        "osm_display": "nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4434190/arizona-guard-helicopter-battalion-hones-wildfire-response-skills/",
+        "title": "Arizona Guard Helicopter Battalion Hones Wildfire Response Skills",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4434190/arizona-guard-helicopter-battalion-hones-wildfire-response-skills/",
+        "source": "nationalguard.mil",
+        "published_at": "03/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 63.08,
+        "firms_frp_mw": 2.51,
+        "firms_brightness": 322.11,
+        "firms_acq_datetime": "2026-05-06 0837",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "article_id": "https://dep.nj.gov/newsrel/26-0010/",
+        "title": "News Releases | Sherrill Administration Dedicates New Jersey's First New Fire Tower in 78 Years Amid Preparations for Spring Wildfire Season (26/P010)",
+        "snippet": "",
+        "url": "https://dep.nj.gov/newsrel/26-0010/",
+        "source": "New Jersey Department of Environmental Protection (.gov)",
+        "published_at": "03/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "New Jersey",
+        "mention_text": "New Jersey's",
+        "osm_display": "New Jersey's",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 21.67,
+        "firms_frp_mw": 0.62,
+        "firms_brightness": 304.92,
+        "firms_acq_datetime": "2026-05-06 0654",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.insurancebusinessmag.com/us/news/catastrophe/georgia-bars-policy-cancellations-for-nonpayment-across-91-wildfirehit-counties-573068.aspx",
+        "title": "Georgia bars policy cancellations for non-payment across 91 wildfire-hit counties",
+        "snippet": "",
+        "url": "https://www.insurancebusinessmag.com/us/news/catastrophe/georgia-bars-policy-cancellations-for-nonpayment-across-91-wildfirehit-counties-573068.aspx",
+        "source": "Insurance Business",
+        "published_at": "04/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.97,
+        "firms_frp_mw": 3.65,
+        "firms_brightness": 331.47,
+        "firms_acq_datetime": "2026-05-06 1813",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.preventionweb.net/news/los-angeles-fires-12-months-what-does-research-tell-us",
+        "title": "USA: Los Angeles fires 12 months on \u2013 what does research tell us?",
+        "snippet": "",
+        "url": "https://www.preventionweb.net/news/los-angeles-fires-12-months-what-does-research-tell-us",
+        "source": "PreventionWeb.net",
+        "published_at": "01/05/2026, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles",
+        "osm_display": "Los Angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 12.12,
+        "firms_frp_mw": 0.96,
+        "firms_brightness": 310.59,
+        "firms_acq_datetime": "2026-05-06 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-cattlemen-disaster-relief-fund-tops-1m-for-wildfire-recovery/",
+        "title": "Nebraska Cattlemen disaster relief fund tops $1M for wildfire recovery",
+        "snippet": "",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-cattlemen-disaster-relief-fund-tops-1m-for-wildfire-recovery/",
+        "source": "Nebraska Public Media",
+        "published_at": "04/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redcross.org/about-us/news-and-events/news/2026/midwest-under-critical-wildfire-risk.html",
+        "title": "Midwest Under Critical Wildfire Risk; Red Cross Prepared to Respond",
+        "snippet": "",
+        "url": "https://www.redcross.org/about-us/news-and-events/news/2026/midwest-under-critical-wildfire-risk.html",
+        "source": "American Red Cross",
+        "published_at": "03/12/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-07T10:13:16.440175+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest Under Critical Wildfire Risk",
+        "osm_display": "Midwest Under Critical Wildfire Risk",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 31.25,
+        "firms_frp_mw": 4.24,
+        "firms_brightness": 333.27,
+        "firms_acq_datetime": "2026-05-06 1957",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-07T10:19:30.998284+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-06T10:16:07.918454+00:00",
-    "total_features": 59
+    "last_updated": "2026-05-07T10:19:30.998931+00:00",
+    "total_features": 71
   }
 }
