@@ -931,11 +931,116 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-05-07T13:03:50.775617+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html",
+        "title": "America Is Using Up Its Groundwater Like There\u2019s No Tomorrow (Published 2023)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html",
+        "source": "nytimes.com",
+        "published_at": "08/28/2023, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-08T12:09:31.890673+00:00",
+        "outlet_region": "New York",
+        "mention_text": "America",
+        "osm_display": "America, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "01417000",
+        "usgs_streamflow_name": "EAST BRANCH DELAWARE RIVER AT DOWNSVILLE NY",
+        "usgs_streamflow_dist_km": 10.35,
+        "usgs_streamflow_cfs": 119.0,
+        "usgs_gw_site_no": "421948074483701",
+        "usgs_gw_name": "Local number, D-503, Bloomville NY",
+        "usgs_gw_dist_km": 21.5,
+        "usgs_gw_depth_ft": 5.29,
+        "run_at": "2026-05-08T12:14:58.357659+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2024/02/29/climate/groundwater-aquifer-depletion-courts.html",
+        "title": "Court Rulings Give States New Power to Protect Groundwater (Published 2024)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2024/02/29/climate/groundwater-aquifer-depletion-courts.html",
+        "source": "nytimes.com",
+        "published_at": "03/04/2024, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-08T12:09:31.890673+00:00",
+        "outlet_region": "New York",
+        "mention_text": "Court Rulings Give States New Power",
+        "osm_display": "Court Rulings Give States New Power, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "01417000",
+        "usgs_streamflow_name": "EAST BRANCH DELAWARE RIVER AT DOWNSVILLE NY",
+        "usgs_streamflow_dist_km": 10.35,
+        "usgs_streamflow_cfs": 119.0,
+        "usgs_gw_site_no": "421948074483701",
+        "usgs_gw_name": "Local number, D-503, Bloomville NY",
+        "usgs_gw_dist_km": 21.5,
+        "usgs_gw_depth_ft": 5.29,
+        "run_at": "2026-05-08T12:14:58.357659+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2020/feb/18/bottled-water-ban-washington-state",
+        "title": "Washington state takes bold step to restrict companies from bottling local water",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2020/feb/18/bottled-water-ban-washington-state",
+        "source": "The Guardian",
+        "published_at": "02/18/2020, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-08T12:09:31.890673+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "12143400",
+        "usgs_streamflow_name": "SF SNOQUALMIE RIVER AB ALICE CREEK NEAR GARCIA, WA",
+        "usgs_streamflow_dist_km": 7.46,
+        "usgs_streamflow_cfs": 230.0,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-08T12:14:58.357659+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-05-07T13:03:50.776034+00:00",
-    "total_features": 31
+    "last_updated": "2026-05-08T12:14:58.358318+00:00",
+    "total_features": 34
   }
 }
