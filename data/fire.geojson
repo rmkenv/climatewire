@@ -2127,11 +2127,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-07T10:19:30.998284+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/prescribed-burn-ignites-a-1500-wildfire-southeast-of-bend-deschutes-county-pine-mountain-fire-centra-oregon",
+        "title": "Prescribed burn ignites nearly 3,000-acre wildfire southeast of Bend",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/prescribed-burn-ignites-a-1500-wildfire-southeast-of-bend-deschutes-county-pine-mountain-fire-centra-oregon",
+        "source": "KATU",
+        "published_at": "05/08/2026, 05:57 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-08T09:03:55.681033+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 70.26,
+        "firms_frp_mw": 2.38,
+        "firms_brightness": 330.82,
+        "firms_acq_datetime": "2026-05-07 2123",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-08T09:09:38.477473+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcrightnow.com/national/eastern-washington-wildfire-outlook-grows-as-funding-fight-continues/article_d52bbe9d-f7ef-45a0-8033-edf7452ea9f2.html",
+        "title": "Eastern Washington wildfire outlook grows as funding fight continues",
+        "snippet": "",
+        "url": "https://www.nbcrightnow.com/national/eastern-washington-wildfire-outlook-grows-as-funding-fight-continues/article_d52bbe9d-f7ef-45a0-8033-edf7452ea9f2.html",
+        "source": "Nonstop Local News",
+        "published_at": "05/07/2026, 12:58 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-08T09:03:55.681033+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-08T09:09:38.477473+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2025/08/02/weather/dragon-bravo-fire-grand-canyon-update.html",
+        "title": "Dragon Bravo Fire Grows to Largest Wildfire in the Continental U.S.",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2025/08/02/weather/dragon-bravo-fire-grand-canyon-update.html",
+        "source": "nytimes.com",
+        "published_at": "08/02/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-08T09:03:55.681033+00:00",
+        "outlet_region": "New York",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-08T09:09:38.477473+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-07T10:19:30.998931+00:00",
-    "total_features": 71
+    "last_updated": "2026-05-08T09:09:38.478163+00:00",
+    "total_features": 74
   }
 }
