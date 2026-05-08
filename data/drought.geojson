@@ -3842,11 +3842,281 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-07T14:10:13.333111+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/late-season-storms-ease-drought-slightly-central-colorado-exceptional-drought-holds-firm-0",
+        "title": "Late-season storms ease drought slightly in central Colorado as exceptional drought holds firm in headwaters",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/late-season-storms-ease-drought-slightly-central-colorado-exceptional-drought-holds-firm-0",
+        "source": "Kiowa County Press",
+        "published_at": "05/07/2026, 03:06 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nature.org/en-us/about-us/where-we-work/united-states/colorado/stories-in-colorado/colorado-charting-a-future-for-colorado-river/",
+        "title": "Charting a Future for the Colorado River",
+        "snippet": "",
+        "url": "https://www.nature.org/en-us/about-us/where-we-work/united-states/colorado/stories-in-colorado/colorado-charting-a-future-for-colorado-river/",
+        "source": "The Nature Conservancy",
+        "published_at": "02/25/2022, 06:56 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cpr.org/2021/08/16/colorado-river-water-shortage-declared/",
+        "title": "The First-Ever Colorado River Water Shortage Has Been Declared. What Does That Mean For Colorado?",
+        "snippet": "",
+        "url": "https://www.cpr.org/2021/08/16/colorado-river-water-shortage-declared/",
+        "source": "Colorado Public Radio",
+        "published_at": "08/16/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalgeographic.com/impact/article/caitlin-ochs-explorer-story",
+        "title": "Caitlin Ochs documents the Colorado River\u2019s water shortage crisis",
+        "snippet": "",
+        "url": "https://www.nationalgeographic.com/impact/article/caitlin-ochs-explorer-story",
+        "source": "National Geographic",
+        "published_at": "03/22/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "the Colorado River",
+        "osm_display": "the Colorado River",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2021/8/17/us-officials-declare-first-ever-water-shortage-for-colorado-river",
+        "title": "US officials declare first-ever water shortage for Colorado River",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2021/8/17/us-officials-declare-first-ever-water-shortage-for-colorado-river",
+        "source": "Al Jazeera",
+        "published_at": "08/17/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River",
+        "osm_display": "Colorado River",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/258194/kentucky_guardsmen_pitch_in_to_ease_water_shortage",
+        "title": "Kentucky Guardsmen Pitch in to Ease Water Shortage",
+        "snippet": "",
+        "url": "https://www.army.mil/article/258194/kentucky_guardsmen_pitch_in_to_ease_water_shortage",
+        "source": "army.mil",
+        "published_at": "07/05/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Kentucky",
+        "mention_text": "kentucky",
+        "osm_display": "kentucky",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc15.com/weather/impact-earth/drought-worsens-in-arizona-over-50-in-exceptional-drought",
+        "title": "Drought worsens in Arizona, over 50% in 'Exceptional Drought'",
+        "snippet": "",
+        "url": "https://www.abc15.com/weather/impact-earth/drought-worsens-in-arizona-over-50-in-exceptional-drought",
+        "source": "ABC15 Arizona",
+        "published_at": "04/15/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://phys.org/news/2022-05-idaho-issue-emergency-drought-declaration.html",
+        "title": "Idaho water officials issue emergency drought declaration for majority of state",
+        "snippet": "",
+        "url": "https://phys.org/news/2022-05-idaho-issue-emergency-drought-declaration.html",
+        "source": "Phys.org",
+        "published_at": "05/02/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc10.com/article/news/local/arizona-farmers-face-dire-reality-after-water-shortage-declared/75-8b8a1b50-3c6f-4e81-92da-2c90a91892a0",
+        "title": "Feds declare water shortage for Colorado River, cut allotment to Arizona",
+        "snippet": "",
+        "url": "https://www.abc10.com/article/news/local/arizona-farmers-face-dire-reality-after-water-shortage-declared/75-8b8a1b50-3c6f-4e81-92da-2c90a91892a0",
+        "source": "ABC10",
+        "published_at": "08/16/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-08T13:28:23.069200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River",
+        "osm_display": "Colorado River",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-08T13:36:29.579453+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-07T14:10:13.334315+00:00",
-    "total_features": 150
+    "last_updated": "2026-05-08T13:36:29.580769+00:00",
+    "total_features": 159
   }
 }
