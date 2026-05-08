@@ -1224,11 +1224,249 @@
         "wbgt_flag": null,
         "run_at": "2026-05-07T11:55:19.896910+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/article/heat-wave-cause.html",
+        "title": "What to Know About Heat Waves and Domes",
+        "snippet": "",
+        "url": "https://www.nytimes.com/article/heat-wave-cause.html",
+        "source": "nytimes.com",
+        "published_at": "04/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": "New York",
+        "mention_text": "What",
+        "osm_display": "What, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 40.5,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 4.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 36.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/article/what-is-heat-dome.html",
+        "title": "A Short Guide to Understanding Heat Domes",
+        "snippet": "",
+        "url": "https://www.nytimes.com/article/what-is-heat-dome.html",
+        "source": "nytimes.com",
+        "published_at": "03/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": "New York",
+        "mention_text": "Short Guide",
+        "osm_display": "Short Guide, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 40.5,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 4.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 36.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrumnews1.com/wi/milwaukee/news/2025/06/18/heat-dome--weather--worrisome-temperatures--midwest",
+        "title": "Heat dome will blanket much of the U.S., with worrisome temperatures in Midwest",
+        "snippet": "",
+        "url": "https://spectrumnews1.com/wi/milwaukee/news/2025/06/18/heat-dome--weather--worrisome-temperatures--midwest",
+        "source": "Spectrum News",
+        "published_at": "06/18/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 56.5,
+        "sensor_rh_pct": 80,
+        "sensor_wind_mph": 12.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 48.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/heat-wave-northeast-midwest-summer-arrives",
+        "title": "Heat dome bakes millions across northern US before pushing New York, Philadelphia temps toward triple digits",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/heat-wave-northeast-midwest-summer-arrives",
+        "source": "FOX Weather",
+        "published_at": "06/19/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": "New York",
+        "mention_text": "New York",
+        "osm_display": "New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 40.5,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 4.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 36.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530106,
+          42.230171
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/boston/news/heat-dome-map-boston-weather/",
+        "title": "Extreme heat warning for most of Massachusetts, Boston could hit 100 degrees Tuesday",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/boston/news/heat-dome-map-boston-weather/",
+        "source": "CBS News",
+        "published_at": "06/24/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": "Massachusetts",
+        "mention_text": "Massachusetts",
+        "osm_display": "Massachusetts",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 45.1,
+        "sensor_rh_pct": 59,
+        "sensor_wind_mph": 1.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 39.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.493629,
+          29.424122
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/forecast/article/heat-dome-south-texas-temperatures-wednesday-20780888.php",
+        "title": "Heat dome grips central U.S., but will it affect South Texas?",
+        "snippet": "",
+        "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/heat-dome-south-texas-temperatures-wednesday-20780888.php",
+        "source": "San Antonio Express-News",
+        "published_at": "07/23/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "san antonio",
+        "osm_display": "san antonio, Texas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 69.6,
+        "sensor_rh_pct": 91,
+        "sensor_wind_mph": 5.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 66.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.710686,
+          44.045876
+        ]
+      },
+      "properties": {
+        "article_id": "https://vtdigger.org/2025/06/23/find-the-cooling-center-nearest-you-amid-vermonts-1st-heat-wave-of-the-year/",
+        "title": "Find the cooling center nearest you amid Vermont\u2019s 1st heat wave of the year",
+        "snippet": "",
+        "url": "https://vtdigger.org/2025/06/23/find-the-cooling-center-nearest-you-amid-vermonts-1st-heat-wave-of-the-year/",
+        "source": "VTDigger",
+        "published_at": "06/23/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-08T11:02:00.818881+00:00",
+        "outlet_region": "Vermont",
+        "mention_text": "Vermont",
+        "osm_display": "Vermont",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_emergency",
+        "sensor_obs_time": "2026-05-08T23:00",
+        "sensor_temp_f": 34.7,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 5.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 29.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-08T11:14:16.172458+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-07T11:55:19.897402+00:00",
-    "total_features": 36
+    "last_updated": "2026-05-08T11:14:16.173201+00:00",
+    "total_features": 43
   }
 }
