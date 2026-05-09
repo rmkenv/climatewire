@@ -4112,11 +4112,161 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-08T13:36:29.579453+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kiowacountypress.net/content/late-season-storms-ease-drought-slightly-central-colorado-exceptional-drought-holds-firm-0",
+        "title": "Late-season storms ease drought slightly in central Colorado as exceptional drought holds firm in headwaters",
+        "snippet": "",
+        "url": "https://www.kiowacountypress.net/content/late-season-storms-ease-drought-slightly-central-colorado-exceptional-drought-holds-firm-0",
+        "source": "Kiowa County Press",
+        "published_at": "05/07/2026, 03:06 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-09T13:13:40.830404+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-09T13:21:31.105254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kiowacountypress.net/content/exceptional-drought-expands-across-colorado-severe-conditions-deepen-eastern-plains",
+        "title": "Exceptional drought expands across Colorado as severe conditions deepen on eastern plains",
+        "snippet": "",
+        "url": "https://www.kiowacountypress.net/content/exceptional-drought-expands-across-colorado-severe-conditions-deepen-eastern-plains",
+        "source": "Kiowa County Press",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-09T13:13:40.830404+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-09T13:21:31.105254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-blankets-colorado-mountains-heat-failed-snowpack-drive-historic-0",
+        "title": "Exceptional drought blankets Colorado mountains as heat, failed snowpack drive historic degradation",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-blankets-colorado-mountains-heat-failed-snowpack-drive-historic-0",
+        "source": "Kiowa County Press",
+        "published_at": "04/11/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-09T13:13:40.830404+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-09T13:21:31.105254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/california-nevada-longer-exceptional-drought-conditions-severe-influx/story?id=96241037",
+        "title": "California, Nevada no longer under 'exceptional drought' conditions following severe influx of rainfall",
+        "snippet": "",
+        "url": "https://abcnews.com/US/california-nevada-longer-exceptional-drought-conditions-severe-influx/story?id=96241037",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "02/18/2026, 07:37 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-09T13:13:40.830404+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-09T13:21:31.105254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248482,
+          34.840515
+        ]
+      },
+      "properties": {
+        "article_id": "https://storymaps.arcgis.com/stories/7db7e0f78c9243b2902c221b023333cb",
+        "title": "New Mexico: Water Shortage-Sharing Agreements",
+        "snippet": "",
+        "url": "https://storymaps.arcgis.com/stories/7db7e0f78c9243b2902c221b023333cb",
+        "source": "ArcGIS StoryMaps",
+        "published_at": "06/24/2025, 09:33 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-09T13:13:40.830404+00:00",
+        "outlet_region": "New Mexico",
+        "mention_text": "New Mexico",
+        "osm_display": "New Mexico",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-09T13:21:31.105254+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-08T13:36:29.580769+00:00",
-    "total_features": 159
+    "last_updated": "2026-05-09T13:21:31.106199+00:00",
+    "total_features": 164
   }
 }
