@@ -2229,11 +2229,317 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-05-08T09:09:38.477473+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/news/564852/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "News - Behind the Fireline: Washington Guard Aviation Trains for Wildfire Season",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/news/564852/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 08:40 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Wildfire Season news",
+        "osm_display": "Wildfire Season news, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 59.18,
+        "firms_frp_mw": 3.92,
+        "firms_brightness": 346.02,
+        "firms_acq_datetime": "2026-05-08 2104",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672962/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 2 of 10]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672962/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 10:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 59.18,
+        "firms_frp_mw": 3.92,
+        "firms_brightness": 346.02,
+        "firms_acq_datetime": "2026-05-08 2104",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672783/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 4 of 11]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672783/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:55 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 59.18,
+        "firms_frp_mw": 3.92,
+        "firms_brightness": 346.02,
+        "firms_acq_datetime": "2026-05-08 2104",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672804/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington Guard Aviation trains for wildfire season [Image 3 of 7]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672804/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 59.18,
+        "firms_frp_mw": 3.92,
+        "firms_brightness": 346.02,
+        "firms_acq_datetime": "2026-05-08 2104",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672852/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 10 of 11]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672852/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:54 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 59.18,
+        "firms_frp_mw": 3.92,
+        "firms_brightness": 346.02,
+        "firms_acq_datetime": "2026-05-08 2104",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://oregoncapitalchronicle.com/2026/05/07/oregons-congressional-democrats-raise-concerns-about-federal-wildfire-response-in-the-northwest/",
+        "title": "Oregon\u2019s congressional Democrats raise concerns about federal wildfire response in the Northwest",
+        "snippet": "",
+        "url": "https://oregoncapitalchronicle.com/2026/05/07/oregons-congressional-democrats-raise-concerns-about-federal-wildfire-response-in-the-northwest/",
+        "source": "Oregon Capital Chronicle",
+        "published_at": "05/07/2026, 11:03 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 80.2,
+        "firms_frp_mw": 2.19,
+        "firms_brightness": 330.55,
+        "firms_acq_datetime": "2026-05-08 2101",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/292085/nevada_guard_builds_wildfire_response_readiness",
+        "title": "Nevada Guard builds wildfire response readiness",
+        "snippet": "",
+        "url": "https://www.army.mil/article/292085/nevada_guard_builds_wildfire_response_readiness",
+        "source": "army.mil",
+        "published_at": "04/30/2026, 09:17 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada Guard",
+        "osm_display": "Nevada Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.actionnewsnow.com/news/california-offers-70-million-in-grants-to-reduce-wildfire-risk/article_de9bcc7c-65c0-485b-b743-1379974dbf5a.html",
+        "title": "California offers $70 million in grants to reduce wildfire risk",
+        "snippet": "",
+        "url": "https://www.actionnewsnow.com/news/california-offers-70-million-in-grants-to-reduce-wildfire-risk/article_de9bcc7c-65c0-485b-b743-1379974dbf5a.html",
+        "source": "Action News Now",
+        "published_at": "05/07/2026, 07:02 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.94,
+        "firms_frp_mw": 0.73,
+        "firms_brightness": 301.09,
+        "firms_acq_datetime": "2026-05-08 0941",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.scientificamerican.com/article/nebraska-is-battling-its-largest-wildfires-in-history-worse-may-be-yet-to/",
+        "title": "Nebraska is battling its largest wildfires in history. Worse may be yet to come",
+        "snippet": "",
+        "url": "https://www.scientificamerican.com/article/nebraska-is-battling-its-largest-wildfires-in-history-worse-may-be-yet-to/",
+        "source": "Scientific American",
+        "published_at": "03/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-09T09:06:57.741051+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 19.5,
+        "firms_frp_mw": 15.61,
+        "firms_brightness": 343.08,
+        "firms_acq_datetime": "2026-05-08 1919",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-09T09:14:41.186183+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-08T09:09:38.478163+00:00",
-    "total_features": 74
+    "last_updated": "2026-05-09T09:14:41.187115+00:00",
+    "total_features": 83
   }
 }
