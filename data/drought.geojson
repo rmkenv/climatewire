@@ -4262,11 +4262,131 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-09T13:21:31.105254+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ajc.com/business/2026/04/georgia-declares-level-1-drought-urges-conservation-heres-what-to-know/",
+        "title": "Georgia declares \u2018Level 1\u2032 drought, urges conservation. Here\u2019s what to know.",
+        "snippet": "",
+        "url": "https://www.ajc.com/business/2026/04/georgia-declares-level-1-drought-urges-conservation-heres-what-to-know/",
+        "source": "AJC.com",
+        "published_at": "04/27/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-10T13:14:06.147388+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-10T13:21:47.193123+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.idahopress.com/news/idaho-declares-statewide-drought-emergency/article_8ca603e2-b03c-4a05-b29c-b9e31e7d904e.html",
+        "title": "Idaho declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.idahopress.com/news/idaho-declares-statewide-drought-emergency/article_8ca603e2-b03c-4a05-b29c-b9e31e7d904e.html",
+        "source": "Idaho Press",
+        "published_at": "04/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-10T13:14:06.147388+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-10T13:21:47.193123+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/interactive/2021/08/us/colorado-river-water-shortage/",
+        "title": "The Colorado River's shortage is a sign of a larger crisis",
+        "snippet": "",
+        "url": "https://www.cnn.com/interactive/2021/08/us/colorado-river-water-shortage/",
+        "source": "CNN",
+        "published_at": "08/21/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-10T13:14:06.147388+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "The Colorado River's",
+        "osm_display": "The Colorado River's",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-10T13:21:47.193123+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.spokesman.com/stories/2021/jul/14/inslee-declares-drought-emergency-for-vast-majorit/",
+        "title": "Inslee declares drought emergency for vast majority of Washington, says this is 'summer of climate change'",
+        "snippet": "",
+        "url": "https://www.spokesman.com/stories/2021/jul/14/inslee-declares-drought-emergency-for-vast-majorit/",
+        "source": "The Spokesman-Review",
+        "published_at": "07/14/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-10T13:14:06.147388+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-10T13:21:47.193123+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-09T13:21:31.106199+00:00",
-    "total_features": 164
+    "last_updated": "2026-05-10T13:21:47.194268+00:00",
+    "total_features": 168
   }
 }
