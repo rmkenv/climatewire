@@ -2535,11 +2535,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-09T09:14:41.186183+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13seattle.com/news/heres-where-wildfires-washington",
+        "title": "Where are the fires in WA? Here's a map of the wildfires burning across the state",
+        "snippet": "",
+        "url": "https://www.fox13seattle.com/news/heres-where-wildfires-washington",
+        "source": "FOX 13 Seattle",
+        "published_at": "10/13/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-10T09:21:21.956946+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 68.89,
+        "firms_frp_mw": 2.5,
+        "firms_brightness": 321.7,
+        "firms_acq_datetime": "2026-05-09 1058",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-10T09:29:23.825273+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-09T09:14:41.187115+00:00",
-    "total_features": 83
+    "last_updated": "2026-05-10T09:29:23.825931+00:00",
+    "total_features": 84
   }
 }
