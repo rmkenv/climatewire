@@ -4382,11 +4382,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-10T13:21:47.193123+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.popsci.com/environment/drought-emergency-water-supplier-california/",
+        "title": "The nation\u2019s largest water supplier declares a \u2018drought emergency\u2019 ahead of 2023",
+        "snippet": "",
+        "url": "https://www.popsci.com/environment/drought-emergency-water-supplier-california/",
+        "source": "Popular Science",
+        "published_at": "12/16/2022, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-11T14:45:20.803353+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-11T14:53:07.983283+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-10T13:21:47.194268+00:00",
-    "total_features": 168
+    "last_updated": "2026-05-11T14:53:07.984537+00:00",
+    "total_features": 169
   }
 }
