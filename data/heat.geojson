@@ -1496,11 +1496,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-09T10:59:08.372705+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/weather/article/austin-forecast-texas-weather-heat-dome-records-22092163.php",
+        "title": "Austin nears record highs as heat dome lingers overhead. How hot will it get across Texas?",
+        "snippet": "",
+        "url": "https://www.statesman.com/weather/article/austin-forecast-texas-weather-heat-dome-records-22092163.php",
+        "source": "Austin American-Statesman",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-11T12:34:50.207504+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-11T23:00",
+        "sensor_temp_f": 67.3,
+        "sensor_rh_pct": 83,
+        "sensor_wind_mph": 4.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 62.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-11T12:47:10.642062+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-10T11:05:41.002494+00:00",
-    "total_features": 44
+    "last_updated": "2026-05-11T12:47:10.642772+00:00",
+    "total_features": 45
   }
 }
