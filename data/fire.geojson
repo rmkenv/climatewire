@@ -2569,11 +2569,283 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-10T09:29:23.825273+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.duluthnewstribune.com/opinion/columns/local-view-prepare-now-northland-for-next-wave-of-wildfire-smoke",
+        "title": "Local View: Prepare now, Northland, for next wave of wildfire smoke",
+        "snippet": "",
+        "url": "https://www.duluthnewstribune.com/opinion/columns/local-view-prepare-now-northland-for-next-wave-of-wildfire-smoke",
+        "source": "Duluth News Tribune",
+        "published_at": "05/10/2026, 02:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Local View",
+        "osm_display": "Local View, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 63.05,
+        "firms_frp_mw": 1.34,
+        "firms_brightness": 303.43,
+        "firms_acq_datetime": "2026-05-10 0900",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672776/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington Guard Aviation trains for wildfire season [Image 1 of 7]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672776/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 10:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672965/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 10 of 10]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672965/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 10:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672797/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 8 of 11]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672797/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:55 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672766/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 11 of 11]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672766/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:55 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672821/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington Guard Aviation trains for wildfire season [Image 2 of 7]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672821/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 07:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672777/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington National Guard aviation trains for wildfire season [Image 6 of 11]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672777/behind-fireline-washington-national-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:55 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672780/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington Guard Aviation trains for wildfire season [Image 7 of 7]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672780/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 06:54 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-11T10:52:12.448467+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.68,
+        "firms_frp_mw": 0.78,
+        "firms_brightness": 300.82,
+        "firms_acq_datetime": "2026-05-10 1041",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-11T11:00:18.251924+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-10T09:29:23.825931+00:00",
-    "total_features": 84
+    "last_updated": "2026-05-11T11:00:18.252705+00:00",
+    "total_features": 92
   }
 }
