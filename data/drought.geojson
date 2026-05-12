@@ -4412,11 +4412,161 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-11T14:53:07.983283+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postregister.com/news/local/gov-little-signs-emergency-drought-declaration-for-all-of-idaho/article_3581e209-f289-46e4-bee2-72a51c51a9a9.html",
+        "title": "Gov. Little signs emergency drought declaration for all of Idaho",
+        "snippet": "",
+        "url": "https://www.postregister.com/news/local/gov-little-signs-emergency-drought-declaration-for-all-of-idaho/article_3581e209-f289-46e4-bee2-72a51c51a9a9.html",
+        "source": "Post Register",
+        "published_at": "04/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-12T14:19:55.473997+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-12T14:28:06.857520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://komonews.com/news/local/washington-declares-statewide-drought-emergency-as-near-record-low-snowpack-threatens-water-supplies-flooding-rain-storm-climate-change-snowpack-weather-forecast-water-supply-agriculture-economy-wildfire-smoke-land-farm-risk-danger-evacuation-fire-season",
+        "title": "Washington declares statewide drought emergency as dismal snowpack threatens water supply",
+        "snippet": "",
+        "url": "https://komonews.com/news/local/washington-declares-statewide-drought-emergency-as-near-record-low-snowpack-threatens-water-supplies-flooding-rain-storm-climate-change-snowpack-weather-forecast-water-supply-agriculture-economy-wildfire-smoke-land-farm-risk-danger-evacuation-fire-season",
+        "source": "KOMO",
+        "published_at": "04/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-12T14:19:55.473997+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-12T14:28:06.857520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/exceptional-drought-sparks-wave-wildfires-georgia",
+        "title": "Georgia wildfires scorch over 34,000 acres and destroy more than 50 homes as evacuations continue",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/exceptional-drought-sparks-wave-wildfires-georgia",
+        "source": "FOX Weather",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-12T14:19:55.473997+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-12T14:28:06.857520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/local/article/74-of-California-and-52-of-the-Western-U-S-now-16225433.php",
+        "title": "74% of California and 52% of the Western U.S. now in \u2018exceptional\u2019 drought",
+        "snippet": "",
+        "url": "https://www.sfchronicle.com/local/article/74-of-California-and-52-of-the-Western-U-S-now-16225433.php",
+        "source": "San Francisco Chronicle",
+        "published_at": "06/06/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-12T14:19:55.473997+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "California",
+        "osm_display": "California, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-12T14:28:06.857520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2021/05/11/us/california-drought-emergency-2021",
+        "title": "Drought emergency declared in most of California amid \u2018acute water supply shortfalls\u2019",
+        "snippet": "",
+        "url": "https://www.cnn.com/2021/05/11/us/california-drought-emergency-2021",
+        "source": "CNN",
+        "published_at": "05/11/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-12T14:19:55.473997+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-12T14:28:06.857520+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-11T14:53:07.984537+00:00",
-    "total_features": 169
+    "last_updated": "2026-05-12T14:28:06.858508+00:00",
+    "total_features": 174
   }
 }
