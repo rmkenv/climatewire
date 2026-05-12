@@ -2841,11 +2841,283 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-11T11:00:18.251924+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/videos/clyp81wp6njo",
+        "title": "Firefighters battle to contain Florida Everglades brush fire",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/videos/clyp81wp6njo",
+        "source": "BBC",
+        "published_at": "05/12/2026, 12:38 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 32.47,
+        "firms_frp_mw": 4.84,
+        "firms_brightness": 345.88,
+        "firms_acq_datetime": "2026-05-11 1819",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wilx.com/2026/05/11/crews-continue-battle-195-acre-wildfire-northern-michigan/",
+        "title": "Crews continue to battle 195-acre wildfire in Northern Michigan",
+        "snippet": "",
+        "url": "https://www.wilx.com/2026/05/11/crews-continue-battle-195-acre-wildfire-northern-michigan/",
+        "source": "WILX",
+        "published_at": "05/11/2026, 04:32 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Northern Michigan",
+        "osm_display": "Northern Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 88.38,
+        "firms_frp_mw": 5.21,
+        "firms_brightness": 344.34,
+        "firms_acq_datetime": "2026-05-11 1824",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672811/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington Guard Aviation trains for wildfire season [Image 5 of 7]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672811/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 10:13 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Behind",
+        "osm_display": "Behind, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.64,
+        "firms_frp_mw": 3.37,
+        "firms_brightness": 367.0,
+        "firms_acq_datetime": "2026-05-11 2008",
+        "firms_confidence": "high",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9672769/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "title": "Behind the fireline: Washington Guard Aviation trains for wildfire season [Image 6 of 7]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9672769/behind-fireline-washington-guard-aviation-trains-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/08/2026, 10:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.64,
+        "firms_frp_mw": 3.37,
+        "firms_brightness": 367.0,
+        "firms_acq_datetime": "2026-05-11 2008",
+        "firms_confidence": "high",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.abplive.com/short-videos/news/world-florida-wildfire-massive-blaze-engulfs-forest-areas-in-the-united-states-1843034",
+        "title": "Florida Wildfire: Massive Blaze Engulfs Forest Areas in the United States",
+        "snippet": "",
+        "url": "https://news.abplive.com/short-videos/news/world-florida-wildfire-massive-blaze-engulfs-forest-areas-in-the-united-states-1843034",
+        "source": "ABP News",
+        "published_at": "05/12/2026, 06:24 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 32.47,
+        "firms_frp_mw": 4.84,
+        "firms_brightness": 345.88,
+        "firms_acq_datetime": "2026-05-11 1819",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/wildfires-destroy-nearly-50-homes-in-georgia-as-blazes-grow-in-florida",
+        "title": "Wildfires destroy nearly 50 homes in Georgia as blazes grow in Florida",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/wildfires-destroy-nearly-50-homes-in-georgia-as-blazes-grow-in-florida",
+        "source": "PBS",
+        "published_at": "04/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 42.84,
+        "firms_frp_mw": 4.98,
+        "firms_brightness": 330.94,
+        "firms_acq_datetime": "2026-05-11 1821",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news4jax.com/news/georgia/2026/04/24/gov-kemp-says-balloon-hitting-powerline-sparked-largest-wildfire-in-georgia-history-in-brantley-county/",
+        "title": "Gov. Kemp says balloon hitting powerline sparked Brantley wildfire, one of the most devastating in Georgia\u2019s history",
+        "snippet": "",
+        "url": "https://www.news4jax.com/news/georgia/2026/04/24/gov-kemp-says-balloon-hitting-powerline-sparked-largest-wildfire-in-georgia-history-in-brantley-county/",
+        "source": "News4JAX",
+        "published_at": "04/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Brantley",
+        "osm_display": "Brantley, Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 42.84,
+        "firms_frp_mw": 4.98,
+        "firms_brightness": 330.94,
+        "firms_acq_datetime": "2026-05-11 1821",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pnj.com/story/weather/2026/04/23/pensacola-wildfire-risk-map/89750292007/",
+        "title": "Florida wildfire maps show where Pensacola's risk is highest",
+        "snippet": "",
+        "url": "https://www.pnj.com/story/weather/2026/04/23/pensacola-wildfire-risk-map/89750292007/",
+        "source": "Pensacola News Journal",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-12T10:23:01.485472+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 32.47,
+        "firms_frp_mw": 4.84,
+        "firms_brightness": 345.88,
+        "firms_acq_datetime": "2026-05-11 1819",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-12T10:30:13.316770+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-11T11:00:18.252705+00:00",
-    "total_features": 92
+    "last_updated": "2026-05-12T10:30:13.317674+00:00",
+    "total_features": 100
   }
 }
