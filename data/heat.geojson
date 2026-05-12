@@ -1530,11 +1530,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-11T12:47:10.642062+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.desertsun.com/story/weather/2025/08/06/heat-wave-heat-dome-california-records-palm-springs-victorville-needles-imperial-phoenix-arizona/85542161007/",
+        "title": "Heat wave in Southern California to push temps to 117. How hot will it get near you? See map",
+        "snippet": "",
+        "url": "https://www.desertsun.com/story/weather/2025/08/06/heat-wave-heat-dome-california-records-palm-springs-victorville-needles-imperial-phoenix-arizona/85542161007/",
+        "source": "The Desert Sun",
+        "published_at": "08/06/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-12T11:46:56.561080+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-12T12:00:15.432102+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-11T12:47:10.642772+00:00",
-    "total_features": 45
+    "last_updated": "2026-05-12T12:00:15.436679+00:00",
+    "total_features": 46
   }
 }
