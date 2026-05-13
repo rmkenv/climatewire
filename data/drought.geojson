@@ -4562,11 +4562,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-12T14:28:06.857520+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-expands-across-colorado-severe-conditions-deepen-eastern-plains",
+        "title": "Exceptional drought expands across Colorado as severe conditions deepen on eastern plains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-expands-across-colorado-severe-conditions-deepen-eastern-plains",
+        "source": "Kiowa County Press",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-13T14:28:40.943687+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-13T14:36:34.007033+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-12T14:28:06.858508+00:00",
-    "total_features": 174
+    "last_updated": "2026-05-13T14:36:34.008392+00:00",
+    "total_features": 175
   }
 }
