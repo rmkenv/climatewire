@@ -1036,11 +1036,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-05-08T12:14:58.357659+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hppr.org/hppr-news/2023-09-01/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma",
+        "title": "Nationwide analysis of water wells shows groundwater decline in Oklahoma",
+        "snippet": "",
+        "url": "https://www.hppr.org/hppr-news/2023-09-01/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma",
+        "source": "HPPR",
+        "published_at": "09/01/2023, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-13T13:12:35.536277+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "07242380",
+        "usgs_streamflow_name": "Deep Fork at Warwick, OK",
+        "usgs_streamflow_dist_km": 14.72,
+        "usgs_streamflow_cfs": 44.4,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-13T13:17:28.470092+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-05-12T13:08:52.383719+00:00",
-    "total_features": 34
+    "last_updated": "2026-05-13T13:17:28.470689+00:00",
+    "total_features": 35
   }
 }
