@@ -3283,11 +3283,147 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-13T10:20:11.063379+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://newsroom.statefarm.com/state-farm-is-here-to-help-california-customers-impacted-by-wildfires/",
+        "title": "State Farm LA Wildfire Response",
+        "snippet": "",
+        "url": "https://newsroom.statefarm.com/state-farm-is-here-to-help-california-customers-impacted-by-wildfires/",
+        "source": "State Farm",
+        "published_at": "05/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-14T10:04:53.162787+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-14T10:13:18.854733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/05/07/federal-wildfire-response-fire-season-oregon-democrats-congress/",
+        "title": "Oregon\u2019s congressional Democrats raise concerns about federal wildfire response in the Northwest",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/05/07/federal-wildfire-response-fire-season-oregon-democrats-congress/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "05/07/2026, 05:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-14T10:04:53.162787+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 85.26,
+        "firms_frp_mw": 2.16,
+        "firms_brightness": 329.12,
+        "firms_acq_datetime": "2026-05-13 2110",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-14T10:13:18.854733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-04-14/large-wildfire-outlook-for-wyoming-increases-amid-dry-conditions",
+        "title": "Large wildfire outlook for Wyoming increases amid dry conditions",
+        "snippet": "",
+        "url": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-04-14/large-wildfire-outlook-for-wyoming-increases-amid-dry-conditions",
+        "source": "Wyoming Public Media",
+        "published_at": "04/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-14T10:04:53.162787+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wyoming",
+        "osm_display": "Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-14T10:13:18.854733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gov.ca.gov/2025/07/08/governor-newsom-deploys-firefighter-strike-team-to-support-oregon-wildfire-response/",
+        "title": "Governor Newsom deploys firefighter strike team to support Oregon wildfire response",
+        "snippet": "",
+        "url": "https://www.gov.ca.gov/2025/07/08/governor-newsom-deploys-firefighter-strike-team-to-support-oregon-wildfire-response/",
+        "source": "California State Portal | CA.gov",
+        "published_at": "07/08/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-14T10:04:53.162787+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 85.26,
+        "firms_frp_mw": 2.16,
+        "firms_brightness": 329.12,
+        "firms_acq_datetime": "2026-05-13 2110",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-14T10:13:18.854733+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-13T10:20:11.064346+00:00",
-    "total_features": 105
+    "last_updated": "2026-05-14T10:13:18.855609+00:00",
+    "total_features": 109
   }
 }
