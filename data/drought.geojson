@@ -4592,11 +4592,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-13T14:36:34.007033+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/local/central-oregon-drought-emergency-all-counties/article_0559c145-6c1f-4150-b12d-1b06750d2f5e.html",
+        "title": "All Central Oregon counties now under state drought emergency",
+        "snippet": "",
+        "url": "https://www.centraloregondaily.com/news/local/central-oregon-drought-emergency-all-counties/article_0559c145-6c1f-4150-b12d-1b06750d2f5e.html",
+        "source": "Central Oregon Daily",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-14T14:05:29.754765+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-14T14:13:02.270939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://idahobusinessreview.com/2026/04/15/idaho-declares-statewide-drought-emergency-record-low-snowpack/",
+        "title": "Idaho declares statewide drought emergency after record-low snowpack",
+        "snippet": "",
+        "url": "https://idahobusinessreview.com/2026/04/15/idaho-declares-statewide-drought-emergency-record-low-snowpack/",
+        "source": "Idaho Business Review",
+        "published_at": "04/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-14T14:05:29.754765+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-14T14:13:02.270939+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-13T14:36:34.008392+00:00",
-    "total_features": 175
+    "last_updated": "2026-05-14T14:13:02.272747+00:00",
+    "total_features": 177
   }
 }
