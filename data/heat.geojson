@@ -1564,11 +1564,45 @@
         "wbgt_flag": null,
         "run_at": "2026-05-12T12:00:15.432102+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/destructive-thunderstorms-hit-midwest-extreme-heat-dome-puts/story?id=124165297",
+        "title": "Extreme heat dome puts 170 million Americans in danger for hot, humid temperatures",
+        "snippet": "",
+        "url": "https://abcnews.com/US/destructive-thunderstorms-hit-midwest-extreme-heat-dome-puts/story?id=124165297",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "02/11/2026, 11:16 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-14T11:43:14.907183+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest",
+        "osm_display": "midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-14T23:00",
+        "sensor_temp_f": 61.0,
+        "sensor_rh_pct": 30,
+        "sensor_wind_mph": 5.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 48.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-14T11:56:07.652013+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-13T12:07:05.474232+00:00",
-    "total_features": 46
+    "last_updated": "2026-05-14T11:56:07.652716+00:00",
+    "total_features": 47
   }
 }
