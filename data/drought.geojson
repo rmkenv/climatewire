@@ -4652,11 +4652,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-14T14:13:02.270939+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-engulfs-mountain-counties-colorado-hits-100-percent-drought-coverage",
+        "title": "Exceptional drought engulfs mountain counties as Colorado hits 100 percent drought coverage",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-engulfs-mountain-counties-colorado-hits-100-percent-drought-coverage",
+        "source": "Kiowa County Press",
+        "published_at": "04/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-15T14:02:13.072122+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-15T14:10:27.801536+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-14T14:13:02.272747+00:00",
-    "total_features": 177
+    "last_updated": "2026-05-15T14:10:27.802950+00:00",
+    "total_features": 178
   }
 }
