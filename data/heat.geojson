@@ -1598,11 +1598,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-14T11:56:07.652013+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/weather/article/texas-heat-dome-100-degrees-wildfire-risk-22255140.php",
+        "title": "Parts of Texas could see their first 100-degree days this week",
+        "snippet": "",
+        "url": "https://www.statesman.com/weather/article/texas-heat-dome-100-degrees-wildfire-risk-22255140.php",
+        "source": "Austin American-Statesman",
+        "published_at": "05/13/2026, 01:13 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-15T11:46:31.510003+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-05-15T23:00",
+        "sensor_temp_f": 74.5,
+        "sensor_rh_pct": 74,
+        "sensor_wind_mph": 4.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-15T11:58:54.505826+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-14T11:56:07.652716+00:00",
-    "total_features": 47
+    "last_updated": "2026-05-15T11:58:54.506613+00:00",
+    "total_features": 48
   }
 }
