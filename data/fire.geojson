@@ -3419,11 +3419,215 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-14T10:13:18.854733+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc12.com/news/state/northern-michigan-wildfire-fully-contained-at-190-acres/article_1083c74f-9d89-47b2-afbc-c4cae95f1d1a.html",
+        "title": "Northern Michigan wildfire fully contained at 190 acres",
+        "snippet": "",
+        "url": "https://www.abc12.com/news/state/northern-michigan-wildfire-fully-contained-at-190-acres/article_1083c74f-9d89-47b2-afbc-c4cae95f1d1a.html",
+        "source": "WJRT ABC12",
+        "published_at": "05/14/2026, 06:44 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-15T10:12:05.306594+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Northern Michigan",
+        "osm_display": "Northern Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": 64.33,
+        "firms_frp_mw": 4.84,
+        "firms_brightness": 342.77,
+        "firms_acq_datetime": "2026-05-14 1728",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-15T10:18:33.828044+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.war.gov/News/News-Stories/Article/Article/4484298/washington-national-guard-aviation-crews-train-for-wildfire-season/",
+        "title": "Washington National Guard Aviation Crews Train for Wildfire Season",
+        "snippet": "",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/4484298/washington-national-guard-aviation-crews-train-for-wildfire-season/",
+        "source": "U.S. Department of War (.gov)",
+        "published_at": "05/12/2026, 05:22 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-15T10:12:05.306594+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington National Guard Aviation Crews Train",
+        "osm_display": "Washington National Guard Aviation Crews Train",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-15T10:18:33.828044+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/292343/washington_guard_trains_with_firefighters_ahead_of_wildfire_season",
+        "title": "Washington Guard trains with firefighters ahead of wildfire season",
+        "snippet": "",
+        "url": "https://www.army.mil/article/292343/washington_guard_trains_with_firefighters_ahead_of_wildfire_season",
+        "source": "army.mil",
+        "published_at": "05/11/2026, 02:54 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-15T10:12:05.306594+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington Guard",
+        "osm_display": "Washington Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-15T10:18:33.828044+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/2026/05/12/fire-everglades-florida-broward-max-road-fire/90040791007/",
+        "title": "Everglades fire update: Over 11,000 acres burned in South Florida",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/2026/05/12/fire-everglades-florida-broward-max-road-fire/90040791007/",
+        "source": "USA Today",
+        "published_at": "05/12/2026, 01:08 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-15T10:12:05.306594+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "South Florida",
+        "osm_display": "South Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": 9.7,
+        "firms_frp_mw": 8.6,
+        "firms_brightness": 342.96,
+        "firms_acq_datetime": "2026-05-14 1904",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-15T10:18:33.828044+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-national-fire-florida",
+        "title": "Wildfire Map Spotlight: National Fire, Florida",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-national-fire-florida",
+        "source": "IQAir",
+        "published_at": "03/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-15T10:12:05.306594+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 9.7,
+        "firms_frp_mw": 8.6,
+        "firms_brightness": 342.96,
+        "firms_acq_datetime": "2026-05-14 1904",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-15T10:18:33.828044+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://stateline.org/2025/08/28/immigration-raid-at-washington-blaze-stokes-fear-in-wildfire-crews-nationwide/",
+        "title": "Immigration raid at Washington blaze stokes fear in wildfire crews nationwide",
+        "snippet": "",
+        "url": "https://stateline.org/2025/08/28/immigration-raid-at-washington-blaze-stokes-fear-in-wildfire-crews-nationwide/",
+        "source": "Stateline",
+        "published_at": "08/28/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-15T10:12:05.306594+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-15T10:18:33.828044+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-14T10:13:18.855609+00:00",
-    "total_features": 109
+    "last_updated": "2026-05-15T10:18:33.828836+00:00",
+    "total_features": 115
   }
 }
