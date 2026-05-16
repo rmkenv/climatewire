@@ -1632,11 +1632,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-15T11:58:54.505826+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/indiana-see-heat-dome-know-144628739.html",
+        "title": "Will Indiana see a heat dome? What to know on spring forecast",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/articles/indiana-see-heat-dome-know-144628739.html",
+        "source": "Yahoo",
+        "published_at": "03/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-16T10:54:03.691599+00:00",
+        "outlet_region": "Indiana",
+        "mention_text": "indiana",
+        "osm_display": "indiana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-16T11:07:03.638570+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/weather/article/austin-forecast-texas-weather-heat-dome-records-22092163.php",
+        "title": "Austin bakes as heat dome lingers overhead. How hot will it get?",
+        "snippet": "",
+        "url": "https://www.statesman.com/weather/article/austin-forecast-texas-weather-heat-dome-records-22092163.php",
+        "source": "Austin American-Statesman",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-16T10:54:03.691599+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-16T23:00",
+        "sensor_temp_f": 73.6,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 16.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 62.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-16T11:07:03.638570+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-15T11:58:54.506613+00:00",
-    "total_features": 48
+    "last_updated": "2026-05-16T11:07:03.639299+00:00",
+    "total_features": 50
   }
 }
