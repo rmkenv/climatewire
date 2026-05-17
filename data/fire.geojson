@@ -3657,11 +3657,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-16T09:27:05.377644+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      },
+      "properties": {
+        "article_id": "https://thehotshotwakeup.substack.com/p/the-line-fire-in-new-mexico-runs",
+        "title": "The Line Fire In New Mexico Runs 23,000 Acres, Preparedness Levels Rise, Alaska Finds A Few Fires, And Alberta Pops Off.",
+        "snippet": "",
+        "url": "https://thehotshotwakeup.substack.com/p/the-line-fire-in-new-mexico-runs",
+        "source": "The Hotshot Wake Up",
+        "published_at": "05/15/2026, 04:39 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-17T09:26:52.874616+00:00",
+        "outlet_region": "New Mexico",
+        "mention_text": "Alaska",
+        "osm_display": "Alaska, New Mexico",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-17T09:34:40.480174+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gov.ca.gov/2025/09/09/trumps-fires-california-fills-federal-void-as-mega-fires-spread-on-neglected-federal-lands/",
+        "title": "Trump\u2019s fires: California fills federal void as mega-fires spread on neglected federal lands",
+        "snippet": "",
+        "url": "https://www.gov.ca.gov/2025/09/09/trumps-fires-california-fills-federal-void-as-mega-fires-spread-on-neglected-federal-lands/",
+        "source": "California State Portal | CA.gov",
+        "published_at": "09/09/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-17T09:26:52.874616+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 23.24,
+        "firms_frp_mw": 26.23,
+        "firms_brightness": 367.0,
+        "firms_acq_datetime": "2026-05-16 2153",
+        "firms_confidence": "high",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-17T09:34:40.480174+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-16T09:27:05.378488+00:00",
-    "total_features": 116
+    "last_updated": "2026-05-17T09:34:40.481119+00:00",
+    "total_features": 118
   }
 }
