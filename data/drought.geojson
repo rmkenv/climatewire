@@ -4682,11 +4682,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-15T14:10:27.801536+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/05/16/exceptional-drought-returns-to-texas-panhandle-and-western-oklahoma-for-first-time-since-july-2023/",
+        "title": "Exceptional drought returns to Texas Panhandle and western Oklahoma for first time since July 2023",
+        "snippet": "",
+        "url": "https://watchers.news/2026/05/16/exceptional-drought-returns-to-texas-panhandle-and-western-oklahoma-for-first-time-since-july-2023/",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "published_at": "05/16/2026, 03:10 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-17T13:15:46.559955+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-17T13:23:36.340724+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-16T13:25:10.458872+00:00",
-    "total_features": 178
+    "last_updated": "2026-05-17T13:23:36.342017+00:00",
+    "total_features": 179
   }
 }
