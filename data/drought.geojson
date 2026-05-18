@@ -4712,11 +4712,131 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-17T13:23:36.340724+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dnews.com/local-news/idaho-declares-statewide-drought-emergency-a52b63dd",
+        "title": "Idaho declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.dnews.com/local-news/idaho-declares-statewide-drought-emergency-a52b63dd",
+        "source": "Moscow-Pullman Daily News",
+        "published_at": "04/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-18T15:27:21.685775+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-18T15:34:54.608248+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kpvi.com/news/local_news/governor-brad-little-signs-emergency-drought-declaration-for-idaho/article_1d39a150-f527-4b27-850d-55f5c62e543d.html",
+        "title": "Governor Brad Little Signs Emergency Drought Declaration for Idaho",
+        "snippet": "",
+        "url": "https://www.kpvi.com/news/local_news/governor-brad-little-signs-emergency-drought-declaration-for-idaho/article_1d39a150-f527-4b27-850d-55f5c62e543d.html",
+        "source": "KPVI",
+        "published_at": "04/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-18T15:27:21.685775+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-18T15:34:54.608248+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.agriculture.com/colorado-drought-worsens-as-snowpack-hits-record-low-11943049",
+        "title": "Colorado Drought Worsens as Snowpack Hits Record Low",
+        "snippet": "",
+        "url": "https://www.agriculture.com/colorado-drought-worsens-as-snowpack-hits-record-low-11943049",
+        "source": "Successful Farming",
+        "published_at": "04/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-18T15:27:21.685775+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-18T15:34:54.608248+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/outdoors/modified-phase-ii-severe-water-shortage-northeast-florida/",
+        "title": "Officials implement 'Phase II' amid severe water shortage: 'Maybe they shouldn't have built all those new apartments and houses'",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/outdoors/modified-phase-ii-severe-water-shortage-northeast-florida/",
+        "source": "The Cool Down",
+        "published_at": "03/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-18T15:27:21.685775+00:00",
+        "outlet_region": null,
+        "mention_text": "florida",
+        "osm_display": "florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-18T15:34:54.608248+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-17T13:23:36.342017+00:00",
-    "total_features": 179
+    "last_updated": "2026-05-18T15:34:54.609389+00:00",
+    "total_features": 183
   }
 }
