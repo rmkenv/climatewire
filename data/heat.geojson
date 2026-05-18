@@ -1700,11 +1700,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-16T11:07:03.638570+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://science.nasa.gov/earth/earth-observatory/heat-scorches-us-southwest-152914/",
+        "title": "Heat Scorches U.S. Southwest",
+        "snippet": "",
+        "url": "https://science.nasa.gov/earth/earth-observatory/heat-scorches-us-southwest-152914/",
+        "source": "NASA Science (.gov)",
+        "published_at": "12/01/2025, 10:52 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-18T12:59:57.924593+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwest",
+        "osm_display": "Southwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-18T13:12:03.069077+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.inquirer.com/weather/philadelphia-weather-heat-dome-forecast-20250728.html",
+        "title": "A heat dome is blanketing Philly, but a break is on the horizon",
+        "snippet": "",
+        "url": "https://www.inquirer.com/weather/philadelphia-weather-heat-dome-forecast-20250728.html",
+        "source": "Inquirer.com",
+        "published_at": "07/28/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-18T12:59:57.924593+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "philadelphia",
+        "osm_display": "philadelphia, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-05-18T23:00",
+        "sensor_temp_f": 76.5,
+        "sensor_rh_pct": 39,
+        "sensor_wind_mph": 0.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-05-18T13:12:03.069077+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-17T11:10:44.593010+00:00",
-    "total_features": 50
+    "last_updated": "2026-05-18T13:12:03.069860+00:00",
+    "total_features": 52
   }
 }
