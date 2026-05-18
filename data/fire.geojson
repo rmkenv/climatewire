@@ -3725,11 +3725,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-17T09:34:40.480174+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koaa.com/news/local-news/campo-colorado-ordered-to-evacuate-due-to-a-fast-moving-wildfire",
+        "title": "Campo, Colorado, ordered to evacuate due to a fast-moving wildfire",
+        "snippet": "",
+        "url": "https://www.koaa.com/news/local-news/campo-colorado-ordered-to-evacuate-due-to-a-fast-moving-wildfire",
+        "source": "KOAA News 5",
+        "published_at": "05/18/2026, 03:40 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-18T11:36:44.847263+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Campo",
+        "osm_display": "Campo, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.87,
+        "firms_frp_mw": 0.56,
+        "firms_brightness": 299.03,
+        "firms_acq_datetime": "2026-05-17 0830",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-18T11:44:56.254401+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/weather/2026/04/23/track-wildfires-in-texas-as-fire-weather-concerns-rise-wildfire-map/89750183007/",
+        "title": "Texas wildfire map shows growing fire risk as red flag warnings expand",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/weather/2026/04/23/track-wildfires-in-texas-as-fire-weather-concerns-rise-wildfire-map/89750183007/",
+        "source": "USA Today",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-18T11:36:44.847263+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "red_flag_warning",
+        "firms_dist_km": 56.58,
+        "firms_frp_mw": 0.42,
+        "firms_brightness": 303.61,
+        "firms_acq_datetime": "2026-05-17 0833",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-18T11:44:56.254401+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-17T09:34:40.481119+00:00",
-    "total_features": 118
+    "last_updated": "2026-05-18T11:44:56.255405+00:00",
+    "total_features": 120
   }
 }
