@@ -4832,11 +4832,131 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-18T15:34:54.608248+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/04/30/nx-s1-5746152/corpus-christi-water",
+        "title": "Texas coastal city faces worsening water shortage due to prolonged drought",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/04/30/nx-s1-5746152/corpus-christi-water",
+        "source": "NPR",
+        "published_at": "04/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-19T14:56:59.498166+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-19T15:04:42.403211+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://ca.news.yahoo.com/canada-chilly-pattern-help-bust-174346351.html",
+        "title": "Will Canada\u2019s chilly pattern help bust Florida\u2019s exceptional drought?",
+        "snippet": "",
+        "url": "https://ca.news.yahoo.com/canada-chilly-pattern-help-bust-174346351.html",
+        "source": "Yahoo News Canada",
+        "published_at": "05/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-19T14:56:59.498166+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-19T15:04:42.403211+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/one-third-of-oregon-now-under-drought-emergency-as-snowpack-shortfall-fuels-farm-and-wildfire-fears/ar-AA23jq0J?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+        "title": "One-third of Oregon now under drought emergency as snowpack shortfall fuels farm and wildfire fears",
+        "snippet": "",
+        "url": "https://www.msn.com/en-us/weather/topstories/one-third-of-oregon-now-under-drought-emergency-as-snowpack-shortfall-fuels-farm-and-wildfire-fears/ar-AA23jq0J?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+        "source": "MSN",
+        "published_at": "05/15/2026, 11:18 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-19T14:56:59.498166+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-19T15:04:42.403211+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.idahocountyfreepress.com/news/state/idaho-declares-statewide-drought-emergency/article_ff740676-d806-5905-b59d-a36ca3fc6c80.html",
+        "title": "Idaho declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.idahocountyfreepress.com/news/state/idaho-declares-statewide-drought-emergency/article_ff740676-d806-5905-b59d-a36ca3fc6c80.html",
+        "source": "Idaho County Free Press",
+        "published_at": "04/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-19T14:56:59.498166+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-19T15:04:42.403211+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-18T15:34:54.609389+00:00",
-    "total_features": 183
+    "last_updated": "2026-05-19T15:04:42.404497+00:00",
+    "total_features": 187
   }
 }
