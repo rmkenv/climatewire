@@ -4439,11 +4439,521 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-05-19T11:00:22.743301+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/may/19/simi-valley-california-wildfire-evacuation",
+        "title": "Thousands under evacuation orders in southern California as wildfire threatens homes",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/may/19/simi-valley-california-wildfire-evacuation",
+        "source": "The Guardian",
+        "published_at": "05/19/2026, 08:19 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reutersconnect.com/item/california-wildfire-burns-over-1300-acres-thousands-evacuated/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUFlZT0pE",
+        "title": "Licensable picture: California wildfire burns over 1,300 acres, thousands evacuated",
+        "snippet": "",
+        "url": "https://www.reutersconnect.com/item/california-wildfire-burns-over-1300-acres-thousands-evacuated/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUFlZT0pE",
+        "source": "Reuters Connect",
+        "published_at": "05/19/2026, 11:25 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/292653/wyoming_agencies_strengthen_coordination_ahead_of_wildfire_season",
+        "title": "Wyoming agencies strengthen coordination ahead of wildfire season",
+        "snippet": "",
+        "url": "https://www.army.mil/article/292653/wyoming_agencies_strengthen_coordination_ahead_of_wildfire_season",
+        "source": "army.mil",
+        "published_at": "05/19/2026, 02:48 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wyoming",
+        "osm_display": "Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.9,
+        "firms_frp_mw": 3.03,
+        "firms_brightness": 299.1,
+        "firms_acq_datetime": "2026-05-19 0932",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.elpasotimes.com/story/weather/2026/05/19/active-wildfires-in-texas-new-mexico-see-wildfire-map/90159487007/",
+        "title": "Track active wildfires as crews battle blazes in Texas, New Mexico",
+        "snippet": "",
+        "url": "https://www.elpasotimes.com/story/weather/2026/05/19/active-wildfires-in-texas-new-mexico-see-wildfire-map/90159487007/",
+        "source": "El Paso Times",
+        "published_at": "05/19/2026, 08:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332071,
+          47.606209
+        ]
+      },
+      "properties": {
+        "article_id": "https://komonews.com/news/local/wildfire-smoke-drives-seattle-tacoma-into-top-10-metros-for-short-term-particle-pollution-american-lung-association-2026-state-of-the-air-report-quality-health-breathing-problems-hazy-skies",
+        "title": "Seattle-Tacoma ranks 8th worst in US for daily particle pollution, tied to wildfire smoke",
+        "snippet": "",
+        "url": "https://komonews.com/news/local/wildfire-smoke-drives-seattle-tacoma-into-top-10-metros-for-short-term-particle-pollution-american-lung-association-2026-state-of-the-air-report-quality-health-breathing-problems-hazy-skies",
+        "source": "KOMO",
+        "published_at": "05/19/2026, 12:47 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": null,
+        "mention_text": "Seattle",
+        "osm_display": "Seattle",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 70.06,
+        "firms_frp_mw": 0.32,
+        "firms_brightness": 295.0,
+        "firms_acq_datetime": "2026-05-19 0932",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reuters.com/pictures/helicopters-battle-californias-sandy-fire-blaze-forces-evacuations-2026-05-19/",
+        "title": "Helicopters battle California\u2019s Sandy fire as blaze forces evacuations",
+        "snippet": "",
+        "url": "https://www.reuters.com/pictures/helicopters-battle-californias-sandy-fire-blaze-forces-evacuations-2026-05-19/",
+        "source": "Reuters",
+        "published_at": "05/19/2026, 06:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "Helicopters",
+        "osm_display": "Helicopters, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forbes.com/sites/zacharyfolk/2026/05/18/ronald-reagan-presidential-library-evacuated-as-brush-fire-threatens-california/",
+        "title": "Wildfire in California Forces Evacuations At Reagan Presidential Library",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/18/ronald-reagan-presidential-library-evacuated-as-brush-fire-threatens-california/",
+        "source": "Forbes",
+        "published_at": "05/18/2026, 08:42 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bostonglobe.com/2026/05/19/nation/sandy-fire-simi-valley-california/",
+        "title": "More than 17,000 under evacuation orders as Southern California wildfire threatens homes",
+        "snippet": "",
+        "url": "https://www.bostonglobe.com/2026/05/19/nation/sandy-fire-simi-valley-california/",
+        "source": "The Boston Globe",
+        "published_at": "05/19/2026, 01:23 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.music-news.com/news/UK/188997/Bret-Michaels-shares-fears-over-California-wildfire",
+        "title": "Bret Michaels shares fears over California wildfire",
+        "snippet": "",
+        "url": "https://www.music-news.com/news/UK/188997/Bret-Michaels-shares-fears-over-California-wildfire",
+        "source": "Music-News.com",
+        "published_at": "05/20/2026, 12:12 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/drought-severe-weather-fuel-wildfires-across-plains-california-evacuations",
+        "title": "Thousands of acres charred across the US as new wildfires erupt, forcing evacuations and threatening homes",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/drought-severe-weather-fuel-wildfires-across-plains-california-evacuations",
+        "source": "FOX Weather",
+        "published_at": "05/19/2026, 03:45 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestkittsnevisobserver.com/united-states-governor-abbott-announces-federal-assistance-for-stinky-fire-in-texas-panhandle/",
+        "title": "United States: Governor Abbott Announces Federal Assistance For Stinky Fire In Texas Panhandle",
+        "snippet": "",
+        "url": "https://www.thestkittsnevisobserver.com/united-states-governor-abbott-announces-federal-assistance-for-stinky-fire-in-texas-panhandle/",
+        "source": "The St Kitts Nevis Observer",
+        "published_at": "05/20/2026, 01:51 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.az/news/thousands-evacuated-as-california-wildfire-burns-over-1-300-acres-video",
+        "title": "Thousands evacuated as California wildfire burns over 1,300 acres - VIDEO",
+        "snippet": "",
+        "url": "https://news.az/news/thousands-evacuated-as-california-wildfire-burns-over-1-300-acres-video",
+        "source": "Latest news from Azerbaijan",
+        "published_at": "05/19/2026, 12:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4471353/georgia-guard-helps-fight-wildfires-in-south-georgia/",
+        "title": "Georgia Guard Helps Fight Wildfires in South Georgia",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4471353/georgia-guard-helps-fight-wildfires-in-south-georgia/",
+        "source": "nationalguard.mil",
+        "published_at": "04/27/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "South Georgia News",
+        "osm_display": "South Georgia News",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.97,
+        "firms_frp_mw": 0.86,
+        "firms_brightness": 300.97,
+        "firms_acq_datetime": "2026-05-19 0752",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/more-than-17000-under-evacuation-orders-as-southern-california-wildfire-threatens-homes/article_fbea4ee5-e676-567a-9c04-d8520779349d.html",
+        "title": "More than 17,000 under evacuation orders as Southern California wildfire threatens homes",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/more-than-17000-under-evacuation-orders-as-southern-california-wildfire-threatens-homes/article_fbea4ee5-e676-567a-9c04-d8520779349d.html",
+        "source": "Toronto Star",
+        "published_at": "05/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/05/19/largest-wildfire-in-santa-rosa-island-history-burns-more-than-5-900-ha-14-600-acres-threatening-rare-torrey-pines-california/",
+        "title": "Largest wildfire in Santa Rosa Island history burns more than 5 900 ha (14 600 acres), threatening rare Torrey pines, California",
+        "snippet": "",
+        "url": "https://watchers.news/2026/05/19/largest-wildfire-in-santa-rosa-island-history-burns-more-than-5-900-ha-14-600-acres-threatening-rare-torrey-pines-california/",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "published_at": "05/19/2026, 09:57 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-20T10:41:18.228166+00:00",
+        "outlet_region": "California",
+        "mention_text": "Santa Rosa Island",
+        "osm_display": "Santa Rosa Island, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.81,
+        "firms_frp_mw": 2.36,
+        "firms_brightness": 313.78,
+        "firms_acq_datetime": "2026-05-19 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-20T10:48:25.823860+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-19T11:00:22.744315+00:00",
-    "total_features": 139
+    "last_updated": "2026-05-20T10:48:25.825136+00:00",
+    "total_features": 154
   }
 }
