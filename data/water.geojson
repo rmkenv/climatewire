@@ -1071,11 +1071,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-05-13T13:17:28.470092+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysanantonio.com/food/article/texas-roadhouse-water-restrictions-22228011.php",
+        "title": "Texas Roadhouse made a big change to water service \u2014 here's where",
+        "snippet": "",
+        "url": "https://www.mysanantonio.com/food/article/texas-roadhouse-water-restrictions-22228011.php",
+        "source": "MySA",
+        "published_at": "04/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-05-21T14:15:33.916255+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "08104055",
+        "usgs_streamflow_name": "Chalk Ridge Falls Spgs nr Belton, TX",
+        "usgs_streamflow_dist_km": 5.39,
+        "usgs_streamflow_cfs": 0.68,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-05-21T14:20:33.283459+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-05-20T13:44:24.263214+00:00",
-    "total_features": 35
+    "last_updated": "2026-05-21T14:20:33.284078+00:00",
+    "total_features": 36
   }
 }
