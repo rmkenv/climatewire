@@ -4949,11 +4949,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-20T10:48:25.823860+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reutersconnect.com/item/california-wildfire-burns-over-1300-acres-thousands-evacuated/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUFlZT0pG",
+        "title": "Licensable picture: California wildfire burns over 1,300 acres, thousands evacuated",
+        "snippet": "",
+        "url": "https://www.reutersconnect.com/item/california-wildfire-burns-over-1300-acres-thousands-evacuated/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUFlZT0pG",
+        "source": "Reuters Connect",
+        "published_at": "05/19/2026, 11:25 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-21T10:57:49.049893+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.8,
+        "firms_frp_mw": 1.27,
+        "firms_brightness": 311.4,
+        "firms_acq_datetime": "2026-05-20 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-21T11:05:24.682246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbclosangeles.com/news/california-wildfires/wildfire-smoke-advisory-socal/3892548/",
+        "title": "Brush fires trigger smoke advisories in Southern California",
+        "snippet": "",
+        "url": "https://www.nbclosangeles.com/news/california-wildfires/wildfire-smoke-advisory-socal/3892548/",
+        "source": "NBC Los Angeles",
+        "published_at": "05/20/2026, 04:50 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-21T10:57:49.049893+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.8,
+        "firms_frp_mw": 1.27,
+        "firms_brightness": 311.4,
+        "firms_acq_datetime": "2026-05-20 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-21T11:05:24.682246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/weather/2026/05/20/california-wildfire-updates-cal-fire-maps-containment/90173549007/",
+        "title": "Fires in California today. Here is the latest on containment",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/weather/2026/05/20/california-wildfire-updates-cal-fire-maps-containment/90173549007/",
+        "source": "USA Today",
+        "published_at": "05/20/2026, 08:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-21T10:57:49.049893+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": 7.8,
+        "firms_frp_mw": 1.27,
+        "firms_brightness": 311.4,
+        "firms_acq_datetime": "2026-05-20 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-21T11:05:24.682246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248482,
+          34.840515
+        ]
+      },
+      "properties": {
+        "article_id": "https://bnonews.com/index.php/2026/05/wildfire-sparked-by-fatal-plane-crash-grows-to-16000-acres-in-new-mexico/",
+        "title": "Wildfire sparked by plane crash grows to 16,000 acres in New Mexico",
+        "snippet": "",
+        "url": "https://bnonews.com/index.php/2026/05/wildfire-sparked-by-fatal-plane-crash-grows-to-16000-acres-in-new-mexico/",
+        "source": "BNO News",
+        "published_at": "05/21/2026, 12:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-21T10:57:49.049893+00:00",
+        "outlet_region": "New Mexico",
+        "mention_text": "New Mexico",
+        "osm_display": "New Mexico",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-21T11:05:24.682246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://thepeninsulaqatar.com/article/19/05/2026/brush-fire-near-los-angeles-forces-thousands-to-evacuate",
+        "title": "Brush fire near Los Angeles forces thousands to evacuate",
+        "snippet": "",
+        "url": "https://thepeninsulaqatar.com/article/19/05/2026/brush-fire-near-los-angeles-forces-thousands-to-evacuate",
+        "source": "The Peninsula Qatar",
+        "published_at": "05/19/2026, 07:23 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-21T10:57:49.049893+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles",
+        "osm_display": "Los Angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 11.88,
+        "firms_frp_mw": 1.05,
+        "firms_brightness": 300.66,
+        "firms_acq_datetime": "2026-05-20 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-21T11:05:24.682246+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-20T10:48:25.825136+00:00",
-    "total_features": 154
+    "last_updated": "2026-05-21T11:05:24.683479+00:00",
+    "total_features": 159
   }
 }
