@@ -5119,11 +5119,385 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-21T11:05:24.682246+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://thenevadaindependent.com/article/nevadas-wildfire-season-is-coming-should-nv-energy-customers-help-utility-fund-insurance/",
+        "title": "Nevada's wildfire season is coming. Should NV Energy customers help utility fund insurance?",
+        "snippet": "",
+        "url": "https://thenevadaindependent.com/article/nevadas-wildfire-season-is-coming-should-nv-energy-customers-help-utility-fund-insurance/",
+        "source": "The Nevada Independent",
+        "published_at": "05/22/2026, 09:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.france24.com/en/live-news/20260522-with-record-low-snow-colorado-preps-for-wildfire-onslaught",
+        "title": "With record-low snow, Colorado preps for wildfire onslaught",
+        "snippet": "",
+        "url": "https://www.france24.com/en/live-news/20260522-with-record-low-snow-colorado-preps-for-wildfire-onslaught",
+        "source": "France 24",
+        "published_at": "05/22/2026, 01:31 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 87.65,
+        "firms_frp_mw": 0.6,
+        "firms_brightness": 296.59,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/05/21/us-news/worlds-rarest-trees-threatened-by-devastating-santa-rosa-island-wildfire/",
+        "title": "Rare species threatened by devastating California island wildfire",
+        "snippet": "",
+        "url": "https://nypost.com/2026/05/21/us-news/worlds-rarest-trees-threatened-by-devastating-santa-rosa-island-wildfire/",
+        "source": "New York Post",
+        "published_at": "05/21/2026, 11:35 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.62,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 295.49,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/xxzhppjdn8pv/",
+        "title": "United States Sees California Wildfire Risk Return to the Spotlight as Insurance Market Tensions and Destination Confidence Face New Tests \u2014 Key Developments Explained",
+        "snippet": "",
+        "url": "https://www.travelandtourworld.com/news/article/xxzhppjdn8pv/",
+        "source": "Travel And Tour World",
+        "published_at": "05/22/2026, 04:56 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "California",
+        "mention_text": "United States Sees California Wildfire Risk Return",
+        "osm_display": "United States Sees California Wildfire Risk Return",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.62,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 295.49,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/news/565565/wyoming-agencies-strengthen-coordination-ahead-wildfire-season",
+        "title": "News - Wyoming agencies strengthen coordination ahead of wildfire season",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/news/565565/wyoming-agencies-strengthen-coordination-ahead-wildfire-season",
+        "source": "DVIDS",
+        "published_at": "05/19/2026, 12:55 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "News",
+        "osm_display": "News, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/multiple-large-wildfires-menacing-southern-california-prompting-thousands/story?id=133145470",
+        "title": "'Extremely heart-sinking': Texas Panhandle wildfire destroys more than 50 homes",
+        "snippet": "",
+        "url": "https://abcnews.com/US/multiple-large-wildfires-menacing-southern-california-prompting-thousands/story?id=133145470",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "05/21/2026, 07:43 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "california",
+        "osm_display": "california, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.62,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 295.49,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/us/articles/2026-05-19/more-than-17-000-under-evacuation-orders-as-southern-california-wildfire-threatens-homes",
+        "title": "More Than 17,000 Under Evacuation Orders as Southern California Wildfire Threatens Homes",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/us/articles/2026-05-19/more-than-17-000-under-evacuation-orders-as-southern-california-wildfire-threatens-homes",
+        "source": "U.S. News & World Report",
+        "published_at": "05/19/2026, 04:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": 7.62,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 295.49,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.directrelief.org/2026/04/georgia-wildfires-2026-state-of-emergency-declared-as-27000-acres-burn/",
+        "title": "Georgia Wildfires 2026: State of Emergency Declared as 27,000+ Acres Burn",
+        "snippet": "",
+        "url": "https://www.directrelief.org/2026/04/georgia-wildfires-2026-state-of-emergency-declared-as-27000-acres-burn/",
+        "source": "Direct Relief",
+        "published_at": "04/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "georgia",
+        "osm_display": "georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://today.ucsd.edu/story/california-communities-recovery-time-between-wildfire-smoke-events-is-shrinking",
+        "title": "California Communities\u2019 Recovery Time Between Wildfire Smoke Events Is Shrinking",
+        "snippet": "",
+        "url": "https://today.ucsd.edu/story/california-communities-recovery-time-between-wildfire-smoke-events-is-shrinking",
+        "source": "UC San Diego Today",
+        "published_at": "03/11/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.62,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 295.49,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/growing-wildfires-blamed-for-death-of-florida-firefighter-destruction-of-120-georgia-homes",
+        "title": "Growing wildfires blamed for death of Florida firefighter, destruction of 120 Georgia homes",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/growing-wildfires-blamed-for-death-of-florida-firefighter-destruction-of-120-georgia-homes",
+        "source": "PBS",
+        "published_at": "04/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.67,
+        "firms_frp_mw": 1.88,
+        "firms_brightness": 311.41,
+        "firms_acq_datetime": "2026-05-22 0659",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/mx-en/newsroom/wildfire-map-spotlight-springs-fire-southern-california",
+        "title": "Wildfire Map Spotlight: Springs Fire, Southern California",
+        "snippet": "",
+        "url": "https://www.iqair.com/mx-en/newsroom/wildfire-map-spotlight-springs-fire-southern-california",
+        "source": "IQAir",
+        "published_at": "04/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-22T10:41:05.725677+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.62,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 295.49,
+        "firms_acq_datetime": "2026-05-21 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-22T10:46:59.949090+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-21T11:05:24.683479+00:00",
-    "total_features": 159
+    "last_updated": "2026-05-22T10:46:59.950397+00:00",
+    "total_features": 170
   }
 }
