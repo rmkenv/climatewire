@@ -4952,11 +4952,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-19T15:04:42.403211+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2022/11/30/us/california-water-shortage-report-drought-climate",
+        "title": "More than 70 water agencies in California could face water shortages in the coming months, state report shows",
+        "snippet": "",
+        "url": "https://www.cnn.com/2022/11/30/us/california-water-shortage-report-drought-climate",
+        "source": "CNN",
+        "published_at": "11/30/2022, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-22T14:34:32.240629+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-22T14:42:31.414200+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-21T15:27:32.671252+00:00",
-    "total_features": 187
+    "last_updated": "2026-05-22T14:42:31.415418+00:00",
+    "total_features": 188
   }
 }
