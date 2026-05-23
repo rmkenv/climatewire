@@ -1768,11 +1768,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-05-18T13:12:03.069077+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2023/08/17/heat-wave-texas-excessive-heat-warning/",
+        "title": "Brutal heat wave developing over central U.S., with excessive heat watches in Midwest",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2023/08/17/heat-wave-texas-excessive-heat-warning/",
+        "source": "The Washington Post",
+        "published_at": "08/17/2023, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-05-23T11:03:36.450878+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_warning",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-05-23T11:16:42.363771+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-22T12:25:07.804063+00:00",
-    "total_features": 52
+    "last_updated": "2026-05-23T11:16:42.364584+00:00",
+    "total_features": 53
   }
 }
