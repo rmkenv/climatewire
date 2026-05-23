@@ -4982,11 +4982,101 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-22T14:42:31.414200+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.deseret.com/environment/2026/05/21/utah-emergency-order-drought/",
+        "title": "Utah declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.deseret.com/environment/2026/05/21/utah-emergency-order-drought/",
+        "source": "Deseret News",
+        "published_at": "05/21/2026, 05:29 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-23T13:20:21.969494+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-23T13:28:06.286977+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/03/25/climate/water-shortage-corpus-christi-texas-industry-drought",
+        "title": "This Texas city has just a few months\u2019 worth of water left \u2014 and insatiable industry demand",
+        "snippet": "",
+        "url": "https://www.cnn.com/2026/03/25/climate/water-shortage-corpus-christi-texas-industry-drought",
+        "source": "CNN",
+        "published_at": "03/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-23T13:20:21.969494+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-23T13:28:06.286977+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/tech/science/climate-science/drought-emergency-washington-state-low-snowpack-dry-warm-spring-summer/281-0c9c8d55-39b7-4c4d-a175-a905799d7d2c",
+        "title": "Dept. of Ecology declares drought emergency for most of Washington state",
+        "snippet": "",
+        "url": "https://www.king5.com/article/tech/science/climate-science/drought-emergency-washington-state-low-snowpack-dry-warm-spring-summer/281-0c9c8d55-39b7-4c4d-a175-a905799d7d2c",
+        "source": "KING5.com",
+        "published_at": "04/16/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-05-23T13:20:21.969494+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-05-23T13:28:06.286977+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-22T14:42:31.415418+00:00",
-    "total_features": 188
+    "last_updated": "2026-05-23T13:28:06.288094+00:00",
+    "total_features": 191
   }
 }
