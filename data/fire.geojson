@@ -5493,11 +5493,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-05-22T10:46:59.949090+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/local/arizona/are-rising-jet-fuel-prices-about-to-impact-arizonas-wildfire-season/75-8eaafac0-78bb-44b8-b66d-71e5a831cc49",
+        "title": "Are rising jet fuel prices about to impact Arizona\u2019s wildfire season?",
+        "snippet": "",
+        "url": "https://www.12news.com/article/news/local/arizona/are-rising-jet-fuel-prices-about-to-impact-arizonas-wildfire-season/75-8eaafac0-78bb-44b8-b66d-71e5a831cc49",
+        "source": "12News",
+        "published_at": "05/23/2026, 05:21 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-23T09:43:01.294735+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.93,
+        "firms_frp_mw": 10.26,
+        "firms_brightness": 356.07,
+        "firms_acq_datetime": "2026-05-22 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-23T09:49:16.743648+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://thenevadaindependent.com/article/nevadas-wildfire-season-is-coming-should-nv-energy-customers-help-utility-fund-insurance",
+        "title": "Nevada's wildfire season is coming. Should NV Energy customers help utility fund insurance?",
+        "snippet": "",
+        "url": "https://thenevadaindependent.com/article/nevadas-wildfire-season-is-coming-should-nv-energy-customers-help-utility-fund-insurance",
+        "source": "The Nevada Independent",
+        "published_at": "05/22/2026, 09:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-23T09:43:01.294735+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-05-23T09:49:16.743648+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.agri-pulse.com/media/videos/play/1310-agri-pulse-newsmakers-year-round-e15-farm-bill-nebraska-wildfire-recovery-with-sen-deb-fischer",
+        "title": "Year-round E15, farm bill, Nebraska wildfire recovery with Sen. Deb Fischer",
+        "snippet": "",
+        "url": "https://www.agri-pulse.com/media/videos/play/1310-agri-pulse-newsmakers-year-round-e15-farm-bill-nebraska-wildfire-recovery-with-sen-deb-fischer",
+        "source": "Agri-Pulse",
+        "published_at": "05/22/2026, 05:46 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-23T09:43:01.294735+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 49.54,
+        "firms_frp_mw": 24.74,
+        "firms_brightness": 338.5,
+        "firms_acq_datetime": "2026-05-22 1957",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-23T09:49:16.743648+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/weather/2026/05/21/california-wildfires-unusual-causes-explained/90194795007/",
+        "title": "Wildfires have started in some surprising ways. Here are real examples",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/weather/2026/05/21/california-wildfires-unusual-causes-explained/90194795007/",
+        "source": "USA Today",
+        "published_at": "05/21/2026, 04:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-23T09:43:01.294735+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 7.66,
+        "firms_frp_mw": 0.75,
+        "firms_brightness": 298.39,
+        "firms_acq_datetime": "2026-05-22 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-23T09:49:16.743648+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/local/wildfire/wildfire-reported-west-of-granite-mountain-hotshots-state-park-yarnell-arizona/75-8d63cc37-f3ab-44ae-8911-3ed7e0810b39",
+        "title": "Person grilling on the side of the road caused fire west of Granite Mountain Hotshots State Park, officials say",
+        "snippet": "",
+        "url": "https://www.12news.com/article/news/local/wildfire/wildfire-reported-west-of-granite-mountain-hotshots-state-park-yarnell-arizona/75-8d63cc37-f3ab-44ae-8911-3ed7e0810b39",
+        "source": "12News",
+        "published_at": "05/21/2026, 09:50 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-05-23T09:43:01.294735+00:00",
+        "outlet_region": null,
+        "mention_text": "arizona",
+        "osm_display": "arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.93,
+        "firms_frp_mw": 10.26,
+        "firms_brightness": 356.07,
+        "firms_acq_datetime": "2026-05-22 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-05-23T09:49:16.743648+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-22T10:46:59.950397+00:00",
-    "total_features": 170
+    "last_updated": "2026-05-23T09:49:16.744881+00:00",
+    "total_features": 175
   }
 }
