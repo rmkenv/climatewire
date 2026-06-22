@@ -1106,11 +1106,81 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-05-21T14:20:33.283459+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://theconversation.com/how-will-california-cities-meet-water-rationing-mandates-universities-have-some-ideas-42157",
+        "title": "How will California cities meet water-rationing mandates? Universities have some ideas",
+        "snippet": "",
+        "url": "https://theconversation.com/how-will-california-cities-meet-water-rationing-mandates-universities-have-some-ideas-42157",
+        "source": "The Conversation",
+        "published_at": "05/21/2015, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-06-22T15:53:21.154161+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 412.85,
+        "run_at": "2026-06-22T16:02:02.311577+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.visiontimes.com/2023/02/28/smart-metering-forced-water-rationing-compliance.html",
+        "title": "Smart Metering Effective in California Water Rationing Compliance, UChicago Study Finds",
+        "snippet": "",
+        "url": "https://www.visiontimes.com/2023/02/28/smart-metering-forced-water-rationing-compliance.html",
+        "source": "visiontimes.com",
+        "published_at": "02/28/2023, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-06-22T15:53:21.154161+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 412.85,
+        "run_at": "2026-06-22T16:02:02.311577+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-05-26T14:01:43.003519+00:00",
-    "total_features": 36
+    "last_updated": "2026-06-22T16:02:02.312224+00:00",
+    "total_features": 38
   }
 }
