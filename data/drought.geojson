@@ -5072,11 +5072,521 @@
         "usdm_in_drought": null,
         "run_at": "2026-05-23T13:28:06.286977+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aspentimes.com/news/colorado-drought-conditions-emergency-headwaters-state/",
+        "title": "How did Colorado get here? Understanding the drought emergency in the headwaters state",
+        "snippet": "",
+        "url": "https://www.aspentimes.com/news/colorado-drought-conditions-emergency-headwaters-state/",
+        "source": "AspenTimes.com",
+        "published_at": "06/16/2026, 10:27 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/severe-drought-spreads-across-colorado-exceptional-drought-holds-mountains",
+        "title": "Severe drought spreads across Colorado as exceptional drought holds in the mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/severe-drought-spreads-across-colorado-exceptional-drought-holds-mountains",
+        "source": "Kiowa County Press",
+        "published_at": "06/19/2026, 02:51 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://coloradosun.com/2026/06/04/colorado-declares-statewide-drought-emergency/",
+        "title": "Colorado declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://coloradosun.com/2026/06/04/colorado-declares-statewide-drought-emergency/",
+        "source": "The Colorado Sun",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/news/drought/polis-declares-statewide-drought-emergency-as-colorado-enters-phase-3",
+        "title": "Polis declares statewide drought emergency as Colorado enters Phase 3",
+        "snippet": "",
+        "url": "https://www.denver7.com/news/drought/polis-declares-statewide-drought-emergency-as-colorado-enters-phase-3",
+        "source": "Denver7",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://pagosadailypost.com/2026/06/09/colorado-governor-declares-statewide-drought-emergency/",
+        "title": "Colorado Governor Declares Statewide Drought Emergency",
+        "snippet": "",
+        "url": "https://pagosadailypost.com/2026/06/09/colorado-governor-declares-statewide-drought-emergency/",
+        "source": "Pagosa Daily Post",
+        "published_at": "06/09/2026, 11:09 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denverpost.com/2026/06/04/colorado-drought-emergency-jared-polis/",
+        "title": "Colorado Gov. Jared Polis declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.denverpost.com/2026/06/04/colorado-drought-emergency-jared-polis/",
+        "source": "The Denver Post",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcpalmsprings.com/2026/06/05/colorado-governor-jared-polis-declares-statewide-drought-emergency-as-93-percent-of-state-faces-severe-conditions",
+        "title": "Colorado Governor Jared Polis Declares Statewide Drought Emergency as 93 Percent of State Faces Severe Conditions",
+        "snippet": "",
+        "url": "https://www.nbcpalmsprings.com/2026/06/05/colorado-governor-jared-polis-declares-statewide-drought-emergency-as-93-percent-of-state-faces-severe-conditions",
+        "source": "NBC Palm Springs",
+        "published_at": "06/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/drought-eases-colorados-plains-exceptional-drought-holds-mountains",
+        "title": "Drought eases on Colorado's plains as exceptional drought holds in the mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/drought-eases-colorados-plains-exceptional-drought-holds-mountains",
+        "source": "Kiowa County Press",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/05/08/exceptional-drought-conditions-return-to-central-nebraska-for-first-time-since-december-2023/",
+        "title": "Exceptional drought conditions return to central Nebraska for first time since December 2023",
+        "snippet": "",
+        "url": "https://www.centralnebraskatoday.com/2026/05/08/exceptional-drought-conditions-return-to-central-nebraska-for-first-time-since-december-2023/",
+        "source": "Central Nebraska Today",
+        "published_at": "05/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.11alive.com/article/weather/georgia-drought-monitor-entire-state-severe-to-exceptional/85-4ca77a88-f280-4ea0-bf8c-66bf7ed040d4",
+        "title": "100% of Georgia in severe to exceptional drought",
+        "snippet": "",
+        "url": "https://www.11alive.com/article/weather/georgia-drought-monitor-entire-state-severe-to-exceptional/85-4ca77a88-f280-4ea0-bf8c-66bf7ed040d4",
+        "source": "11Alive.com",
+        "published_at": "04/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cpr.org/2026/04/28/colorado-water-shortage-drought-2026-questions-answered/",
+        "title": "We answered your questions about the expected water shortfall this summer",
+        "snippet": "",
+        "url": "https://www.cpr.org/2026/04/28/colorado-water-shortage-drought-2026-questions-answered/",
+        "source": "Colorado Public Radio",
+        "published_at": "04/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": null,
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tallahatchienews.ms/part-tallahatchie-states-only-area-exceptional-drought-meaning-most-severe-conditions",
+        "title": "Part of Tallahatchie is state's only area of 'Exceptional Drought,' meaning most severe conditions",
+        "snippet": "",
+        "url": "https://www.tallahatchienews.ms/part-tallahatchie-states-only-area-exceptional-drought-meaning-most-severe-conditions",
+        "source": "Charleston Sun-Sentinel",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Part",
+        "osm_display": "Part, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrum.ieee.org/colorado-river-water-shortage",
+        "title": "AI Can Model the Colorado River Crisis. It Can\u2019t Solve It",
+        "snippet": "",
+        "url": "https://spectrum.ieee.org/colorado-river-water-shortage",
+        "source": "IEEE Spectrum",
+        "published_at": "04/08/2026, 02:03 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Can Model",
+        "osm_display": "Can Model, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://meteo24news.gr/english-edition/utah-declares-statewide-drought-emergency-as-historic-water-crisis-deepens/",
+        "title": "Utah Declares Statewide Drought Emergency as Historic Water Crisis Deepens",
+        "snippet": "",
+        "url": "https://meteo24news.gr/english-edition/utah-declares-statewide-drought-emergency-as-historic-water-crisis-deepens/",
+        "source": "Meteo24News",
+        "published_at": "05/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.193659,
+          25.774266
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timeout.com/miami/news/miami-is-under-a-water-shortage-warning-right-now-here-is-what-that-means-021226",
+        "title": "Miami is under a water shortage warning. Here is what you need to do about it.",
+        "snippet": "",
+        "url": "https://www.timeout.com/miami/news/miami-is-under-a-water-shortage-warning-right-now-here-is-what-that-means-021226",
+        "source": "Time Out Worldwide",
+        "published_at": "02/12/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": null,
+        "mention_text": "Miami",
+        "osm_display": "Miami",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.737778,
+          36.015556
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/lake-mead-s-dramatic-fall-exposes-drought-emergency-in-the-west/ss-AA25oyqw",
+        "title": "Lake Mead\u2019s dramatic fall exposes drought emergency in the West",
+        "snippet": "",
+        "url": "https://www.msn.com/en-us/weather/topstories/lake-mead-s-dramatic-fall-exposes-drought-emergency-in-the-west/ss-AA25oyqw",
+        "source": "MSN",
+        "published_at": "06/11/2026, 04:39 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": null,
+        "mention_text": "Lake Mead\u2019s",
+        "osm_display": "Lake Mead\u2019s",
+        "osm_type": "lake",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://ecology.wa.gov/blog/february-2025/washington-water-supply-update",
+        "title": "Washington water supply update",
+        "snippet": "",
+        "url": "https://ecology.wa.gov/blog/february-2025/washington-water-supply-update",
+        "source": "Department of Ecology - State of Washington (.gov)",
+        "published_at": "02/25/2025, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-22T16:51:48.189652+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-22T17:00:43.648617+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-05-25T14:57:49.431439+00:00",
-    "total_features": 191
+    "last_updated": "2026-06-22T17:00:43.649949+00:00",
+    "total_features": 208
   }
 }
