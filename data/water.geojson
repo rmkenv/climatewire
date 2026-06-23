@@ -1176,11 +1176,46 @@
         "usgs_gw_depth_ft": 412.85,
         "run_at": "2026-06-22T16:02:02.311577+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://californiaglobe.com/fr/despite-abundant-natural-resources-california-imposing-rationing-and-regulations/",
+        "title": "Despite Double the Water Average in 2019, CA Imposing Water Rationing and Regulations",
+        "snippet": "",
+        "url": "https://californiaglobe.com/fr/despite-abundant-natural-resources-california-imposing-rationing-and-regulations/",
+        "source": "California Globe",
+        "published_at": "09/16/2023, 11:02 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-06-23T13:43:43.870335+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 412.85,
+        "run_at": "2026-06-23T13:51:38.703596+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-06-22T16:02:02.312224+00:00",
-    "total_features": 38
+    "last_updated": "2026-06-23T13:51:38.704178+00:00",
+    "total_features": 39
   }
 }
