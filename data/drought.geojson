@@ -5582,11 +5582,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-22T17:00:43.648617+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://insideclimatenews.org/news/02062026/colorado-river-reservoir-water-shortage-after-winter-drought/",
+        "title": "Colorado River Faces \u2018Devastating Consequences\u2019 If Another Dry Winter Lands, Experts Warn",
+        "snippet": "",
+        "url": "https://insideclimatenews.org/news/02062026/colorado-river-reservoir-water-shortage-after-winter-drought/",
+        "source": "Inside Climate News",
+        "published_at": "06/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-23T14:43:26.564825+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "colorado river",
+        "osm_display": "colorado river",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-23T14:52:31.533040+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-22T17:00:43.649949+00:00",
-    "total_features": 208
+    "last_updated": "2026-06-23T14:52:31.534324+00:00",
+    "total_features": 209
   }
 }
