@@ -5731,11 +5731,453 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-05-25T11:48:45.523560+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/outdoors/human-remains-spokane-resident-discovered/",
+        "title": "Deputies knocked as Washington wildfire closed in, but resident refused to leave, later found dead",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/outdoors/human-remains-spokane-resident-discovered/",
+        "source": "The Cool Down",
+        "published_at": "06/23/2026, 08:45 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 42.07,
+        "firms_frp_mw": 0.59,
+        "firms_brightness": 299.96,
+        "firms_acq_datetime": "2026-06-22 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://tfsweb.tamu.edu/texas-am-forest-service-partners-with-texas-military-department-to-strengthen-wildfire-aviation-response/",
+        "title": "Texas A&M Forest Service partners with Texas Military Department to strengthen wildfire aviation response",
+        "snippet": "",
+        "url": "https://tfsweb.tamu.edu/texas-am-forest-service-partners-with-texas-military-department-to-strengthen-wildfire-aviation-response/",
+        "source": "Texas A&M Forest Service",
+        "published_at": "06/18/2026, 04:13 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 64.51,
+        "firms_frp_mw": 3.5,
+        "firms_brightness": 330.38,
+        "firms_acq_datetime": "2026-06-22 2017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/wireStory/eastern-washington-wildfire-forces-evacuations-destroys-homes-133967598",
+        "title": "Eastern Washington wildfire forces evacuations and destroys homes",
+        "snippet": "",
+        "url": "https://abcnews.com/US/wireStory/eastern-washington-wildfire-forces-evacuations-destroys-homes-133967598",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "06/18/2026, 05:57 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 42.07,
+        "firms_frp_mw": 0.59,
+        "firms_brightness": 299.96,
+        "firms_acq_datetime": "2026-06-22 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.498337,
+          21.094318
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/293276/hawaii_guard_strengthens_wildfire_response_with_operation_hoopauahi",
+        "title": "Hawaii Guard Strengthens Wildfire Response With Operation Ho\u02bbopauahi",
+        "snippet": "",
+        "url": "https://www.army.mil/article/293276/hawaii_guard_strengthens_wildfire_response_with_operation_hoopauahi",
+        "source": "army.mil",
+        "published_at": "06/16/2026, 02:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Hawaii",
+        "mention_text": "Hawaii",
+        "osm_display": "Hawaii",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/raging-utah-wildfire-prompts-evacuation-145110628.html",
+        "title": "Out-of-control Utah wildfire threatening structures, prompting evacuations",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/raging-utah-wildfire-prompts-evacuation-145110628.html",
+        "source": "Yahoo",
+        "published_at": "06/21/2026, 03:32 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 23.21,
+        "firms_frp_mw": 28.01,
+        "firms_brightness": 367.0,
+        "firms_acq_datetime": "2026-06-22 2017",
+        "firms_confidence": "high",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/293150/wyoming_national_guard_strengthens_wildfire_response_coordination",
+        "title": "Wyoming National Guard strengthens wildfire response coordination",
+        "snippet": "",
+        "url": "https://www.army.mil/article/293150/wyoming_national_guard_strengthens_wildfire_response_coordination",
+        "source": "army.mil",
+        "published_at": "06/06/2026, 03:50 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wyoming National Guard",
+        "osm_display": "Wyoming National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161087,
+          32.715736
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/weather/california-wildfires/border-brush-fire/",
+        "title": "2,600-acre brush fire spreads across U.S.-Mexico border into San Diego",
+        "snippet": "",
+        "url": "https://fox5sandiego.com/weather/california-wildfires/border-brush-fire/",
+        "source": "fox5sandiego.com",
+        "published_at": "06/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": null,
+        "mention_text": "San Diego",
+        "osm_display": "San Diego",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 41.17,
+        "firms_frp_mw": 0.69,
+        "firms_brightness": 297.21,
+        "firms_acq_datetime": "2026-06-22 0858",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redcross.org/local/california/southern-california/about-us/news-and-events/news/red-cross-wildfire-response-updates.html",
+        "title": "News | Red Cross Wildfire Response Updates",
+        "snippet": "",
+        "url": "https://www.redcross.org/local/california/southern-california/about-us/news-and-events/news/red-cross-wildfire-response-updates.html",
+        "source": "American Red Cross",
+        "published_at": "06/03/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 61.12,
+        "firms_frp_mw": 5.69,
+        "firms_brightness": 342.29,
+        "firms_acq_datetime": "2026-06-22 2017",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/292872/colorado_guard_trains_for_year_round_wildfire_response",
+        "title": "Colorado Guard trains for year-round wildfire response",
+        "snippet": "",
+        "url": "https://www.army.mil/article/292872/colorado_guard_trains_for_year_round_wildfire_response",
+        "source": "army.mil",
+        "published_at": "05/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado Guard",
+        "osm_display": "Colorado Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.26,
+        "firms_frp_mw": 0.63,
+        "firms_brightness": 298.53,
+        "firms_acq_datetime": "2026-06-22 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fs.usda.gov/inside-fs/delivering-mission/excel/building-wildfire-resilience-southern-colorado",
+        "title": "Building wildfire resilience in southern Colorado",
+        "snippet": "",
+        "url": "https://www.fs.usda.gov/inside-fs/delivering-mission/excel/building-wildfire-resilience-southern-colorado",
+        "source": "US Forest Service (.gov)",
+        "published_at": "06/09/2026, 10:37 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.26,
+        "firms_frp_mw": 0.63,
+        "firms_brightness": 298.53,
+        "firms_acq_datetime": "2026-06-22 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/south-georgia-wildfire-destroys-at-least-90-homes-forcing-evacutations-and-curfew-as-winds-impact-spread/",
+        "title": "South Georgia wildfires most dangerous in the United States, over 38,000 acres burned, Gov. Kemp says",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/atlanta/news/south-georgia-wildfire-destroys-at-least-90-homes-forcing-evacutations-and-curfew-as-winds-impact-spread/",
+        "source": "CBS News",
+        "published_at": "04/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "South Georgia",
+        "osm_display": "South Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": 95.33,
+        "firms_frp_mw": 4.08,
+        "firms_brightness": 334.11,
+        "firms_acq_datetime": "2026-06-22 1836",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://nebraskapublicmedia.org/en/news/news-articles/wildfires-burned-a-million-great-plains-acres-this-year-experts-say-future-preparation-is-key/",
+        "title": "Wildfires burned a million Great Plains acres this year. Experts say future preparation is key",
+        "snippet": "",
+        "url": "https://nebraskapublicmedia.org/en/news/news-articles/wildfires-burned-a-million-great-plains-acres-this-year-experts-say-future-preparation-is-key/",
+        "source": "Nebraska Public Media",
+        "published_at": "04/27/2026, 06:05 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": null,
+        "mention_text": "Great Plains",
+        "osm_display": "Great Plains",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 85.62,
+        "firms_frp_mw": 6.99,
+        "firms_brightness": 341.54,
+        "firms_acq_datetime": "2026-06-22 2017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/could-forest-service-staffing-changes-impact-wildfire-response-in-oregon-red-flag-trump-administration-public-safety-oregon-portland-salem-firefighters-usfs",
+        "title": "Could Forest Service staffing changes impact wildfire response in Oregon?",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/could-forest-service-staffing-changes-impact-wildfire-response-in-oregon-red-flag-trump-administration-public-safety-oregon-portland-salem-firefighters-usfs",
+        "source": "KATU",
+        "published_at": "05/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-23T10:52:37.234388+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 91.86,
+        "firms_frp_mw": 0.59,
+        "firms_brightness": 305.22,
+        "firms_acq_datetime": "2026-06-22 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-23T11:01:31.912310+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-05-25T11:48:45.524675+00:00",
-    "total_features": 177
+    "last_updated": "2026-06-23T11:01:31.913610+00:00",
+    "total_features": 190
   }
 }
