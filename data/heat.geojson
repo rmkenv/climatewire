@@ -1802,11 +1802,79 @@
         "wbgt_flag": null,
         "run_at": "2026-05-23T11:16:42.363771+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/weather/heat-dome-texas-spring-summer-2026",
+        "title": "Heat dome shoves Texas into summer as spring begins",
+        "snippet": "",
+        "url": "https://www.fox7austin.com/weather/heat-dome-texas-spring-summer-2026",
+        "source": "FOX 7 Austin",
+        "published_at": "03/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-23T12:27:36.564162+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-06-23T12:42:01.169982+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://truthout.org/articles/climate-fueled-heat-waves-are-creating-a-water-crisis-in-the-southwest/",
+        "title": "Climate-Fueled Heat Waves Are Creating a Water Crisis in the Southwest",
+        "snippet": "",
+        "url": "https://truthout.org/articles/climate-fueled-heat-waves-are-creating-a-water-crisis-in-the-southwest/",
+        "source": "Truthout",
+        "published_at": "03/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-23T12:27:36.564162+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwest",
+        "osm_display": "Southwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-23T23:00",
+        "sensor_temp_f": 79.9,
+        "sensor_rh_pct": 23,
+        "sensor_wind_mph": 3.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-23T12:42:01.169982+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-05-25T13:09:06.976036+00:00",
-    "total_features": 53
+    "last_updated": "2026-06-23T12:42:01.170884+00:00",
+    "total_features": 55
   }
 }
