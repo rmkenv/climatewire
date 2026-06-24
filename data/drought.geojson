@@ -5612,11 +5612,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-23T14:52:31.533040+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://capitalpress.com/2026/06/04/drought-worsening-in-oregon-rest-of-pacific-northwest/",
+        "title": "Drought worsening in Oregon, rest of Pacific Northwest",
+        "snippet": "",
+        "url": "https://capitalpress.com/2026/06/04/drought-worsening-in-oregon-rest-of-pacific-northwest/",
+        "source": "Capital Press",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-24T14:25:25.231191+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-24T14:34:32.838283+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-23T14:52:31.534324+00:00",
-    "total_features": 209
+    "last_updated": "2026-06-24T14:34:32.839662+00:00",
+    "total_features": 210
   }
 }
