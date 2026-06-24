@@ -1870,11 +1870,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-06-23T12:42:01.169982+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/massive-midwest-heat-dome-brewing-prior-to-independence-day-storms-to-cruise-rim-of-heat/1904276",
+        "title": "Massive Midwest heat dome brewing prior to Independence Day; storms to cruise rim of heat",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/massive-midwest-heat-dome-brewing-prior-to-independence-day-storms-to-cruise-rim-of-heat/1904276",
+        "source": "AccuWeather",
+        "published_at": "06/23/2026, 04:47 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-24T12:13:09.170999+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-24T23:00",
+        "sensor_temp_f": 68.2,
+        "sensor_rh_pct": 88,
+        "sensor_wind_mph": 2.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-24T12:25:55.394723+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.369804,
+          29.760427
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/article/weather/forecast/houston-texas-weather-impact/285-6a244f8d-eb97-49a6-be50-8b8796a00dfc",
+        "title": "A heat dome is keeping Houston hot and dry",
+        "snippet": "",
+        "url": "https://www.khou.com/article/weather/forecast/houston-texas-weather-impact/285-6a244f8d-eb97-49a6-be50-8b8796a00dfc",
+        "source": "KHOU",
+        "published_at": "06/17/2026, 10:16 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-24T12:13:09.170999+00:00",
+        "outlet_region": null,
+        "mention_text": "Houston",
+        "osm_display": "Houston",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-24T23:00",
+        "sensor_temp_f": 77.2,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 4.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-24T12:25:55.394723+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/forecast/regional/news/2026-03-18-historic-march-heat-wave-west-plains-california-arizona",
+        "title": "Historic March Heat Wave From West To Southeast, Including California, Arizona",
+        "snippet": "",
+        "url": "https://weather.com/forecast/regional/news/2026-03-18-historic-march-heat-wave-west-plains-california-arizona",
+        "source": "The Weather Channel",
+        "published_at": "03/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-24T12:13:09.170999+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-24T23:00",
+        "sensor_temp_f": 75.0,
+        "sensor_rh_pct": 33,
+        "sensor_wind_mph": 6.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 60.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-24T12:25:55.394723+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-23T12:42:01.170884+00:00",
-    "total_features": 55
+    "last_updated": "2026-06-24T12:25:55.395531+00:00",
+    "total_features": 58
   }
 }
