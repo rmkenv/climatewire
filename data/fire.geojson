@@ -6377,11 +6377,793 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-06-24T10:48:22.018571+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boisestatepublicradio.org/environment/2026-06-15/wildfires-los-angeles-south-korea",
+        "title": "How much does wildfire size matter? Global data from 2025 raises questions",
+        "snippet": "",
+        "url": "https://www.boisestatepublicradio.org/environment/2026-06-15/wildfires-los-angeles-south-korea",
+        "source": "Boise State Public Radio",
+        "published_at": "06/16/2026, 02:01 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": null,
+        "mention_text": "los angeles",
+        "osm_display": "los angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.kuow.org/stories/eastern-washington-wildfire-forces-evacuations-and-destroys-homes",
+        "title": "Eastern Washington wildfire forces evacuations and destroys homes",
+        "snippet": "",
+        "url": "https://m.kuow.org/stories/eastern-washington-wildfire-forces-evacuations-and-destroys-homes",
+        "source": "KUOW",
+        "published_at": "06/17/2026, 07:28 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/weather/weather-impact/red-flag-warning-issued-across-arizona-fire-safety-precautions/75-afb5b7e1-be71-454b-a3d3-463e3ed1b47a",
+        "title": "Red Flag Warning issued across Arizona as officials urge fire safety precautions",
+        "snippet": "",
+        "url": "https://www.12news.com/article/weather/weather-impact/red-flag-warning-issued-across-arizona-fire-safety-precautions/75-afb5b7e1-be71-454b-a3d3-463e3ed1b47a",
+        "source": "12News",
+        "published_at": "06/06/2026, 01:59 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "red_flag_warning",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/af/newsroom/wildfire-map-spotlight-morrill-fire-nebraska",
+        "title": "Wildfire Map Spotlight: Morrill Fire, Nebraska",
+        "snippet": "",
+        "url": "https://www.iqair.com/af/newsroom/wildfire-map-spotlight-morrill-fire-nebraska",
+        "source": "IQAir",
+        "published_at": "03/26/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7news.com/post/border-patrol-arrests-2-firefighters-battling-bear-gulch-fire-washington-state/17679789/",
+        "title": "Border Patrol arrests 2 firefighters battling Bear Gulch Fire in Washington state",
+        "snippet": "",
+        "url": "https://abc7news.com/post/border-patrol-arrests-2-firefighters-battling-bear-gulch-fire-washington-state/17679789/",
+        "source": "ABC7 Bay Area",
+        "published_at": "08/29/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.circleofblue.org/newsletter/federal-water-tap-may-4-2026-high-wildfire-risk-in-southeast-west-this-summer/",
+        "title": "Federal Water Tap, May 4, 2026: High Wildfire Risk in Southeast, West This Summer",
+        "snippet": "",
+        "url": "https://www.circleofblue.org/newsletter/federal-water-tap-may-4-2026-high-wildfire-risk-in-southeast-west-this-summer/",
+        "source": "Circle of Blue",
+        "published_at": "05/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": null,
+        "mention_text": "Southeast",
+        "osm_display": "Southeast",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9712200/colorado-national-guard-shifts-year-round-wildfire-posture-amid-record-low-snowpack",
+        "title": "Colorado National Guard shifts to year-round wildfire posture amid record low snowpack [Image 3 of 4]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9712200/colorado-national-guard-shifts-year-round-wildfire-posture-amid-record-low-snowpack",
+        "source": "DVIDS",
+        "published_at": "05/28/2026, 02:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado National Guard",
+        "osm_display": "Colorado National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nydailynews.com/2026/06/17/eastern-washington-wildfire/",
+        "title": "Eastern Washington wildfire forces evacuations and destroys homes",
+        "snippet": "",
+        "url": "https://www.nydailynews.com/2026/06/17/eastern-washington-wildfire/",
+        "source": "New York Daily News",
+        "published_at": "06/17/2026, 09:36 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrumlocalnews.com/mo/st-louis/news/2025/11/25/as-missouri-wildfire-risk-grows--regulators-and-utilities-take--proactive--steps",
+        "title": "Mo. In\u00adde\u00adpendent: As Missouri wildfire risk grows, reg\u00adu\u00adlators and utilities take \u2018proactive\u2019 steps",
+        "snippet": "",
+        "url": "https://spectrumlocalnews.com/mo/st-louis/news/2025/11/25/as-missouri-wildfire-risk-grows--regulators-and-utilities-take--proactive--steps",
+        "source": "Spectrum News",
+        "published_at": "11/25/2025, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Missouri",
+        "mention_text": "Mo.",
+        "osm_display": "Mo., Missouri",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theenergymix.com/how-oregon-is-building-back-smarter-after-wildfire/",
+        "title": "How Oregon Is Building Back Smarter After Wildfire",
+        "snippet": "",
+        "url": "https://www.theenergymix.com/how-oregon-is-building-back-smarter-after-wildfire/",
+        "source": "The Energy Mix",
+        "published_at": "03/02/2026, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9712202/colorado-national-guard-shifts-year-round-wildfire-posture-amid-record-low-snowpack",
+        "title": "Colorado National Guard shifts to year-round wildfire posture amid record low snowpack [Image 4 of 4]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9712202/colorado-national-guard-shifts-year-round-wildfire-posture-amid-record-low-snowpack",
+        "source": "DVIDS",
+        "published_at": "05/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado National Guard",
+        "osm_display": "Colorado National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/california/crews-making-progress-containing-southern-california-wildfire-as-some-mandatory-evacuations-remain/article_f6fa89cc-f529-4385-a5e1-7d1d5bd13aee.html",
+        "title": "Crews making progress containing Southern California wildfire as some mandatory evacuations remain",
+        "snippet": "",
+        "url": "https://www.2news.com/news/california/crews-making-progress-containing-southern-california-wildfire-as-some-mandatory-evacuations-remain/article_f6fa89cc-f529-4385-a5e1-7d1d5bd13aee.html",
+        "source": "KTVN",
+        "published_at": "04/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://ohiocapitaljournal.com/briefs/immigration-raid-at-washington-blaze-stokes-fear-in-wildfire-crews-nationwide/",
+        "title": "Immigration raid at Washington blaze stokes fear in wildfire crews nationwide",
+        "snippet": "",
+        "url": "https://ohiocapitaljournal.com/briefs/immigration-raid-at-washington-blaze-stokes-fear-in-wildfire-crews-nationwide/",
+        "source": "Ohio Capital Journal",
+        "published_at": "09/03/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/best-states/nebraska/articles/2026-03-18/nebraska-wildfire-fight-drags-into-day-7-as-winds-ease-but-danger-still-looms",
+        "title": "Nebraska Wildfire Fight Drags Into Day 7 as Winds Ease, but Danger Still Looms",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/best-states/nebraska/articles/2026-03-18/nebraska-wildfire-fight-drags-into-day-7-as-winds-ease-but-danger-still-looms",
+        "source": "U.S. News & World Report",
+        "published_at": "03/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/video/california-wildfire-explodes-storm-threatens-mudslides/",
+        "title": "California wildfire explodes as storm threatens mudslides in southern part of state",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/video/california-wildfire-explodes-storm-threatens-mudslides/",
+        "source": "CBS News",
+        "published_at": "11/14/2025, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.insurancebusinessmag.com/us/news/catastrophe/california-wildfire-claims-top-22-billion-as-insurers-support-recovery-560953.aspx",
+        "title": "California wildfire claims top $22 billion as insurers support recovery",
+        "snippet": "",
+        "url": "https://www.insurancebusinessmag.com/us/news/catastrophe/california-wildfire-claims-top-22-billion-as-insurers-support-recovery-560953.aspx",
+        "source": "Insurance Business",
+        "published_at": "01/05/2026, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074036,
+          33.448376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/287226/l_a_wildfire_survivors_show_resilience_embody_mythological_phoenix",
+        "title": "L.A. wildfire survivors show resilience, embody mythological Phoenix",
+        "snippet": "",
+        "url": "https://www.army.mil/article/287226/l_a_wildfire_survivors_show_resilience_embody_mythological_phoenix",
+        "source": "army.mil",
+        "published_at": "07/21/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": null,
+        "mention_text": "Phoenix",
+        "osm_display": "Phoenix",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507141,
+          39.318523
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.delaware.gov/2025/07/18/delaware-forest-service-mobilized-wildfire-engine-to-grand-junction-co/",
+        "title": "Delaware Forest Service Mobilized Wildfire Engine to Grand Junction, CO",
+        "snippet": "",
+        "url": "https://news.delaware.gov/2025/07/18/delaware-forest-service-mobilized-wildfire-engine-to-grand-junction-co/",
+        "source": "State of Delaware News (.gov)",
+        "published_at": "07/18/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Delaware",
+        "mention_text": "Grand Junction",
+        "osm_display": "Grand Junction, Delaware",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox4kc.com/news/national/ap-us-news/ap-2-firefighters-battling-washington-state-wildfire-arrested-by-border-patrol/",
+        "title": "2 firefighters battling Washington state wildfire arrested by Border Patrol",
+        "snippet": "",
+        "url": "https://fox4kc.com/news/national/ap-us-news/ap-2-firefighters-battling-washington-state-wildfire-arrested-by-border-patrol/",
+        "source": "FOX4KC.com",
+        "published_at": "08/28/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/weather/wildfires/firefighters-weather-are-stabilizing-oregon-wildfire-flames-far-spare-rcna227168",
+        "title": "Firefighters and weather are stabilizing Oregon wildfire. Flames so far spare California wineries.",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/weather/wildfires/firefighters-weather-are-stabilizing-oregon-wildfire-flames-far-spare-rcna227168",
+        "source": "NBC News",
+        "published_at": "08/26/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynorthwest.com/local/october-washington-wildfire-season/4138677",
+        "title": "October arrives, but Washington\u2019s wildfire season continues",
+        "snippet": "",
+        "url": "https://mynorthwest.com/local/october-washington-wildfire-season/4138677",
+        "source": "MyNorthwest.com",
+        "published_at": "10/02/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxly.com/news/growing-wildfire-near-hope-idaho-reaches-2-400-acres/article_f29eeff6-8fb9-4d5c-b100-5ceaa1bbe6a8.html",
+        "title": "Growing wildfire near Hope, Idaho reaches 2,400 acres",
+        "snippet": "",
+        "url": "https://www.kxly.com/news/growing-wildfire-near-hope-idaho-reaches-2-400-acres/article_f29eeff6-8fb9-4d5c-b100-5ceaa1bbe6a8.html",
+        "source": "KXLY.com",
+        "published_at": "08/07/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://upnorthlive.com/news/local/rep-bergman-calls-on-canada-to-address-wildfire-smoke-affecting-northern-michigan",
+        "title": "Rep. Bergman calls on Canada to address wildfire smoke affecting Northern Michigan",
+        "snippet": "",
+        "url": "https://upnorthlive.com/news/local/rep-bergman-calls-on-canada-to-address-wildfire-smoke-affecting-northern-michigan",
+        "source": "WPBN",
+        "published_at": "08/04/2025, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-25T10:32:55.406687+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-25T10:45:51.620177+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-06-24T10:48:22.019796+00:00",
-    "total_features": 196
+    "last_updated": "2026-06-25T10:45:51.621323+00:00",
+    "total_features": 219
   }
 }
