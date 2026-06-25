@@ -5642,11 +5642,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-24T14:34:32.838283+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denvergazette.com/2026/06/04/polis-declares-statewide-drought-emergency/",
+        "title": "Polis declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.denvergazette.com/2026/06/04/polis-declares-statewide-drought-emergency/",
+        "source": "Denver Gazette",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-25T14:27:23.686861+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Polis",
+        "osm_display": "Polis, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-25T14:37:37.490552+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-24T14:34:32.839662+00:00",
-    "total_features": 210
+    "last_updated": "2026-06-25T14:37:37.491832+00:00",
+    "total_features": 211
   }
 }
