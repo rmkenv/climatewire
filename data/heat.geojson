@@ -1972,11 +1972,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-06-24T12:25:55.394723+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.freep.com/story/news/local/michigan/2026/06/24/michigan-heat-dome-weather-forecast-temperatures-fourth-of-july-weekend/90675297007/",
+        "title": "Heat dome to arrive in Michigan next week. See long-range forecast",
+        "snippet": "",
+        "url": "https://www.freep.com/story/news/local/michigan/2026/06/24/michigan-heat-dome-weather-forecast-temperatures-fourth-of-july-weekend/90675297007/",
+        "source": "Detroit Free Press",
+        "published_at": "06/24/2026, 05:12 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-25T12:11:09.261625+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-25T23:00",
+        "sensor_temp_f": 63.9,
+        "sensor_rh_pct": 80,
+        "sensor_wind_mph": 5.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 58.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-25T12:24:03.867288+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-24T12:25:55.395531+00:00",
-    "total_features": 58
+    "last_updated": "2026-06-25T12:24:03.868139+00:00",
+    "total_features": 59
   }
 }
