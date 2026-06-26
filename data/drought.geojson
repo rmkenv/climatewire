@@ -5672,11 +5672,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-25T14:37:37.490552+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/news/oregon/officials-warn-of-critical-water-shortages-in-oregon-washington-this-summer/",
+        "title": "Officials warn of critical water shortages in Oregon, Washington this summer",
+        "snippet": "",
+        "url": "https://www.koin.com/news/oregon/officials-warn-of-critical-water-shortages-in-oregon-washington-this-summer/",
+        "source": "KOIN.com",
+        "published_at": "05/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-26T14:20:20.730375+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-26T14:28:21.624701+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.miamiherald.com/news/local/environment/article314632977.html",
+        "title": "South Florida\u2019s in a drought. Here\u2019s why and tips on how you can conserve water",
+        "snippet": "",
+        "url": "https://www.miamiherald.com/news/local/environment/article314632977.html",
+        "source": "Miami Herald",
+        "published_at": "02/10/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-26T14:20:20.730375+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "South Florida\u2019s",
+        "osm_display": "South Florida\u2019s",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-26T14:28:21.624701+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-25T14:37:37.491832+00:00",
-    "total_features": 211
+    "last_updated": "2026-06-26T14:28:21.626133+00:00",
+    "total_features": 213
   }
 }
