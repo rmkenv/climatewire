@@ -2006,11 +2006,215 @@
         "wbgt_flag": "green",
         "run_at": "2026-06-25T12:24:03.867288+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.citizen-times.com/story/weather/2026/06/25/western-north-carolina-weather-weekend-storms-extreme-heat-dome/90691892007/",
+        "title": "Heat dome to move in after weekend storms in Western North Carolina",
+        "snippet": "",
+        "url": "https://www.citizen-times.com/story/weather/2026/06/25/western-north-carolina-weather-weekend-storms-extreme-heat-dome/90691892007/",
+        "source": "The Asheville Citizen Times",
+        "published_at": "06/25/2026, 03:26 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-26T12:05:40.185162+00:00",
+        "outlet_region": "North Carolina",
+        "mention_text": "Western North Carolina",
+        "osm_display": "Western North Carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-26T23:00",
+        "sensor_temp_f": 77.2,
+        "sensor_rh_pct": 62,
+        "sensor_wind_mph": 5.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-26T12:26:05.516490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lubbockonline.com/story/weather/2026/06/26/west-texas-has-hot-temps-some-storms-as-much-of-u-s-under-heat-dome/90698866007/",
+        "title": "West Texas sees hot temps, some storms as much of U.S. under heat dome",
+        "snippet": "",
+        "url": "https://www.lubbockonline.com/story/weather/2026/06/26/west-texas-has-hot-temps-some-storms-as-much-of-u-s-under-heat-dome/90698866007/",
+        "source": "Lubbock Avalanche-Journal",
+        "published_at": "06/26/2026, 09:46 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-26T12:05:40.185162+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-26T23:00",
+        "sensor_temp_f": 80.4,
+        "sensor_rh_pct": 72,
+        "sensor_wind_mph": 18.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 67.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-26T12:26:05.516490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.954453,
+          38.491226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvnews.com/news/wvnews/heat-dome-could-bring-dangerous-heat-to-west-virginia-ahead-of-july-4-weekend/article_bbb49d6c-b48e-4abd-8578-3b7e8c7d736f.html",
+        "title": "Heat dome could bring dangerous heat to West Virginia ahead of July 4 weekend",
+        "snippet": "",
+        "url": "https://www.wvnews.com/news/wvnews/heat-dome-could-bring-dangerous-heat-to-west-virginia-ahead-of-july-4-weekend/article_bbb49d6c-b48e-4abd-8578-3b7e8c7d736f.html",
+        "source": "WV News",
+        "published_at": "06/25/2026, 03:57 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-26T12:05:40.185162+00:00",
+        "outlet_region": "West Virginia",
+        "mention_text": "West Virginia",
+        "osm_display": "West Virginia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-26T23:00",
+        "sensor_temp_f": 69.6,
+        "sensor_rh_pct": 89,
+        "sensor_wind_mph": 7.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 64.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-26T12:26:05.516490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169968,
+          37.769337
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/virginia/oldtownalexandria/storms-target-va-heat-dome-arrives-see-latest-forecast",
+        "title": "Storms To Target VA Before Heat Dome Arrives: See Latest Forecast",
+        "snippet": "",
+        "url": "https://patch.com/virginia/oldtownalexandria/storms-target-va-heat-dome-arrives-see-latest-forecast",
+        "source": "Patch",
+        "published_at": "06/25/2026, 03:31 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-26T12:05:40.185162+00:00",
+        "outlet_region": null,
+        "mention_text": "virginia",
+        "osm_display": "virginia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-26T23:00",
+        "sensor_temp_f": 78.6,
+        "sensor_rh_pct": 64,
+        "sensor_wind_mph": 4.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-26T12:26:05.516490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/heat-dome-arrive-michigan-next-153908302.html",
+        "title": "Heat dome to arrive in Michigan next week. See long-range forecast",
+        "snippet": "",
+        "url": "https://www.aol.com/news/heat-dome-arrive-michigan-next-153908302.html",
+        "source": "AOL.com",
+        "published_at": "06/22/2026, 01:54 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-26T12:05:40.185162+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-26T23:00",
+        "sensor_temp_f": 60.8,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 5.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 55.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-26T12:26:05.516490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332071,
+          47.606209
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynorthwest.com/pacific-northwest-weather/seattle-heatwave/4244948",
+        "title": "Seattle heatwave forecast: Models hint at 90s in Western WA",
+        "snippet": "",
+        "url": "https://mynorthwest.com/pacific-northwest-weather/seattle-heatwave/4244948",
+        "source": "MyNorthwest.com",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-26T12:05:40.185162+00:00",
+        "outlet_region": null,
+        "mention_text": "Seattle",
+        "osm_display": "Seattle",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-06-26T23:00",
+        "sensor_temp_f": 55.6,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 10.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 48.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-26T12:26:05.516490+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-25T12:24:03.868139+00:00",
-    "total_features": 59
+    "last_updated": "2026-06-26T12:26:05.517178+00:00",
+    "total_features": 65
   }
 }
