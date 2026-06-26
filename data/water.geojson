@@ -1211,11 +1211,116 @@
         "usgs_gw_depth_ft": 412.85,
         "run_at": "2026-06-23T13:51:38.703596+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://itemlive.com/2026/05/31/water-ban-in-effect-in-lynn/",
+        "title": "Water ban in effect in Lynn",
+        "snippet": "",
+        "url": "https://itemlive.com/2026/05/31/water-ban-in-effect-in-lynn/",
+        "source": "Itemlive",
+        "published_at": "05/31/2026, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-06-26T13:13:18.670173+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Water",
+        "osm_display": "Water, Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "04115000",
+        "usgs_streamflow_name": "MAPLE RIVER AT MAPLE RAPIDS, MI",
+        "usgs_streamflow_dist_km": 27.26,
+        "usgs_streamflow_cfs": 136.0,
+        "usgs_gw_site_no": "424502084331301",
+        "usgs_gw_name": "04N 02W 09BDAD 01 INGHAM CO (SEYMOUR)",
+        "usgs_gw_dist_km": 64.07,
+        "usgs_gw_depth_ft": 41.14,
+        "run_at": "2026-06-26T13:21:09.981727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://calmatters.org/environment/2024/01/california-rapidly-depleted-groundwater/",
+        "title": "California ranks high worldwide for rapidly depleted groundwater",
+        "snippet": "",
+        "url": "https://calmatters.org/environment/2024/01/california-rapidly-depleted-groundwater/",
+        "source": "CalMatters",
+        "published_at": "01/24/2024, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-06-26T13:13:18.670173+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 412.85,
+        "run_at": "2026-06-26T13:21:09.981727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bloomberg.com/news/articles/2015-07-02/great-plains-water-crisis-aquifer-s-depletion-threatens-farmland",
+        "title": "The Great Plains\u2019 Looming Water Crisis",
+        "snippet": "",
+        "url": "https://www.bloomberg.com/news/articles/2015-07-02/great-plains-water-crisis-aquifer-s-depletion-threatens-farmland",
+        "source": "Bloomberg",
+        "published_at": "07/02/2015, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-06-26T13:13:18.670173+00:00",
+        "outlet_region": null,
+        "mention_text": "The Great Plains",
+        "osm_display": "The Great Plains",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": "405855100073901",
+        "usgs_gw_name": "12N 25W25CBBB1-Site6-75",
+        "usgs_gw_dist_km": 10.88,
+        "usgs_gw_depth_ft": 62.39,
+        "run_at": "2026-06-26T13:21:09.981727+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-06-25T13:27:03.047649+00:00",
-    "total_features": 39
+    "last_updated": "2026-06-26T13:21:09.982260+00:00",
+    "total_features": 42
   }
 }
