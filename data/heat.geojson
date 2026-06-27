@@ -2210,11 +2210,317 @@
         "wbgt_flag": "green",
         "run_at": "2026-06-26T12:26:05.516490+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755371,
+          41.597782
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ctinsider.com/weather/article/heat-dome-ct-humidiy-heat-index-next-week-22322153.php",
+        "title": "Dangerous heat dome near Connecticut could make it feel like it's 100 degrees next week",
+        "snippet": "",
+        "url": "https://www.ctinsider.com/weather/article/heat-dome-ct-humidiy-heat-index-next-week-22322153.php",
+        "source": "CT Insider",
+        "published_at": "06/26/2026, 04:09 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "Connecticut",
+        "mention_text": "Connecticut",
+        "osm_display": "Connecticut",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 69.1,
+        "sensor_rh_pct": 88,
+        "sensor_wind_mph": 3.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 66.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clarionledger.com/story/weather/2026/06/26/heat-dome-could-bring-dangerous-heat-unusual-storms-to-mississippi/90700976007/",
+        "title": "Heat dome bringing Mississippi dangerous high temperatures, storms",
+        "snippet": "",
+        "url": "https://www.clarionledger.com/story/weather/2026/06/26/heat-dome-could-bring-dangerous-heat-unusual-storms-to-mississippi/90700976007/",
+        "source": "The Clarion-Ledger",
+        "published_at": "06/26/2026, 06:50 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "Mississippi",
+        "mention_text": "Mississippi",
+        "osm_display": "Mississippi",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 79.0,
+        "sensor_rh_pct": 86,
+        "sensor_wind_mph": 4.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 75.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/weather/article/texas-heat-dome-hot-temperatures-weekend-22320999.php",
+        "title": "The heat dome is here. What does that actually mean for Texas and summer temperatures?",
+        "snippet": "",
+        "url": "https://www.statesman.com/weather/article/texas-heat-dome-hot-temperatures-weekend-22320999.php",
+        "source": "Austin American-Statesman",
+        "published_at": "06/26/2026, 05:51 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 79.9,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 17.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 67.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tennessean.com/story/weather/2026/06/26/excessive-heat-wave-tennessee-weather/90706914007/",
+        "title": "'Oppressive' heat is on the way. How long will heat dome last in Tennessee",
+        "snippet": "",
+        "url": "https://www.tennessean.com/story/weather/2026/06/26/excessive-heat-wave-tennessee-weather/90706914007/",
+        "source": "The Tennessean",
+        "published_at": "06/26/2026, 03:53 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Tennessee",
+        "osm_display": "Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 79.5,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 9.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530106,
+          42.230171
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wickedlocal.com/story/weather/2026/06/26/massachusetts-weather-heat-dome-forecast/90705763007/",
+        "title": "A heat dome is coming for July 4. How hot Mass weather will be",
+        "snippet": "",
+        "url": "https://www.wickedlocal.com/story/weather/2026/06/26/massachusetts-weather-heat-dome-forecast/90705763007/",
+        "source": "Wicked Local",
+        "published_at": "06/26/2026, 05:49 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": null,
+        "mention_text": "massachusetts",
+        "osm_display": "massachusetts",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 69.3,
+        "sensor_rh_pct": 86,
+        "sensor_wind_mph": 3.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/heat-dome-northeast-ohio-atmosphere-high-pressure-temperatures-science-humidity-summer/95-aa85b7c2-96d4-42b8-9915-e457eb448e3d",
+        "title": "What's a heat dome? The science behind the scorching heat",
+        "snippet": "",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/heat-dome-northeast-ohio-atmosphere-high-pressure-temperatures-science-humidity-summer/95-aa85b7c2-96d4-42b8-9915-e457eb448e3d",
+        "source": "WKYC",
+        "published_at": "06/26/2026, 07:45 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": null,
+        "mention_text": "ohio",
+        "osm_display": "ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 70.0,
+        "sensor_rh_pct": 90,
+        "sensor_wind_mph": 6.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/weather/texas-heat-dome-100-degrees",
+        "title": "Heat dome to bring parts of Texas first 100-degree day of the year",
+        "snippet": "",
+        "url": "https://www.fox4news.com/weather/texas-heat-dome-100-degrees",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "published_at": "06/25/2026, 04:34 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-27T23:00",
+        "sensor_temp_f": 79.9,
+        "sensor_rh_pct": 69,
+        "sensor_wind_mph": 17.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 67.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/xrr4d9dpzjla/",
+        "title": "Minnesota, Wisconsin, Illinois, Iowa, Missouri, Kansas, Nebraska, Indiana, Ohio and More US States to Face Warm Atlantic as Heat Dome Attack After European Countries to Batter American Travellers in the First Week of July",
+        "snippet": "",
+        "url": "https://www.travelandtourworld.com/news/article/xrr4d9dpzjla/",
+        "source": "Travel And Tour World",
+        "published_at": "06/27/2026, 10:42 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/california-heat-dome-sees-records-topple-11712052",
+        "title": "California Heat Dome Sees Records Topple",
+        "snippet": "",
+        "url": "https://www.newsweek.com/california-heat-dome-sees-records-topple-11712052",
+        "source": "Newsweek",
+        "published_at": "03/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-27T11:18:55.453371+00:00",
+        "outlet_region": "California",
+        "mention_text": "California Heat Dome Sees Records Topple",
+        "osm_display": "California Heat Dome Sees Records Topple",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-06-27T11:34:41.999724+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-26T12:26:05.517178+00:00",
-    "total_features": 65
+    "last_updated": "2026-06-27T11:34:42.004269+00:00",
+    "total_features": 74
   }
 }
