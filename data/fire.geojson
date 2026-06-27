@@ -7227,11 +7227,623 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-06-26T10:53:52.404053+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/news/utah-cottonwood-wildfire-emergency-fireworks/",
+        "title": "Utah declares emergency, limits fireworks ahead of July Fourth as crews battle largest U.S. wildfire",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/news/utah-cottonwood-wildfire-emergency-fireworks/",
+        "source": "CBS News",
+        "published_at": "06/27/2026, 01:35 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://utahnewsdispatch.com/2026/06/26/southern-utah-faces-rare-particularly-dangerous-wildfire-warning/",
+        "title": "Southern Utah faces rare, \u2018particularly dangerous\u2019 wildfire warning",
+        "snippet": "",
+        "url": "https://utahnewsdispatch.com/2026/06/26/southern-utah-faces-rare-particularly-dangerous-wildfire-warning/",
+        "source": "Utah News Dispatch",
+        "published_at": "06/26/2026, 11:42 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/wireStory/utah-governor-restricts-fireworks-largest-us-wildfire-surges-134245225",
+        "title": "Utah governor restricts fireworks as largest US wildfire surges uncontained",
+        "snippet": "",
+        "url": "https://abcnews.com/US/wireStory/utah-governor-restricts-fireworks-largest-us-wildfire-surges-134245225",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "06/26/2026, 04:35 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/world-nation/story/2026-06-26/utah-governor-restricts-fireworks-as-largest-u-s-wildfire-surges-uncontained",
+        "title": "Utah governor restricts fireworks as largest U.S. wildfire surges uncontained",
+        "snippet": "",
+        "url": "https://www.latimes.com/world-nation/story/2026-06-26/utah-governor-restricts-fireworks-as-largest-u-s-wildfire-surges-uncontained",
+        "source": "Los Angeles Times",
+        "published_at": "06/26/2026, 06:59 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/06/26/forecasters-outline-rare-particularly-dangerous-situation-amid-utah-wildfire/",
+        "title": "\u2018Particularly dangerous situation\u2019 in Utah, forecasters warn, as fire rages",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/06/26/forecasters-outline-rare-particularly-dangerous-situation-amid-utah-wildfire/",
+        "source": "The Washington Post",
+        "published_at": "06/27/2026, 12:06 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/news/us-news/utah-weather-conditions-trigger-historic-red-flag-warning-wildfires-ra-rcna351929",
+        "title": "Utah weather conditions trigger historic red flag warning as wildfires rage across the state",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/news/us-news/utah-weather-conditions-trigger-historic-red-flag-warning-wildfires-ra-rcna351929",
+        "source": "NBC News",
+        "published_at": "06/26/2026, 03:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "red_flag_warning",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/jun/26/utah-governor-fireworks-wildfires",
+        "title": "Utah under historic \u2018red flag\u2019 weather warning amid dangerous wildfires",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/jun/26/utah-governor-fireworks-wildfires",
+        "source": "The Guardian",
+        "published_at": "06/27/2026, 12:49 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thehindu.com/news/international/utah-declares-state-of-emergency-restricts-fireworks-as-us-largest-wildfire-grows/article71153285.ece",
+        "title": "Utah declares state of emergency, restricts fireworks as U.S. largest wildfire grows",
+        "snippet": "",
+        "url": "https://www.thehindu.com/news/international/utah-declares-state-of-emergency-restricts-fireworks-as-us-largest-wildfire-grows/article71153285.ece",
+        "source": "The Hindu",
+        "published_at": "06/27/2026, 03:33 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/293529/washington_guard_aviators_sharpen_skills_wildfire_response",
+        "title": "Washington Guard aviators sharpen skills, wildfire response",
+        "snippet": "",
+        "url": "https://www.army.mil/article/293529/washington_guard_aviators_sharpen_skills_wildfire_response",
+        "source": "army.mil",
+        "published_at": "06/25/2026, 05:26 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/nightly-news/video/state-of-emergency-over-utah-wildfire-265768005715",
+        "title": "State of emergency over Utah wildfire",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/nightly-news/video/state-of-emergency-over-utah-wildfire-265768005715",
+        "source": "NBC News",
+        "published_at": "06/26/2026, 11:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
+        "title": "Red flag warning for critical fire weather in place across swath of Southern California",
+        "snippet": "",
+        "url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
+        "source": "Los Angeles Times",
+        "published_at": "06/26/2026, 11:26 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "red_flag_warning",
+        "firms_dist_km": 88.4,
+        "firms_frp_mw": 4.32,
+        "firms_brightness": 340.47,
+        "firms_acq_datetime": "2026-06-26 2044",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.starbeacon.com/region/utah-declares-a-state-of-emergency-and-restricts-fireworks-as-us-largest-wildfire-grows/article_c79fb600-df29-5249-8faf-d8a745d05359.html",
+        "title": "Utah declares a state of emergency and restricts fireworks as US largest wildfire grows",
+        "snippet": "",
+        "url": "https://www.starbeacon.com/region/utah-declares-a-state-of-emergency-and-restricts-fireworks-as-us-largest-wildfire-grows/article_c79fb600-df29-5249-8faf-d8a745d05359.html",
+        "source": "Star Beacon",
+        "published_at": "06/27/2026, 12:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ottumwacourier.com/news/national_news/utah-governor-restricts-fireworks-as-largest-us-wildfire-surges-uncontained/article_2d54c0b6-de1b-5b3d-a05f-c37e00533077.html",
+        "title": "Utah governor restricts fireworks as largest US wildfire surges uncontained",
+        "snippet": "",
+        "url": "https://www.ottumwacourier.com/news/national_news/utah-governor-restricts-fireworks-as-largest-us-wildfire-surges-uncontained/article_2d54c0b6-de1b-5b3d-a05f-c37e00533077.html",
+        "source": "Ottumwa Courier",
+        "published_at": "06/26/2026, 06:25 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/cottonwood-fire-surpasses-70k-acres-forcing-power-outages-in-southern-utah",
+        "title": "Nation's largest wildfire grows to over 70,000 acres in Southern Utah",
+        "snippet": "",
+        "url": "https://kutv.com/news/local/cottonwood-fire-surpasses-70k-acres-forcing-power-outages-in-southern-utah",
+        "source": "KUTV",
+        "published_at": "06/25/2026, 08:26 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.deseret.com/politics/2026/06/26/utah-governor-bans-fireworks-for-america-250-as-wildfires-erupt-across-the-state/",
+        "title": "Utah banned fireworks on America 250 amid raging wildfires. The backlash has already begun",
+        "snippet": "",
+        "url": "https://www.deseret.com/politics/2026/06/26/utah-governor-bans-fireworks-for-america-250-as-wildfires-erupt-across-the-state/",
+        "source": "Deseret News",
+        "published_at": "06/26/2026, 11:42 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.couriernews.com/news/national/utah-governor-restricts-fireworks-as-largest-us-wildfire-surges-uncontained/article_cafaecaf-e37e-5d62-8ef9-ac195ca212ef.html",
+        "title": "Utah restricts fireworks, declares state of emergency as largest US wildfire grows",
+        "snippet": "",
+        "url": "https://www.couriernews.com/news/national/utah-governor-restricts-fireworks-as-largest-us-wildfire-surges-uncontained/article_cafaecaf-e37e-5d62-8ef9-ac195ca212ef.html",
+        "source": "couriernews.com",
+        "published_at": "06/26/2026, 06:26 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/06/26/us-news/utah-gov-spencer-cox-bans-july-4th-fireworks-over-historic-wildfire-conditions-across-state/",
+        "title": "Utah Gov. Spencer Cox bans July 4th fireworks over \u2018historic\u2019 wildfire conditions across state",
+        "snippet": "",
+        "url": "https://nypost.com/2026/06/26/us-news/utah-gov-spencer-cox-bans-july-4th-fireworks-over-historic-wildfire-conditions-across-state/",
+        "source": "New York Post",
+        "published_at": "06/26/2026, 02:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.85,
+        "firms_frp_mw": 0.54,
+        "firms_brightness": 299.63,
+        "firms_acq_datetime": "2026-06-26 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sandiegouniontribune.com/2026/06/02/cal-fire-crews-actively-engaged-in-battling-brush-fire-south-of-dulzura-that-began-in-mexico/",
+        "title": "Evacuation warnings issued for brush fire burning south of Dulzura",
+        "snippet": "",
+        "url": "https://www.sandiegouniontribune.com/2026/06/02/cal-fire-crews-actively-engaged-in-battling-brush-fire-south-of-dulzura-that-began-in-mexico/",
+        "source": "San Diego Union-Tribune",
+        "published_at": "06/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-27T09:55:14.226567+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Dulzura",
+        "osm_display": "Dulzura, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-06-27T10:02:25.000005+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-06-26T10:53:52.405656+00:00",
-    "total_features": 221
+    "last_updated": "2026-06-27T10:02:25.001688+00:00",
+    "total_features": 239
   }
 }
