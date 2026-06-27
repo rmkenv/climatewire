@@ -5732,11 +5732,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-26T14:28:21.624701+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.104759,
+          29.736446
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstandard.org/stories/texas-rgv-water-shortage-expense-impact-farmers/",
+        "title": "Water shortage in Rio Grande Valley will be expensive, study shows",
+        "snippet": "",
+        "url": "https://texasstandard.org/stories/texas-rgv-water-shortage-expense-impact-farmers/",
+        "source": "Texas Standard",
+        "published_at": "02/21/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-27T13:27:31.066201+00:00",
+        "outlet_region": null,
+        "mention_text": "Rio Grande Valley",
+        "osm_display": "Rio Grande Valley",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-27T13:36:08.650664+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-26T14:28:21.626133+00:00",
-    "total_features": 213
+    "last_updated": "2026-06-27T13:36:08.652038+00:00",
+    "total_features": 214
   }
 }
