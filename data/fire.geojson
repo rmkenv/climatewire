@@ -7839,11 +7839,215 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-06-27T10:02:25.000005+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/wildfires-utah-red-flag-fireworks-9604ee19a108b0a54051b04902f6b0a6",
+        "title": "Utah declares a state of emergency and restricts fireworks as US largest wildfire grows",
+        "snippet": "",
+        "url": "https://apnews.com/article/wildfires-utah-red-flag-fireworks-9604ee19a108b0a54051b04902f6b0a6",
+        "source": "AP News",
+        "published_at": "06/27/2026, 12:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-28T10:19:30.446075+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.15,
+        "firms_frp_mw": 8.05,
+        "firms_brightness": 341.14,
+        "firms_acq_datetime": "2026-06-27 2025",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-28T10:27:31.397240+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
+        "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
+        "source": "NPR",
+        "published_at": "06/27/2026, 07:40 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-28T10:19:30.446075+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "red_flag_warning",
+        "firms_dist_km": 36.15,
+        "firms_frp_mw": 8.05,
+        "firms_brightness": 341.14,
+        "firms_acq_datetime": "2026-06-27 2025",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-28T10:27:31.397240+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/world-nation/story/2026-06-27/dangerous-weather-hampers-firefighters-leads-to-fireworks-bans-in-west",
+        "title": "Winds hamper crews as fast-moving wildfire in Utah burns through forests",
+        "snippet": "",
+        "url": "https://www.latimes.com/world-nation/story/2026-06-27/dangerous-weather-hampers-firefighters-leads-to-fireworks-bans-in-west",
+        "source": "Los Angeles Times",
+        "published_at": "06/28/2026, 01:32 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-28T10:19:30.446075+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.15,
+        "firms_frp_mw": 8.05,
+        "firms_brightness": 341.14,
+        "firms_acq_datetime": "2026-06-27 2025",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-28T10:27:31.397240+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/residents-on-notice-as-fast-moving-fire-in-utah-the-largest-in-the-us-blackens-more-forestland",
+        "title": "Residents on notice as fast-moving fire in Utah, the largest in the U.S., blackens more forestland",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/residents-on-notice-as-fast-moving-fire-in-utah-the-largest-in-the-us-blackens-more-forestland",
+        "source": "PBS",
+        "published_at": "06/27/2026, 03:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-28T10:19:30.446075+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.15,
+        "firms_frp_mw": 8.05,
+        "firms_brightness": 341.14,
+        "firms_acq_datetime": "2026-06-27 2025",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-28T10:27:31.397240+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ctvnews.ca/climate-and-environment/article/residents-on-notice-as-fast-moving-fire-in-utah-the-largest-in-the-us-blackens-more-forestland/",
+        "title": "Winds hamper crews as fast-moving fire in Utah, the largest in the U.S., burns through forests",
+        "snippet": "",
+        "url": "https://www.ctvnews.ca/climate-and-environment/article/residents-on-notice-as-fast-moving-fire-in-utah-the-largest-in-the-us-blackens-more-forestland/",
+        "source": "CTV News",
+        "published_at": "06/27/2026, 09:34 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-28T10:19:30.446075+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.15,
+        "firms_frp_mw": 8.05,
+        "firms_brightness": 341.14,
+        "firms_acq_datetime": "2026-06-27 2025",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-28T10:27:31.397240+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jhnewsandguide.com/jackson_hole_daily/state_and_regional/utah-governor-restricts-fireworks-as-largest-us-wildfire-surges-uncontained/article_386e5ec5-e2d2-5c35-a9be-e9d0cfd39b24.html",
+        "title": "Utah governor restricts fireworks as largest US wildfire surges uncontained",
+        "snippet": "",
+        "url": "https://www.jhnewsandguide.com/jackson_hole_daily/state_and_regional/utah-governor-restricts-fireworks-as-largest-us-wildfire-surges-uncontained/article_386e5ec5-e2d2-5c35-a9be-e9d0cfd39b24.html",
+        "source": "JHNewsAndGuide.com",
+        "published_at": "06/27/2026, 06:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-28T10:19:30.446075+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.15,
+        "firms_frp_mw": 8.05,
+        "firms_brightness": 341.14,
+        "firms_acq_datetime": "2026-06-27 2025",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-28T10:27:31.397240+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-06-27T10:02:25.001688+00:00",
-    "total_features": 239
+    "last_updated": "2026-06-28T10:27:31.398915+00:00",
+    "total_features": 245
   }
 }
