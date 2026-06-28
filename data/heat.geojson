@@ -2516,11 +2516,113 @@
         "wbgt_flag": null,
         "run_at": "2026-06-27T11:34:41.999724+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/heat-dome-send-feels-temperatures-231700452.html",
+        "title": "Heat dome to send feels-like temperatures in the Eastern U.S. to 115 as Utah deals with fire weather",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/heat-dome-send-feels-temperatures-231700452.html",
+        "source": "Yahoo",
+        "published_at": "06/27/2026, 11:17 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-28T11:40:17.467383+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-28T23:00",
+        "sensor_temp_f": 57.9,
+        "sensor_rh_pct": 38,
+        "sensor_wind_mph": 22.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 40.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-28T11:56:04.423307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-tech/heat-dome-brings-oppressive-conditions-eastern-us/",
+        "title": "Heat dome to send feels-like temperatures in the Eastern U.S. to 115 as Utah deals with fire weather",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/green-tech/heat-dome-brings-oppressive-conditions-eastern-us/",
+        "source": "The Cool Down",
+        "published_at": "06/27/2026, 11:17 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-28T11:40:17.467383+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-28T23:00",
+        "sensor_temp_f": 57.9,
+        "sensor_rh_pct": 38,
+        "sensor_wind_mph": 22.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 40.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-28T11:56:04.423307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/heat-dome-coming-to-kentucky/417-802d32cb-9092-442a-a555-0567984a9313",
+        "title": "A dangerous heat dome is coming to Kentucky. Here\u2019s what it means",
+        "snippet": "",
+        "url": "https://www.whas11.com/article/weather/heat-dome-coming-to-kentucky/417-802d32cb-9092-442a-a555-0567984a9313",
+        "source": "WHAS11",
+        "published_at": "06/26/2026, 12:35 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-28T11:40:17.467383+00:00",
+        "outlet_region": "Kentucky",
+        "mention_text": "Kentucky",
+        "osm_display": "Kentucky",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-28T23:00",
+        "sensor_temp_f": 77.0,
+        "sensor_rh_pct": 92,
+        "sensor_wind_mph": 3.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-28T11:56:04.423307+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-27T11:34:42.004269+00:00",
-    "total_features": 74
+    "last_updated": "2026-06-28T11:56:04.424157+00:00",
+    "total_features": 77
   }
 }
