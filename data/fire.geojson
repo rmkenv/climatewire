@@ -8043,11 +8043,385 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-06-28T10:27:31.397240+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.doi.gov/wildlandfireservice/burnover-incident-western-colorado-wildfire-results-federal-wildland",
+        "title": "Burnover Incident on Western Colorado Wildfire Results in Federal Wildland Firefighter Injuries and Fatalities",
+        "snippet": "",
+        "url": "https://www.doi.gov/wildlandfireservice/burnover-incident-western-colorado-wildfire-results-federal-wildland",
+        "source": "U.S. Department of the Interior (.gov)",
+        "published_at": "06/28/2026, 12:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/3-firefighters-killed-2-injured-while-tackling-wildfires-on-the-colorado-utah-border",
+        "title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/3-firefighters-killed-2-injured-while-tackling-wildfires-on-the-colorado-utah-border",
+        "source": "PBS",
+        "published_at": "06/28/2026, 04:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
+        "title": "3 firefighters killed on Colorado-Utah border as wildfires intensify",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
+        "source": "NPR",
+        "published_at": "06/28/2026, 02:46 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah",
+        "title": "Three firefighters killed in US wildfires along Colorado\u2013Utah border",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah",
+        "source": "Al Jazeera",
+        "published_at": "06/28/2026, 04:12 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtop.com/national/2026/06/dry-windy-conditions-fuel-explosive-wildfire-growth-across-western-us/",
+        "title": "3 firefighters killed in Colorado as wildfires stoked by heat, wind rage across the West",
+        "snippet": "",
+        "url": "https://wtop.com/national/2026/06/dry-windy-conditions-fuel-explosive-wildfire-growth-across-western-us/",
+        "source": "WTOP",
+        "published_at": "06/29/2026, 03:22 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "DC",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado, DC",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/weather/wildfires/firefighters-killed-tackling-wildfires-colorado-utah-border-rcna352102",
+        "title": "3 firefighters killed, 2 injured tackling wildfires on the Colorado-Utah border",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/weather/wildfires/firefighters-killed-tackling-wildfires-colorado-utah-border-rcna352102",
+        "source": "NBC News",
+        "published_at": "06/28/2026, 01:56 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://indianexpress.com/article/world/colorado-utah-wildfire-firefighters-killed-snyder-fire-2026-10762047/",
+        "title": "Colorado-Utah Wildfire: 3 firefighters killed as Snyder fire spreads across 114 sq km",
+        "snippet": "",
+        "url": "https://indianexpress.com/article/world/colorado-utah-wildfire-firefighters-killed-snyder-fire-2026-10762047/",
+        "source": "The Indian Express",
+        "published_at": "06/29/2026, 12:05 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bedfordgazette.com/ap/national/us-wildfire/image_3ffde961-3467-58b8-849b-21bf5291931c.html",
+        "title": "US Wildfire",
+        "snippet": "",
+        "url": "https://www.bedfordgazette.com/ap/national/us-wildfire/image_3ffde961-3467-58b8-849b-21bf5291931c.html",
+        "source": "Bedford Gazette",
+        "published_at": "06/28/2026, 06:41 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Wildfire",
+        "osm_display": "Wildfire, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jpost.com/international/article-900710",
+        "title": "Three firefighters killed, 2 injured in Snyder wildfire on Utah-Colorado border",
+        "snippet": "",
+        "url": "https://www.jpost.com/international/article-900710",
+        "source": "The Jerusalem Post",
+        "published_at": "06/28/2026, 10:59 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 68.86,
+        "firms_frp_mw": 5.88,
+        "firms_brightness": 348.98,
+        "firms_acq_datetime": "2026-06-28 2006",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/eu/newsroom/wildfire-map-spotlight-border-6-fire-california",
+        "title": "Wildfire map spotlight: Border 6 Fire, California",
+        "snippet": "",
+        "url": "https://www.iqair.com/eu/newsroom/wildfire-map-spotlight-border-6-fire-california",
+        "source": "IQAir",
+        "published_at": "06/07/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 74.12,
+        "firms_frp_mw": 10.39,
+        "firms_brightness": 333.69,
+        "firms_acq_datetime": "2026-06-28 2006",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.castanet.net/news/World/622118/3-firefighters-killed-2-injured-while-tackling-wildfires-on-the-Colorado-Utah-border",
+        "title": "3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border",
+        "snippet": "",
+        "url": "https://www.castanet.net/news/World/622118/3-firefighters-killed-2-injured-while-tackling-wildfires-on-the-Colorado-Utah-border",
+        "source": "Castanet",
+        "published_at": "06/28/2026, 02:35 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-29T12:22:33.775664+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 1.37,
+        "firms_brightness": 299.8,
+        "firms_acq_datetime": "2026-06-29 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-06-29T12:29:42.881436+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-06-28T10:27:31.398915+00:00",
-    "total_features": 245
+    "last_updated": "2026-06-29T12:29:42.883245+00:00",
+    "total_features": 256
   }
 }
