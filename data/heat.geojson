@@ -2618,11 +2618,283 @@
         "wbgt_flag": "green",
         "run_at": "2026-06-28T11:56:04.423307+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare",
+        "title": "A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare",
+        "source": "NPR",
+        "published_at": "06/28/2026, 11:37 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": null,
+        "mention_text": "north carolina",
+        "osm_display": "north carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-29T23:00",
+        "sensor_temp_f": 78.6,
+        "sensor_rh_pct": 67,
+        "sensor_wind_mph": 4.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/06/29/see-where-dangerous-heat-will-envelop-midwest-east-this-week/",
+        "title": "See where dangerous heat will envelop the Midwest and East this week",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/06/29/see-where-dangerous-heat-will-envelop-midwest-east-this-week/",
+        "source": "The Washington Post",
+        "published_at": "06/29/2026, 01:47 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-06-29T23:00",
+        "sensor_temp_f": 79.0,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 10.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldtribune.com/story/weather/2026/06/29/what-is-heat-dome-map-heat-wave-florida-forecast/90735172007/",
+        "title": "What is a heat dome and why is it so dangerous?",
+        "snippet": "",
+        "url": "https://www.heraldtribune.com/story/weather/2026/06/29/what-is-heat-dome-map-heat-wave-florida-forecast/90735172007/",
+        "source": "Sarasota Herald-Tribune",
+        "published_at": "06/29/2026, 12:36 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "florida",
+        "osm_display": "florida, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-29T23:00",
+        "sensor_temp_f": 76.8,
+        "sensor_rh_pct": 89,
+        "sensor_wind_mph": 1.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelphia.html",
+        "title": "\u2018Heat Dome\u2019 Could Bring Triple-Digit Temperatures to the Midwest and Eastern U.S.",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/06/28/weather/heat-wave-usa-nyc-dc-philadelphia.html",
+        "source": "The New York Times",
+        "published_at": "06/28/2026, 03:48 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-29T23:00",
+        "sensor_temp_f": 79.0,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 10.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ibtimes.com/july-fry-us-midwest-east-brace-brutal-heat-dome-3804672",
+        "title": "\u2018July Fry\u2019: US Midwest, East Brace For Brutal Heat Dome",
+        "snippet": "",
+        "url": "https://www.ibtimes.com/july-fry-us-midwest-east-brace-brutal-heat-dome-3804672",
+        "source": "International Business Times",
+        "published_at": "06/28/2026, 03:37 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest east",
+        "osm_display": "midwest east",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-29T23:00",
+        "sensor_temp_f": 79.0,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 10.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/c2k9nehacox0/",
+        "title": "US Weather Divide Deepens as Montana and Idaho Face Mountain Snow Warnings While Heat Dome Builds Across Central and Eastern States",
+        "snippet": "",
+        "url": "https://www.travelandtourworld.com/news/article/c2k9nehacox0/",
+        "source": "Travel And Tour World",
+        "published_at": "06/29/2026, 11:32 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Montana",
+        "osm_display": "Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/winter-weather-warnings-issued-montana-other-states-face-heat-dome-12133982",
+        "title": "Winter Weather Warnings Issued in Montana as Other States Face \u2018Heat Dome\u2019",
+        "snippet": "",
+        "url": "https://www.newsweek.com/winter-weather-warnings-issued-montana-other-states-face-heat-dome-12133982",
+        "source": "Newsweek",
+        "published_at": "06/29/2026, 08:48 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Montana",
+        "osm_display": "Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530106,
+          42.230171
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/06/what-is-a-heat-dome-and-when-is-it-hitting-massachusetts.html",
+        "title": "What is a heat dome and when is it hitting Massachusetts?",
+        "snippet": "",
+        "url": "https://www.masslive.com/weather/2026/06/what-is-a-heat-dome-and-when-is-it-hitting-massachusetts.html",
+        "source": "MassLive",
+        "published_at": "06/28/2026, 03:46 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-06-29T13:57:28.118042+00:00",
+        "outlet_region": "Massachusetts",
+        "mention_text": "Massachusetts",
+        "osm_display": "Massachusetts",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-06-29T23:00",
+        "sensor_temp_f": 69.1,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 4.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-06-29T14:18:40.285491+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-28T11:56:04.424157+00:00",
-    "total_features": 77
+    "last_updated": "2026-06-29T14:18:40.286458+00:00",
+    "total_features": 85
   }
 }
