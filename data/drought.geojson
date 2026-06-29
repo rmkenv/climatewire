@@ -5762,11 +5762,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-27T13:36:08.650664+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/watch/no-car-washes-no-pools-surviving-the-arizona-water-shortage/019d9b9f-f648-8008-fa6d-68903e5adb16",
+        "title": "No car washes, no pools: Surviving the Arizona water shortage",
+        "snippet": "",
+        "url": "https://ktar.com/watch/no-car-washes-no-pools-surviving-the-arizona-water-shortage/019d9b9f-f648-8008-fa6d-68903e5adb16",
+        "source": "KTAR News 92.3 FM",
+        "published_at": "04/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-29T15:41:33.742598+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-29T15:56:28.292391+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-28T13:51:11.169362+00:00",
-    "total_features": 214
+    "last_updated": "2026-06-29T15:56:28.293829+00:00",
+    "total_features": 215
   }
 }
