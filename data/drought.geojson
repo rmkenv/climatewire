@@ -5792,11 +5792,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-29T15:56:28.292391+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/06/11/drought-monitor-western-oklahoma-remains-locked-in-exceptional-drought/",
+        "title": "Drought Monitor: Western Oklahoma Remains Locked in Exceptional Drought",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/06/11/drought-monitor-western-oklahoma-remains-locked-in-exceptional-drought/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "06/11/2026, 01:34 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-06-30T14:13:36.862797+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "oklahoma",
+        "osm_display": "oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-06-30T14:22:08.447618+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-06-29T15:56:28.293829+00:00",
-    "total_features": 215
+    "last_updated": "2026-06-30T14:22:08.449134+00:00",
+    "total_features": 216
   }
 }
