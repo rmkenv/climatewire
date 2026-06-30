@@ -8417,11 +8417,623 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-06-29T12:29:42.881436+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7.com/post/3-firefighters-killed-wildfire-colorado-utah-border-idd-emily-barker-nick-hutcherson-sydney-watson/19415370/",
+        "title": "3 firefighters killed in wildfire on Colorado-Utah border ID'd as Emily Barker, Nick Hutcherson, Sydney Watson",
+        "snippet": "",
+        "url": "https://abc7.com/post/3-firefighters-killed-wildfire-colorado-utah-border-idd-emily-barker-nick-hutcherson-sydney-watson/19415370/",
+        "source": "ABC7 Los Angeles",
+        "published_at": "06/29/2026, 08:24 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presidentialprayerteam.org/2026/06/30/governors-declare-states-of-emergency-in-colorado-utah-border-wildfire/",
+        "title": "Governors Declare States of Emergency in Colorado-Utah Border Wildfire",
+        "snippet": "",
+        "url": "https://www.presidentialprayerteam.org/2026/06/30/governors-declare-states-of-emergency-in-colorado-utah-border-wildfire/",
+        "source": "The Presidential Prayer Team",
+        "published_at": "06/30/2026, 08:30 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/jun/29/firefighters-killed-colorado-wildfires",
+        "title": "Officials release names of three firefighters killed in Colorado wildfire",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/jun/29/firefighters-killed-colorado-wildfires",
+        "source": "The Guardian",
+        "published_at": "06/29/2026, 09:29 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/local/arizona/us-60-closed-east-valley-due-to-brush-fire-arizona-west-miami/75-1024fac6-9fd3-47bf-96f4-3240bfc5d6a8",
+        "title": "U.S. 60 reopened east of the Valley after brush fire",
+        "snippet": "",
+        "url": "https://www.12news.com/article/news/local/arizona/us-60-closed-east-valley-due-to-brush-fire-arizona-west-miami/75-1024fac6-9fd3-47bf-96f4-3240bfc5d6a8",
+        "source": "12News",
+        "published_at": "06/29/2026, 09:37 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": null,
+        "mention_text": "arizona",
+        "osm_display": "arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kbzk.com/news/local-news/montana-fire-officials-prepare-for-2026-wildfire-season-under-new-federal-agency-structure",
+        "title": "Montana fire officials prepare for 2026 wildfire season under new federal agency structure",
+        "snippet": "",
+        "url": "https://www.kbzk.com/news/local-news/montana-fire-officials-prepare-for-2026-wildfire-season-under-new-federal-agency-structure",
+        "source": "KBZK News",
+        "published_at": "06/29/2026, 06:51 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Montana",
+        "osm_display": "Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/air-quality-alerts-issued-as-wildfire-smoke-drifts-across-colorado/",
+        "title": "Air quality alerts issued as wildfire smoke drifts across Colorado",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/video/air-quality-alerts-issued-as-wildfire-smoke-drifts-across-colorado/",
+        "source": "CBS News",
+        "published_at": "06/29/2026, 11:09 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://azdailysun.com/news/state-and-regional/three-firefighters-killed-two-injured-while-battling-wildfire-in-colorado/article_3553411b-0b5b-4bf4-82f5-142b06b8661f.html",
+        "title": "Three firefighters killed, two injured while battling wildfire in Colorado",
+        "snippet": "",
+        "url": "https://azdailysun.com/news/state-and-regional/three-firefighters-killed-two-injured-while-battling-wildfire-in-colorado/article_3553411b-0b5b-4bf4-82f5-142b06b8661f.html",
+        "source": "Arizona Daily Sun",
+        "published_at": "06/29/2026, 06:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/us/articles/2026-06-29/echoes-of-deadly-arizona-wildfire-with-3-firefighters-killed-in-colorado-utah-blaze",
+        "title": "Echoes of Deadly Arizona Wildfire With 3 Firefighters Killed in Colorado-Utah Blaze",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/us/articles/2026-06-29/echoes-of-deadly-arizona-wildfire-with-3-firefighters-killed-in-colorado-utah-blaze",
+        "source": "U.S. News & World Report",
+        "published_at": "06/29/2026, 09:05 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado, Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.193659,
+          25.774266
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wmicentral.com/breaking/update-u-s-60-open-while-crews-battle-wildfire-near-miami/article_c092a63f-798d-4e85-8d50-6b6176859b19.html",
+        "title": "Update: U.S. 60 open while crews battle wildfire near Miami",
+        "snippet": "",
+        "url": "https://www.wmicentral.com/breaking/update-u-s-60-open-while-crews-battle-wildfire-near-miami/article_c092a63f-798d-4e85-8d50-6b6176859b19.html",
+        "source": "White Mountain Independent",
+        "published_at": "06/29/2026, 11:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": null,
+        "mention_text": "Miami",
+        "osm_display": "Miami",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://missoulacurrent.com/utah-wildfire-warning/",
+        "title": "Southern Utah faces rare, \u2018particularly dangerous\u2019 wildfire warning",
+        "snippet": "",
+        "url": "https://missoulacurrent.com/utah-wildfire-warning/",
+        "source": "Missoula Current",
+        "published_at": "06/29/2026, 01:48 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.193659,
+          25.774266
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wmicentral.com/breaking/u-s-60-closed-near-miami-for-wildfire-june-29/article_c092a63f-798d-4e85-8d50-6b6176859b19.html",
+        "title": "U.S. 60 closed near Miami for wildfire June 29",
+        "snippet": "",
+        "url": "https://www.wmicentral.com/breaking/u-s-60-closed-near-miami-for-wildfire-june-29/article_c092a63f-798d-4e85-8d50-6b6176859b19.html",
+        "source": "White Mountain Independent",
+        "published_at": "06/29/2026, 11:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": null,
+        "mention_text": "Miami",
+        "osm_display": "Miami",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/warm-windy-pattern-keeps-wildfire-risk-high-across-colorado-mountains/",
+        "title": "Warm, windy pattern keeps wildfire risk high across Colorado mountains",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/video/warm-windy-pattern-keeps-wildfire-risk-high-across-colorado-mountains/",
+        "source": "CBS News",
+        "published_at": "06/29/2026, 06:54 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.arkansasonline.com/news/2026/jun/29/colorado-wildfire-kills-3-hurts-2/",
+        "title": "Colorado wildfire kills 3, hurts 2",
+        "snippet": "",
+        "url": "https://www.arkansasonline.com/news/2026/jun/29/colorado-wildfire-kills-3-hurts-2/",
+        "source": "The Arkansas Democrat-Gazette",
+        "published_at": "06/29/2026, 09:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/emergency-declaration-gold-mountain-fire-ouray-colorado/",
+        "title": "Officials declare state of emergency for wildfire burning north of Ouray, Colorado",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/news/emergency-declaration-gold-mountain-fire-ouray-colorado/",
+        "source": "CBS News",
+        "published_at": "06/28/2026, 07:34 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Ouray",
+        "osm_display": "Ouray, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/echoes-of-deadly-arizona-wildfire-with-3-firefighters-killed-in-colorado-utah-blaze/article_52403238-3484-51ef-8ca5-6d9aafcd4977.html",
+        "title": "Echoes of deadly Arizona wildfire with 3 firefighters killed in Colorado-Utah blaze",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/echoes-of-deadly-arizona-wildfire-with-3-firefighters-killed-in-colorado-utah-blaze/article_52403238-3484-51ef-8ca5-6d9aafcd4977.html",
+        "source": "Toronto Star",
+        "published_at": "06/29/2026, 09:05 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/names-released-of-3-firefighters-who-died-in-colorado-while-responding-to-wildfire/",
+        "title": "Names released of 3 firefighters who died in Colorado while responding to wildfire",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/video/names-released-of-3-firefighters-who-died-in-colorado-while-responding-to-wildfire/",
+        "source": "CBS News",
+        "published_at": "06/29/2026, 03:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tribdem.com/news/latest_news/3-firefighters-killed-in-western-wildfire-were-trying-to-shield-themselves-from-flames/article_269d847e-b6d1-5dfa-bab9-54c5cd9898b9.html",
+        "title": "3 firefighters killed in Western wildfire were trying to shield themselves from flames",
+        "snippet": "",
+        "url": "https://www.tribdem.com/news/latest_news/3-firefighters-killed-in-western-wildfire-were-trying-to-shield-themselves-from-flames/article_269d847e-b6d1-5dfa-bab9-54c5cd9898b9.html",
+        "source": "The Tribune-Democrat",
+        "published_at": "06/30/2026, 01:15 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Western",
+        "osm_display": "Western, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/western-wildfires-wind-dry-weather-a5fb3b05719d2a6b77feacffd2cbdba9",
+        "title": "3 firefighters killed in Colorado as wildfires stoked by heat, wind rage across the West",
+        "snippet": "",
+        "url": "https://apnews.com/article/western-wildfires-wind-dry-weather-a5fb3b05719d2a6b77feacffd2cbdba9",
+        "source": "AP News",
+        "published_at": "06/29/2026, 12:15 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-06-30T10:47:23.590557+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-06-30T10:54:21.448258+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-06-29T12:29:42.883245+00:00",
-    "total_features": 256
+    "last_updated": "2026-06-30T10:54:21.450614+00:00",
+    "total_features": 274
   }
 }
