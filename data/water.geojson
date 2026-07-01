@@ -1316,11 +1316,46 @@
         "usgs_gw_depth_ft": 62.39,
         "run_at": "2026-06-26T13:21:09.981727+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalobserver.com/2021/07/08/news/california-governor-voluntarily-water-rationing-Newsom",
+        "title": "California governor calls for voluntarily water rationing",
+        "snippet": "",
+        "url": "https://www.nationalobserver.com/2021/07/08/news/california-governor-voluntarily-water-rationing-Newsom",
+        "source": "Canada's National Observer",
+        "published_at": "07/08/2021, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-07-01T13:34:22.629689+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 412.85,
+        "run_at": "2026-07-01T13:41:42.988941+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-06-30T13:17:49.779206+00:00",
-    "total_features": 42
+    "last_updated": "2026-07-01T13:41:42.989711+00:00",
+    "total_features": 43
   }
 }
