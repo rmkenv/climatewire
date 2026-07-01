@@ -3128,11 +3128,249 @@
         "wbgt_flag": null,
         "run_at": "2026-06-30T12:18:08.434967+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/weather/article/texas-heat-dome-united-states-hot-22326656.php",
+        "title": "Texas bakes as heat dome spreads east across America ahead of July 4",
+        "snippet": "",
+        "url": "https://www.statesman.com/weather/article/texas-heat-dome-united-states-hot-22326656.php",
+        "source": "Austin American-Statesman",
+        "published_at": "06/30/2026, 06:34 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-01T23:00",
+        "sensor_temp_f": 84.7,
+        "sensor_rh_pct": 58,
+        "sensor_wind_mph": 11.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news-leader.com/story/weather/2026/07/01/corn-sweat-in-missouri-adds-humidity-heat-dome/90757041007/",
+        "title": "'Corn sweat\u2019 adds to sticky Missouri heat this week",
+        "snippet": "",
+        "url": "https://www.news-leader.com/story/weather/2026/07/01/corn-sweat-in-missouri-adds-humidity-heat-dome/90757041007/",
+        "source": "Springfield News-Leader",
+        "published_at": "07/01/2026, 10:10 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Missouri",
+        "mention_text": "Missouri",
+        "osm_display": "Missouri",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-01T23:00",
+        "sensor_temp_f": 83.8,
+        "sensor_rh_pct": 58,
+        "sensor_wind_mph": 7.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 73.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.freep.com/story/weather/2026/06/30/michigan-heat-dome-science/90742331007/",
+        "title": "Why Michigan is under extreme heat warnings this week",
+        "snippet": "",
+        "url": "https://www.freep.com/story/weather/2026/06/30/michigan-heat-dome-science/90742331007/",
+        "source": "Detroit Free Press",
+        "published_at": "06/30/2026, 05:43 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-01T23:00",
+        "sensor_temp_f": 79.2,
+        "sensor_rh_pct": 70,
+        "sensor_wind_mph": 8.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/atlanta-opening-cooling-center-as-dangerously-high-temperatures-continue-across-georgia/",
+        "title": "Atlanta opening cooling center as dangerously high temperatures continue across Georgia",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/atlanta/news/atlanta-opening-cooling-center-as-dangerously-high-temperatures-continue-across-georgia/",
+        "source": "CBS News",
+        "published_at": "06/30/2026, 03:38 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Atlanta",
+        "osm_display": "Atlanta, Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_emergency",
+        "sensor_obs_time": "2026-07-01T23:00",
+        "sensor_temp_f": 83.5,
+        "sensor_rh_pct": 56,
+        "sensor_wind_mph": 5.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 73.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkrn.com/news/local-news/heat-dome-middle-tennessee-impacts/",
+        "title": "What is a heat dome and how long is it going to impact Middle Tennessee?",
+        "snippet": "",
+        "url": "https://www.wkrn.com/news/local-news/heat-dome-middle-tennessee-impacts/",
+        "source": "WKRN News 2",
+        "published_at": "06/30/2026, 08:36 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Middle Tennessee",
+        "osm_display": "Middle Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-01T23:00",
+        "sensor_temp_f": 84.6,
+        "sensor_rh_pct": 38,
+        "sensor_wind_mph": 2.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sandiegouniontribune.com/2026/06/30/home-dome-world-cup/",
+        "title": "A heat dome will engulf World Cup games in the eastern US this week. Here\u2019s what to expect",
+        "snippet": "",
+        "url": "https://www.sandiegouniontribune.com/2026/06/30/home-dome-world-cup/",
+        "source": "San Diego Union-Tribune",
+        "published_at": "06/30/2026, 04:47 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "World Cup",
+        "osm_display": "World Cup, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755371,
+          41.597782
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/dangerous-heat-dome-near-connecticut-170627249.html",
+        "title": "Dangerous heat dome near Connecticut could make it feel like it's 100 degrees next week",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/dangerous-heat-dome-near-connecticut-170627249.html",
+        "source": "Yahoo",
+        "published_at": "06/26/2026, 05:06 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-01T12:26:38.726007+00:00",
+        "outlet_region": "Connecticut",
+        "mention_text": "Connecticut",
+        "osm_display": "Connecticut",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-01T23:00",
+        "sensor_temp_f": 76.3,
+        "sensor_rh_pct": 76,
+        "sensor_wind_mph": 4.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-01T12:41:32.775224+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-06-30T12:18:08.439711+00:00",
-    "total_features": 92
+    "last_updated": "2026-07-01T12:41:32.776624+00:00",
+    "total_features": 99
   }
 }
