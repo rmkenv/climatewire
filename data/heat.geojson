@@ -3366,11 +3366,215 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-01T12:41:32.775224+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/02/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east",
+        "title": "Extreme heat dome sizzles NYC, Philadelphia, Boston, DC into July Fourth weekend",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/02/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east",
+        "source": "The Weather Channel",
+        "published_at": "07/02/2026, 10:47 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-02T12:01:08.736071+00:00",
+        "outlet_region": null,
+        "mention_text": "Philadelphia",
+        "osm_display": "Philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-02T23:00",
+        "sensor_temp_f": 88.7,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 6.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 77.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-02T12:16:35.894252+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/washingtonpost/videos/a-heat-dome-will-intensify-over-the-eastern-us-this-week-pushing-temperatures-in/2037540296970632/",
+        "title": "Washington Post. . A heat dome will intensify over the Eastern U.S. this week, pushing temperatures into triple digits and likely breaking records across three dozen states, according to NOAA. https://wapo.st/4ezFsuO",
+        "snippet": "",
+        "url": "https://www.facebook.com/washingtonpost/videos/a-heat-dome-will-intensify-over-the-eastern-us-this-week-pushing-temperatures-in/2037540296970632/",
+        "source": "facebook.com",
+        "published_at": "07/01/2026, 12:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-02T12:01:08.736071+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-02T23:00",
+        "sensor_temp_f": 54.5,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 1.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 51.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-02T12:16:35.894252+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/06/what-is-a-heat-dome-why-northeast-ohio-is-baking-under-dangerous-heat.html",
+        "title": "What is a heat dome? Why Northeast Ohio is baking under dangerous heat",
+        "snippet": "",
+        "url": "https://www.cleveland.com/weather/2026/06/what-is-a-heat-dome-why-northeast-ohio-is-baking-under-dangerous-heat.html",
+        "source": "Cleveland.com",
+        "published_at": "06/30/2026, 04:26 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-02T12:01:08.736071+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-02T23:00",
+        "sensor_temp_f": 80.6,
+        "sensor_rh_pct": 64,
+        "sensor_wind_mph": 4.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-02T12:16:35.894252+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169968,
+          37.769337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsleader.com/story/news/local/2026/07/01/waynesboro-virginia-cooling-shelter-heat-wave-extreme-heat-weather-warning/90768937007/",
+        "title": "Cooling shelter open amid 100-degree weather",
+        "snippet": "",
+        "url": "https://www.newsleader.com/story/news/local/2026/07/01/waynesboro-virginia-cooling-shelter-heat-wave-extreme-heat-weather-warning/90768937007/",
+        "source": "The News Leader | Staunton, VA",
+        "published_at": "07/01/2026, 04:59 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-02T12:01:08.736071+00:00",
+        "outlet_region": null,
+        "mention_text": "virginia",
+        "osm_display": "virginia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-02T23:00",
+        "sensor_temp_f": 88.2,
+        "sensor_rh_pct": 41,
+        "sensor_wind_mph": 3.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-02T12:16:35.894252+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316331355.html",
+        "title": "Why East Coast heat dome is making California comfy \u2014 and when it will change",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/weather-news/article316331355.html",
+        "source": "Sacramento Bee",
+        "published_at": "07/01/2026, 12:00 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-02T12:01:08.736071+00:00",
+        "outlet_region": "California",
+        "mention_text": "East Coast",
+        "osm_display": "East Coast, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-02T23:00",
+        "sensor_temp_f": 67.5,
+        "sensor_rh_pct": 36,
+        "sensor_wind_mph": 6.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 54.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-02T12:16:35.894252+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/heat-dome-expands-texas-east-193013079.html",
+        "title": "Heat dome expands from Texas to East Coast ahead of July 4 - how hot will It get?",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/heat-dome-expands-texas-east-193013079.html",
+        "source": "Yahoo",
+        "published_at": "06/30/2026, 07:30 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-02T12:01:08.736071+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-02T12:16:35.894252+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-01T12:41:32.776624+00:00",
-    "total_features": 99
+    "last_updated": "2026-07-02T12:16:35.895160+00:00",
+    "total_features": 105
   }
 }
