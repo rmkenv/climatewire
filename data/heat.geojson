@@ -3570,11 +3570,181 @@
         "wbgt_flag": null,
         "run_at": "2026-07-02T12:16:35.894252+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/louisville-extreme-heat-dome-ending-soon/417-ad881c42-0dd9-4d03-924f-4d8082fc0c9d",
+        "title": "Heat dome over Kentucky and Indiana coming to an end: When temperatures will drop",
+        "snippet": "",
+        "url": "https://www.whas11.com/article/weather/weather-impact/louisville-extreme-heat-dome-ending-soon/417-ad881c42-0dd9-4d03-924f-4d8082fc0c9d",
+        "source": "WHAS11",
+        "published_at": "07/02/2026, 03:22 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-03T11:59:23.817126+00:00",
+        "outlet_region": "Kentucky",
+        "mention_text": "Kentucky",
+        "osm_display": "Kentucky",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-03T23:00",
+        "sensor_temp_f": 82.8,
+        "sensor_rh_pct": 68,
+        "sensor_wind_mph": 2.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 76.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-03T12:16:00.930003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.columbiatribune.com/story/weather/2026/07/01/corn-sweat-in-missouri-adds-humidity-heat-dome/90757041007/",
+        "title": "'Corn sweat\u2019 adds to sticky Missouri heat this week",
+        "snippet": "",
+        "url": "http://www.columbiatribune.com/story/weather/2026/07/01/corn-sweat-in-missouri-adds-humidity-heat-dome/90757041007/",
+        "source": "Columbia Daily Tribune",
+        "published_at": "07/01/2026, 10:10 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-03T11:59:23.817126+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Missouri",
+        "osm_display": "Missouri, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-03T12:16:00.930003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/06/dangerous-heat-dome-grips-northeast-ohio-as-heat-index-nears-110.html",
+        "title": "Dangerous heat dome grips Northeast Ohio as heat index nears 110",
+        "snippet": "",
+        "url": "https://www.cleveland.com/weather/2026/06/dangerous-heat-dome-grips-northeast-ohio-as-heat-index-nears-110.html",
+        "source": "Cleveland.com",
+        "published_at": "06/30/2026, 03:04 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-03T11:59:23.817126+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "ohio",
+        "osm_display": "ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-03T12:16:00.930003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/heat-dome-long-going-impact-203653000.html",
+        "title": "What is a heat dome and how long is it going to impact Middle Tennessee?",
+        "snippet": "",
+        "url": "https://www.aol.com/articles/heat-dome-long-going-impact-203653000.html",
+        "source": "AOL.com",
+        "published_at": "06/30/2026, 08:36 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-03T11:59:23.817126+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Middle Tennessee",
+        "osm_display": "Middle Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-03T12:16:00.930003+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616508,
+          44.268543
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/homepage-showcase/2026/07/02/week-in-review-heat-dome-over-southeast-wisconsin-giannis-mural-vandalized-and-america-celebrates-250",
+        "title": "Week-In-Review: Heat Dome over southeast Wisconsin, Giannis mural vandalized, and America celebrates 250",
+        "snippet": "",
+        "url": "https://wtmj.com/homepage-showcase/2026/07/02/week-in-review-heat-dome-over-southeast-wisconsin-giannis-mural-vandalized-and-america-celebrates-250",
+        "source": "WTMJ",
+        "published_at": "07/02/2026, 06:22 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-03T11:59:23.817126+00:00",
+        "outlet_region": "Wisconsin",
+        "mention_text": "Wisconsin",
+        "osm_display": "Wisconsin",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-03T23:00",
+        "sensor_temp_f": 72.1,
+        "sensor_rh_pct": 86,
+        "sensor_wind_mph": 2.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-03T12:16:00.930003+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-02T12:16:35.895160+00:00",
-    "total_features": 105
+    "last_updated": "2026-07-03T12:16:00.933366+00:00",
+    "total_features": 110
   }
 }
