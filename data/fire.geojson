@@ -9913,11 +9913,249 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-02T10:40:32.532803+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/",
+        "title": "Colorado\u2019s wildfires scorch 129,000 acres as critical fire danger persists",
+        "snippet": "",
+        "url": "https://coloradosun.com/2026/07/02/colorado-wildfires-update-tuesday-red-flag-warning-evacuations-2/",
+        "source": "The Colorado Sun",
+        "published_at": "07/02/2026, 04:12 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.04,
+        "firms_frp_mw": 0.68,
+        "firms_brightness": 306.11,
+        "firms_acq_datetime": "2026-07-02 0907",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/02/us/aspen-acres-wildfire-pueblo-colorado-evacuations.html",
+        "title": "Fast-Moving Wildfire Forces Hundreds of Evacuations near Pueblo, Colorado",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/02/us/aspen-acres-wildfire-pueblo-colorado-evacuations.html",
+        "source": "The New York Times",
+        "published_at": "07/02/2026, 07:44 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Pueblo",
+        "osm_display": "Pueblo, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.04,
+        "firms_frp_mw": 0.68,
+        "firms_brightness": 306.11,
+        "firms_acq_datetime": "2026-07-02 0907",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/science/science-news/wildfires-firefighters-resources-utah-colorado-rcna352325",
+        "title": "Stretched resources and low morale as firefighters face an already blazing wildfire season",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/science/science-news/wildfires-firefighters-resources-utah-colorado-rcna352325",
+        "source": "NBC News",
+        "published_at": "07/02/2026, 08:12 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": null,
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.04,
+        "firms_frp_mw": 0.68,
+        "firms_brightness": 306.11,
+        "firms_acq_datetime": "2026-07-02 0907",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usu.edu/today/story/ask-an-expert-monsoons-could-impact-utah-wildfire-season",
+        "title": "Ask an Expert: Monsoons Could Impact Utah Wildfire Season",
+        "snippet": "",
+        "url": "https://www.usu.edu/today/story/ask-an-expert-monsoons-could-impact-utah-wildfire-season",
+        "source": "Utah State University",
+        "published_at": "07/02/2026, 06:46 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/arvada-cancels-july-4th-fireworks-wildfire-risk-colorado/",
+        "title": "City of Arvada cancels 4th of July fireworks show due to wildfire risk across Colorado",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/news/arvada-cancels-july-4th-fireworks-wildfire-risk-colorado/",
+        "source": "CBS News",
+        "published_at": "07/02/2026, 11:58 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.04,
+        "firms_frp_mw": 0.68,
+        "firms_brightness": 306.11,
+        "firms_acq_datetime": "2026-07-02 0907",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.deseret.com/politics/2026/07/02/blake-moore-honor-utah-firefighters-who-died/",
+        "title": "Utah congressman pays tribute to 3 firefighters killed in wildfire along Utah-Colorado border",
+        "snippet": "",
+        "url": "https://www.deseret.com/politics/2026/07/02/blake-moore-honor-utah-firefighters-who-died/",
+        "source": "Deseret News",
+        "published_at": "07/02/2026, 03:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.unr.edu/nevada-today/news/2026/facundo-scordo-wildfire-research",
+        "title": "New study by University faculty addresses wildfire smoke",
+        "snippet": "",
+        "url": "https://www.unr.edu/nevada-today/news/2026/facundo-scordo-wildfire-research",
+        "source": "University of Nevada, Reno",
+        "published_at": "06/09/2026, 03:50 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-03T10:25:09.138477+00:00",
+        "outlet_region": null,
+        "mention_text": "nevada",
+        "osm_display": "nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-03T10:34:52.213643+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-02T10:40:32.534709+00:00",
-    "total_features": 300
+    "last_updated": "2026-07-03T10:34:52.215605+00:00",
+    "total_features": 307
   }
 }
