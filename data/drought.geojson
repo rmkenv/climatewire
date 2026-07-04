@@ -5822,11 +5822,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-06-30T14:22:08.447618+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-grips-colorados-central-mountains-and-western-slope",
+        "title": "Exceptional drought grips Colorado's central mountains and Western Slope",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-grips-colorados-central-mountains-and-western-slope",
+        "source": "Kiowa County Press",
+        "published_at": "07/03/2026, 11:44 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-04T13:19:13.202908+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-04T13:27:19.075994+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-03T14:10:42.590221+00:00",
-    "total_features": 216
+    "last_updated": "2026-07-04T13:27:19.077336+00:00",
+    "total_features": 217
   }
 }
