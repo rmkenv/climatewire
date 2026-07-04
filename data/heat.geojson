@@ -3740,11 +3740,147 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-03T12:16:00.930003+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast",
+        "title": "It's going to be a hot July Fourth for much of the country",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast",
+        "source": "NPR",
+        "published_at": "06/30/2026, 05:26 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-04T11:16:07.230200+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest east",
+        "osm_display": "midwest east",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-04T23:00",
+        "sensor_temp_f": 68.9,
+        "sensor_rh_pct": 94,
+        "sensor_wind_mph": 0.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 67.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-04T11:31:43.104227+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.inquirer.com/weather/philadelphia-weather-forecast-extreme-heat-warning-peco-20260630.html",
+        "title": "Philly declares a heat emergency and Welcome America alters events as 100-degree temperatures loom",
+        "snippet": "",
+        "url": "https://www.inquirer.com/weather/philadelphia-weather-forecast-extreme-heat-warning-peco-20260630.html",
+        "source": "Inquirer.com",
+        "published_at": "06/30/2026, 04:29 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-04T11:16:07.230200+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "Welcome America",
+        "osm_display": "Welcome America, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_emergency",
+        "sensor_obs_time": "2026-07-04T23:00",
+        "sensor_temp_f": 78.4,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 10.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 66.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-04T11:31:43.104227+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://billypenn.com/2026/07/01/heat-emergency-philadelphia-first-bank-united-states-weekly-gun-violence-brief-morning-roundup/",
+        "title": "Heat emergency in Philly; First Bank of U.S. reopens; Weekly gun violence brief | Morning Roundup",
+        "snippet": "",
+        "url": "https://billypenn.com/2026/07/01/heat-emergency-philadelphia-first-bank-united-states-weekly-gun-violence-brief-morning-roundup/",
+        "source": "Billy Penn at WHYY",
+        "published_at": "07/01/2026, 12:00 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-04T11:16:07.230200+00:00",
+        "outlet_region": null,
+        "mention_text": "philadelphia",
+        "osm_display": "philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_emergency",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-04T11:31:43.104227+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailygazette.com/tribune/searing-us-heat-dome-disrupts-july-4-events-strains-grid/article_0167902b-0ef2-5353-a8d3-2f2dec736e4e.html",
+        "title": "Searing US heat dome disrupts July 4 events, strains grid",
+        "snippet": "",
+        "url": "https://www.dailygazette.com/tribune/searing-us-heat-dome-disrupts-july-4-events-strains-grid/article_0167902b-0ef2-5353-a8d3-2f2dec736e4e.html",
+        "source": "The Daily Gazette",
+        "published_at": "07/03/2026, 09:11 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-04T11:16:07.230200+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Searing",
+        "osm_display": "Searing, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-04T23:00",
+        "sensor_temp_f": 61.7,
+        "sensor_rh_pct": 32,
+        "sensor_wind_mph": 10.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 47.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-04T11:31:43.104227+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-03T12:16:00.933366+00:00",
-    "total_features": 110
+    "last_updated": "2026-07-04T11:31:43.105344+00:00",
+    "total_features": 114
   }
 }
