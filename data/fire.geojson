@@ -10151,11 +10151,317 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-03T10:34:52.213643+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads",
+        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads",
+        "source": "Al Jazeera",
+        "published_at": "07/03/2026, 09:38 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.87,
+        "firms_frp_mw": 0.67,
+        "firms_brightness": 307.13,
+        "firms_acq_datetime": "2026-07-03 0850",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.739236
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/wireStory/wildfire-southwest-denver-forces-thousands-evacuate-destroys-160-134447175",
+        "title": "Wildfire southwest of Denver forces thousands to evacuate and destroys more than 160 structures",
+        "snippet": "",
+        "url": "https://abcnews.com/US/wireStory/wildfire-southwest-denver-forces-thousands-evacuate-destroys-160-134447175",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "07/04/2026, 02:06 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": null,
+        "mention_text": "Denver",
+        "osm_display": "Denver",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 22.13,
+        "firms_frp_mw": 0.63,
+        "firms_brightness": 300.33,
+        "firms_acq_datetime": "2026-07-03 0850",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://timesofindia.indiatimes.com/world/us/watch-thousands-forced-to-evacuate-as-wildfire-rages-across-colorado/articleshow/132173568.cms",
+        "title": "Watch: Thousands forced to evacuate as wildfire rages across Colorado",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/watch-thousands-forced-to-evacuate-as-wildfire-rages-across-colorado/articleshow/132173568.cms",
+        "source": "The Times of India",
+        "published_at": "07/04/2026, 02:40 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.87,
+        "firms_frp_mw": 0.67,
+        "firms_brightness": 307.13,
+        "firms_acq_datetime": "2026-07-03 0850",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.739236
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/wildfire-southwest-of-denver-forces-thousands-to-evacuate-and-destroys-more-than-160-structures/article_f6ecbf8c-ddaa-5e8c-bd99-bf682c3affc1.html",
+        "title": "Wildfire southwest of Denver forces thousands to evacuate and destroys more than 160 structures",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/wildfire-southwest-of-denver-forces-thousands-to-evacuate-and-destroys-more-than-160-structures/article_f6ecbf8c-ddaa-5e8c-bd99-bf682c3affc1.html",
+        "source": "Toronto Star",
+        "published_at": "07/03/2026, 04:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": null,
+        "mention_text": "Denver",
+        "osm_display": "Denver",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 22.13,
+        "firms_frp_mw": 0.63,
+        "firms_brightness": 300.33,
+        "firms_acq_datetime": "2026-07-03 0850",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tribdem.com/news/latest_news/wildfire-southwest-of-denver-forces-thousands-to-evacuate-destroys-more-than-160-structures/article_5a374212-fd8f-5e24-b059-126294c6b2c9.html",
+        "title": "Wildfire southwest of Denver forces thousands to evacuate, destroys more than 160 structures",
+        "snippet": "",
+        "url": "https://www.tribdem.com/news/latest_news/wildfire-southwest-of-denver-forces-thousands-to-evacuate-destroys-more-than-160-structures/article_5a374212-fd8f-5e24-b059-126294c6b2c9.html",
+        "source": "The Tribune-Democrat",
+        "published_at": "07/03/2026, 04:50 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Denver",
+        "osm_display": "Denver, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 91.56,
+        "firms_frp_mw": 54.31,
+        "firms_brightness": 367.0,
+        "firms_acq_datetime": "2026-07-03 2014",
+        "firms_confidence": "high",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ketv.com/article/nebraska-leaders-urge-firework-caution/71800518",
+        "title": "Nebraska leaders urge firework caution as wildfire risk remains high in some western counties",
+        "snippet": "",
+        "url": "https://www.ketv.com/article/nebraska-leaders-urge-firework-caution/71800518",
+        "source": "KETV",
+        "published_at": "07/01/2026, 11:37 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://san.com/cc/california-trades-fireworks-for-drones-as-wildfire-fears-reshape-fourth-of-july/",
+        "title": "California trades fireworks for drones as wildfire fears reshape Fourth of July",
+        "snippet": "",
+        "url": "https://san.com/cc/california-trades-fireworks-for-drones-as-wildfire-fears-reshape-fourth-of-july/",
+        "source": "Straight Arrow News - SAN - Unbiased. Straight Facts.",
+        "published_at": "07/03/2026, 04:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 40.73,
+        "firms_frp_mw": 4.54,
+        "firms_brightness": 328.85,
+        "firms_acq_datetime": "2026-07-03 1032",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/12000-residents-evacuated-wildfire-spreads-washington/story?id=133965540",
+        "title": "Possible human remains found in home burned in Washington wildfire",
+        "snippet": "",
+        "url": "https://abcnews.com/US/12000-residents-evacuated-wildfire-spreads-washington/story?id=133965540",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "06/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 68.55,
+        "firms_frp_mw": 3.15,
+        "firms_brightness": 325.92,
+        "firms_acq_datetime": "2026-07-03 2017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "http://island.lk/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads/",
+        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+        "snippet": "",
+        "url": "http://island.lk/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads/",
+        "source": "The island.lk",
+        "published_at": "07/04/2026, 04:17 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-04T09:58:25.535643+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.87,
+        "firms_frp_mw": 0.67,
+        "firms_brightness": 307.13,
+        "firms_acq_datetime": "2026-07-03 0850",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-04T10:06:07.644111+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-03T10:34:52.215605+00:00",
-    "total_features": 307
+    "last_updated": "2026-07-04T10:06:07.646260+00:00",
+    "total_features": 316
   }
 }
