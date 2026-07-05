@@ -10457,11 +10457,249 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-04T10:06:07.644111+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248482,
+          34.840515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.taosnews.com/public-safety/wildfire-smoke-moves-through-taos-valley-northern-new-mexico/article_a0747a07-367c-4b55-96e5-51c530c4f96c.html",
+        "title": "Wildfire smoke moves through Taos Valley, Northern New Mexico",
+        "snippet": "",
+        "url": "https://www.taosnews.com/public-safety/wildfire-smoke-moves-through-taos-valley-northern-new-mexico/article_a0747a07-367c-4b55-96e5-51c530c4f96c.html",
+        "source": "The Taos News",
+        "published_at": "07/03/2026, 06:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": "New Mexico",
+        "mention_text": "Taos Valley",
+        "osm_display": "Taos Valley, New Mexico",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/02/us/aspen-acres-wildfire-pueblo-colorado-evacuations.html",
+        "title": "Fast-Moving Wildfire Forces Thousands of Evacuations in Southern Colorado",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/02/us/aspen-acres-wildfire-pueblo-colorado-evacuations.html",
+        "source": "The New York Times",
+        "published_at": "07/04/2026, 12:23 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Southern Colorado",
+        "osm_display": "Southern Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.19,
+        "firms_frp_mw": 0.49,
+        "firms_brightness": 300.48,
+        "firms_acq_datetime": "2026-07-04 0833",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://eos.org/research-and-developments/amid-usfs-upheaval-utah-and-colorado-are-burning",
+        "title": "Amid USFS Upheaval, Utah and Colorado Are Burning",
+        "snippet": "",
+        "url": "https://eos.org/research-and-developments/amid-usfs-upheaval-utah-and-colorado-are-burning",
+        "source": "eos.org",
+        "published_at": "07/02/2026, 06:42 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.seattletimes.com/nation-world/nation/fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-colorado/",
+        "title": "Fast-moving wildfire forces hundreds of evacuations in southern Colorado",
+        "snippet": "",
+        "url": "https://www.seattletimes.com/nation-world/nation/fast-moving-wildfire-forces-hundreds-of-evacuations-in-southern-colorado/",
+        "source": "The Seattle Times",
+        "published_at": "07/03/2026, 01:36 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.19,
+        "firms_frp_mw": 0.49,
+        "firms_brightness": 300.48,
+        "firms_acq_datetime": "2026-07-04 0833",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.739236
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynorthwest.com/national/wildfire-southwest-of-denver-forces-thousands-to-evacuate-and-destroys-more-than-160-structures/4253845",
+        "title": "Wildfire southwest of Denver forces thousands to evacuate and destroys more than 160 structures",
+        "snippet": "",
+        "url": "https://mynorthwest.com/national/wildfire-southwest-of-denver-forces-thousands-to-evacuate-and-destroys-more-than-160-structures/4253845",
+        "source": "MyNorthwest.com",
+        "published_at": "07/03/2026, 04:14 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": null,
+        "mention_text": "Denver",
+        "osm_display": "Denver",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 25.67,
+        "firms_frp_mw": 0.49,
+        "firms_brightness": 300.48,
+        "firms_acq_datetime": "2026-07-04 0833",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wyomingpublicmedia.org/2026-06-15/wildfires-los-angeles-south-korea",
+        "title": "How much does wildfire size matter? Global data from 2025 raises questions",
+        "snippet": "",
+        "url": "https://www.wyomingpublicmedia.org/2026-06-15/wildfires-los-angeles-south-korea",
+        "source": "Wyoming Public Media",
+        "published_at": "06/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": null,
+        "mention_text": "los angeles",
+        "osm_display": "los angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 40.19,
+        "firms_frp_mw": 1.06,
+        "firms_brightness": 300.21,
+        "firms_acq_datetime": "2026-07-04 1013",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://utvguide.net/blz-ships-electric-utv-fire-skids-to-idaho/",
+        "title": "BLZ Fire Skids Ships Electric UTV Fire Skids to Idaho for Wildfire Response",
+        "snippet": "",
+        "url": "https://utvguide.net/blz-ships-electric-utv-fire-skids-to-idaho/",
+        "source": "utvguide.net",
+        "published_at": "07/03/2026, 07:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-05T10:02:19.472124+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-05T10:10:32.284796+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-04T10:06:07.646260+00:00",
-    "total_features": 316
+    "last_updated": "2026-07-05T10:10:32.286687+00:00",
+    "total_features": 323
   }
 }
