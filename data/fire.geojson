@@ -10695,11 +10695,113 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-05T10:10:32.284796+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/wildfire/babylon-fire-90000-acres/",
+        "title": "Babylon Fire tops 90,000 acres with no containment, crews preparing for more growth",
+        "snippet": "",
+        "url": "https://www.abc4.com/utah-weather/wildfire/babylon-fire-90000-acres/",
+        "source": "ABC4 Utah",
+        "published_at": "07/06/2026, 12:16 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-06T11:53:43.109995+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-06T12:02:40.092629+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/la-en/newsroom/wildfire-map-spotlight-border-6-fire-california",
+        "title": "Wildfire map spotlight: Border 6 Fire, California",
+        "snippet": "",
+        "url": "https://www.iqair.com/la-en/newsroom/wildfire-map-spotlight-border-6-fire-california",
+        "source": "IQAir",
+        "published_at": "06/07/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-06T11:53:43.109995+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-06T12:02:40.092629+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-business/wildfire-betting-platform-sparks-arson-fears/",
+        "title": "Southern California wildfire betting site sparks arson fears as blazes spread",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/green-business/wildfire-betting-platform-sparks-arson-fears/",
+        "source": "The Cool Down",
+        "published_at": "07/05/2026, 02:58 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-06T11:53:43.109995+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-06T12:02:40.092629+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-05T10:10:32.286687+00:00",
-    "total_features": 323
+    "last_updated": "2026-07-06T12:02:40.094985+00:00",
+    "total_features": 326
   }
 }
