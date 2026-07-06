@@ -5852,11 +5852,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-04T13:27:19.075994+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.skyhinews.com/news/colorado-officially-declares-statewide-emergency-due-to-ongoing-drought-conditions",
+        "title": "Colorado officially declares statewide emergency due to ongoing drought conditions",
+        "snippet": "",
+        "url": "https://www.skyhinews.com/news/colorado-officially-declares-statewide-emergency-due-to-ongoing-drought-conditions",
+        "source": "SkyHiNews.com",
+        "published_at": "06/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-06T15:25:59.175265+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-06T15:36:21.908281+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-05T13:33:56.765018+00:00",
-    "total_features": 217
+    "last_updated": "2026-07-06T15:36:21.909641+00:00",
+    "total_features": 218
   }
 }
