@@ -3876,11 +3876,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-04T11:31:43.104227+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/02/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east",
+        "title": "Extreme heat dome breaks numerous record highs across Central and Eastern US",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/02/forecast/national/heat-wave-fourth-of-july-week-midwest-south-east",
+        "source": "The Weather Channel",
+        "published_at": "07/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-06T13:36:51.661724+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest south east",
+        "osm_display": "midwest south east",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-06T23:00",
+        "sensor_temp_f": 69.4,
+        "sensor_rh_pct": 74,
+        "sensor_wind_mph": 4.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-06T13:51:49.234894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.independent.ie/world-news/new-york-thunderstorms-raise-flood-risk-as-us-heat-dome-breaks/a/158299715.html",
+        "title": "New York thunderstorms raise flood risk as US heat dome breaks",
+        "snippet": "",
+        "url": "https://www.independent.ie/world-news/new-york-thunderstorms-raise-flood-risk-as-us-heat-dome-breaks/a/158299715.html",
+        "source": "Irish Independent",
+        "published_at": "07/06/2026, 05:30 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-06T13:36:51.661724+00:00",
+        "outlet_region": "New York",
+        "mention_text": "New York",
+        "osm_display": "New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-06T23:00",
+        "sensor_temp_f": 62.2,
+        "sensor_rh_pct": 92,
+        "sensor_wind_mph": 7.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 58.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-06T13:51:49.234894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.493629,
+          29.424122
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/san-antonio-weather/forecast/article/san-antonio-heat-dome-hot-temperatures-22325138.php",
+        "title": "Heat dome is locked over San Antonio \u2014 but how long will it last?",
+        "snippet": "",
+        "url": "https://www.statesman.com/san-antonio-weather/forecast/article/san-antonio-heat-dome-hot-temperatures-22325138.php",
+        "source": "Austin American-Statesman",
+        "published_at": "06/30/2026, 02:36 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-06T13:36:51.661724+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "San Antonio",
+        "osm_display": "San Antonio, Texas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-06T13:51:49.234894+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-05T11:41:18.607943+00:00",
-    "total_features": 114
+    "last_updated": "2026-07-06T13:51:49.237162+00:00",
+    "total_features": 117
   }
 }
