@@ -3978,11 +3978,113 @@
         "wbgt_flag": null,
         "run_at": "2026-07-06T13:51:49.234894+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tennessean.com/story/weather/2026/07/07/heat-dome-ending-tennessee-summer-outlook/90819661007/",
+        "title": "A break from the heat dome? What's replacing extreme heat in Tennessee",
+        "snippet": "",
+        "url": "https://www.tennessean.com/story/weather/2026/07/07/heat-dome-ending-tennessee-summer-outlook/90819661007/",
+        "source": "The Tennessean",
+        "published_at": "07/07/2026, 10:06 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-07T12:21:19.947089+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Tennessee",
+        "osm_display": "Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-07T23:00",
+        "sensor_temp_f": 75.7,
+        "sensor_rh_pct": 83,
+        "sensor_wind_mph": 1.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-07T12:37:33.658416+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://aldianews.com/en/local/philadelphia/extreme-temperatures",
+        "title": "Philadelphia's Heat Dome",
+        "snippet": "",
+        "url": "https://aldianews.com/en/local/philadelphia/extreme-temperatures",
+        "source": "Al D\u00eda News",
+        "published_at": "07/03/2026, 04:14 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-07T12:21:19.947089+00:00",
+        "outlet_region": null,
+        "mention_text": "Philadelphia",
+        "osm_display": "Philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-07T23:00",
+        "sensor_temp_f": 65.8,
+        "sensor_rh_pct": 93,
+        "sensor_wind_mph": 3.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-07T12:37:33.658416+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169968,
+          37.769337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvnews.com/news/wvnews/daily-storm-chances-return-as-heat-dome-fades-cold-front-to-bring-wetter-weather-to/article_08cc2bc3-4244-4725-9732-b24c2460a0f1.html",
+        "title": "Daily storm chances return as heat dome fades, cold front to bring wetter weather to North Central West Virginia",
+        "snippet": "",
+        "url": "https://www.wvnews.com/news/wvnews/daily-storm-chances-return-as-heat-dome-fades-cold-front-to-bring-wetter-weather-to/article_08cc2bc3-4244-4725-9732-b24c2460a0f1.html",
+        "source": "WV News",
+        "published_at": "07/06/2026, 03:32 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-07T12:21:19.947089+00:00",
+        "outlet_region": "West Virginia",
+        "mention_text": "North Central West Virginia",
+        "osm_display": "North Central West Virginia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-07T23:00",
+        "sensor_temp_f": 76.3,
+        "sensor_rh_pct": 91,
+        "sensor_wind_mph": 1.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-07T12:37:33.658416+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-06T13:51:49.237162+00:00",
-    "total_features": 117
+    "last_updated": "2026-07-07T12:37:33.659573+00:00",
+    "total_features": 120
   }
 }
