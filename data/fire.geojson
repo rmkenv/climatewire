@@ -10797,11 +10797,317 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-06T12:02:40.092629+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/wildfire/babylon-fire-largest-wildfire/",
+        "title": "\u2018A lot of things are against us\u2019: Babylon Fire becomes largest wildfire in the U.S., grows to more than 96,000 acres",
+        "snippet": "",
+        "url": "https://www.abc4.com/utah-weather/wildfire/babylon-fire-largest-wildfire/",
+        "source": "ABC4 Utah",
+        "published_at": "07/06/2026, 04:42 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/july/colorado-wildfires/",
+        "title": "Wildfires Blaze Across Colorado as Peak Fire Season Begins",
+        "snippet": "",
+        "url": "https://www.asisonline.org/security-management-magazine/latest-news/today-in-security/2026/july/colorado-wildfires/",
+        "source": "ASIS International",
+        "published_at": "07/06/2026, 04:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 75.23,
+        "firms_frp_mw": 3.95,
+        "firms_brightness": 341.4,
+        "firms_acq_datetime": "2026-07-06 1915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://moabsunnews.com/2026/07/06/babylon-fire-largest-wildfire-us-monticello-utah/",
+        "title": "The nation\u2019s largest wildfire is burning toward Monticello with no containment",
+        "snippet": "",
+        "url": "https://moabsunnews.com/2026/07/06/babylon-fire-largest-wildfire-us-monticello-utah/",
+        "source": "Moab Sun News",
+        "published_at": "07/06/2026, 07:15 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eenews.net/articles/fatal-colorado-wildfire-thrusts-trump-strategy-into-the-spotlight/",
+        "title": "Fatal Colorado wildfire thrusts Trump strategy into the spotlight",
+        "snippet": "",
+        "url": "https://www.eenews.net/articles/fatal-colorado-wildfire-thrusts-trump-strategy-into-the-spotlight/",
+        "source": "E&E News by POLITICO",
+        "published_at": "07/06/2026, 05:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Fatal",
+        "osm_display": "Fatal, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 75.23,
+        "firms_frp_mw": 3.95,
+        "firms_brightness": 341.4,
+        "firms_acq_datetime": "2026-07-06 1915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/smoke-colorado-wildfires-hospital-visits/",
+        "title": "Smoke from Colorado wildfires causes increase in hospital visits across Northern Colorado and Front Range",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/news/smoke-colorado-wildfires-hospital-visits/",
+        "source": "CBS News",
+        "published_at": "07/06/2026, 11:41 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 75.23,
+        "firms_frp_mw": 3.95,
+        "firms_brightness": 341.4,
+        "firms_acq_datetime": "2026-07-06 1915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161087,
+          32.715736
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/oceanside-fire-wildfire-erupts-near-camp-pendleton-smoke-seen-across-san-diego-check-map-visuals-101783375744028.html",
+        "title": "Oceanside fire: Wildfire erupts near Camp Pendleton, smoke seen across San Diego; check map, visuals | Hindustan Times",
+        "snippet": "",
+        "url": "https://www.hindustantimes.com/world-news/us-news/oceanside-fire-wildfire-erupts-near-camp-pendleton-smoke-seen-across-san-diego-check-map-visuals-101783375744028.html",
+        "source": "Hindustan Times",
+        "published_at": "07/06/2026, 10:15 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": null,
+        "mention_text": "San Diego",
+        "osm_display": "San Diego",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 15.69,
+        "firms_frp_mw": 0.69,
+        "firms_brightness": 311.07,
+        "firms_acq_datetime": "2026-07-06 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rocketcitynow.com/article/news/local/funeral-services-warrior-firefighter-killed-in-colorado-wildfire/525-2ab6063b-1217-4786-a5e1-63b912b55ac8",
+        "title": "Funeral services set for Warrior firefighter killed in Colorado wildfire",
+        "snippet": "",
+        "url": "https://www.rocketcitynow.com/article/news/local/funeral-services-warrior-firefighter-killed-in-colorado-wildfire/525-2ab6063b-1217-4786-a5e1-63b912b55ac8",
+        "source": "rocketcitynow.com",
+        "published_at": "07/06/2026, 03:22 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 75.23,
+        "firms_frp_mw": 3.95,
+        "firms_brightness": 341.4,
+        "firms_acq_datetime": "2026-07-06 1915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/06/24/weather/utah-wildfires-colorado-smoke.html",
+        "title": "Western Wildfire Risk This Week Is the Highest It\u2019s Been So Far This Year",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/06/24/weather/utah-wildfires-colorado-smoke.html",
+        "source": "The New York Times",
+        "published_at": "06/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://utahnewsdispatch.com/2026/06/24/utah-cottonwood-fire-beaver-could-be-most-destructive-ever/",
+        "title": "Cox says \u2018there\u2019s no end in sight\u2019 to wildfire that could be Utah\u2019s most destructive ever",
+        "snippet": "",
+        "url": "https://utahnewsdispatch.com/2026/06/24/utah-cottonwood-fire-beaver-could-be-most-destructive-ever/",
+        "source": "Utah News Dispatch",
+        "published_at": "06/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-07T10:43:51.359787+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-07T10:58:05.797503+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-06T12:02:40.094985+00:00",
-    "total_features": 326
+    "last_updated": "2026-07-07T10:58:05.799574+00:00",
+    "total_features": 335
   }
 }
