@@ -4080,11 +4080,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-07T12:37:33.658416+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "article_id": "https://newscord.org/article/heat-dome-kills-at-least-19-in-new-jersey-as-heat-alerts-cover-160-million-ameri--Story_20260702_Youturntousforvoices229c0d74",
+        "title": "Heat Dome Kills At Least 19 In New Jersey As Heat Alerts Cover 160 Million Americans",
+        "snippet": "",
+        "url": "https://newscord.org/article/heat-dome-kills-at-least-19-in-new-jersey-as-heat-alerts-cover-160-million-ameri--Story_20260702_Youturntousforvoices229c0d74",
+        "source": "NewsCord",
+        "published_at": "07/07/2026, 03:05 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-08T11:41:13.169781+00:00",
+        "outlet_region": "New Jersey",
+        "mention_text": "New Jersey",
+        "osm_display": "New Jersey",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-08T23:00",
+        "sensor_temp_f": 69.3,
+        "sensor_rh_pct": 83,
+        "sensor_wind_mph": 6.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 64.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-08T12:05:21.513873+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/record-heat-builds-across-eastern-144942665.html",
+        "title": "Extreme heat dome cooks DC, Philadelphia, NYC Fourth of July weekend",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/record-heat-builds-across-eastern-144942665.html",
+        "source": "Yahoo",
+        "published_at": "07/02/2026, 12:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-08T11:41:13.169781+00:00",
+        "outlet_region": null,
+        "mention_text": "Philadelphia",
+        "osm_display": "Philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-08T23:00",
+        "sensor_temp_f": 71.6,
+        "sensor_rh_pct": 86,
+        "sensor_wind_mph": 6.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 67.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-08T12:05:21.513873+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796989,
+          32.776665
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/weather/texas-heat-dome-100-degrees",
+        "title": "Dallas weather: June 25 morning forecast",
+        "snippet": "",
+        "url": "https://www.fox4news.com/weather/texas-heat-dome-100-degrees",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "published_at": "06/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-08T11:41:13.169781+00:00",
+        "outlet_region": null,
+        "mention_text": "Dallas",
+        "osm_display": "Dallas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-08T12:05:21.513873+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-07T12:37:33.659573+00:00",
-    "total_features": 120
+    "last_updated": "2026-07-08T12:05:21.514978+00:00",
+    "total_features": 123
   }
 }
