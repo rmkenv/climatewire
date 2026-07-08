@@ -11103,11 +11103,249 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-07T10:58:05.797503+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/california/fires/article316422630.html",
+        "title": "Breaking: New wildfire reported in Los Angeles County on July 7",
+        "snippet": "",
+        "url": "https://www.fresnobee.com/news/california/fires/article316422630.html",
+        "source": "Fresno Bee",
+        "published_at": "07/08/2026, 01:17 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles County",
+        "osm_display": "Los Angeles County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 12.16,
+        "firms_frp_mw": 1.38,
+        "firms_brightness": 307.11,
+        "firms_acq_datetime": "2026-07-07 0917",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.csmonitor.com/USA/2026/0707/wildfire-aspen-acres-colorado?icid=rss",
+        "title": "Families, livestock fleeing Colorado wildfire look for community support",
+        "snippet": "",
+        "url": "https://www.csmonitor.com/USA/2026/0707/wildfire-aspen-acres-colorado?icid=rss",
+        "source": "The Christian Science Monitor",
+        "published_at": "07/07/2026, 08:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.14,
+        "firms_frp_mw": 0.81,
+        "firms_brightness": 307.92,
+        "firms_acq_datetime": "2026-07-07 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://coloradonewsline.com/2026/07/06/resources-available-colorado-wildfires/",
+        "title": "Resources available for Coloradans affected by wildfires around the state",
+        "snippet": "",
+        "url": "https://coloradonewsline.com/2026/07/06/resources-available-colorado-wildfires/",
+        "source": "Colorado Newsline",
+        "published_at": "07/06/2026, 09:40 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": null,
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.14,
+        "firms_frp_mw": 0.81,
+        "firms_brightness": 307.92,
+        "firms_acq_datetime": "2026-07-07 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsnationnow.com/us-news/west/babylon-fire-largest-wildfire-utah/",
+        "title": "Babylon Fire becomes largest wildfire in the U.S., grows to more than 96,000 acres",
+        "snippet": "",
+        "url": "https://www.newsnationnow.com/us-news/west/babylon-fire-largest-wildfire-utah/",
+        "source": "NewsNation",
+        "published_at": "07/06/2026, 09:23 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.99,
+        "firms_frp_mw": 1.14,
+        "firms_brightness": 299.22,
+        "firms_acq_datetime": "2026-07-07 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/us/articles/funeral-services-set-warrior-firefighter-151641304.html",
+        "title": "Funeral services set for Warrior firefighter killed in Colorado wildfire",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/us/articles/funeral-services-set-warrior-firefighter-151641304.html",
+        "source": "Yahoo",
+        "published_at": "07/06/2026, 03:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.14,
+        "firms_frp_mw": 0.81,
+        "firms_brightness": 307.92,
+        "firms_acq_datetime": "2026-07-07 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/city-lamar-partners-united-way-southern-colorado-wildfire-relief-fund",
+        "title": "City of Lamar partners with United Way of Southern Colorado on wildfire relief fund",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/city-lamar-partners-united-way-southern-colorado-wildfire-relief-fund",
+        "source": "Kiowa County Press",
+        "published_at": "07/06/2026, 11:36 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Lamar",
+        "osm_display": "Lamar, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.14,
+        "firms_frp_mw": 0.81,
+        "firms_brightness": 307.92,
+        "firms_acq_datetime": "2026-07-07 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4466687/california-guard-conducts-training-ahead-of-wildfire-season/",
+        "title": "California Guard Conducts Training Ahead of Wildfire Season",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4466687/california-guard-conducts-training-ahead-of-wildfire-season/",
+        "source": "nationalguard.mil",
+        "published_at": "04/22/2026, 02:52 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-08T10:05:30.668296+00:00",
+        "outlet_region": "California",
+        "mention_text": "California Guard Conducts Training Ahead",
+        "osm_display": "California Guard Conducts Training Ahead",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.24,
+        "firms_frp_mw": 5.57,
+        "firms_brightness": 343.63,
+        "firms_acq_datetime": "2026-07-07 2038",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-08T10:14:28.600193+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-07T10:58:05.799574+00:00",
-    "total_features": 335
+    "last_updated": "2026-07-08T10:14:28.602469+00:00",
+    "total_features": 342
   }
 }
