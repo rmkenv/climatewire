@@ -4182,11 +4182,215 @@
         "wbgt_flag": null,
         "run_at": "2026-07-08T12:05:21.513873+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/next-heat-dome-to-bring-100-f-heat-to-midwest-perhaps-east-again/1909282",
+        "title": "Next heat dome to bring 100 F heat to Midwest, perhaps East again",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/next-heat-dome-to-bring-100-f-heat-to-midwest-perhaps-east-again/1909282",
+        "source": "AccuWeather",
+        "published_at": "07/08/2026, 05:40 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-09T12:25:12.830941+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-09T23:00",
+        "sensor_temp_f": 73.9,
+        "sensor_rh_pct": 89,
+        "sensor_wind_mph": 1.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-09T12:41:35.714395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather/2026/07/western-heat-dome-on-the-horizon-as-warm-temperatures-forecast-for-oregon-next-week.html",
+        "title": "Western heat dome on the horizon as warm temperatures forecast for Oregon next week",
+        "snippet": "",
+        "url": "https://www.oregonlive.com/weather/2026/07/western-heat-dome-on-the-horizon-as-warm-temperatures-forecast-for-oregon-next-week.html",
+        "source": "OregonLive.com",
+        "published_at": "07/08/2026, 11:06 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-09T12:25:12.830941+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-09T23:00",
+        "sensor_temp_f": 53.8,
+        "sensor_rh_pct": 59,
+        "sensor_wind_mph": 5.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 46.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-09T12:41:35.714395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.freep.com/story/weather/2026/07/08/heat-dome-temperatures-michigan-weather-forecast-upper-peninsula/90850773007/",
+        "title": "Will the heat dome in the west impact Michigan? Temperature outlook",
+        "snippet": "",
+        "url": "https://www.freep.com/story/weather/2026/07/08/heat-dome-temperatures-michigan-weather-forecast-upper-peninsula/90850773007/",
+        "source": "Detroit Free Press",
+        "published_at": "07/08/2026, 07:05 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-09T12:25:12.830941+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-09T23:00",
+        "sensor_temp_f": 73.4,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 5.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-09T12:41:35.714395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/07/04/weather/heat-wave-dc-philadelphia-forecast-climate",
+        "title": "Extreme heat wave in its final stretch and could fuel storms during July 4 celebrations",
+        "snippet": "",
+        "url": "https://www.cnn.com/2026/07/04/weather/heat-wave-dc-philadelphia-forecast-climate",
+        "source": "CNN",
+        "published_at": "07/04/2026, 09:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-09T12:25:12.830941+00:00",
+        "outlet_region": null,
+        "mention_text": "philadelphia",
+        "osm_display": "philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-09T23:00",
+        "sensor_temp_f": 73.6,
+        "sensor_rh_pct": 96,
+        "sensor_wind_mph": 3.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-09T12:41:35.714395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/best-states/kentucky/articles/2026-07-08/specialty-farmers-adapt-harvests-protect-crops-in-face-of-extreme-heat",
+        "title": "Specialty Farmers Adapt Harvests, Protect Crops in Face of Extreme Heat",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/best-states/kentucky/articles/2026-07-08/specialty-farmers-adapt-harvests-protect-crops-in-face-of-extreme-heat",
+        "source": "U.S. News & World Report",
+        "published_at": "07/08/2026, 01:01 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-09T12:25:12.830941+00:00",
+        "outlet_region": null,
+        "mention_text": "kentucky",
+        "osm_display": "kentucky",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-09T23:00",
+        "sensor_temp_f": 77.2,
+        "sensor_rh_pct": 74,
+        "sensor_wind_mph": 3.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-09T12:41:35.714395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676483,
+          45.523064
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/news/portland/western-heat-dome-could-impact-portland-heres-what-to-know/",
+        "title": "Western heat dome could impact Portland. Here\u2019s what to know",
+        "snippet": "",
+        "url": "https://www.koin.com/news/portland/western-heat-dome-could-impact-portland-heres-what-to-know/",
+        "source": "KOIN.com",
+        "published_at": "07/08/2026, 12:14 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-09T12:25:12.830941+00:00",
+        "outlet_region": null,
+        "mention_text": "Portland",
+        "osm_display": "Portland",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-09T23:00",
+        "sensor_temp_f": 60.8,
+        "sensor_rh_pct": 66,
+        "sensor_wind_mph": 5.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 53.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-09T12:41:35.714395+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-08T12:05:21.514978+00:00",
-    "total_features": 123
+    "last_updated": "2026-07-09T12:41:35.715523+00:00",
+    "total_features": 129
   }
 }
