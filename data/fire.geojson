@@ -11341,11 +11341,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-08T10:14:28.600193+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.csmonitor.com/USA/2026/0707/wildfire-aspen-acres-colorado",
+        "title": "Families, livestock fleeing Colorado wildfire look for community support",
+        "snippet": "",
+        "url": "https://www.csmonitor.com/USA/2026/0707/wildfire-aspen-acres-colorado",
+        "source": "The Christian Science Monitor",
+        "published_at": "07/07/2026, 08:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-09T10:44:15.039092+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.25,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 306.93,
+        "firms_acq_datetime": "2026-07-08 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-09T10:53:41.429873+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://snowbrains.com/the-united-states-largest-wildfire-rages-across-southeastern-utah/",
+        "title": "The United States\u2019 Largest Wildfire Rages Across Southeastern Utah",
+        "snippet": "",
+        "url": "https://snowbrains.com/the-united-states-largest-wildfire-rages-across-southeastern-utah/",
+        "source": "SnowBrains",
+        "published_at": "07/08/2026, 03:13 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-09T10:44:15.039092+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-09T10:53:41.429873+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/weather/california-wildfires/brush-fire-camp-pendleton-evacuations/",
+        "title": "Camp Pendleton brush fire grows to over 1,000 acres",
+        "snippet": "",
+        "url": "https://fox5sandiego.com/weather/california-wildfires/brush-fire-camp-pendleton-evacuations/",
+        "source": "fox5sandiego.com",
+        "published_at": "07/07/2026, 03:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-09T10:44:15.039092+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 61.2,
+        "firms_frp_mw": 5.34,
+        "firms_brightness": 341.85,
+        "firms_acq_datetime": "2026-07-08 2017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-09T10:53:41.429873+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thegazette.com/news/university-of-iowa-study-wildfire-smog-has-undercut-air-quality-gains/article_31031a4f-919d-4372-888d-1e8ca7c2d3b2.html",
+        "title": "University of Iowa study: Wildfire smog has undercut air-quality gains",
+        "snippet": "",
+        "url": "https://www.thegazette.com/news/university-of-iowa-study-wildfire-smog-has-undercut-air-quality-gains/article_31031a4f-919d-4372-888d-1e8ca7c2d3b2.html",
+        "source": "thegazette.com",
+        "published_at": "07/07/2026, 07:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-09T10:44:15.039092+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "University",
+        "osm_display": "University, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.25,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 306.93,
+        "firms_acq_datetime": "2026-07-08 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-09T10:53:41.429873+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.deseret.com/environment/2026/07/07/top-5-wildfires-in-the-us-all-in-utah-and-colorado/",
+        "title": "Utah and Colorado are home to the countries 5 largest wildfires",
+        "snippet": "",
+        "url": "https://www.deseret.com/environment/2026/07/07/top-5-wildfires-in-the-us-all-in-utah-and-colorado/",
+        "source": "Deseret News",
+        "published_at": "07/07/2026, 11:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-09T10:44:15.039092+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-09T10:53:41.429873+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-08T10:14:28.602469+00:00",
-    "total_features": 342
+    "last_updated": "2026-07-09T10:53:41.432140+00:00",
+    "total_features": 347
   }
 }
