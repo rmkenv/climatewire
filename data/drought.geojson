@@ -5882,11 +5882,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-06T15:36:21.908281+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mprnews.org/episode/2023/09/07/minnesota-reaches-exceptional-drought-for-second-time-ever",
+        "title": "Minnesota reaches 'exceptional drought' for second time ever",
+        "snippet": "",
+        "url": "https://www.mprnews.org/episode/2023/09/07/minnesota-reaches-exceptional-drought-for-second-time-ever",
+        "source": "MPR News",
+        "published_at": "09/07/2023, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-10T14:19:54.801388+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-10T14:27:46.874953+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-09T15:03:33.309262+00:00",
-    "total_features": 218
+    "last_updated": "2026-07-10T14:27:46.876376+00:00",
+    "total_features": 219
   }
 }
