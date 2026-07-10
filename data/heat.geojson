@@ -4386,11 +4386,215 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-09T12:41:35.714395+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/washingtonpost/videos/due-to-the-recent-heat-dome-some-farmers-in-the-united-states-face-threats-to-th/4379237122339718/",
+        "title": "Washington Post. . Due to the recent heat dome, some farmers in the United States face threats to their crops and the quality of their harvest. Annie Woods, who farms by hand in Kentucky, has adjusted her harvesting schedule, working in the early mornings an",
+        "snippet": "",
+        "url": "https://www.facebook.com/washingtonpost/videos/due-to-the-recent-heat-dome-some-farmers-in-the-united-states-face-threats-to-th/4379237122339718/",
+        "source": "facebook.com",
+        "published_at": "07/10/2026, 01:30 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-10T12:18:16.469398+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "the United States",
+        "osm_display": "the United States, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-10T23:00",
+        "sensor_temp_f": 54.7,
+        "sensor_rh_pct": 84,
+        "sensor_wind_mph": 3.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 51.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-10T12:33:24.966103+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-tech/heat-dome-western-united-states-forecasts-montana-rockies/",
+        "title": "West braces for heat dome this weekend as Montana nears 108, Rockies eye records, wildfires burn",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/green-tech/heat-dome-western-united-states-forecasts-montana-rockies/",
+        "source": "The Cool Down",
+        "published_at": "07/09/2026, 09:59 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-10T12:18:16.469398+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Montana",
+        "osm_display": "Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-10T23:00",
+        "sensor_temp_f": 65.7,
+        "sensor_rh_pct": 28,
+        "sensor_wind_mph": 5.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 52.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-10T12:33:24.966103+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-tech/new-jersey-heat-wave-22-deaths/",
+        "title": "Officials report 22 suspected deaths after relentless heat dome scorches eastern US",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/green-tech/new-jersey-heat-wave-22-deaths/",
+        "source": "The Cool Down",
+        "published_at": "07/09/2026, 06:32 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-10T12:18:16.469398+00:00",
+        "outlet_region": null,
+        "mention_text": "new jersey heat",
+        "osm_display": "new jersey heat",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-10T23:00",
+        "sensor_temp_f": 72.1,
+        "sensor_rh_pct": 89,
+        "sensor_wind_mph": 4.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-10T12:33:24.966103+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.265011,
+          44.977753
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/0my4krg7em1e/",
+        "title": "Omaha Aligns With Minneapolis, St. Louis, Bismarck and Other United States Cities to Embrace Next Level US Heat Dome to Push Temperatures Beyond 100\u00b0F Across Midwest as Dangerous Conditions Could Spread East: Here is What You Need To Know",
+        "snippet": "",
+        "url": "https://www.travelandtourworld.com/news/article/0my4krg7em1e/",
+        "source": "Travel And Tour World",
+        "published_at": "07/09/2026, 05:54 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-10T12:18:16.469398+00:00",
+        "outlet_region": null,
+        "mention_text": "Minneapolis",
+        "osm_display": "Minneapolis",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-10T12:33:24.966103+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chicagotribune.com/2026/06/29/world-cup-united-states-heat-dome/",
+        "title": "A heat dome will engulf World Cup games in the eastern US this week. Here\u2019s what to expect.",
+        "snippet": "",
+        "url": "https://www.chicagotribune.com/2026/06/29/world-cup-united-states-heat-dome/",
+        "source": "Chicago Tribune",
+        "published_at": "06/29/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-10T12:18:16.469398+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "World Cup",
+        "osm_display": "World Cup, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-10T23:00",
+        "sensor_temp_f": 66.0,
+        "sensor_rh_pct": 18,
+        "sensor_wind_mph": 4.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-10T12:33:24.966103+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945007,
+          33.856892
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenvilleonline.com/story/weather/2026/06/25/heat-dome-south-carolina-heat-index-over-100-when-it-will-happen/90690025007/",
+        "title": "SC could see heat index soar above 100 as heat dome settles over",
+        "snippet": "",
+        "url": "https://www.greenvilleonline.com/story/weather/2026/06/25/heat-dome-south-carolina-heat-index-over-100-when-it-will-happen/90690025007/",
+        "source": "Greenville Online",
+        "published_at": "06/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-10T12:18:16.469398+00:00",
+        "outlet_region": null,
+        "mention_text": "south carolina",
+        "osm_display": "south carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-10T23:00",
+        "sensor_temp_f": 88.5,
+        "sensor_rh_pct": 49,
+        "sensor_wind_mph": 7.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 75.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-10T12:33:24.966103+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-09T12:41:35.715523+00:00",
-    "total_features": 129
+    "last_updated": "2026-07-10T12:33:24.967420+00:00",
+    "total_features": 135
   }
 }
