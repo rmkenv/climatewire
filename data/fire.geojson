@@ -11613,11 +11613,147 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-10T10:54:50.762651+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc15.com/news/state/celebration-of-life-to-be-held-for-arizona-firefighter-nick-hutcherson-killed-in-wildfire",
+        "title": "Celebration of life to be held for Arizona firefighter Nick Hutcherson killed in wildfire",
+        "snippet": "",
+        "url": "https://www.abc15.com/news/state/celebration-of-life-to-be-held-for-arizona-firefighter-nick-hutcherson-killed-in-wildfire",
+        "source": "ABC15 Arizona",
+        "published_at": "07/10/2026, 10:34 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-11T09:15:12.534461+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-11T09:27:16.135389+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvnews.com/newsfeed/us/california-wildfire/image_17702369-d358-5165-a498-6db21864b381.html",
+        "title": "California Wildfire",
+        "snippet": "",
+        "url": "https://www.wvnews.com/newsfeed/us/california-wildfire/image_17702369-d358-5165-a498-6db21864b381.html",
+        "source": "WV News",
+        "published_at": "07/11/2026, 04:36 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-11T09:15:12.534461+00:00",
+        "outlet_region": "California",
+        "mention_text": "California Wildfire",
+        "osm_display": "California Wildfire",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-11T09:27:16.135389+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7news.com/post/3-firefighters-killed-wildfire-colorado-utah-border-idd-emily-barker-nick-hutcherson-sydney-watson/19415370/",
+        "title": "3 firefighters killed in wildfire on Colorado-Utah border ID'd as Emily Barker, Nick Hutcherson, Sydney Watson",
+        "snippet": "",
+        "url": "https://abc7news.com/post/3-firefighters-killed-wildfire-colorado-utah-border-idd-emily-barker-nick-hutcherson-sydney-watson/19415370/",
+        "source": "ABC7 Bay Area",
+        "published_at": "06/29/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-11T09:15:12.534461+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-11T09:27:16.135389+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/r7is5r7q7jvz/",
+        "title": "United States and Southern Europe Battle a Dangerous Summer Wildfire Surge as Colorado, Arizona, Italy, France and Spain Face Travel Disruptions, Smoke Risks and New Safety Measures for Millions of Holidaymakers",
+        "snippet": "",
+        "url": "https://www.travelandtourworld.com/news/article/r7is5r7q7jvz/",
+        "source": "Travel And Tour World",
+        "published_at": "07/10/2026, 10:40 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-11T09:15:12.534461+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "United States",
+        "osm_display": "United States, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-11T09:27:16.135389+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-10T10:54:50.765052+00:00",
-    "total_features": 350
+    "last_updated": "2026-07-11T09:27:16.138171+00:00",
+    "total_features": 354
   }
 }
