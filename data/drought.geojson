@@ -5912,11 +5912,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-10T14:27:46.874953+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-expands-across-colorados-high-country-heat-and-wildfires-deepen-dry",
+        "title": "Exceptional drought expands across Colorado's high country as heat and wildfires deepen dry conditions",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-expands-across-colorados-high-country-heat-and-wildfires-deepen-dry",
+        "source": "Kiowa County Press",
+        "published_at": "07/10/2026, 11:37 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-11T13:12:56.469258+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-11T13:22:43.776420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcrightnow.com/news/washingtons-columbia-river-basin-faces-water-shortage-by-the-2040s-department-of-ecology-draft-forecast/article_457728dd-b897-41b7-ae51-19807e7c32f3.html",
+        "title": "Washington's Columbia River Basin faces water shortage by the 2040s, Department of Ecology draft forecast says",
+        "snippet": "",
+        "url": "https://www.nbcrightnow.com/news/washingtons-columbia-river-basin-faces-water-shortage-by-the-2040s-department-of-ecology-draft-forecast/article_457728dd-b897-41b7-ae51-19807e7c32f3.html",
+        "source": "Nonstop Local News",
+        "published_at": "07/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-11T13:12:56.469258+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-11T13:22:43.776420+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-10T14:27:46.876376+00:00",
-    "total_features": 219
+    "last_updated": "2026-07-11T13:22:43.777943+00:00",
+    "total_features": 221
   }
 }
