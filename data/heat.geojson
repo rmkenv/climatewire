@@ -4590,11 +4590,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-10T12:33:24.966103+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316463594.html",
+        "title": "\u2018Heat dome\u2019 could bring extreme temperatures to SLO County. Here\u2019s when, how hot",
+        "snippet": "",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316463594.html",
+        "source": "San Luis Obispo Tribune",
+        "published_at": "07/10/2026, 08:03 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-11T10:53:08.173733+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "SLO County",
+        "osm_display": "SLO County, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-11T23:00",
+        "sensor_temp_f": 71.6,
+        "sensor_rh_pct": 12,
+        "sensor_wind_mph": 8.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 51.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-11T11:09:02.660327+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/ny-state/2026/07/ny-weather-heat-dome-to-push-temps-near-95-degrees-in-ny-state-next-week.html",
+        "title": "N.Y. weather: Heat dome to push temps near 95 degrees in N.Y. state next week",
+        "snippet": "",
+        "url": "https://www.silive.com/ny-state/2026/07/ny-weather-heat-dome-to-push-temps-near-95-degrees-in-ny-state-next-week.html",
+        "source": "SILive.com",
+        "published_at": "07/10/2026, 02:03 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-11T10:53:08.173733+00:00",
+        "outlet_region": "New York",
+        "mention_text": "N.Y.",
+        "osm_display": "N.Y., New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-11T23:00",
+        "sensor_temp_f": 65.8,
+        "sensor_rh_pct": 44,
+        "sensor_wind_mph": 5.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 55.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-11T11:09:02.660327+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/06/29/oregon-heat-dome-fifth-anniversary/",
+        "title": "It\u2019s been 5 years since deadly heat gripped Oregon. Here\u2019s what\u2019s changed",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/06/29/oregon-heat-dome-fifth-anniversary/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "06/29/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-11T10:53:08.173733+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-11T11:09:02.660327+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-10T12:33:24.967420+00:00",
-    "total_features": 135
+    "last_updated": "2026-07-11T11:09:02.661744+00:00",
+    "total_features": 138
   }
 }
