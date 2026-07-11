@@ -1351,11 +1351,46 @@
         "usgs_gw_depth_ft": 412.85,
         "run_at": "2026-07-01T13:41:42.988941+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2025/05/15/us/politics/florida-fluoride-water-ban.html",
+        "title": "Florida Just Banned Fluoride From Public Water. Here\u2019s What to Know. (Published 2025)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2025/05/15/us/politics/florida-fluoride-water-ban.html",
+        "source": "The New York Times",
+        "published_at": "05/15/2025, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-07-11T11:53:12.282762+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "02295013",
+        "usgs_streamflow_name": "BOWLEGS CREEK NEAR FORT MEADE FL",
+        "usgs_streamflow_dist_km": 7.41,
+        "usgs_streamflow_cfs": 8.82,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-07-11T12:02:30.084992+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-07-10T13:19:48.867300+00:00",
-    "total_features": 43
+    "last_updated": "2026-07-11T12:02:30.085725+00:00",
+    "total_features": 44
   }
 }
