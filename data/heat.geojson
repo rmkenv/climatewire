@@ -4692,11 +4692,113 @@
         "wbgt_flag": null,
         "run_at": "2026-07-11T11:09:02.660327+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox8.com/weather/tracking-heat-dome-returning-to-northeast-ohio/",
+        "title": "TRACKING: Heat dome returning to Northeast Ohio",
+        "snippet": "",
+        "url": "https://fox8.com/weather/tracking-heat-dome-returning-to-northeast-ohio/",
+        "source": "FOX 8 News",
+        "published_at": "07/11/2026, 10:40 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-12T11:03:29.493327+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "ohio",
+        "osm_display": "ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-12T23:00",
+        "sensor_temp_f": 70.7,
+        "sensor_rh_pct": 54,
+        "sensor_wind_mph": 10.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 59.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-12T11:19:40.560987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/6ct00unj5a8x/",
+        "title": "United States Travel Alert: Record-Breaking Heat Dome Sweeps Across Nevada, Texas, Florida, Montana and More States as Dangerous Triple-Digit Temperatures Threaten Summer Holidays, Outdoor Adventures and Tourist Safety",
+        "snippet": "",
+        "url": "https://www.travelandtourworld.com/news/article/6ct00unj5a8x/",
+        "source": "Travel And Tour World",
+        "published_at": "07/11/2026, 09:07 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-12T11:03:29.493327+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-12T23:00",
+        "sensor_temp_f": 76.6,
+        "sensor_rh_pct": 23,
+        "sensor_wind_mph": 7.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 59.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-12T11:19:40.560987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kshb.com/weather/kshb-41-weather-blog-tracking-the-heat-dome",
+        "title": "KSHB 41 Weather Blog | Tracking the heat dome across the U.S., Kansas City",
+        "snippet": "",
+        "url": "https://www.kshb.com/weather/kshb-41-weather-blog-tracking-the-heat-dome",
+        "source": "KSHB 41 Kansas City",
+        "published_at": "07/11/2026, 10:40 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-12T11:03:29.493327+00:00",
+        "outlet_region": "Kansas",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., Kansas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-12T23:00",
+        "sensor_temp_f": 78.3,
+        "sensor_rh_pct": 45,
+        "sensor_wind_mph": 9.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 64.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-12T11:19:40.560987+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-11T11:09:02.661744+00:00",
-    "total_features": 138
+    "last_updated": "2026-07-12T11:19:40.565550+00:00",
+    "total_features": 141
   }
 }
