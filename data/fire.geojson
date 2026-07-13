@@ -11851,11 +11851,113 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-07-12T09:52:15.449310+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-wildfire-news/pocket-fire-sedona-2700-73/5881570/",
+        "title": "Oak Creek Canyon evacuation status downgraded to \u2018Ready\u2019 as Pocket Fire containment reaches 76%",
+        "snippet": "",
+        "url": "https://ktar.com/arizona-wildfire-news/pocket-fire-sedona-2700-73/5881570/",
+        "source": "KTAR News 92.3 FM",
+        "published_at": "07/13/2026, 01:42 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-13T10:48:32.184753+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Oak Creek Canyon",
+        "osm_display": "Oak Creek Canyon, Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-13T10:58:49.139868+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sltrib.com/news/2026/07/09/one-utahs-biggest-trees-was/",
+        "title": "Utahns mourn as massive, beloved centuries-old tree lost to Cottonwood Fire",
+        "snippet": "",
+        "url": "https://www.sltrib.com/news/2026/07/09/one-utahs-biggest-trees-was/",
+        "source": "The Salt Lake Tribune",
+        "published_at": "07/11/2026, 12:06 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-13T10:48:32.184753+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Utahns",
+        "osm_display": "Utahns, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-13T10:58:49.139868+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/3-federal-firefighters-killed-2-injured-responding-snyder/story?id=134285923",
+        "title": "3 firefighters killed, 2 injured responding to Snyder wildfire on Utah-Colorado border",
+        "snippet": "",
+        "url": "https://abcnews.com/US/3-federal-firefighters-killed-2-injured-responding-snyder/story?id=134285923",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "06/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-13T10:48:32.184753+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-13T10:58:49.139868+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-12T09:52:15.451759+00:00",
-    "total_features": 357
+    "last_updated": "2026-07-13T10:58:49.142598+00:00",
+    "total_features": 360
   }
 }
