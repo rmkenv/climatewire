@@ -1386,11 +1386,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-07-11T12:02:30.084992+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2022/oct/02/los-angeles-celebrity-homes-water-restriction-drought",
+        "title": "LA restricts water flow to wasteful celebrity mansions: \u2018No matter how rich, we\u2019ll treat you the same\u2019",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2022/oct/02/los-angeles-celebrity-homes-water-restriction-drought",
+        "source": "The Guardian",
+        "published_at": "10/03/2022, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-07-13T13:24:34.555253+00:00",
+        "outlet_region": null,
+        "mention_text": "los angeles",
+        "osm_display": "los angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "11102300",
+        "usgs_streamflow_name": "RIO HONDO BL WHITTIER NARROWS DAM CA",
+        "usgs_streamflow_dist_km": 14.84,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "340814117253501",
+        "usgs_gw_name": "001N005W29Q001S",
+        "usgs_gw_dist_km": 75.8,
+        "usgs_gw_depth_ft": 579.65,
+        "run_at": "2026-07-13T13:33:42.780348+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-07-12T12:08:07.928646+00:00",
-    "total_features": 44
+    "last_updated": "2026-07-13T13:33:42.781019+00:00",
+    "total_features": 45
   }
 }
