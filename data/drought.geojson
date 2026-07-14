@@ -5972,11 +5972,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-11T13:22:43.776420+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fb.org/market-intel/first-ever-colorado-river-water-shortage-declaration-spurs-water-cuts-in-th",
+        "title": "First-Ever Colorado River Water Shortage Declaration Spurs Water Cuts in the Southwest",
+        "snippet": "",
+        "url": "https://www.fb.org/market-intel/first-ever-colorado-river-water-shortage-declaration-spurs-water-cuts-in-th",
+        "source": "American Farm Bureau Federation",
+        "published_at": "09/13/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-14T13:28:34.989514+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Southwest",
+        "osm_display": "Southwest, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-14T13:42:51.713365+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-13T14:36:43.451282+00:00",
-    "total_features": 221
+    "last_updated": "2026-07-14T13:42:51.714764+00:00",
+    "total_features": 222
   }
 }
