@@ -11953,11 +11953,317 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-07-13T10:58:49.139868+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-aspen-acres-fire-colorado",
+        "title": "Wildfire Map Spotlight: Aspen Acres Fire, Colorado",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-aspen-acres-fire-colorado",
+        "source": "IQAir",
+        "published_at": "07/12/2026, 03:28 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kcra.com/article/colorado-wildfire-aircraft-crash/71917224",
+        "title": "Aircraft helping fight Colorado wildfire crashes, killing the pilot",
+        "snippet": "",
+        "url": "https://www.kcra.com/article/colorado-wildfire-aircraft-crash/71917224",
+        "source": "KCRA",
+        "published_at": "07/13/2026, 12:34 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denverpost.com/2026/07/13/colorado-wildfires-rain-weather-aspen-acres/",
+        "title": "Will Colorado see its worst wildfire season since 2020?",
+        "snippet": "",
+        "url": "https://www.denverpost.com/2026/07/13/colorado-wildfires-rain-weather-aspen-acres/",
+        "source": "The Denver Post",
+        "published_at": "07/13/2026, 12:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/california/elephant-fire-continues-to-grow-near-loyalton-leaving-thousands-of-acres-burned/article_a8b2738b-89bf-40fd-97ea-95fd33527581.html",
+        "title": "Elephant Fire continues to grow near Loyalton, leaving thousands of acres burned",
+        "snippet": "",
+        "url": "https://www.2news.com/news/california/elephant-fire-continues-to-grow-near-loyalton-leaving-thousands-of-acres-burned/article_a8b2738b-89bf-40fd-97ea-95fd33527581.html",
+        "source": "KTVN",
+        "published_at": "07/13/2026, 10:29 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://hutchpost.com/posts/1d30af48-e7ee-4d8e-a0d6-486b9f8f661f",
+        "title": "HFD fire crew deployed to Colorado wildfire",
+        "snippet": "",
+        "url": "https://hutchpost.com/posts/1d30af48-e7ee-4d8e-a0d6-486b9f8f661f",
+        "source": "Hutch Post",
+        "published_at": "07/13/2026, 01:26 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/crash-of-an-aircraft-helping-to-fight-a-colorado-wildfire-leaves-the-pilot-dead/article_ed98f62e-b98f-5caf-8510-8080f454d77b.html",
+        "title": "Crash of a helicopter helping to fight a Colorado wildfire leaves the pilot dead",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/crash-of-an-aircraft-helping-to-fight-a-colorado-wildfire-leaves-the-pilot-dead/article_ed98f62e-b98f-5caf-8510-8080f454d77b.html",
+        "source": "Toronto Star",
+        "published_at": "07/13/2026, 11:48 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/pilot-killed-fighting-colorado-wildfire-122900000.html",
+        "title": "Pilot killed fighting Colorado wildfire after plane crashes into reservoir",
+        "snippet": "",
+        "url": "https://www.aol.com/articles/pilot-killed-fighting-colorado-wildfire-122900000.html",
+        "source": "AOL.com",
+        "published_at": "07/13/2026, 12:38 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/wildfire-wildland-firefighting-colorado-trump-administration-549b10807a4491bc50ba42d9450de9cc",
+        "title": "Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited",
+        "snippet": "",
+        "url": "https://apnews.com/article/wildfire-wildland-firefighting-colorado-trump-administration-549b10807a4491bc50ba42d9450de9cc",
+        "source": "AP News",
+        "published_at": "06/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": null,
+        "mention_text": "colorado",
+        "osm_display": "colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/wildfire-evacuations-utah-colorado-florida-red-flag-66c8471df83ccc9663b746511b7ffd17",
+        "title": "Heat, wind and drought conditions spark wildfires in US West",
+        "snippet": "",
+        "url": "https://apnews.com/article/wildfire-evacuations-utah-colorado-florida-red-flag-66c8471df83ccc9663b746511b7ffd17",
+        "source": "AP News",
+        "published_at": "06/21/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-14T09:44:12.349270+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-14T09:53:31.325733+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-13T10:58:49.142598+00:00",
-    "total_features": 360
+    "last_updated": "2026-07-14T09:53:31.328727+00:00",
+    "total_features": 369
   }
 }
