@@ -4794,11 +4794,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-12T11:19:40.560987+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://bringmethenews.com/minnesota-weather/the-biggest-heat-dome-on-earth-is-sitting-on-top-of-minnesota",
+        "title": "The biggest heat dome on Earth is sitting on top of Minnesota",
+        "snippet": "",
+        "url": "https://bringmethenews.com/minnesota-weather/the-biggest-heat-dome-on-earth-is-sitting-on-top-of-minnesota",
+        "source": "Bring Me The News",
+        "published_at": "07/13/2026, 09:45 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-14T11:16:23.791025+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Earth",
+        "osm_display": "Earth, Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-14T23:00",
+        "sensor_temp_f": 77.9,
+        "sensor_rh_pct": 73,
+        "sensor_wind_mph": 6.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-14T11:30:37.487158+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.techtimes.com/articles/320343/20260713/heat-dome-smashes-all-time-records-montana-utah-eyes-100-million-americans.htm",
+        "title": "Heat Dome Smashes All-Time Records in Montana and Utah, Eyes 100 Million Americans",
+        "snippet": "",
+        "url": "https://www.techtimes.com/articles/320343/20260713/heat-dome-smashes-all-time-records-montana-utah-eyes-100-million-americans.htm",
+        "source": "Tech Times",
+        "published_at": "07/13/2026, 08:20 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-14T11:16:23.791025+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Montana",
+        "osm_display": "Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-14T23:00",
+        "sensor_temp_f": 60.8,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 9.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 54.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-14T11:30:37.487158+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-13T12:40:13.523729+00:00",
-    "total_features": 141
+    "last_updated": "2026-07-14T11:30:37.488503+00:00",
+    "total_features": 143
   }
 }
