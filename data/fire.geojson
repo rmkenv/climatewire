@@ -12259,11 +12259,147 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-07-14T09:53:31.325733+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.michiganpublic.org/environment-climate-change/2026-07-14/wildfire-smoke-prompts-statewide-air-quality-alert-in-michigan",
+        "title": "Wildfire smoke prompts statewide air quality alert in Michigan",
+        "snippet": "",
+        "url": "https://www.michiganpublic.org/environment-climate-change/2026-07-14/wildfire-smoke-prompts-statewide-air-quality-alert-in-michigan",
+        "source": "Michigan Public",
+        "published_at": "07/14/2026, 10:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-15T09:47:59.808242+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-15T09:56:23.846244+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/news/wildfire/colorados-firefighting-tactics-have-evolved-significantly-over-the-decades-heres-a-look-at-the-history",
+        "title": "Colorado's firefighting strategies have evolved significantly over the decades \u2014 here's a look at the history",
+        "snippet": "",
+        "url": "https://www.denver7.com/news/wildfire/colorados-firefighting-tactics-have-evolved-significantly-over-the-decades-heres-a-look-at-the-history",
+        "source": "Denver7",
+        "published_at": "07/14/2026, 11:51 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-15T09:47:59.808242+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-15T09:56:23.846244+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/wildfire/wildfire-dixie-national-forest-pine-valley/",
+        "title": "FIRE START: Crews respond to new wildfire in Pine Valley Ranger District",
+        "snippet": "",
+        "url": "https://www.abc4.com/utah-weather/wildfire/wildfire-dixie-national-forest-pine-valley/",
+        "source": "ABC4 Utah",
+        "published_at": "07/15/2026, 12:05 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-15T09:47:59.808242+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-15T09:56:23.846244+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/14/health/airquality/wildfire-smoke-from-canada-and-minnesota-may-lead-to-unhealthy-air-quality-in",
+        "title": "Wildfire smoke from Canada and Minnesota may lead to unhealthy air quality in the Great Lakes and Northeast",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/14/health/airquality/wildfire-smoke-from-canada-and-minnesota-may-lead-to-unhealthy-air-quality-in",
+        "source": "The Weather Channel",
+        "published_at": "07/14/2026, 04:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-15T09:47:59.808242+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-15T09:56:23.846244+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-14T09:53:31.328727+00:00",
-    "total_features": 369
+    "last_updated": "2026-07-15T09:56:23.849023+00:00",
+    "total_features": 373
   }
 }
