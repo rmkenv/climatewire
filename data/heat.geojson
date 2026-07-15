@@ -4862,11 +4862,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-14T11:30:37.487158+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/14/forecast/regional/heat-wave-rockies-plains-midwest-east-forecast",
+        "title": "Northeast, Midwest to sizzle under record-smashing heat dome",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/14/forecast/regional/heat-wave-rockies-plains-midwest-east-forecast",
+        "source": "The Weather Channel",
+        "published_at": "07/11/2026, 04:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-15T11:20:15.461720+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-15T23:00",
+        "sensor_temp_f": 76.6,
+        "sensor_rh_pct": 72,
+        "sensor_wind_mph": 4.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-15T11:34:46.075955+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-14T11:30:37.488503+00:00",
-    "total_features": 143
+    "last_updated": "2026-07-15T11:34:46.080907+00:00",
+    "total_features": 144
   }
 }
