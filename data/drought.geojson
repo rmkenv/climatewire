@@ -6002,11 +6002,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-14T13:42:51.713365+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396381,
+          27.800583
+        ]
+      },
+      "properties": {
+        "article_id": "https://theconversation.com/why-corpus-christi-faces-a-looming-water-shortage-and-what-might-help-283244",
+        "title": "Why Corpus Christi faces a looming water shortage, and what might help",
+        "snippet": "",
+        "url": "https://theconversation.com/why-corpus-christi-faces-a-looming-water-shortage-and-what-might-help-283244",
+        "source": "The Conversation",
+        "published_at": "05/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-15T13:38:19.964905+00:00",
+        "outlet_region": null,
+        "mention_text": "Why Corpus Christi",
+        "osm_display": "Why Corpus Christi",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-15T13:46:37.969156+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.737778,
+          36.015556
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/water-shortage-declared-lake-mead-countrys-largest-reservoir/story?id=79487881",
+        "title": "First-ever water shortage declared for Lake Mead, the country's largest reservoir",
+        "snippet": "",
+        "url": "https://abcnews.com/US/water-shortage-declared-lake-mead-countrys-largest-reservoir/story?id=79487881",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "08/16/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-15T13:38:19.964905+00:00",
+        "outlet_region": null,
+        "mention_text": "Lake Mead",
+        "osm_display": "Lake Mead",
+        "osm_type": "lake",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-15T13:46:37.969156+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-14T13:42:51.714764+00:00",
-    "total_features": 222
+    "last_updated": "2026-07-15T13:46:37.970574+00:00",
+    "total_features": 224
   }
 }
