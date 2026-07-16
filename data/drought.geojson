@@ -6062,11 +6062,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-15T13:46:37.969156+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.borderreport.com/regions/texas/town-where-sugar-mill-closed-due-to-water-shortage-gets-federal-relief/",
+        "title": "Town where sugar mill closed due to water shortage gets federal relief",
+        "snippet": "",
+        "url": "https://www.borderreport.com/regions/texas/town-where-sugar-mill-closed-due-to-water-shortage-gets-federal-relief/",
+        "source": "BorderReport",
+        "published_at": "06/07/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-16T13:44:55.400962+00:00",
+        "outlet_region": null,
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-16T13:52:32.640618+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fb.org/intel/markets/first-ever-colorado-river-water-shortage-declaration-spurs-water-cuts-in-th",
+        "title": "First-Ever Colorado River Water Shortage Declaration Spurs Water Cuts in the Southwest",
+        "snippet": "",
+        "url": "https://www.fb.org/intel/markets/first-ever-colorado-river-water-shortage-declaration-spurs-water-cuts-in-th",
+        "source": "American Farm Bureau Federation",
+        "published_at": "09/13/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-16T13:44:55.400962+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Southwest",
+        "osm_display": "Southwest, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-16T13:52:32.640618+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-15T13:46:37.970574+00:00",
-    "total_features": 224
+    "last_updated": "2026-07-16T13:52:32.641968+00:00",
+    "total_features": 226
   }
 }
