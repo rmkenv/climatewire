@@ -12395,11 +12395,453 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-07-15T09:56:23.846244+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timesunion.com/weather/article/wildfire-smoke-blowing-albany-area-know-22345537.php",
+        "title": "Wildfire smoke is blowing into upstate New York. Here\u2019s what to know.",
+        "snippet": "",
+        "url": "https://www.timesunion.com/weather/article/wildfire-smoke-blowing-albany-area-know-22345537.php",
+        "source": "Times Union",
+        "published_at": "07/15/2026, 06:39 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "New York",
+        "mention_text": "New York",
+        "osm_display": "New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
+        "title": "Wildfires expose millions in Midwest, Northeast to dangerous smoke: \"Perfect storm for really dry conditions\"",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
+        "source": "CBS News",
+        "published_at": "07/15/2026, 10:46 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755371,
+          41.597782
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ctinsider.com/weather/article/connecticut-wildfire-smoke-air-quality-wednesday-22345983.php",
+        "title": "Connecticut's air quality just got worse because of wildfire smoke",
+        "snippet": "",
+        "url": "https://www.ctinsider.com/weather/article/connecticut-wildfire-smoke-air-quality-wednesday-22345983.php",
+        "source": "CT Insider",
+        "published_at": "07/15/2026, 11:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Connecticut",
+        "mention_text": "Connecticut",
+        "osm_display": "Connecticut",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kotatv.com/2026/07/16/wyoming-air-national-guards-153rd-airlift-wing-activated-wildfire-response/",
+        "title": "Wyoming Air National Guard\u2019s 153rd Airlift Wing activated for wildfire response",
+        "snippet": "",
+        "url": "https://www.kotatv.com/2026/07/16/wyoming-air-national-guards-153rd-airlift-wing-activated-wildfire-response/",
+        "source": "KOTA Territory News",
+        "published_at": "07/16/2026, 02:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "153rd Airlift Wing",
+        "osm_display": "153rd Airlift Wing, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755371,
+          41.597782
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ctinsider.com/weather/article/ct-weather-poor-air-quality-wildfires-thursday-22347133.php",
+        "title": "Connecticut health officials urge caution as wildfire smoke will make air quality poor Thursday",
+        "snippet": "",
+        "url": "https://www.ctinsider.com/weather/article/ct-weather-poor-air-quality-wildfires-thursday-22347133.php",
+        "source": "CT Insider",
+        "published_at": "07/15/2026, 11:41 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Connecticut",
+        "mention_text": "Connecticut",
+        "osm_display": "Connecticut",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.startribune.com/wildfire-smoke-is-arriving-in-the-twin-cities-and-central-minnesota-here-is-what-to-expect/601868148",
+        "title": "Wildfire smoke is arriving in the Twin Cities and central Minnesota. Here is what to expect.",
+        "snippet": "",
+        "url": "https://www.startribune.com/wildfire-smoke-is-arriving-in-the-twin-cities-and-central-minnesota-here-is-what-to-expect/601868148",
+        "source": "Star Tribune",
+        "published_at": "07/15/2026, 07:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox8.com/news/tracking-wildfire-smoke-will-make-northeast-ohios-air-quality-hazardous/",
+        "title": "Tracking: Wildfire smoke will make Northeast Ohio\u2019s air quality hazardous",
+        "snippet": "",
+        "url": "https://fox8.com/news/tracking-wildfire-smoke-will-make-northeast-ohios-air-quality-hazardous/",
+        "source": "FOX 8 News",
+        "published_at": "07/16/2026, 12:57 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyvoice.com/wildfire-smoke-philly-health-tips-2026/",
+        "title": "Wildfire smoke is headed for Philly. Here's how to stay safe",
+        "snippet": "",
+        "url": "https://www.phillyvoice.com/wildfire-smoke-philly-health-tips-2026/",
+        "source": "PhillyVoice",
+        "published_at": "07/15/2026, 07:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "Wildfire",
+        "osm_display": "Wildfire, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9812773/minnesota-national-guard-supports-aerial-wildfire-suppression-operations-northern-minnesota",
+        "title": "Minnesota National Guard supports aerial wildfire suppression operations in Northern Minnesota",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9812773/minnesota-national-guard-supports-aerial-wildfire-suppression-operations-northern-minnesota",
+        "source": "DVIDS",
+        "published_at": "07/15/2026, 08:34 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Northern Minnesota",
+        "osm_display": "Northern Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616508,
+          44.268543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jsonline.com/story/news/environment/2026/07/15/how-to-check-air-quality-in-wisconsin-as-wildfire-smoke-spreads/90928970007/",
+        "title": "How to check Wisconsin smoke maps as air quality alerts hit state",
+        "snippet": "",
+        "url": "https://www.jsonline.com/story/news/environment/2026/07/15/how-to-check-air-quality-in-wisconsin-as-wildfire-smoke-spreads/90928970007/",
+        "source": "Milwaukee Journal Sentinel",
+        "published_at": "07/15/2026, 07:24 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Wisconsin",
+        "mention_text": "Wisconsin",
+        "osm_display": "Wisconsin",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://kdvr.com/news/health/ap-wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke/",
+        "title": "Busy wildfire season continues exposing millions in the Midwest and Northeast US to dangerous smoke",
+        "snippet": "",
+        "url": "https://kdvr.com/news/health/ap-wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke/",
+        "source": "KDVR",
+        "published_at": "07/15/2026, 04:56 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-news/minnesota-canada-wildfire-evacuations-underway-as-hazardous-air-quality-reaches-us/1911581",
+        "title": "Minnesota, Canada wildfire evacuations underway as hazardous air quality reaches US",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-news/minnesota-canada-wildfire-evacuations-underway-as-hazardous-air-quality-reaches-us/1911581",
+        "source": "AccuWeather",
+        "published_at": "07/14/2026, 07:15 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          45.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/14/health/airquality/wildfire-smoke-blankets-great-lakes-and-northeast-air-quality-plummets",
+        "title": "Wildfire smoke blanketing Great Lakes and Northeast with unhealthy air quality",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/14/health/airquality/wildfire-smoke-blankets-great-lakes-and-northeast-air-quality-plummets",
+        "source": "The Weather Channel",
+        "published_at": "07/14/2026, 04:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-16T09:54:27.792692+00:00",
+        "outlet_region": null,
+        "mention_text": "Great Lakes",
+        "osm_display": "Great Lakes",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-16T10:03:24.133186+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-15T09:56:23.849023+00:00",
-    "total_features": 373
+    "last_updated": "2026-07-16T10:03:24.136191+00:00",
+    "total_features": 386
   }
 }
