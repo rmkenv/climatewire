@@ -4896,11 +4896,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-15T11:34:46.075955+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/articles/cevlkzer7vdo",
+        "title": "Brutal heat cancels Fourth of July events in DC and Philadelphia",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/cevlkzer7vdo",
+        "source": "BBC",
+        "published_at": "07/03/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-16T11:25:51.823915+00:00",
+        "outlet_region": null,
+        "mention_text": "Philadelphia",
+        "osm_display": "Philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-07-16T11:41:46.734114+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-15T11:34:46.080907+00:00",
-    "total_features": 144
+    "last_updated": "2026-07-16T11:41:46.736885+00:00",
+    "total_features": 145
   }
 }
