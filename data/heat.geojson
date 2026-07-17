@@ -4930,11 +4930,45 @@
         "wbgt_flag": null,
         "run_at": "2026-07-16T11:41:46.734114+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/state/pennsylvania/pittsburgh/2026/07/13/how-hot-pittsburgh-heat-dome-us-forecast/90898812007/",
+        "title": "Does Pittsburgh have a heat advisory? High temps coming under heat dome",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/state/pennsylvania/pittsburgh/2026/07/13/how-hot-pittsburgh-heat-dome-us-forecast/90898812007/",
+        "source": "USA Today",
+        "published_at": "07/13/2026, 02:50 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-17T11:13:22.474222+00:00",
+        "outlet_region": null,
+        "mention_text": "pennsylvania",
+        "osm_display": "pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_warning",
+        "sensor_obs_time": "2026-07-17T23:00",
+        "sensor_temp_f": 73.2,
+        "sensor_rh_pct": 44,
+        "sensor_wind_mph": 3.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 62.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-17T11:28:17.903786+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-16T11:41:46.736885+00:00",
-    "total_features": 145
+    "last_updated": "2026-07-17T11:28:17.907823+00:00",
+    "total_features": 146
   }
 }
