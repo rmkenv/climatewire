@@ -12837,11 +12837,657 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-07-16T10:03:24.133186+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/health/as-wildfire-smoke-makes-air-unhealthy-from-midwest-to-east-coast-officials-say-stay-inside",
+        "title": "As wildfire smoke makes air unhealthy from Midwest to East Coast, officials say stay inside",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/health/as-wildfire-smoke-makes-air-unhealthy-from-midwest-to-east-coast-officials-say-stay-inside",
+        "source": "PBS",
+        "published_at": "07/16/2026, 11:51 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html",
+        "title": "Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html",
+        "source": "The New York Times",
+        "published_at": "07/17/2026, 12:11 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://globalnation.inquirer.net/331178/hazardous-canadian-wildfire-smoke-choking-millions-in-us",
+        "title": "Hazardous Canadian wildfire smoke choking millions in US",
+        "snippet": "",
+        "url": "https://globalnation.inquirer.net/331178/hazardous-canadian-wildfire-smoke-choking-millions-in-us",
+        "source": "Inquirer.net",
+        "published_at": "07/17/2026, 02:19 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "Hazardous Canadian",
+        "osm_display": "Hazardous Canadian, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4546918/wyoming-guard-supports-wildfire-response-in-western-us/",
+        "title": "Wyoming Guard Supports Wildfire Response in Western US",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4546918/wyoming-guard-supports-wildfire-response-in-western-us/",
+        "source": "nationalguard.mil",
+        "published_at": "07/16/2026, 01:45 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wyoming Guard Supports Wildfire Response",
+        "osm_display": "Wyoming Guard Supports Wildfire Response",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
+        "title": "Maps show wildfire smoke forecast, air quality alerts due to pollution from Canadian, Minnesota fires",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
+        "source": "CBS News",
+        "published_at": "07/15/2026, 10:46 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/thick-smoke-from-canadian-minnesota-wildfires-send-air-quality-plummeting-across-new-england",
+        "title": "Canadian wildfire smoke invades a dozen states, spreading hazardous air quality, hazy skies to over 124M",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/thick-smoke-from-canadian-minnesota-wildfires-send-air-quality-plummeting-across-new-england",
+        "source": "FOX Weather",
+        "published_at": "07/14/2026, 03:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "minnesota",
+        "osm_display": "minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html",
+        "title": "Wildfire Smoke Causes Unhealthy Air Conditions in New York",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html",
+        "source": "The New York Times",
+        "published_at": "07/16/2026, 07:33 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "New York",
+        "mention_text": "New York",
+        "osm_display": "New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/wildfires-smoke-canada-minnesota-08d3fb58a434a5d42803ab1c2bbda0b3",
+        "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
+        "snippet": "",
+        "url": "https://apnews.com/article/wildfires-smoke-canada-minnesota-08d3fb58a434a5d42803ab1c2bbda0b3",
+        "source": "AP News",
+        "published_at": "07/15/2026, 10:06 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          45.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.upi.com/Top_News/US/2026/07/16/thick-hazardous-wildfire-smoke-spreads-Great-Lakes-East-Coast/7861784238452/",
+        "title": "Thick, hazardous wildfire smoke spreads from Great Lakes to East Coast",
+        "snippet": "",
+        "url": "https://www.upi.com/Top_News/US/2026/07/16/thick-hazardous-wildfire-smoke-spreads-Great-Lakes-East-Coast/7861784238452/",
+        "source": "upi.com",
+        "published_at": "07/16/2026, 10:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Great Lakes",
+        "osm_display": "Great Lakes",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/national-news/articles/2026-07-15/states-issue-air-quality-warnings-as-wildfire-smoke-from-canada-minnesota-spreads",
+        "title": "States Issue Air Quality Warnings as Wildfire Smoke from Canada, Minnesota Spreads | National News | U.S. News",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/national-news/articles/2026-07-15/states-issue-air-quality-warnings-as-wildfire-smoke-from-canada-minnesota-spreads",
+        "source": "U.S. News & World Report",
+        "published_at": "07/15/2026, 09:02 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.live5news.com/2026/07/16/wildfire-smoke-makes-air-unhealthy-us-midwest-east-coast-officials-say-stay-inside/",
+        "title": "Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside",
+        "snippet": "",
+        "url": "https://www.live5news.com/2026/07/16/wildfire-smoke-makes-air-unhealthy-us-midwest-east-coast-officials-say-stay-inside/",
+        "source": "Live 5 News",
+        "published_at": "07/16/2026, 09:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mprnews.org/minnesota-wildfires-live-updates",
+        "title": "Live updates: Wildfires in Minnesota",
+        "snippet": "",
+        "url": "https://www.mprnews.org/minnesota-wildfires-live-updates",
+        "source": "MPR News",
+        "published_at": "07/14/2026, 12:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2026/07/the-science-of-wildfire-smoke-how-it-traveled-hundreds-of-miles-and-dimmed-northeast-ohios-sun.html",
+        "title": "The science of wildfire smoke: How it traveled hundreds of miles and dimmed Northeast Ohio\u2019s sun",
+        "snippet": "",
+        "url": "https://www.cleveland.com/news/2026/07/the-science-of-wildfire-smoke-how-it-traveled-hundreds-of-miles-and-dimmed-northeast-ohios-sun.html",
+        "source": "Cleveland.com",
+        "published_at": "07/16/2026, 08:51 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.inquirer.com/weather/air-quality-philadelphia-wildfire-smoke-map-charts-20260716.html",
+        "title": "What Philly\u2019s air quality is like right now, in maps and charts",
+        "snippet": "",
+        "url": "https://www.inquirer.com/weather/air-quality-philadelphia-wildfire-smoke-map-charts-20260716.html",
+        "source": "Inquirer.com",
+        "published_at": "07/16/2026, 01:01 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "philadelphia",
+        "osm_display": "philadelphia, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          45.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wifr.com/2026/07/16/wildfire-smoke-chokes-skies-great-lakes-east-coast/",
+        "title": "Wildfire Smoke Chokes Skies from Great Lakes to East Coast",
+        "snippet": "",
+        "url": "https://www.wifr.com/2026/07/16/wildfire-smoke-chokes-skies-great-lakes-east-coast/",
+        "source": "WIFR",
+        "published_at": "07/16/2026, 08:41 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Great Lakes",
+        "osm_display": "Great Lakes",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629799,
+          41.878113
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox32chicago.com/news/chicago-air-quality-wildfire-worst",
+        "title": "Hazardous air quality plagues Chicago amid potent wildfire smoke",
+        "snippet": "",
+        "url": "https://www.fox32chicago.com/news/chicago-air-quality-wildfire-worst",
+        "source": "FOX 32 Chicago",
+        "published_at": "07/16/2026, 06:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Chicago",
+        "osm_display": "Chicago",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629799,
+          41.878113
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.espn.com/soccer/story/_/id/49380491/chicago-fire-vancouver-whitecaps-postponed-wildfire-smoke",
+        "title": "Chicago Fire vs. Vancouver Whitecaps postponed due to wildfire smoke",
+        "snippet": "",
+        "url": "https://www.espn.com/soccer/story/_/id/49380491/chicago-fire-vancouver-whitecaps-postponed-wildfire-smoke",
+        "source": "ESPN",
+        "published_at": "07/17/2026, 12:03 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Chicago Fire",
+        "osm_display": "Chicago Fire",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          45.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtol.com/article/weather/weather-impact/what-is-the-air-quality-index-wildfire-smoke-blankets-great-lakes-region-aqi-toledo-ohio/512-7731c5e2-2259-4a84-8e13-1c025a1f3654",
+        "title": "What is the Air Quality Index? Wildfire smoke blankets Great Lakes region",
+        "snippet": "",
+        "url": "https://www.wtol.com/article/weather/weather-impact/what-is-the-air-quality-index-wildfire-smoke-blankets-great-lakes-region-aqi-toledo-ohio/512-7731c5e2-2259-4a84-8e13-1c025a1f3654",
+        "source": "WTOL",
+        "published_at": "07/16/2026, 11:40 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Great Lakes",
+        "osm_display": "Great Lakes",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.265011,
+          44.977753
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox9.com/news/minneapolis-worlds-worst-air-quality-wildfire-smoke-july-16",
+        "title": "Minneapolis air quality hits 300s: Doctors warn of dangers",
+        "snippet": "",
+        "url": "https://www.fox9.com/news/minneapolis-worlds-worst-air-quality-wildfire-smoke-july-16",
+        "source": "FOX 9 Minneapolis-St. Paul",
+        "published_at": "07/16/2026, 02:46 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-17T09:44:42.383423+00:00",
+        "outlet_region": null,
+        "mention_text": "Minneapolis",
+        "osm_display": "Minneapolis",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-07-17T09:56:04.465307+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-16T10:03:24.136191+00:00",
-    "total_features": 386
+    "last_updated": "2026-07-17T09:56:04.467232+00:00",
+    "total_features": 405
   }
 }
