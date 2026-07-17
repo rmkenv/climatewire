@@ -6122,11 +6122,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-16T13:52:32.640618+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.flaglernewsweekly.com/st-johns-river-water-management-district-implements-phase-iii-water-shortage-restrictions-across-northeast-florida/",
+        "title": "St. Johns River Water Management District Implements Phase III Water Shortage Restrictions Across Northeast Florida",
+        "snippet": "",
+        "url": "https://www.flaglernewsweekly.com/st-johns-river-water-management-district-implements-phase-iii-water-shortage-restrictions-across-northeast-florida/",
+        "source": "Flagler News Weekly",
+        "published_at": "05/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-17T13:22:04.597538+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "florida",
+        "osm_display": "florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-17T13:29:54.473388+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-16T13:52:32.641968+00:00",
-    "total_features": 226
+    "last_updated": "2026-07-17T13:29:54.474919+00:00",
+    "total_features": 227
   }
 }
