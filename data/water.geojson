@@ -1456,11 +1456,46 @@
         "usgs_gw_depth_ft": 30.03,
         "run_at": "2026-07-15T12:24:12.014434+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://laughingsquid.com/cans-of-emergency-anheuser-busch-spring-water-sent-to-toledo-ohio-after-tap-water-ban/",
+        "title": "Cans of Emergency Anheuser-Busch Spring Water Sent to Toledo, Ohio After Tap Water Ban",
+        "snippet": "",
+        "url": "https://laughingsquid.com/cans-of-emergency-anheuser-busch-spring-water-sent-to-toledo-ohio-after-tap-water-ban/",
+        "source": "Laughing Squid",
+        "published_at": "09/26/2014, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-07-18T11:53:11.532844+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "03228750",
+        "usgs_streamflow_name": "Alum Creek near Kilbourne OH",
+        "usgs_streamflow_dist_km": 13.74,
+        "usgs_streamflow_cfs": 6.75,
+        "usgs_gw_site_no": "400540082540400",
+        "usgs_gw_name": "FR-523 AT NGWA",
+        "usgs_gw_dist_km": 34.71,
+        "usgs_gw_depth_ft": 20.88,
+        "run_at": "2026-07-18T11:59:36.200251+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-07-17T12:18:20.002296+00:00",
-    "total_features": 46
+    "last_updated": "2026-07-18T11:59:36.200928+00:00",
+    "total_features": 47
   }
 }
