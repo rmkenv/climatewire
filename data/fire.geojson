@@ -13687,11 +13687,215 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-18T09:27:26.316778+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+        "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+        "source": "NPR",
+        "published_at": "07/18/2026, 06:15 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-19T09:42:49.858795+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 82.17,
+        "firms_frp_mw": 1.56,
+        "firms_brightness": 306.75,
+        "firms_acq_datetime": "2026-07-18 0729",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-19T09:54:16.377750+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgw.com/article/news/nation-world/wildfire-smoke-continues-to-drive-air-quality-to-unhealthy-levels-across-the-us/507-5c3606d6-4f14-4870-8195-35c7b9f0c831",
+        "title": "Wildfire smoke continues to drive air quality to unhealthy levels across the US",
+        "snippet": "",
+        "url": "https://www.kgw.com/article/news/nation-world/wildfire-smoke-continues-to-drive-air-quality-to-unhealthy-levels-across-the-us/507-5c3606d6-4f14-4870-8195-35c7b9f0c831",
+        "source": "KGW",
+        "published_at": "07/18/2026, 03:48 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-19T09:42:49.858795+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Wildfire",
+        "osm_display": "Wildfire, Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 48.17,
+        "firms_frp_mw": 8.31,
+        "firms_brightness": 328.6,
+        "firms_acq_datetime": "2026-07-18 0907",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-19T09:54:16.377750+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forbes.com/sites/maryroeloffs/2026/07/18/air-quality-alerts-remain-in-16-states-as-canadian-wildfire-smoke-spreads-to-midwest-northeast/",
+        "title": "Where Wildfire Smoke Remains\u2014And What To Do About It",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/18/air-quality-alerts-remain-in-16-states-as-canadian-wildfire-smoke-spreads-to-midwest-northeast/",
+        "source": "Forbes",
+        "published_at": "07/18/2026, 02:41 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-19T09:42:49.858795+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest northeast",
+        "osm_display": "midwest northeast",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 82.17,
+        "firms_frp_mw": 1.56,
+        "firms_brightness": 306.75,
+        "firms_acq_datetime": "2026-07-18 0729",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-19T09:54:16.377750+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/canada-wildfires-smoke-us-ae4b2bd09a97919a081e26ede6a6d355",
+        "title": "Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside",
+        "snippet": "",
+        "url": "https://apnews.com/article/canada-wildfires-smoke-us-ae4b2bd09a97919a081e26ede6a6d355",
+        "source": "AP News",
+        "published_at": "07/16/2026, 11:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-19T09:42:49.858795+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 82.17,
+        "firms_frp_mw": 1.56,
+        "firms_brightness": 306.75,
+        "firms_acq_datetime": "2026-07-18 0729",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-19T09:54:16.377750+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mprnews.org/story/2026/07/17/wildfire-updates-us-forest-service-addresses-ongoing-firefighting-in-northern-minnesota",
+        "title": "\u2018Still very extreme\u2019: Officials see little reprieve as wildfires burn across NE Minnesota",
+        "snippet": "",
+        "url": "https://www.mprnews.org/story/2026/07/17/wildfire-updates-us-forest-service-addresses-ongoing-firefighting-in-northern-minnesota",
+        "source": "MPR News",
+        "published_at": "07/17/2026, 05:06 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-19T09:42:49.858795+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-19T09:54:16.377750+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.blm.gov/programs/fire/regional-info/colorado",
+        "title": "Programs: Fire: Regional Info: Colorado",
+        "snippet": "",
+        "url": "https://www.blm.gov/programs/fire/regional-info/colorado",
+        "source": "Bureau of Land Management (.gov)",
+        "published_at": "07/16/2026, 12:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-19T09:42:49.858795+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.29,
+        "firms_frp_mw": 0.27,
+        "firms_brightness": 301.15,
+        "firms_acq_datetime": "2026-07-18 0909",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-19T09:54:16.377750+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-18T09:27:26.319436+00:00",
-    "total_features": 411
+    "last_updated": "2026-07-19T09:54:16.380031+00:00",
+    "total_features": 417
   }
 }
