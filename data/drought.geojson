@@ -6152,11 +6152,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-17T13:29:54.473388+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynorthwest.com/pacific-northwest-weather/snowpack-drought/4226141",
+        "title": "Washington declares statewide drought emergency after warm winter cuts snowpack in half",
+        "snippet": "",
+        "url": "https://mynorthwest.com/pacific-northwest-weather/snowpack-drought/4226141",
+        "source": "MyNorthwest.com",
+        "published_at": "04/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-20T14:00:07.073903+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-20T14:08:05.961443+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-19T13:22:14.538745+00:00",
-    "total_features": 227
+    "last_updated": "2026-07-20T14:08:05.962852+00:00",
+    "total_features": 228
   }
 }
