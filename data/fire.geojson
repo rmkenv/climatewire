@@ -13993,11 +13993,181 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-20T10:49:39.467196+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+        "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+        "source": "The Guardian",
+        "published_at": "07/17/2026, 01:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-21T10:13:01.355470+00:00",
+        "outlet_region": null,
+        "mention_text": "midwest",
+        "osm_display": "midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 37.29,
+        "firms_frp_mw": 0.56,
+        "firms_brightness": 303.89,
+        "firms_acq_datetime": "2026-07-20 0830",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-21T10:26:03.345006+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/minnesota/news/minnesota-wildfire-latest-july-20-2026/",
+        "title": "20-plus wildfires currently active in Minnesota's Superior National Forest, officials say",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/minnesota/news/minnesota-wildfire-latest-july-20-2026/",
+        "source": "CBS News",
+        "published_at": "07/20/2026, 05:44 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-21T10:13:01.355470+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Minnesota",
+        "osm_display": "Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-21T10:26:03.345006+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/20/weather/wisconsin-midwest-storms-tornado-forecast.html",
+        "title": "Wildfire Smoke Gives Way to Powerful Thunderstorms in the Midwest and Northeast",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/20/weather/wisconsin-midwest-storms-tornado-forecast.html",
+        "source": "The New York Times",
+        "published_at": "07/20/2026, 05:21 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-21T10:13:01.355470+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 37.29,
+        "firms_frp_mw": 0.56,
+        "firms_brightness": 303.89,
+        "firms_acq_datetime": "2026-07-20 0830",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-21T10:26:03.345006+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://headwaterseconomics.org/fieldnotes/colorado-wui-cohort/",
+        "title": "Colorado Wildfire Resiliency Cohort",
+        "snippet": "",
+        "url": "https://headwaterseconomics.org/fieldnotes/colorado-wui-cohort/",
+        "source": "Headwaters Economics",
+        "published_at": "07/20/2026, 01:26 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-21T10:13:01.355470+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.01,
+        "firms_frp_mw": 0.4,
+        "firms_brightness": 306.74,
+        "firms_acq_datetime": "2026-07-20 0833",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-21T10:26:03.345006+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chicagotribune.com/2026/07/20/lake-county-smoke-earthquakes/",
+        "title": "Column: Wildfire fog, quakes shake Lake County calm",
+        "snippet": "",
+        "url": "https://www.chicagotribune.com/2026/07/20/lake-county-smoke-earthquakes/",
+        "source": "Chicago Tribune",
+        "published_at": "07/20/2026, 04:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-21T10:13:01.355470+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Lake County",
+        "osm_display": "Lake County, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-21T10:26:03.345006+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-20T10:49:39.469914+00:00",
-    "total_features": 420
+    "last_updated": "2026-07-21T10:26:03.347633+00:00",
+    "total_features": 425
   }
 }
