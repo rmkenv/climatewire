@@ -4964,11 +4964,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-17T11:28:17.903786+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945007,
+          33.856892
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.southcarolinapublicradio.org/sc-news/2026-06-25/heat-dome-to-send-temperatures-soaring-near-100-degrees-across-south-carolina",
+        "title": "Heat dome to send temperatures soaring near 100 degrees across South Carolina",
+        "snippet": "",
+        "url": "https://www.southcarolinapublicradio.org/sc-news/2026-06-25/heat-dome-to-send-temperatures-soaring-near-100-degrees-across-south-carolina",
+        "source": "South Carolina Public Radio",
+        "published_at": "06/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-21T11:41:11.125950+00:00",
+        "outlet_region": "South Carolina",
+        "mention_text": "South Carolina",
+        "osm_display": "South Carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-21T23:00",
+        "sensor_temp_f": 80.4,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 13.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-21T11:57:03.981311+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-20T12:23:12.938430+00:00",
-    "total_features": 146
+    "last_updated": "2026-07-21T11:57:03.984385+00:00",
+    "total_features": 147
   }
 }
