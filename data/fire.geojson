@@ -14163,11 +14163,215 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-21T10:26:03.345006+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze",
+        "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze",
+        "source": "PBS",
+        "published_at": "07/18/2026, 03:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-22T10:12:35.252033+00:00",
+        "outlet_region": "Minnesota",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Minnesota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-22T10:22:23.516018+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://statescoop.com/california-gavin-newsom-firefighting-technologies/",
+        "title": "California officials highlight AI, FireSat and predictive technologies as centerpieces in state wildfire strategy",
+        "snippet": "",
+        "url": "https://statescoop.com/california-gavin-newsom-firefighting-technologies/",
+        "source": "StateScoop",
+        "published_at": "07/21/2026, 11:17 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-22T10:12:35.252033+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-22T10:22:23.516018+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox4kc.com/news/hazy-skies-expected-over-kansas-city-metro-after-wildfire-smoke-spreads/",
+        "title": "Hazy skies expected over Kansas City metro after wildfire smoke spreads",
+        "snippet": "",
+        "url": "https://fox4kc.com/news/hazy-skies-expected-over-kansas-city-metro-after-wildfire-smoke-spreads/",
+        "source": "FOX4KC.com",
+        "published_at": "07/21/2026, 11:32 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-22T10:12:35.252033+00:00",
+        "outlet_region": "Kansas",
+        "mention_text": "Kansas City",
+        "osm_display": "Kansas City",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.01,
+        "firms_frp_mw": 5.87,
+        "firms_brightness": 349.6,
+        "firms_acq_datetime": "2026-07-21 1934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-22T10:22:23.516018+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/news/local/wildfire/canadian-wildfire-smoke-western-washington-week-amid-high-temps/281-eae02024-4631-4bb6-8e1c-fd5e43e06e24",
+        "title": "Canadian wildfire smoke to drift into western Washington this week amid heat advisory",
+        "snippet": "",
+        "url": "https://www.king5.com/article/news/local/wildfire/canadian-wildfire-smoke-western-washington-week-amid-high-temps/281-eae02024-4631-4bb6-8e1c-fd5e43e06e24",
+        "source": "KING5.com",
+        "published_at": "07/20/2026, 05:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-22T10:12:35.252033+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 82.18,
+        "firms_frp_mw": 8.86,
+        "firms_brightness": 345.88,
+        "firms_acq_datetime": "2026-07-21 2118",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-22T10:22:23.516018+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161087,
+          32.715736
+        ]
+      },
+      "properties": {
+        "article_id": "https://earth.org/data_visualization/predicting-californias-fire-weather-with-machine-learning-here-is-what-the-data-tells-us/",
+        "title": "Can Machine Learning Help Us Predict San Diego's Next Wildfire?",
+        "snippet": "",
+        "url": "https://earth.org/data_visualization/predicting-californias-fire-weather-with-machine-learning-here-is-what-the-data-tells-us/",
+        "source": "Earth.Org",
+        "published_at": "07/21/2026, 05:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-22T10:12:35.252033+00:00",
+        "outlet_region": null,
+        "mention_text": "San Diego's",
+        "osm_display": "San Diego's",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 15.88,
+        "firms_frp_mw": 0.8,
+        "firms_brightness": 308.34,
+        "firms_acq_datetime": "2026-07-21 0956",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-22T10:22:23.516018+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/red-flag-warning-in-central-oregon-gusty-winds-and-dry-storms-could-worsen-fires-oregon-portland-washington-pnw-pacific-northwest-united-states-wildfires",
+        "title": "Red Flag Warning in Central Oregon: gusty winds and dry storms could worsen fires",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/red-flag-warning-in-central-oregon-gusty-winds-and-dry-storms-could-worsen-fires-oregon-portland-washington-pnw-pacific-northwest-united-states-wildfires",
+        "source": "KATU",
+        "published_at": "07/21/2026, 12:59 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-22T10:12:35.252033+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "red_flag_warning",
+        "firms_dist_km": 45.81,
+        "firms_frp_mw": 4.09,
+        "firms_brightness": 316.13,
+        "firms_acq_datetime": "2026-07-21 0952",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-22T10:22:23.516018+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-21T10:26:03.347633+00:00",
-    "total_features": 425
+    "last_updated": "2026-07-22T10:22:23.518711+00:00",
+    "total_features": 431
   }
 }
