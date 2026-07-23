@@ -14367,11 +14367,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-22T10:22:23.516018+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weny.com/news/washington-dc/wildfire-smoke-sparks-u-s--canada-trade-tensions/article_707a7786-3b96-5d9f-a3a7-bc2fc2647ede.html",
+        "title": "Wildfire Smoke Sparks U.S.-Canada Trade Tensions",
+        "snippet": "",
+        "url": "https://www.weny.com/news/washington-dc/wildfire-smoke-sparks-u-s--canada-trade-tensions/article_707a7786-3b96-5d9f-a3a7-bc2fc2647ede.html",
+        "source": "WENY News",
+        "published_at": "07/23/2026, 12:54 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-23T10:09:52.987616+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.82,
+        "firms_frp_mw": 3.93,
+        "firms_brightness": 340.61,
+        "firms_acq_datetime": "2026-07-22 2059",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-23T10:18:45.378217+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://wdet.org/2026/07/22/detroit-evening-report-how-wildfire-smoke-choked-the-michigan-economy/",
+        "title": "Detroit Evening Report: How wildfire smoke choked the Michigan economy",
+        "snippet": "",
+        "url": "https://wdet.org/2026/07/22/detroit-evening-report-how-wildfire-smoke-choked-the-michigan-economy/",
+        "source": "WDET 101.9 FM",
+        "published_at": "07/22/2026, 08:44 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-23T10:09:52.987616+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 75.39,
+        "firms_frp_mw": 0.44,
+        "firms_brightness": 296.79,
+        "firms_acq_datetime": "2026-07-22 0752",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-23T10:18:45.378217+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/07/21/wildfire-smoke-blankets-eastern-oregon-air-quality/",
+        "title": "\u2018This is when you really pray for rain\u2019: Wildfire smoke blankets Eastern Oregon and much of the state",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/07/21/wildfire-smoke-blankets-eastern-oregon-air-quality/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "07/21/2026, 10:29 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-23T10:09:52.987616+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Eastern Oregon",
+        "osm_display": "Eastern Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.46,
+        "firms_frp_mw": 2.08,
+        "firms_brightness": 296.88,
+        "firms_acq_datetime": "2026-07-22 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-23T10:18:45.378217+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-22T10:22:23.518711+00:00",
-    "total_features": 431
+    "last_updated": "2026-07-23T10:18:45.381037+00:00",
+    "total_features": 434
   }
 }
