@@ -6242,11 +6242,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-22T13:53:16.417036+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/07/23/drought-monitor-exceptional-drought-creeps-higher-across-oklahoma/",
+        "title": "Drought Monitor: Exceptional Drought Creeps Higher Across Oklahoma",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/07/23/drought-monitor-exceptional-drought-creeps-higher-across-oklahoma/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "07/23/2026, 01:29 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-23T13:50:59.007944+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-23T13:59:02.160415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://smartwatermagazine.com/news/smart-water-magazine/colorado-joins-growing-list-us-states-declaring-drought-emergencies",
+        "title": "Colorado joins growing list of US states declaring drought emergencies",
+        "snippet": "",
+        "url": "https://smartwatermagazine.com/news/smart-water-magazine/colorado-joins-growing-list-us-states-declaring-drought-emergencies",
+        "source": "Smart Water Magazine",
+        "published_at": "05/06/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-23T13:50:59.007944+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-23T13:59:02.160415+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-22T13:53:16.418639+00:00",
-    "total_features": 230
+    "last_updated": "2026-07-23T13:59:02.162063+00:00",
+    "total_features": 232
   }
 }
