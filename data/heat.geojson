@@ -4998,11 +4998,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-21T11:57:03.981311+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wthr.com/article/weather/weather-blog/severe-storm-risk-monday-in-indiana-as-heat-dome-builds-across-the-central-us-thunderstorm-wind-lightning-july-2026/531-b2849a6b-41d1-4f20-a73f-328653834ae7",
+        "title": "Severe storm risk Monday in Indiana as heat dome builds across the central U.S. | 13Weather Blog",
+        "snippet": "",
+        "url": "https://www.wthr.com/article/weather/weather-blog/severe-storm-risk-monday-in-indiana-as-heat-dome-builds-across-the-central-us-thunderstorm-wind-lightning-july-2026/531-b2849a6b-41d1-4f20-a73f-328653834ae7",
+        "source": "WTHR",
+        "published_at": "07/24/2026, 10:19 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-24T11:29:11.314822+00:00",
+        "outlet_region": "Indiana",
+        "mention_text": "Indiana",
+        "osm_display": "Indiana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-24T23:00",
+        "sensor_temp_f": 71.1,
+        "sensor_rh_pct": 45,
+        "sensor_wind_mph": 4.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 60.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-24T11:43:41.876648+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-23T12:01:00.923138+00:00",
-    "total_features": 147
+    "last_updated": "2026-07-24T11:43:41.878074+00:00",
+    "total_features": 148
   }
 }
