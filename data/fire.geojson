@@ -14503,11 +14503,147 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-24T10:15:56.955841+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/07/24/akawa-butte-fire-oregon-sisters/",
+        "title": "\u2018All hands on deck\u2019: Gov. Kotek visits Akawa Fire in Sisters, says Oregon is in for long fire season",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/07/24/akawa-butte-fire-oregon-sisters/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "07/24/2026, 11:19 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-25T09:27:03.281480+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Sisters",
+        "osm_display": "Sisters, Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.18,
+        "firms_frp_mw": 1.19,
+        "firms_brightness": 295.88,
+        "firms_acq_datetime": "2026-07-24 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-25T09:37:44.790923+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4554579/national-guard-supports-wildfire-suppression-efforts-from-the-midwest-to-west-c/",
+        "title": "National Guard Supports Wildfire Suppression Efforts From the Midwest to West Coast",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4554579/national-guard-supports-wildfire-suppression-efforts-from-the-midwest-to-west-c/",
+        "source": "nationalguard.mil",
+        "published_at": "07/24/2026, 03:06 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-25T09:27:03.281480+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 60.49,
+        "firms_frp_mw": 1.03,
+        "firms_brightness": 298.15,
+        "firms_acq_datetime": "2026-07-24 0716",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-25T09:37:44.790923+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-07-24/wyoming-drought-response-under-scrutiny-in-wildfire-season",
+        "title": "Wyoming drought response under scrutiny in wildfire season",
+        "snippet": "",
+        "url": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-07-24/wyoming-drought-response-under-scrutiny-in-wildfire-season",
+        "source": "Wyoming Public Media",
+        "published_at": "07/24/2026, 05:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-25T09:27:03.281480+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wyoming",
+        "osm_display": "Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-25T09:37:44.790923+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.colorado.edu/today/2026/07/23/wildfires-are-moving-faster-heres-what-means-colorado",
+        "title": "Wildfires are moving faster. Here's what that means for Colorado",
+        "snippet": "",
+        "url": "https://www.colorado.edu/today/2026/07/23/wildfires-are-moving-faster-heres-what-means-colorado",
+        "source": "University of Colorado Boulder",
+        "published_at": "07/23/2026, 07:06 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-25T09:27:03.281480+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.24,
+        "firms_frp_mw": 0.83,
+        "firms_brightness": 309.71,
+        "firms_acq_datetime": "2026-07-24 0856",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-25T09:37:44.790923+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-24T10:15:56.958634+00:00",
-    "total_features": 435
+    "last_updated": "2026-07-25T09:37:44.793993+00:00",
+    "total_features": 439
   }
 }
