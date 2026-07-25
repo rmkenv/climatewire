@@ -5032,11 +5032,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-24T11:43:41.876648+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/07/24/persistent-heat-dome-delays-relief-for-oklahoma-farmers/",
+        "title": "Persistent Heat Dome Delays Relief for Oklahoma Farmers",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/07/24/persistent-heat-dome-delays-relief-for-oklahoma-farmers/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "07/24/2026, 03:08 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-25T11:02:37.250306+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "oklahoma",
+        "osm_display": "oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-25T23:00",
+        "sensor_temp_f": 88.7,
+        "sensor_rh_pct": 47,
+        "sensor_wind_mph": 10.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-25T11:18:09.653011+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-24T11:43:41.878074+00:00",
-    "total_features": 148
+    "last_updated": "2026-07-25T11:18:09.656344+00:00",
+    "total_features": 149
   }
 }
