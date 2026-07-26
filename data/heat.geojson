@@ -5066,11 +5066,147 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-25T11:18:09.653011+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.santafenewmexican.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_3c598508-c962-5f44-91ae-ccf90114db54.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.santafenewmexican.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_3c598508-c962-5f44-91ae-ccf90114db54.html",
+        "source": "Santa Fe New Mexican",
+        "published_at": "07/25/2026, 08:54 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-26T11:12:44.082635+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-26T23:00",
+        "sensor_temp_f": 58.3,
+        "sensor_rh_pct": 76,
+        "sensor_wind_mph": 3.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 53.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-26T11:20:36.982359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.independent.co.uk/news/united-states-washington-dallas-north-dakota-gulf-coast-b3021507.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.independent.co.uk/news/united-states-washington-dallas-north-dakota-gulf-coast-b3021507.html",
+        "source": "The Independent",
+        "published_at": "07/25/2026, 03:16 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-26T11:12:44.082635+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-26T23:00",
+        "sensor_temp_f": 58.3,
+        "sensor_rh_pct": 76,
+        "sensor_wind_mph": 3.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 53.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-26T11:20:36.982359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kokomotribune.com/news/nation_world_news/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_5e5a9303-10ef-502b-a581-e0c090c15dbc.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.kokomotribune.com/news/nation_world_news/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_5e5a9303-10ef-502b-a581-e0c090c15dbc.html",
+        "source": "Kokomo Tribune",
+        "published_at": "07/25/2026, 08:54 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-26T11:12:44.082635+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "United States",
+        "osm_display": "United States, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-26T23:00",
+        "sensor_temp_f": 72.9,
+        "sensor_rh_pct": 32,
+        "sensor_wind_mph": 11.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 56.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-26T11:20:36.982359+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailygazette.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_bfa0757e-6064-5c51-9438-eaead4a1eac3.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.dailygazette.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_bfa0757e-6064-5c51-9438-eaead4a1eac3.html",
+        "source": "The Daily Gazette",
+        "published_at": "07/25/2026, 06:23 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-26T11:12:44.082635+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "United States",
+        "osm_display": "United States, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-26T23:00",
+        "sensor_temp_f": 71.1,
+        "sensor_rh_pct": 28,
+        "sensor_wind_mph": 4.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 57.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-26T11:20:36.982359+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-25T11:18:09.656344+00:00",
-    "total_features": 149
+    "last_updated": "2026-07-26T11:20:36.984045+00:00",
+    "total_features": 153
   }
 }
