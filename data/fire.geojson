@@ -14639,11 +14639,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-25T09:37:44.790923+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/07/24/akawa-butte-fire-oregon-sisters/",
+        "title": "Dangerous winds threaten progress on Akawa Butte Fire",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/07/24/akawa-butte-fire-oregon-sisters/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "07/25/2026, 09:46 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-26T09:49:44.620436+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.33,
+        "firms_frp_mw": 0.75,
+        "firms_brightness": 313.65,
+        "firms_acq_datetime": "2026-07-25 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-26T09:59:21.076931+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/24/weather/oregon-wildfire-update-washington.html",
+        "title": "Critical Wildfire Weather in Oregon, Idaho and Washington",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/24/weather/oregon-wildfire-update-washington.html",
+        "source": "The New York Times",
+        "published_at": "07/25/2026, 08:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-26T09:49:44.620436+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.33,
+        "firms_frp_mw": 0.75,
+        "firms_brightness": 313.65,
+        "firms_acq_datetime": "2026-07-25 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-26T09:59:21.076931+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/news/nathan-matthews-dies-knowles-wildfire-colorado/",
+        "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/news/nathan-matthews-dies-knowles-wildfire-colorado/",
+        "source": "CBS News",
+        "published_at": "07/25/2026, 05:38 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-26T09:49:44.620436+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.83,
+        "firms_frp_mw": 0.36,
+        "firms_brightness": 300.53,
+        "firms_acq_datetime": "2026-07-25 0837",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-26T09:59:21.076931+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/25/health/airquality/will-wildfire-smoke-make-a-comeback-in-the-midwest-and-east",
+        "title": "Will wildfire smoke make a comeback in the Midwest and East?",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/25/health/airquality/will-wildfire-smoke-make-a-comeback-in-the-midwest-and-east",
+        "source": "The Weather Channel",
+        "published_at": "07/23/2026, 07:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-26T09:49:44.620436+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 67.83,
+        "firms_frp_mw": 2.11,
+        "firms_brightness": 300.93,
+        "firms_acq_datetime": "2026-07-25 0657",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-26T09:59:21.076931+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/national-news/articles/2026-07-23/todays-news-tropical-storm-bertha-oregon-wildfire-smoke-saudi-arabia-nuclear-deal",
+        "title": "Today\u2019s News: Bertha Hits Gulf Coast as Congress Approves Defense Funding",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/national-news/articles/2026-07-23/todays-news-tropical-storm-bertha-oregon-wildfire-smoke-saudi-arabia-nuclear-deal",
+        "source": "U.S. News & World Report",
+        "published_at": "07/23/2026, 12:52 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-26T09:49:44.620436+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.33,
+        "firms_frp_mw": 0.75,
+        "firms_brightness": 313.65,
+        "firms_acq_datetime": "2026-07-25 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-26T09:59:21.076931+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-25T09:37:44.793993+00:00",
-    "total_features": 439
+    "last_updated": "2026-07-26T09:59:21.079307+00:00",
+    "total_features": 444
   }
 }
