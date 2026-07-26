@@ -6302,11 +6302,101 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-23T13:59:02.160415+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxii12.com/article/north-carolina-piedmont-triad-extreme-drought-fire-danger/71175149",
+        "title": "High level drought is here to stay in the Triad | Western Carolina improved",
+        "snippet": "",
+        "url": "https://www.wxii12.com/article/north-carolina-piedmont-triad-extreme-drought-fire-danger/71175149",
+        "source": "WXII",
+        "published_at": "07/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-26T13:14:52.786856+00:00",
+        "outlet_region": null,
+        "mention_text": "north carolina",
+        "osm_display": "north carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-26T13:22:16.801604+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/outdoors/north-carolina-communities-exceptional-drought/",
+        "title": "Exceptional drought hits North Carolina, and the Triangle needs 12 to 14 inches of rain",
+        "snippet": "",
+        "url": "https://www.thecooldown.com/outdoors/north-carolina-communities-exceptional-drought/",
+        "source": "The Cool Down",
+        "published_at": "06/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-26T13:14:52.786856+00:00",
+        "outlet_region": "North Carolina",
+        "mention_text": "North Carolina",
+        "osm_display": "North Carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-26T13:22:16.801604+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://columbiabasinherald.com/news/2025/jun/07/ecology-expands-washington-states-drought-emergency/",
+        "title": "Ecology expands Washington state\u2019s drought emergency",
+        "snippet": "",
+        "url": "https://columbiabasinherald.com/news/2025/jun/07/ecology-expands-washington-states-drought-emergency/",
+        "source": "Columbia Basin Herald",
+        "published_at": "06/07/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-26T13:14:52.786856+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-26T13:22:16.801604+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-25T13:26:51.587986+00:00",
-    "total_features": 232
+    "last_updated": "2026-07-26T13:22:16.803355+00:00",
+    "total_features": 235
   }
 }
