@@ -1526,11 +1526,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-07-22T12:30:23.202508+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jerseyshoreonline.com/ocean-county/new-jersey-american-issues-mandatory-water-restriction/",
+        "title": "New Jersey American Issues Mandatory Water Restriction",
+        "snippet": "",
+        "url": "https://www.jerseyshoreonline.com/ocean-county/new-jersey-american-issues-mandatory-water-restriction/",
+        "source": "Jersey Shore Online",
+        "published_at": "07/21/2020, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-07-27T13:39:40.378861+00:00",
+        "outlet_region": "New Jersey",
+        "mention_text": "New Jersey",
+        "osm_display": "New Jersey",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-07-27T13:47:16.556251+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-07-26T12:10:02.780551+00:00",
-    "total_features": 48
+    "last_updated": "2026-07-27T13:47:16.556869+00:00",
+    "total_features": 49
   }
 }
