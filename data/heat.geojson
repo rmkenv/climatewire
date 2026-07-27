@@ -5202,11 +5202,147 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-26T11:20:36.982359+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796989,
+          32.776665
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/weather/triple-digit-heat-returns-north-texas-heat-dome-locks-high-temperatures",
+        "title": "Dallas weather: July 27 morning forecast",
+        "snippet": "",
+        "url": "https://www.fox4news.com/weather/triple-digit-heat-returns-north-texas-heat-dome-locks-high-temperatures",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "published_at": "07/27/2026, 12:14 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-27T12:49:01.201276+00:00",
+        "outlet_region": null,
+        "mention_text": "Dallas",
+        "osm_display": "Dallas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-27T23:00",
+        "sensor_temp_f": 88.0,
+        "sensor_rh_pct": 45,
+        "sensor_wind_mph": 5.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-27T12:58:28.392439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.inquirer.com/news/nation-world/heat-dome-central-us-record-high-temperatures-dangerous-20260725.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.inquirer.com/news/nation-world/heat-dome-central-us-record-high-temperatures-dangerous-20260725.html",
+        "source": "Inquirer.com",
+        "published_at": "07/25/2026, 06:17 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-27T12:49:01.201276+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "United States",
+        "osm_display": "United States, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-27T23:00",
+        "sensor_temp_f": 73.8,
+        "sensor_rh_pct": 56,
+        "sensor_wind_mph": 2.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-27T12:58:28.392439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.784012,
+          47.528912
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thetravel.com/us-travelers-warned-as-dallas-to-north-dakota-face-heat-dome-advisory-affecting-70-million-people/",
+        "title": "U.S. Travelers Warned As Dallas To North Dakota Face \"Heat Dome\" Advisory Affecting 70 Million People",
+        "snippet": "",
+        "url": "https://www.thetravel.com/us-travelers-warned-as-dallas-to-north-dakota-face-heat-dome-advisory-affecting-70-million-people/",
+        "source": "TheTravel",
+        "published_at": "07/26/2026, 09:11 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-27T12:49:01.201276+00:00",
+        "outlet_region": "North Dakota",
+        "mention_text": "Dallas",
+        "osm_display": "Dallas, North Dakota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-27T23:00",
+        "sensor_temp_f": 76.8,
+        "sensor_rh_pct": 52,
+        "sensor_wind_mph": 4.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 66.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-27T12:58:28.392439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.livemint.com/news/us-news/us-weather-forecast-heat-dome-to-trigger-record-breaking-temperatures-across-texas-oklahoma-nebraska-and-north-dakota-11785079474255.html",
+        "title": "US weather forecast: Heat dome to trigger record-breaking temperatures across Texas, Oklahoma, Nebraska and North Dakota",
+        "snippet": "",
+        "url": "https://www.livemint.com/news/us-news/us-weather-forecast-heat-dome-to-trigger-record-breaking-temperatures-across-texas-oklahoma-nebraska-and-north-dakota-11785079474255.html",
+        "source": "livemint.com",
+        "published_at": "07/26/2026, 03:47 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-27T12:49:01.201276+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-27T23:00",
+        "sensor_temp_f": 86.2,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 14.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-27T12:58:28.392439+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-26T11:20:36.984045+00:00",
-    "total_features": 153
+    "last_updated": "2026-07-27T12:58:28.393682+00:00",
+    "total_features": 157
   }
 }
