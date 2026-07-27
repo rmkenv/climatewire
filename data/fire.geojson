@@ -14809,11 +14809,215 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-26T09:59:21.076931+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/07/27/wildfire-smoke-is-back-filling-skies-far-south-florida/",
+        "title": "The wildfire smoke is back, filling skies as far south as Florida",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/07/27/wildfire-smoke-is-back-filling-skies-far-south-florida/",
+        "source": "The Washington Post",
+        "published_at": "07/27/2026, 10:52 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-27T11:00:27.330260+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.7,
+        "firms_frp_mw": 0.27,
+        "firms_brightness": 303.65,
+        "firms_acq_datetime": "2026-07-26 0642",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-27T11:12:05.007737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/294093/national_guard_supports_wildfire_suppression_efforts_from_the_midwest_to_west_coast",
+        "title": "National Guard supports wildfire suppression efforts from the Midwest to West Coast",
+        "snippet": "",
+        "url": "https://www.army.mil/article/294093/national_guard_supports_wildfire_suppression_efforts_from_the_midwest_to_west_coast",
+        "source": "army.mil",
+        "published_at": "07/24/2026, 02:09 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-27T11:00:27.330260+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 29.94,
+        "firms_frp_mw": 0.41,
+        "firms_brightness": 305.02,
+        "firms_acq_datetime": "2026-07-27 0801",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-27T11:12:05.007737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-big-grass-fire-oregon-and-idaho",
+        "title": "Wildfire Map Spotlight: Big Grass Fire, Oregon and Idaho",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-big-grass-fire-oregon-and-idaho",
+        "source": "IQAir",
+        "published_at": "07/26/2026, 10:29 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-27T11:00:27.330260+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 46.22,
+        "firms_frp_mw": 1.88,
+        "firms_brightness": 301.72,
+        "firms_acq_datetime": "2026-07-26 1000",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-27T11:12:05.007737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
+        "title": "Oregon fire looms near town as fourth firefighter dies weeks after Colorado blaze",
+        "snippet": "",
+        "url": "https://abcnews.com/US/wireStory/4th-firefighter-dies-injuries-western-colorado-blaze-135080764",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "07/25/2026, 11:02 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-27T11:00:27.330260+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 46.22,
+        "firms_frp_mw": 1.88,
+        "firms_brightness": 301.72,
+        "firms_acq_datetime": "2026-07-26 1000",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-27T11:12:05.007737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.startribune.com/minnesota-gop-lawmakers-are-once-again-blaming-canada-for-summer-wildfire-smoke-is-it-fair/601871064",
+        "title": "Republican lawmakers are blaming Canada for wildfire smoke, but cause is complicated",
+        "snippet": "",
+        "url": "https://www.startribune.com/minnesota-gop-lawmakers-are-once-again-blaming-canada-for-summer-wildfire-smoke-is-it-fair/601871064",
+        "source": "Star Tribune",
+        "published_at": "07/25/2026, 11:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-27T11:00:27.330260+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Canada",
+        "osm_display": "Canada, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-27T11:12:05.007737+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/23/health/airquality/will-wildfire-smoke-make-a-comeback-in-the-midwest-and-east",
+        "title": "Will wildfire smoke make a comeback in the Midwest and East?",
+        "snippet": "",
+        "url": "https://weather.com/2026/07/23/health/airquality/will-wildfire-smoke-make-a-comeback-in-the-midwest-and-east",
+        "source": "The Weather Channel",
+        "published_at": "07/23/2026, 07:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-27T11:00:27.330260+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 29.94,
+        "firms_frp_mw": 0.41,
+        "firms_brightness": 305.02,
+        "firms_acq_datetime": "2026-07-27 0801",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-27T11:12:05.007737+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-26T09:59:21.079307+00:00",
-    "total_features": 444
+    "last_updated": "2026-07-27T11:12:05.010671+00:00",
+    "total_features": 450
   }
 }
