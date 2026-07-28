@@ -5338,11 +5338,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-27T12:58:28.392439+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ledger-enquirer.com/news/environment/article316670475.html",
+        "title": "105-degree heat index triggers EMCs and Georgia Power to enact no-disconnect rule",
+        "snippet": "",
+        "url": "https://www.ledger-enquirer.com/news/environment/article316670475.html",
+        "source": "Columbus Ledger-Enquirer",
+        "published_at": "07/27/2026, 06:39 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-28T11:49:22.567505+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia Power",
+        "osm_display": "Georgia Power",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-07-28T23:00",
+        "sensor_temp_f": 84.7,
+        "sensor_rh_pct": 54,
+        "sensor_wind_mph": 6.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 73.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-28T11:57:41.324586+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/state/california/2026/07/27/heat-dome-set-build-over-california-bring-extreme-heat-this-weekend/91064732007/",
+        "title": "Heat dome set to bring extreme heat throughout California",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/state/california/2026/07/27/heat-dome-set-build-over-california-bring-extreme-heat-this-weekend/91064732007/",
+        "source": "USA Today",
+        "published_at": "07/27/2026, 08:15 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-28T11:49:22.567505+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-28T23:00",
+        "sensor_temp_f": 76.1,
+        "sensor_rh_pct": 36,
+        "sensor_wind_mph": 8.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 61.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-28T11:57:41.324586+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.record-eagle.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_aba94c61-e4f9-5e38-b326-bab46413144c.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.record-eagle.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_aba94c61-e4f9-5e38-b326-bab46413144c.html",
+        "source": "Traverse City Record-Eagle",
+        "published_at": "07/25/2026, 08:54 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-28T11:49:22.567505+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-28T23:00",
+        "sensor_temp_f": 52.9,
+        "sensor_rh_pct": 76,
+        "sensor_wind_mph": 2.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 48.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-28T11:57:41.324586+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-27T12:58:28.393682+00:00",
-    "total_features": 157
+    "last_updated": "2026-07-28T11:57:41.326245+00:00",
+    "total_features": 160
   }
 }
