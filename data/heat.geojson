@@ -5440,11 +5440,147 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-28T11:57:41.324586+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/dangerous-heat-dome-bring-triple-190008559.html",
+        "title": "Dangerous heat dome to bring triple-digit temperatures to California, Southwest into next week",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/dangerous-heat-dome-bring-triple-190008559.html",
+        "source": "Yahoo",
+        "published_at": "07/28/2026, 07:00 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-29T11:53:04.843632+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-29T23:00",
+        "sensor_temp_f": 78.6,
+        "sensor_rh_pct": 34,
+        "sensor_wind_mph": 7.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-29T12:03:05.453936+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.elpasotimes.com/story/weather/2026/07/28/heat-dome-texas-dallas-austin-houston/91075789007/",
+        "title": "Heat dome builds over Texas as temperatures soar into the triple digits",
+        "snippet": "",
+        "url": "https://www.elpasotimes.com/story/weather/2026/07/28/heat-dome-texas-dallas-austin-houston/91075789007/",
+        "source": "El Paso Times",
+        "published_at": "07/28/2026, 06:20 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-29T11:53:04.843632+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-29T23:00",
+        "sensor_temp_f": 87.3,
+        "sensor_rh_pct": 53,
+        "sensor_wind_mph": 14.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-29T12:03:05.453936+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.desertsun.com/story/news/state/california/2026/07/27/heat-dome-set-build-over-california-bring-extreme-heat-this-weekend/91064732007/",
+        "title": "Heat dome set to bring extreme heat throughout California",
+        "snippet": "",
+        "url": "https://www.desertsun.com/story/news/state/california/2026/07/27/heat-dome-set-build-over-california-bring-extreme-heat-this-weekend/91064732007/",
+        "source": "The Desert Sun",
+        "published_at": "07/27/2026, 08:15 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-29T11:53:04.843632+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-29T23:00",
+        "sensor_temp_f": 78.6,
+        "sensor_rh_pct": 34,
+        "sensor_wind_mph": 7.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-29T12:03:05.453936+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.visaliatimesdelta.com/story/news/state/california/2026/07/27/heat-dome-set-build-over-california-bring-extreme-heat-this-weekend/91064732007/",
+        "title": "Heat dome set to bring extreme heat throughout California",
+        "snippet": "",
+        "url": "https://www.visaliatimesdelta.com/story/news/state/california/2026/07/27/heat-dome-set-build-over-california-bring-extreme-heat-this-weekend/91064732007/",
+        "source": "Visalia Times-Delta",
+        "published_at": "07/27/2026, 08:15 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-29T11:53:04.843632+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-29T23:00",
+        "sensor_temp_f": 78.6,
+        "sensor_rh_pct": 34,
+        "sensor_wind_mph": 7.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-29T12:03:05.453936+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-28T11:57:41.326245+00:00",
-    "total_features": 160
+    "last_updated": "2026-07-29T12:03:05.455439+00:00",
+    "total_features": 164
   }
 }
