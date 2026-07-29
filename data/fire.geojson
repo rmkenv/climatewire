@@ -15183,11 +15183,181 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-07-28T10:34:53.235585+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/07/wildfire-smoke-is-back-over-northeast-ohio-but-this-time-is-different.html",
+        "title": "Wildfire smoke is back over Northeast Ohio \u2014 but this time is different",
+        "snippet": "",
+        "url": "https://www.cleveland.com/weather/2026/07/wildfire-smoke-is-back-over-northeast-ohio-but-this-time-is-different.html",
+        "source": "Cleveland.com",
+        "published_at": "07/27/2026, 08:22 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-29T10:27:33.687826+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "ohio",
+        "osm_display": "ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 89.82,
+        "firms_frp_mw": 1.91,
+        "firms_brightness": 320.91,
+        "firms_acq_datetime": "2026-07-28 0739",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-29T10:38:12.259417+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/oregon-wildfire-interstate-84-f44665d325f08eb67d0ac44efa6eb0ae",
+        "title": "Major Oregon interstate closed for 70 miles due to wildfire",
+        "snippet": "",
+        "url": "https://apnews.com/article/oregon-wildfire-interstate-84-f44665d325f08eb67d0ac44efa6eb0ae",
+        "source": "AP News",
+        "published_at": "07/28/2026, 01:23 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-29T10:27:33.687826+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 46.62,
+        "firms_frp_mw": 4.29,
+        "firms_brightness": 299.36,
+        "firms_acq_datetime": "2026-07-28 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-29T10:38:12.259417+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://kval.com/news/local/what-oregon-wildfire-history-can-teach-us-about-todays-fire-season-lessons-science-weather-forecasting-community-local-firefighers-dry-winter",
+        "title": "What Oregon's wildfire history can teach us about today's fire season",
+        "snippet": "",
+        "url": "https://kval.com/news/local/what-oregon-wildfire-history-can-teach-us-about-todays-fire-season-lessons-science-weather-forecasting-community-local-firefighers-dry-winter",
+        "source": "KVAL",
+        "published_at": "07/28/2026, 12:28 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-29T10:27:33.687826+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 46.62,
+        "firms_frp_mw": 4.29,
+        "firms_brightness": 299.36,
+        "firms_acq_datetime": "2026-07-28 0922",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-29T10:38:12.259417+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.802101,
+          39.063946
+        ]
+      },
+      "properties": {
+        "article_id": "https://health.maryland.gov/newsroom/Pages/Governor%20Moore%20announces%20Code%20Red%20air%20quality%20condition%20in%20Maryland%20resulting%20from%20wildfire%20smoke.aspx",
+        "title": "Pages - Governor Moore announces Code Red air quality condition in Maryland resulting from wildfire smoke",
+        "snippet": "",
+        "url": "https://health.maryland.gov/newsroom/Pages/Governor%20Moore%20announces%20Code%20Red%20air%20quality%20condition%20in%20Maryland%20resulting%20from%20wildfire%20smoke.aspx",
+        "source": "Maryland.gov",
+        "published_at": "07/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-29T10:27:33.687826+00:00",
+        "outlet_region": "Maryland",
+        "mention_text": "Maryland",
+        "osm_display": "Maryland",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-29T10:38:12.259417+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7ny.com/post/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke/19512557/",
+        "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+        "snippet": "",
+        "url": "https://abc7ny.com/post/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke/19512557/",
+        "source": "ABC7 New York",
+        "published_at": "07/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-29T10:27:33.687826+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 48.46,
+        "firms_frp_mw": 2.49,
+        "firms_brightness": 329.25,
+        "firms_acq_datetime": "2026-07-28 1904",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-29T10:38:12.259417+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-28T10:34:53.238663+00:00",
-    "total_features": 455
+    "last_updated": "2026-07-29T10:38:12.262535+00:00",
+    "total_features": 460
   }
 }
