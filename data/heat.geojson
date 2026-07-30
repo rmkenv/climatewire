@@ -5576,11 +5576,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-29T12:03:05.453936+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.freep.com/story/news/local/michigan/2026/07/29/michigan-wildfire-smoke-heat-dome-temperatures-canada/91081710007/",
+        "title": "Is wildfire smoke returning to Michigan? Why heat dome is to blame",
+        "snippet": "",
+        "url": "https://www.freep.com/story/news/local/michigan/2026/07/29/michigan-wildfire-smoke-heat-dome-temperatures-canada/91081710007/",
+        "source": "Detroit Free Press",
+        "published_at": "07/29/2026, 01:51 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-30T11:44:37.412617+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-30T23:00",
+        "sensor_temp_f": 76.5,
+        "sensor_rh_pct": 54,
+        "sensor_wind_mph": 6.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-30T11:56:51.272679+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://independenttribune.com/news/nation-world/weather/article_fc5d6379-7a0c-5212-b61c-f0eeb41504d7.html",
+        "title": "Heat dome and wildfire smoke to blanket much of US",
+        "snippet": "",
+        "url": "https://independenttribune.com/news/nation-world/weather/article_fc5d6379-7a0c-5212-b61c-f0eeb41504d7.html",
+        "source": "Independent Tribune",
+        "published_at": "07/28/2026, 05:45 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-30T11:44:37.412617+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Heat",
+        "osm_display": "Heat, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-30T23:00",
+        "sensor_temp_f": 63.0,
+        "sensor_rh_pct": 40,
+        "sensor_wind_mph": 13.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 48.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-30T11:56:51.272679+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-29T12:03:05.455439+00:00",
-    "total_features": 164
+    "last_updated": "2026-07-30T11:56:51.275443+00:00",
+    "total_features": 166
   }
 }
