@@ -6392,11 +6392,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-26T13:22:16.801604+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/17-oregon-counties-now-under-drought-emergency-after-new-order-adds-five-more-douglas-gilliam-lake-harney-malheur-tina-kotek-climate-summer",
+        "title": "17 Oregon counties now under drought emergency after new order adds five more",
+        "snippet": "",
+        "url": "https://katu.com/news/local/17-oregon-counties-now-under-drought-emergency-after-new-order-adds-five-more-douglas-gilliam-lake-harney-malheur-tina-kotek-climate-summer",
+        "source": "KATU",
+        "published_at": "06/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-30T13:52:40.863871+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-30T14:01:17.520666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/extreme-drought-expands-across-southeast-colorado-exceptional-drought-grips-mountain",
+        "title": "Extreme drought expands across southeast Colorado as exceptional drought grips mountain headwaters",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/extreme-drought-expands-across-southeast-colorado-exceptional-drought-grips-mountain",
+        "source": "kiowacountypress.net",
+        "published_at": "05/29/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-30T13:52:40.863871+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-30T14:01:17.520666+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-29T14:13:14.173298+00:00",
-    "total_features": 235
+    "last_updated": "2026-07-30T14:01:17.522302+00:00",
+    "total_features": 237
   }
 }
