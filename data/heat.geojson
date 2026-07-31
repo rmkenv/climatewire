@@ -5644,11 +5644,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-30T11:56:51.272679+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.41nbc.com/colorado-flooding-western-heat-dome-wildfires/",
+        "title": "Flooding forces Colorado evacuations as heat dome grips the West",
+        "snippet": "",
+        "url": "https://www.41nbc.com/colorado-flooding-western-heat-dome-wildfires/",
+        "source": "41NBC News",
+        "published_at": "07/31/2026, 10:12 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-31T11:51:17.709187+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-31T23:00",
+        "sensor_temp_f": 56.3,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 5.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-31T12:05:18.061119+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248482,
+          34.840515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.santafenewmexican.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_3c598508-c962-5f44-91ae-ccf90114db54.html",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.santafenewmexican.com/ap/washington/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/article_3c598508-c962-5f44-91ae-ccf90114db54.html",
+        "source": "santafenewmexican.com",
+        "published_at": "07/25/2026, 08:54 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-31T11:51:17.709187+00:00",
+        "outlet_region": "New Mexico",
+        "mention_text": "United States",
+        "osm_display": "United States, New Mexico",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-31T23:00",
+        "sensor_temp_f": 68.9,
+        "sensor_rh_pct": 59,
+        "sensor_wind_mph": 11.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 57.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-31T12:05:18.061119+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitsapsun.com/story/news/2026/07/29/heat-dome-increases-wildfire-risk-smoke-as-temperatures-rise-in-wa/91092868007/",
+        "title": "Heat dome likely to bring high temps, wildfire risk to Washington",
+        "snippet": "",
+        "url": "https://www.kitsapsun.com/story/news/2026/07/29/heat-dome-increases-wildfire-risk-smoke-as-temperatures-rise-in-wa/91092868007/",
+        "source": "kitsapsun.com",
+        "published_at": "07/29/2026, 05:57 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-07-31T11:51:17.709187+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-07-31T23:00",
+        "sensor_temp_f": 61.0,
+        "sensor_rh_pct": 56,
+        "sensor_wind_mph": 4.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 53.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-07-31T12:05:18.061119+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-30T11:56:51.275443+00:00",
-    "total_features": 166
+    "last_updated": "2026-07-31T12:05:18.065128+00:00",
+    "total_features": 169
   }
 }
