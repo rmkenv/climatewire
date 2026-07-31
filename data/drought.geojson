@@ -6452,11 +6452,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-30T14:01:17.520666+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ajc.com/opinion/2026/04/why-the-southeast-is-burning-extreme-drought-is-only-part-of-the-reason/",
+        "title": "Why the Southeast is burning. Extreme drought is only part of the reason.",
+        "snippet": "",
+        "url": "https://www.ajc.com/opinion/2026/04/why-the-southeast-is-burning-extreme-drought-is-only-part-of-the-reason/",
+        "source": "AJC.com",
+        "published_at": "04/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-07-31T13:58:29.556330+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Southeast",
+        "osm_display": "Southeast, Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-07-31T14:05:37.916464+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-30T14:01:17.522302+00:00",
-    "total_features": 237
+    "last_updated": "2026-07-31T14:05:37.918117+00:00",
+    "total_features": 238
   }
 }
