@@ -15591,11 +15591,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-07-30T10:19:20.635568+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/07/29/oregon-wildfires-growing-fast-and-early/",
+        "title": "Oregon nears record wildfire acreage as peak season looms",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/07/29/oregon-wildfires-growing-fast-and-early/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "07/30/2026, 12:39 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-31T10:26:54.004579+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 2.46,
+        "firms_brightness": 323.56,
+        "firms_acq_datetime": "2026-07-30 1024",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-31T10:37:31.546920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.registerguard.com/story/news/wildfires/2026/07/30/oregon-wildfires-updates-coleman-creek-bench/91111555007/",
+        "title": "Nearly 2M acres burned in Oregon, Washington",
+        "snippet": "",
+        "url": "https://www.registerguard.com/story/news/wildfires/2026/07/30/oregon-wildfires-updates-coleman-creek-bench/91111555007/",
+        "source": "The Register-Guard",
+        "published_at": "07/30/2026, 07:48 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-31T10:26:54.004579+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": 43.45,
+        "firms_frp_mw": 2.46,
+        "firms_brightness": 323.56,
+        "firms_acq_datetime": "2026-07-30 1024",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-31T10:37:31.546920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.802101,
+          39.063946
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbaltv.com/article/map-air-quality-wildfires/72768275",
+        "title": "Track air quality across the US with this live map",
+        "snippet": "",
+        "url": "https://www.wbaltv.com/article/map-air-quality-wildfires/72768275",
+        "source": "wbaltv.com",
+        "published_at": "07/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-31T10:26:54.004579+00:00",
+        "outlet_region": "Maryland",
+        "mention_text": "Track",
+        "osm_display": "Track, Maryland",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 24.18,
+        "firms_frp_mw": 0.32,
+        "firms_brightness": 303.52,
+        "firms_acq_datetime": "2026-07-30 0703",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-31T10:37:31.546920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.freep.com/story/news/local/michigan/2026/07/29/michigan-wildfire-smoke-heat-dome-temperatures-canada/91081710007/",
+        "title": "Is wildfire smoke returning to Michigan? Why heat dome is to blame",
+        "snippet": "",
+        "url": "https://www.freep.com/story/news/local/michigan/2026/07/29/michigan-wildfire-smoke-heat-dome-temperatures-canada/91081710007/",
+        "source": "Detroit Free Press",
+        "published_at": "07/29/2026, 01:51 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-31T10:26:54.004579+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 29.29,
+        "firms_frp_mw": 0.27,
+        "firms_brightness": 299.99,
+        "firms_acq_datetime": "2026-07-30 0701",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-07-31T10:37:31.546920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
+        "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
+        "source": "NPR",
+        "published_at": "07/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-07-31T10:26:54.004579+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-07-31T10:37:31.546920+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-30T10:19:20.638461+00:00",
-    "total_features": 467
+    "last_updated": "2026-07-31T10:37:31.549423+00:00",
+    "total_features": 472
   }
 }
