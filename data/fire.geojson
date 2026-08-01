@@ -15761,11 +15761,249 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-07-31T10:37:31.546920+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.war.gov/News/News-Stories/Article/Article/4561168/oregon-guard-aircrews-support-state-wildfire-response/",
+        "title": "Oregon Guard Aircrews Support State Wildfire Response",
+        "snippet": "",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/4561168/oregon-guard-aircrews-support-state-wildfire-response/",
+        "source": "U.S. Department of War (.gov)",
+        "published_at": "07/31/2026, 04:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon Guard Aircrews Support State Wildfire Response",
+        "osm_display": "Oregon Guard Aircrews Support State Wildfire Response",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.66,
+        "firms_frp_mw": 1.17,
+        "firms_brightness": 295.97,
+        "firms_acq_datetime": "2026-07-31 1006",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://flatheadbeacon.com/2026/07/31/regional-wildfire-resource-strain-a-concern-heading-into-peak-wildfire-season-in-montana/",
+        "title": "Regional Wildfire Resource Strain a Concern Heading into Peak Wildfire Season in Montana",
+        "snippet": "",
+        "url": "https://flatheadbeacon.com/2026/07/31/regional-wildfire-resource-strain-a-concern-heading-into-peak-wildfire-season-in-montana/",
+        "source": "Flathead Beacon",
+        "published_at": "07/31/2026, 06:49 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Peak Wildfire Season",
+        "osm_display": "Peak Wildfire Season, Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 23.7,
+        "firms_frp_mw": 20.09,
+        "firms_brightness": 349.06,
+        "firms_acq_datetime": "2026-07-31 2131",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gov.ca.gov/2026/07/29/governor-newsom-deploys-elite-wildfire-team-to-washington-state-as-western-fires-surge/",
+        "title": "Governor Newsom deploys elite wildfire team to Washington State as western fires surge",
+        "snippet": "",
+        "url": "https://www.gov.ca.gov/2026/07/29/governor-newsom-deploys-elite-wildfire-team-to-washington-state-as-western-fires-surge/",
+        "source": "California State Portal | CA.gov",
+        "published_at": "07/30/2026, 02:08 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington State",
+        "osm_display": "Washington State",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 42.2,
+        "firms_frp_mw": 0.49,
+        "firms_brightness": 298.12,
+        "firms_acq_datetime": "2026-07-31 1004",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/articles/c89nenqg10wo",
+        "title": "Nevada wildfire still burning out of control near secretive Area 51",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c89nenqg10wo",
+        "source": "BBC",
+        "published_at": "07/30/2026, 06:48 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldandnews.com/news/gov-kotek-presses-feds-to-get-oregon-farmers-ranchers-same-urgent-wildfire-relief-as-red/article_5a2049b4-574c-4e88-bc00-821e36c81932.html",
+        "title": "Gov. Kotek presses feds to get Oregon farmers, ranchers same urgent wildfire relief as red states",
+        "snippet": "",
+        "url": "https://www.heraldandnews.com/news/gov-kotek-presses-feds-to-get-oregon-farmers-ranchers-same-urgent-wildfire-relief-as-red/article_5a2049b4-574c-4e88-bc00-821e36c81932.html",
+        "source": "Herald and News",
+        "published_at": "07/31/2026, 11:21 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 43.66,
+        "firms_frp_mw": 1.17,
+        "firms_brightness": 295.97,
+        "firms_acq_datetime": "2026-07-31 1006",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailydispatch.com/fire-news/utah/how-utah-chooses-deploys-wildfire-crews-to-help-other-states/",
+        "title": "How Utah chooses, deploys wildfire crews to help other states",
+        "snippet": "",
+        "url": "https://dailydispatch.com/fire-news/utah/how-utah-chooses-deploys-wildfire-crews-to-help-other-states/",
+        "source": "dailydispatch.com",
+        "published_at": "07/31/2026, 06:56 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": 71.13,
+        "firms_frp_mw": 0.63,
+        "firms_brightness": 301.35,
+        "firms_acq_datetime": "2026-07-31 1006",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629799,
+          41.878113
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.wttw.com/2026/07/16/wildfire-smoke-blankets-chicago-air-quality-alert-issued-hazardous-levels-pollution",
+        "title": "Wildfire Smoke Blankets Chicago as Air Quality Alert Issued With \u2018Hazardous\u2019 Levels of Pollution Expected",
+        "snippet": "",
+        "url": "https://news.wttw.com/2026/07/16/wildfire-smoke-blankets-chicago-air-quality-alert-issued-hazardous-levels-pollution",
+        "source": "news.wttw.com",
+        "published_at": "07/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-01T09:48:11.431596+00:00",
+        "outlet_region": null,
+        "mention_text": "Chicago",
+        "osm_display": "Chicago",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 26.06,
+        "firms_frp_mw": 1.97,
+        "firms_brightness": 296.75,
+        "firms_acq_datetime": "2026-07-31 0644",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-01T09:57:14.313800+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-07-31T10:37:31.549423+00:00",
-    "total_features": 472
+    "last_updated": "2026-08-01T09:57:14.316536+00:00",
+    "total_features": 479
   }
 }
