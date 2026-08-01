@@ -6482,11 +6482,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-07-31T14:05:37.916464+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-expands-record-heat-continues-across-colorado",
+        "title": "Exceptional drought expands as record heat continues across Colorado",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-expands-record-heat-continues-across-colorado",
+        "source": "Kiowa County Press",
+        "published_at": "07/31/2026, 04:18 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-01T13:13:48.933015+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-01T13:22:02.633733+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-07-31T14:05:37.918117+00:00",
-    "total_features": 238
+    "last_updated": "2026-08-01T13:22:02.635116+00:00",
+    "total_features": 239
   }
 }
