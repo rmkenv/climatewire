@@ -5746,11 +5746,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-07-31T12:05:18.061119+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/dangerous-heat-dome-to-bring-triple-digit-temperatures-to-california-southwest-into-next-week/1916593",
+        "title": "Dangerous heat dome to bring triple-digit temperatures to California, Southwest into next week",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/dangerous-heat-dome-to-bring-triple-digit-temperatures-to-california-southwest-into-next-week/1916593",
+        "source": "AccuWeather",
+        "published_at": "07/28/2026, 07:10 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-01T11:09:24.540404+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-01T23:00",
+        "sensor_temp_f": 80.2,
+        "sensor_rh_pct": 22,
+        "sensor_wind_mph": 8.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 61.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-01T11:22:11.493179+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://thenevadaglobe.com/702times/record-heat-dome-pushes-southwest-highs-toward-120f/",
+        "title": "Record Heat Dome Pushes Southwest Highs Toward 120\u00b0F",
+        "snippet": "",
+        "url": "https://thenevadaglobe.com/702times/record-heat-dome-pushes-southwest-highs-toward-120f/",
+        "source": "thenevadaglobe.com",
+        "published_at": "07/31/2026, 11:32 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-01T11:09:24.540404+00:00",
+        "outlet_region": null,
+        "mention_text": "Record Heat Dome Pushes Southwest Highs Toward",
+        "osm_display": "Record Heat Dome Pushes Southwest Highs Toward",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-01T23:00",
+        "sensor_temp_f": 88.2,
+        "sensor_rh_pct": 18,
+        "sensor_wind_mph": 14.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-01T11:22:11.493179+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-07-31T12:05:18.065128+00:00",
-    "total_features": 169
+    "last_updated": "2026-08-01T11:22:11.494650+00:00",
+    "total_features": 171
   }
 }
