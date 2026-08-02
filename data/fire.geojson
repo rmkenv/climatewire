@@ -15999,11 +15999,385 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-01T09:57:14.313800+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/news/571319/washington-guard-soldiers-airmen-support-statewide-wildfire-response",
+        "title": "News - Washington Guard Soldiers Airmen Support Statewide Wildfire Response",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/news/571319/washington-guard-soldiers-airmen-support-statewide-wildfire-response",
+        "source": "DVIDS",
+        "published_at": "08/01/2026, 09:08 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.59,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 302.14,
+        "firms_acq_datetime": "2026-08-01 1125",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074036,
+          33.448376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+        "title": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
+        "snippet": "",
+        "url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+        "source": "Los Angeles Times",
+        "published_at": "08/02/2026, 03:39 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": null,
+        "mention_text": "Phoenix",
+        "osm_display": "Phoenix",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/dangerous-heat-millions-west-critical-wildfire-alerts-pacific/story?id=135291675",
+        "title": "Wildfires spark evacuations in Washington amid dangerous conditions across the Pacific Northwest",
+        "snippet": "",
+        "url": "https://abcnews.com/US/dangerous-heat-millions-west-critical-wildfire-alerts-pacific/story?id=135291675",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "08/02/2026, 04:54 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.59,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 302.14,
+        "firms_acq_datetime": "2026-08-01 1125",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html",
+        "title": "More Than a Dozen Wildfires Burn in Washington State, Forcing Evacuations",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html",
+        "source": "The New York Times",
+        "published_at": "08/02/2026, 03:20 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington State",
+        "osm_display": "Washington State",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.59,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 302.14,
+        "firms_acq_datetime": "2026-08-01 1125",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/national-news/wind-driven-wildfire-prompts-evacuations-in-eastern-washington",
+        "title": "Wind-driven wildfire prompts evacuations in eastern Washington",
+        "snippet": "",
+        "url": "https://ktar.com/national-news/wind-driven-wildfire-prompts-evacuations-in-eastern-washington",
+        "source": "KTAR News 92.3 FM",
+        "published_at": "08/02/2026, 02:31 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Washington",
+        "osm_display": "Washington, Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.62,
+        "firms_frp_mw": 2.19,
+        "firms_brightness": 301.76,
+        "firms_acq_datetime": "2026-08-01 0949",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://grist.org/extreme-weather/wildfires-forest-management-utah-west/",
+        "title": "Wildfire prevention has always been a challenge in the West. Hotter, drier weather is making it worse.",
+        "snippet": "",
+        "url": "https://grist.org/extreme-weather/wildfires-forest-management-utah-west/",
+        "source": "grist.org",
+        "published_at": "07/31/2026, 08:16 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 67.89,
+        "firms_frp_mw": 0.46,
+        "firms_brightness": 303.59,
+        "firms_acq_datetime": "2026-08-01 0947",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reuters.com/legal/litigation/fires-more-than-250000-acres-washington-state-prompt-evacuations-2026-08-02/",
+        "title": "Fires on more than 250,000 acres of Washington state prompt evacuations",
+        "snippet": "",
+        "url": "https://www.reuters.com/legal/litigation/fires-more-than-250000-acres-washington-state-prompt-evacuations-2026-08-02/",
+        "source": "Reuters",
+        "published_at": "08/02/2026, 03:13 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.59,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 302.14,
+        "firms_acq_datetime": "2026-08-01 1125",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/01/weather/oregon-washington-fire.html",
+        "title": "Wildfire Weather Poses \u2018Particularly Dangerous Situation\u2019 in Pacific Northwest",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/01/weather/oregon-washington-fire.html",
+        "source": "The New York Times",
+        "published_at": "08/01/2026, 04:18 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 44.7,
+        "firms_frp_mw": 0.88,
+        "firms_brightness": 303.57,
+        "firms_acq_datetime": "2026-08-01 0945",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/wind-driven-wildfire-prompts-evacuations-in-eastern-washington/article_6402656d-9507-52bc-abe2-a9c46b316b48.html",
+        "title": "Wind-driven wildfire prompts evacuations in eastern Washington",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/wind-driven-wildfire-prompts-evacuations-in-eastern-washington/article_6402656d-9507-52bc-abe2-a9c46b316b48.html",
+        "source": "Toronto Star",
+        "published_at": "08/02/2026, 02:32 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.59,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 302.14,
+        "firms_acq_datetime": "2026-08-01 1125",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://usa.inquirer.net/205397/heat-wave-scorches-western-us-raises-wildfire-risk",
+        "title": "Heat wave scorches Western US, raises wildfire risk",
+        "snippet": "",
+        "url": "https://usa.inquirer.net/205397/heat-wave-scorches-western-us-raises-wildfire-risk",
+        "source": "INQUIRER.net USA",
+        "published_at": "08/01/2026, 05:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "Western US",
+        "osm_display": "Western US, Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 71.03,
+        "firms_frp_mw": 0.15,
+        "firms_brightness": 295.23,
+        "firms_acq_datetime": "2026-08-01 0625",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629799,
+          41.878113
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcchicago.com/weather/where-is-the-wildfire-smoke-coming-from-in-chicago-heres-what-to-know/3962470/",
+        "title": "Where is the wildfire smoke coming from in Chicago? Here's what to know",
+        "snippet": "",
+        "url": "https://www.nbcchicago.com/weather/where-is-the-wildfire-smoke-coming-from-in-chicago-heres-what-to-know/3962470/",
+        "source": "NBC 5 Chicago",
+        "published_at": "07/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-02T09:47:32.744715+00:00",
+        "outlet_region": null,
+        "mention_text": "Chicago",
+        "osm_display": "Chicago",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-02T09:56:17.527101+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-01T09:57:14.316536+00:00",
-    "total_features": 479
+    "last_updated": "2026-08-02T09:56:17.530300+00:00",
+    "total_features": 490
   }
 }
