@@ -5814,11 +5814,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-01T11:22:11.493179+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yourvalley.net/stories/heat-wave-expected-to-bring-record-breaking-temps-heighten-wildfire-risk-to-parts-of-western-us,708970",
+        "title": "'Heat dome' over Arizona expected to be brief: National Weather Service",
+        "snippet": "",
+        "url": "https://www.yourvalley.net/stories/heat-wave-expected-to-bring-record-breaking-temps-heighten-wildfire-risk-to-parts-of-western-us,708970",
+        "source": "yourvalley.net",
+        "published_at": "08/01/2026, 05:40 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-02T11:10:16.796174+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-02T23:00",
+        "sensor_temp_f": 89.2,
+        "sensor_rh_pct": 23,
+        "sensor_wind_mph": 7.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-02T11:23:21.423952+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332071,
+          47.606209
+        ]
+      },
+      "properties": {
+        "article_id": "https://emeraldcityweather.com/seattle-dodging-heat-dome-seafair-rain/",
+        "title": "How Seattle is dodging a massive heat dome set to bake the West with triple-digit heat",
+        "snippet": "",
+        "url": "https://emeraldcityweather.com/seattle-dodging-heat-dome-seafair-rain/",
+        "source": "Emerald City Weather Blog",
+        "published_at": "07/31/2026, 11:45 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-02T11:10:16.796174+00:00",
+        "outlet_region": null,
+        "mention_text": "Seattle",
+        "osm_display": "Seattle",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-02T23:00",
+        "sensor_temp_f": 56.3,
+        "sensor_rh_pct": 68,
+        "sensor_wind_mph": 5.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 49.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-02T11:23:21.423952+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-01T11:22:11.494650+00:00",
-    "total_features": 171
+    "last_updated": "2026-08-02T11:23:21.427172+00:00",
+    "total_features": 173
   }
 }
