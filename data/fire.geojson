@@ -16373,11 +16373,317 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-02T09:56:17.527101+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/news/us-news/spokane-washington-wildfire-rcna590469",
+        "title": "Over 600 structures lost as tens of thousands evacuate in Washington state wildfires",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/news/us-news/spokane-washington-wildfire-rcna590469",
+        "source": "NBC News",
+        "published_at": "08/03/2026, 05:24 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "structure_threat",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations",
+        "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations",
+        "source": "Al Jazeera",
+        "published_at": "08/03/2026, 03:29 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Spokane",
+        "osm_display": "Spokane, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/08/01/us/spokane-washington-wildfire-old-trails",
+        "title": "Thousands ordered to flee homes as fast-moving wildfire grows in Spokane County, Washington",
+        "snippet": "",
+        "url": "https://www.cnn.com/2026/08/01/us/spokane-washington-wildfire-old-trails",
+        "source": "CNN",
+        "published_at": "08/01/2026, 11:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Spokane County",
+        "osm_display": "Spokane County, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mesabitribune.com/news/local/wildfire-officials-watching-for-uptick-in-activity/article_92041717-9c54-4fe6-91e7-999ae6765b59.html",
+        "title": "Wildfire officials watching for uptick in activity",
+        "snippet": "",
+        "url": "https://www.mesabitribune.com/news/local/wildfire-officials-watching-for-uptick-in-activity/article_92041717-9c54-4fe6-91e7-999ae6765b59.html",
+        "source": "Mesabi Tribune",
+        "published_at": "08/02/2026, 05:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wildfire",
+        "osm_display": "Wildfire, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forbes.com/sites/marshallshepherd/2026/08/02/the-wildfire-disaster-unfolding-in-spokane-washington/",
+        "title": "The Wildfire Disaster Unfolding In Spokane, Washington",
+        "snippet": "",
+        "url": "https://www.forbes.com/sites/marshallshepherd/2026/08/02/the-wildfire-disaster-unfolding-in-spokane-washington/",
+        "source": "Forbes",
+        "published_at": "08/02/2026, 11:36 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Spokane",
+        "osm_display": "Spokane, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/best-states/washington/articles/2026-08-01/wind-driven-wildfire-prompts-evacuations-in-eastern-washington",
+        "title": "Wind-Driven Wildfire Prompts Evacuations in Eastern Washington",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/best-states/washington/articles/2026-08-01/wind-driven-wildfire-prompts-evacuations-in-eastern-washington",
+        "source": "U.S. News & World Report",
+        "published_at": "08/02/2026, 02:40 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/increased-wildfire-threat-targets-scorched-pacific-northwest",
+        "title": "State of Emergency issued in Washington as dangerous wildfires spread across the Northwest",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/increased-wildfire-threat-targets-scorched-pacific-northwest",
+        "source": "FOX Weather",
+        "published_at": "07/31/2026, 09:09 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://english.ratopati.com/story/72837/wildfires-rage-in-washington-60000-people-displaced",
+        "title": "Washington State Wildfires Cause Widespread Destruction, Evacuations",
+        "snippet": "",
+        "url": "https://english.ratopati.com/story/72837/wildfires-rage-in-washington-60000-people-displaced",
+        "source": "Ratopati",
+        "published_at": "08/03/2026, 04:06 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 62.94,
+        "firms_frp_mw": 1.3,
+        "firms_brightness": 311.72,
+        "firms_acq_datetime": "2026-08-02 0928",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/classroom/daily-news-lessons/2026/07/health-risks-of-wildfire-smple-across-the-midwest",
+        "title": "The health risks of wildfire smoke across the Midwest and Mid-Atlantic",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/classroom/daily-news-lessons/2026/07/health-risks-of-wildfire-smple-across-the-midwest",
+        "source": "PBS",
+        "published_at": "07/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-03T11:11:12.126694+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 30.11,
+        "firms_frp_mw": 0.26,
+        "firms_brightness": 302.0,
+        "firms_acq_datetime": "2026-08-02 0746",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-03T11:20:45.397309+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-02T09:56:17.530300+00:00",
-    "total_features": 490
+    "last_updated": "2026-08-03T11:20:45.400641+00:00",
+    "total_features": 499
   }
 }
