@@ -6512,11 +6512,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-01T13:22:02.633733+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/07/30/drought-monitor-oklahoma-drought-holds-steady-as-exceptional-drought-persists-in-five-counties/",
+        "title": "Drought Monitor: Oklahoma Drought Holds Steady as Exceptional Drought Persists in Five Counties",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/07/30/drought-monitor-oklahoma-drought-holds-steady-as-exceptional-drought-persists-in-five-counties/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "07/30/2026, 01:33 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-03T14:32:35.235193+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-03T14:40:08.389020+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-02T13:22:34.255620+00:00",
-    "total_features": 239
+    "last_updated": "2026-08-03T14:40:08.390617+00:00",
+    "total_features": 240
   }
 }
