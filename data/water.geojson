@@ -1561,11 +1561,81 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-07-27T13:47:16.556251+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.530106,
+          42.230171
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/westfieldnews/2024/08/southwick-water-ban-lifted-only-days-after-being-implemented.html",
+        "title": "Southwick water ban lifted only days after being implemented",
+        "snippet": "",
+        "url": "https://www.masslive.com/westfieldnews/2024/08/southwick-water-ban-lifted-only-days-after-being-implemented.html",
+        "source": "masslive.com",
+        "published_at": "08/09/2024, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-08-04T13:02:52.926635+00:00",
+        "outlet_region": "Massachusetts",
+        "mention_text": "Southwick",
+        "osm_display": "Southwick, Massachusetts",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "01097480",
+        "usgs_streamflow_name": "SUDBURY RIVER AT ASHLAND, MA",
+        "usgs_streamflow_dist_km": 6.91,
+        "usgs_streamflow_cfs": 35.8,
+        "usgs_gw_site_no": "421851071312601",
+        "usgs_gw_name": "MA-SSW  12 SOUTHBOROUGH, MA",
+        "usgs_gw_dist_km": 9.37,
+        "usgs_gw_depth_ft": 6.9,
+        "run_at": "2026-08-04T13:13:10.709539+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailymail.com/news/article-2994985/California-run-water-reserves-year-begin-rationing-precious-resource-immediately-NASA-scientist-says.html",
+        "title": "California will run out of water in a year, scientist says",
+        "snippet": "",
+        "url": "https://www.dailymail.com/news/article-2994985/California-run-water-reserves-year-begin-rationing-precious-resource-immediately-NASA-scientist-says.html",
+        "source": "Daily Mail",
+        "published_at": "03/15/2015, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-08-04T13:02:52.926635+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 412.85,
+        "run_at": "2026-08-04T13:13:10.709539+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-08-03T13:49:18.234302+00:00",
-    "total_features": 49
+    "last_updated": "2026-08-04T13:13:10.710233+00:00",
+    "total_features": 51
   }
 }
