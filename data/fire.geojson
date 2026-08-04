@@ -16679,11 +16679,487 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-03T11:20:45.397309+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://ecology.wa.gov/blog/august-2026/explosive-wildfire-activity-spreads-smoke-across-washington",
+        "title": "Explosive wildfire activity spreads smoke across Washington",
+        "snippet": "",
+        "url": "https://ecology.wa.gov/blog/august-2026/explosive-wildfire-activity-spreads-smoke-across-washington",
+        "source": "Department of Ecology - State of Washington (.gov)",
+        "published_at": "08/04/2026, 12:02 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/articles/c3046g80yj7o",
+        "title": "Washington state wildfires cause 60,000 people to evacuate homes",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c3046g80yj7o",
+        "source": "bbc.com",
+        "published_at": "08/03/2026, 11:44 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/wildfires/2026/08/oregon-shatters-wildfire-record-with-2-million-acres-burned-dozens-of-fires-still-burning.html",
+        "title": "What to know about the wildfires burning across the state",
+        "snippet": "",
+        "url": "https://www.oregonlive.com/wildfires/2026/08/oregon-shatters-wildfire-record-with-2-million-acres-burned-dozens-of-fires-still-burning.html",
+        "source": "OregonLive.com",
+        "published_at": "08/03/2026, 06:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/08/03/western-wildfire-smoke-drifting-over-nebraska-air-quality-marginally-impacted/",
+        "title": "Western wildfire smoke drifting over Nebraska, air quality marginally impacted",
+        "snippet": "",
+        "url": "https://www.centralnebraskatoday.com/2026/08/03/western-wildfire-smoke-drifting-over-nebraska-air-quality-marginally-impacted/",
+        "source": "Central Nebraska Today",
+        "published_at": "08/03/2026, 03:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/science/washington-state-fires-destroy-hundreds-of-structures-and-force-spokane-area-residents-to-evacuate",
+        "title": "Washington state fires destroy hundreds of structures and force Spokane-area residents to evacuate",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/science/washington-state-fires-destroy-hundreds-of-structures-and-force-spokane-area-residents-to-evacuate",
+        "source": "PBS",
+        "published_at": "08/03/2026, 02:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postindependent.com/news/colorado-wildfire-smoky-skies/",
+        "title": "Colorado could see \u2018prolonged stretch\u2019 of smoky skies as above-average wildfire season continues across the West",
+        "snippet": "",
+        "url": "https://www.postindependent.com/news/colorado-wildfire-smoky-skies/",
+        "source": "Post Independent",
+        "published_at": "08/03/2026, 05:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/wildfires/2026/08/more-than-2-million-acres-burned-as-oregon-sets-new-wildfire-record.html",
+        "title": "More than 2 million acres burned as Oregon sets new wildfire record",
+        "snippet": "",
+        "url": "https://www.oregonlive.com/wildfires/2026/08/more-than-2-million-acres-burned-as-oregon-sets-new-wildfire-record.html",
+        "source": "OregonLive.com",
+        "published_at": "08/03/2026, 08:03 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+        "title": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
+        "snippet": "",
+        "url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+        "source": "latimes.com",
+        "published_at": "08/02/2026, 05:19 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "California",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507141,
+          39.318523
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lancasterfarming.com/farming-news/conservation/from-tiny-delaware-wildfire-crews-respond-nationwide/article_c644d52c-6585-4552-81cc-f0d7afe711b1.html",
+        "title": "From Tiny Delaware, Wildfire Crews Respond Nationwide",
+        "snippet": "",
+        "url": "https://www.lancasterfarming.com/farming-news/conservation/from-tiny-delaware-wildfire-crews-respond-nationwide/article_c644d52c-6585-4552-81cc-f0d7afe711b1.html",
+        "source": "Lancaster Farming",
+        "published_at": "08/03/2026, 01:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Delaware",
+        "mention_text": "Tiny Delaware",
+        "osm_display": "Tiny Delaware",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/news/local/wildfire/here-are-the-fires-you-need-to-know-about-in-washington-state/281-d7f9bc29-ee9a-462d-b30d-fa65a4962f87",
+        "title": "Here are the fires you need to know about in Washington state",
+        "snippet": "",
+        "url": "https://www.king5.com/article/news/local/wildfire/here-are-the-fires-you-need-to-know-about-in-washington-state/281-d7f9bc29-ee9a-462d-b30d-fa65a4962f87",
+        "source": "KING5.com",
+        "published_at": "08/03/2026, 05:54 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/destructive-wildfires-rage-washington-state-poor-air-quality/story?id=135318432",
+        "title": "'Nightmare situation': At least 700 structures destroyed in Washington wildfires",
+        "snippet": "",
+        "url": "https://abcnews.com/US/destructive-wildfires-rage-washington-state-poor-air-quality/story?id=135318432",
+        "source": "abcnews.com",
+        "published_at": "08/03/2026, 11:48 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.goodgoodgood.co/articles/spokane-washington-complex-fires-gofundme-fundraiser",
+        "title": "GoFundMe launches hub of verified Spokane wildfire relief fundraisers",
+        "snippet": "",
+        "url": "https://www.goodgoodgood.co/articles/spokane-washington-complex-fires-gofundme-fundraiser",
+        "source": "Good Good Good News",
+        "published_at": "08/03/2026, 08:28 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/nation/2026/08/03/spokane-wildfires-washington-evacuations/91145993007/",
+        "title": "Spokane wildfires expand, force 65,000 from their homes in Washington",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/nation/2026/08/03/spokane-wildfires-washington-evacuations/91145993007/",
+        "source": "USA Today",
+        "published_at": "08/03/2026, 06:55 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/07/20/thunderstorms-could-bring-more-wildfires-to-central-oregon/",
+        "title": "Oregon wildfires burn tens of thousands of acres, fill air with smoke, forcing businesses to close",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/07/20/thunderstorms-could-bring-more-wildfires-to-central-oregon/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "07/20/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-04T10:26:04.434283+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-04T10:36:15.797298+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-03T11:20:45.400641+00:00",
-    "total_features": 499
+    "last_updated": "2026-08-04T10:36:15.799925+00:00",
+    "total_features": 513
   }
 }
