@@ -5882,11 +5882,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-02T11:23:21.423952+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676483,
+          45.523064
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.registerguard.com/story/weather/2026/08/04/what-is-a-heat-dome-according-to-science/91153923007/",
+        "title": "Portland State University researchers define extreme 'heat domes'",
+        "snippet": "",
+        "url": "https://www.registerguard.com/story/weather/2026/08/04/what-is-a-heat-dome-according-to-science/91153923007/",
+        "source": "The Register-Guard",
+        "published_at": "08/04/2026, 11:02 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-05T11:50:19.581824+00:00",
+        "outlet_region": null,
+        "mention_text": "Portland State University",
+        "osm_display": "Portland State University",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-05T23:00",
+        "sensor_temp_f": 72.1,
+        "sensor_rh_pct": 58,
+        "sensor_wind_mph": 6.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 62.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-05T12:03:27.961775+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-04T12:07:53.168645+00:00",
-    "total_features": 173
+    "last_updated": "2026-08-05T12:03:27.967339+00:00",
+    "total_features": 174
   }
 }
