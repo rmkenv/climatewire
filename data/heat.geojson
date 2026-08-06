@@ -5916,11 +5916,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-05T12:03:27.961775+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074036,
+          33.448376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/weather/why-phoenixs-extreme-heat-just-wont-quit-blame-the-heat-dome/75-57e9ca3e-a4ba-494a-ba93-2bb864b9f42f",
+        "title": "Why Phoenix's extreme heat just won't quit: Blame the 'heat dome'",
+        "snippet": "",
+        "url": "https://www.12news.com/article/weather/why-phoenixs-extreme-heat-just-wont-quit-blame-the-heat-dome/75-57e9ca3e-a4ba-494a-ba93-2bb864b9f42f",
+        "source": "12News",
+        "published_at": "08/06/2026, 12:17 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-06T11:56:10.930982+00:00",
+        "outlet_region": null,
+        "mention_text": "Phoenix",
+        "osm_display": "Phoenix",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-06T23:00",
+        "sensor_temp_f": 93.6,
+        "sensor_rh_pct": 31,
+        "sensor_wind_mph": 4.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 76.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-06T12:11:48.365357+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-05T12:03:27.967339+00:00",
-    "total_features": 174
+    "last_updated": "2026-08-06T12:11:48.367718+00:00",
+    "total_features": 175
   }
 }
