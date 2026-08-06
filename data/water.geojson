@@ -1631,11 +1631,46 @@
         "usgs_gw_depth_ft": 412.85,
         "run_at": "2026-08-04T13:13:10.709539+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yourvalley.net/sun-city-west-independent/stories/arizonas-water-dilemma-reminiscent-of-heartland-aquifer-depletion,703436",
+        "title": "Arizona\u2019s water dilemma reminiscent of Heartland aquifer depletion",
+        "snippet": "",
+        "url": "https://www.yourvalley.net/sun-city-west-independent/stories/arizonas-water-dilemma-reminiscent-of-heartland-aquifer-depletion,703436",
+        "source": "yourvalley.net",
+        "published_at": "07/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-08-06T12:57:18.576409+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "groundwater_decline",
+        "usgs_streamflow_site_no": "09510200",
+        "usgs_streamflow_name": "SYCAMORE CREEK NEAR FORT MCDOWELL, AZ",
+        "usgs_streamflow_dist_km": 10.97,
+        "usgs_streamflow_cfs": 1.6,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-08-06T13:07:42.936837+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-08-05T13:03:00.834697+00:00",
-    "total_features": 51
+    "last_updated": "2026-08-06T13:07:42.937591+00:00",
+    "total_features": 52
   }
 }
