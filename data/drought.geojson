@@ -6542,11 +6542,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-03T14:40:08.389020+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/exceptional-drought-denver-worst-categories-colorado/",
+        "title": "Exceptional drought surges across Colorado as Denver reaches record-worst levels",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/news/exceptional-drought-denver-worst-categories-colorado/",
+        "source": "CBS News",
+        "published_at": "08/07/2026, 01:58 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-07T12:56:39.434887+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-07T13:04:57.593357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cpr.org/2026/06/04/colorado-drought-emergency/",
+        "title": "Colorado is now in a statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.cpr.org/2026/06/04/colorado-drought-emergency/",
+        "source": "cpr.org",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-07T12:56:39.434887+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-07T13:04:57.593357+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-06T14:08:58.535249+00:00",
-    "total_features": 240
+    "last_updated": "2026-08-07T13:04:57.594946+00:00",
+    "total_features": 242
   }
 }
