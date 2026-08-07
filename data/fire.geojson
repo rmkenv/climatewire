@@ -17801,11 +17801,215 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-06T10:36:18.586974+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.edhat.com/california/news/california-wildfire-agencies-national-response/",
+        "title": "California Wildfire Agencies Deploy Resources to National Fire Response",
+        "snippet": "",
+        "url": "https://www.edhat.com/california/news/california-wildfire-agencies-national-response/",
+        "source": "edhat",
+        "published_at": "08/06/2026, 11:13 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-07T08:44:28.094796+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 73.15,
+        "firms_frp_mw": 0.27,
+        "firms_brightness": 305.78,
+        "firms_acq_datetime": "2026-08-06 0956",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-07T08:54:53.821828+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.438828,
+          44.299782
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kotatv.com/2026/08/06/if-it-stings-your-lungs-go-inside-wildfire-smoke-blankets-western-south-dakota-sdsu-research-powers-new-national-forecast-tool/",
+        "title": "\u2018If it stings your lungs, go inside\u2019: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool",
+        "snippet": "",
+        "url": "https://www.kotatv.com/2026/08/06/if-it-stings-your-lungs-go-inside-wildfire-smoke-blankets-western-south-dakota-sdsu-research-powers-new-national-forecast-tool/",
+        "source": "KOTA Territory News",
+        "published_at": "08/06/2026, 11:38 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-07T08:44:28.094796+00:00",
+        "outlet_region": "South Dakota",
+        "mention_text": "South Dakota",
+        "osm_display": "South Dakota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 25.55,
+        "firms_frp_mw": 2.72,
+        "firms_brightness": 339.16,
+        "firms_acq_datetime": "2026-08-06 1936",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-07T08:54:53.821828+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/articles/c5y3ppmmev1o",
+        "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o",
+        "source": "BBC",
+        "published_at": "08/05/2026, 12:40 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-07T08:44:28.094796+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.8,
+        "firms_frp_mw": 94.53,
+        "firms_brightness": 367.0,
+        "firms_acq_datetime": "2026-08-06 2118",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-07T08:54:53.821828+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html",
+        "title": "What One Witness Saw Moments Before a Fire Started",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html",
+        "source": "nytimes.com",
+        "published_at": "08/05/2026, 12:31 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-07T08:44:28.094796+00:00",
+        "outlet_region": "New York",
+        "mention_text": "What One Witness Saw Moments Before",
+        "osm_display": "What One Witness Saw Moments Before, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-07T08:54:53.821828+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/body-found-in-california-home-burned-by-wildfire-believed-started-by-chain-saw/article_08caa61a-dc52-58f1-9aa6-f728f583f07f.html",
+        "title": "Body found in California home burned by wildfire believed started by chain saw",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/body-found-in-california-home-burned-by-wildfire-believed-started-by-chain-saw/article_08caa61a-dc52-58f1-9aa6-f728f583f07f.html",
+        "source": "Toronto Star",
+        "published_at": "08/06/2026, 09:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-07T08:44:28.094796+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 73.15,
+        "firms_frp_mw": 0.27,
+        "firms_brightness": 305.78,
+        "firms_acq_datetime": "2026-08-06 0956",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-07T08:54:53.821828+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/19/weather/wildfire-smoke-latest-updates.html",
+        "title": "When Will the Wildfire Smoke Clear?",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/19/weather/wildfire-smoke-latest-updates.html",
+        "source": "nytimes.com",
+        "published_at": "07/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-07T08:44:28.094796+00:00",
+        "outlet_region": "New York",
+        "mention_text": "the Wildfire Smoke Clear",
+        "osm_display": "the Wildfire Smoke Clear, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-07T08:54:53.821828+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-06T10:36:18.590288+00:00",
-    "total_features": 532
+    "last_updated": "2026-08-07T08:54:53.825084+00:00",
+    "total_features": 538
   }
 }
