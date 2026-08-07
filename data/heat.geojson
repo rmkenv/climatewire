@@ -5950,11 +5950,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-06T12:11:48.365357+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://bouldercast.com/this-weekend-in-colorado-weather-as-the-heat-dome-reloads-thickening-smoke-might-be-the-only-thing-keeping-us-below-100/",
+        "title": "*Premium* This Weekend in Colorado Weather: As the Heat Dome Reloads, Thickening Smoke Might Be the Only Thing Keeping Us Below 100\u00b0",
+        "snippet": "",
+        "url": "https://bouldercast.com/this-weekend-in-colorado-weather-as-the-heat-dome-reloads-thickening-smoke-might-be-the-only-thing-keeping-us-below-100/",
+        "source": "BoulderCAST",
+        "published_at": "08/06/2026, 01:59 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-07T10:41:04.829108+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-07T23:00",
+        "sensor_temp_f": 64.9,
+        "sensor_rh_pct": 17,
+        "sensor_wind_mph": 5.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 49.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-07T10:55:13.647302+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-06T12:11:48.367718+00:00",
-    "total_features": 175
+    "last_updated": "2026-08-07T10:55:13.650155+00:00",
+    "total_features": 176
   }
 }
