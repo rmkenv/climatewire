@@ -6602,11 +6602,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-07T13:04:57.593357+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mariettatimes.com/news/2024/08/washington-county-declares-drought-emergency/",
+        "title": "Washington County declares drought emergency",
+        "snippet": "",
+        "url": "https://www.mariettatimes.com/news/2024/08/washington-county-declares-drought-emergency/",
+        "source": "Marietta Times",
+        "published_at": "08/30/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-08T12:41:15.067787+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington County",
+        "osm_display": "Washington County",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-08T12:50:10.546403+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-07T13:04:57.594946+00:00",
-    "total_features": 242
+    "last_updated": "2026-08-08T12:50:10.547922+00:00",
+    "total_features": 243
   }
 }
