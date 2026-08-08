@@ -5984,11 +5984,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-07T10:55:13.647302+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html",
+        "title": "First Europe, Then North America: Welcome to Heat Dome Summer.",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html",
+        "source": "nytimes.com",
+        "published_at": "07/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-08T10:19:32.238184+00:00",
+        "outlet_region": "New York",
+        "mention_text": "North America",
+        "osm_display": "North America, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-08-08T10:34:24.163551+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-07T10:55:13.650155+00:00",
-    "total_features": 176
+    "last_updated": "2026-08-08T10:34:24.166611+00:00",
+    "total_features": 177
   }
 }
