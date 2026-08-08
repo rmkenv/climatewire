@@ -18005,11 +18005,147 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-07T08:54:53.821828+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-north-central-oregon-wildfires",
+        "title": "Wildfire Map Spotlight: North-Central and Eastern Oregon Wildfires",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-north-central-oregon-wildfires",
+        "source": "IQAir",
+        "published_at": "08/06/2026, 10:11 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-08T08:26:06.765951+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.45,
+        "firms_frp_mw": 48.61,
+        "firms_brightness": 348.26,
+        "firms_acq_datetime": "2026-08-07 2057",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-08T08:35:03.937751+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://whnt.com/news/national/ap-us-news/ap-a-helicopter-battling-a-utah-wildfire-crashes-with-no-word-on-the-2-people-aboard/",
+        "title": "A helicopter battling a Utah wildfire crashes as a blaze kills dozer operator in Oregon",
+        "snippet": "",
+        "url": "https://whnt.com/news/national/ap-us-news/ap-a-helicopter-battling-a-utah-wildfire-crashes-with-no-word-on-the-2-people-aboard/",
+        "source": "WHNT.com",
+        "published_at": "08/08/2026, 01:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-08T08:26:06.765951+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 14.86,
+        "firms_frp_mw": 1.09,
+        "firms_brightness": 301.86,
+        "firms_acq_datetime": "2026-08-07 0937",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-08T08:35:03.937751+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://county17.com/2026/08/07/wildfire-smoke-prompts-air-quality-alert-across-northeast-wyoming/",
+        "title": "Wildfire smoke prompts air quality alert across northeast Wyoming",
+        "snippet": "",
+        "url": "https://county17.com/2026/08/07/wildfire-smoke-prompts-air-quality-alert-across-northeast-wyoming/",
+        "source": "County 17",
+        "published_at": "08/07/2026, 01:21 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-08T08:26:06.765951+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Wyoming",
+        "osm_display": "Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-08T08:35:03.937751+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0",
+        "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
+        "snippet": "",
+        "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0",
+        "source": "AP News",
+        "published_at": "08/03/2026, 06:35 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-08T08:26:06.765951+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Spokane",
+        "osm_display": "Spokane, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.4,
+        "firms_frp_mw": 2.77,
+        "firms_brightness": 299.09,
+        "firms_acq_datetime": "2026-08-07 0934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-08T08:35:03.937751+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-07T08:54:53.825084+00:00",
-    "total_features": 538
+    "last_updated": "2026-08-08T08:35:03.941141+00:00",
+    "total_features": 542
   }
 }
