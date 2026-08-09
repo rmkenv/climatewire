@@ -6018,11 +6018,45 @@
         "wbgt_flag": null,
         "run_at": "2026-08-08T10:34:24.163551+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/ridge-riding-severe-storms-intense-heat-midwest-northeast",
+        "title": "Rounds of severe storms to ride along heat dome, bring thunderstorms to Midwest and Northeast",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/ridge-riding-severe-storms-intense-heat-midwest-northeast",
+        "source": "foxweather.com",
+        "published_at": "07/26/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-09T10:21:21.038236+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-09T23:00",
+        "sensor_temp_f": 76.8,
+        "sensor_rh_pct": 81,
+        "sensor_wind_mph": 9.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-09T10:36:19.042963+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-08T10:34:24.166611+00:00",
-    "total_features": 177
+    "last_updated": "2026-08-09T10:36:19.046266+00:00",
+    "total_features": 178
   }
 }
