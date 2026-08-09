@@ -18141,11 +18141,317 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-08T08:35:03.937751+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle",
+        "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle",
+        "source": "Al Jazeera",
+        "published_at": "08/09/2026, 03:10 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.politico.com/news/2026/08/08/dei-dispute-wildfire-grants-washington-state-01028487",
+        "title": "DEI dispute delayed wildfire grants for area engulfed in blazes",
+        "snippet": "",
+        "url": "https://www.politico.com/news/2026/08/08/dei-dispute-wildfire-grants-washington-state-01028487",
+        "source": "Politico",
+        "published_at": "08/08/2026, 08:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.18,
+        "firms_frp_mw": 3.64,
+        "firms_brightness": 331.78,
+        "firms_acq_datetime": "2026-08-08 2042",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+        "title": "Pilots of helicopter that crashed while fighting Utah wildfire confirmed dead, officials say",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
+        "source": "The Guardian",
+        "published_at": "08/08/2026, 11:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/2026/08/08/dangerous-wildfire-keeps-crews-reaching-helicopter-crash-utah/",
+        "title": "Dangerous wildfire keeps crews from reaching helicopter crash in Utah",
+        "snippet": "",
+        "url": "https://www.mysuncoast.com/2026/08/08/dangerous-wildfire-keeps-crews-reaching-helicopter-crash-utah/",
+        "source": "ABC7 WWSB",
+        "published_at": "08/08/2026, 10:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressdemocrat.com/2026/08/08/pilots-of-helicopter-that-crashed-while-fighting-wildfire-in-utah-are-dead-officials-say/",
+        "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
+        "snippet": "",
+        "url": "https://www.pressdemocrat.com/2026/08/08/pilots-of-helicopter-that-crashed-while-fighting-wildfire-in-utah-are-dead-officials-say/",
+        "source": "The Press Democrat",
+        "published_at": "08/09/2026, 02:07 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/wireStory/helicopter-battling-utah-wildfire-crashes-word-2-people-135470661",
+        "title": "A helicopter battling a Utah wildfire crashes as a blaze kills dozer operator in Oregon",
+        "snippet": "",
+        "url": "https://abcnews.com/US/wireStory/helicopter-battling-utah-wildfire-crashes-word-2-people-135470661",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "08/07/2026, 09:37 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/nation/2026/08/08/firefighting-helicopter-crashes-utah-widemouth-2-wildfire/91225093007/",
+        "title": "Helicopter battling wildfire crashes in Utah with 2 on board",
+        "snippet": "",
+        "url": "https://www.usatoday.com/story/news/nation/2026/08/08/firefighting-helicopter-crashes-utah-widemouth-2-wildfire/91225093007/",
+        "source": "USA Today",
+        "published_at": "08/08/2026, 01:40 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/dangerous-wildfire-keeps-crews-from-reaching-helicopter-crash-in-utah/article_4352d33b-eca5-5826-b144-50958cf70ccf.html",
+        "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/dangerous-wildfire-keeps-crews-from-reaching-helicopter-crash-in-utah/article_4352d33b-eca5-5826-b144-50958cf70ccf.html",
+        "source": "Toronto Star",
+        "published_at": "08/08/2026, 09:08 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.07,
+        "firms_frp_mw": 1.24,
+        "firms_brightness": 311.11,
+        "firms_acq_datetime": "2026-08-08 0915",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://whyy.org/articles/philadelphia-pa-wildfire-smoke-code-red-canada/",
+        "title": "Residents warned to stay indoors as Canadian wildfire smoke reaches dangerous levels in Philadelphia region",
+        "snippet": "",
+        "url": "https://whyy.org/articles/philadelphia-pa-wildfire-smoke-code-red-canada/",
+        "source": "WHYY",
+        "published_at": "07/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-09T08:28:42.270563+00:00",
+        "outlet_region": null,
+        "mention_text": "Philadelphia",
+        "osm_display": "Philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.02,
+        "firms_frp_mw": 0.33,
+        "firms_brightness": 301.21,
+        "firms_acq_datetime": "2026-08-08 0733",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-09T08:36:37.903506+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-08T08:35:03.941141+00:00",
-    "total_features": 542
+    "last_updated": "2026-08-09T08:36:37.906872+00:00",
+    "total_features": 551
   }
 }
