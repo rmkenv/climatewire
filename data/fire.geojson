@@ -18447,11 +18447,147 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-09T08:36:37.903506+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
+        "title": "Crews battle wildfires in western U.S. and Canada",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
+        "source": "NPR",
+        "published_at": "08/09/2026, 10:03 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-10T09:05:21.132386+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-10T09:17:12.161756+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kptv.com/2026/08/08/dangerous-wildfire-keeps-crews-reaching-helicopter-crash-utah/",
+        "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
+        "snippet": "",
+        "url": "https://www.kptv.com/2026/08/08/dangerous-wildfire-keeps-crews-reaching-helicopter-crash-utah/",
+        "source": "KPTV",
+        "published_at": "08/08/2026, 10:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-10T09:05:21.132386+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-10T09:17:12.161756+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.valleynewslive.com/2026/08/08/dangerous-wildfire-keeps-crews-reaching-helicopter-crash-utah/",
+        "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
+        "snippet": "",
+        "url": "https://www.valleynewslive.com/2026/08/08/dangerous-wildfire-keeps-crews-reaching-helicopter-crash-utah/",
+        "source": "Valley News Live",
+        "published_at": "08/08/2026, 10:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-10T09:05:21.132386+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-10T09:17:12.161756+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://organiser.org/2026/08/09/374274/world/utah-wildfire-kills-2-firefighters-in-helicopter-crash-catastrophic-firestorm-ravages-8000sq-miles-across-us/",
+        "title": "Utah wildfire kills 2 firefighters in helicopter crash; Catastrophic firestorm ravages 8,000sq miles across US",
+        "snippet": "",
+        "url": "https://organiser.org/2026/08/09/374274/world/utah-wildfire-kills-2-firefighters-in-helicopter-crash-catastrophic-firestorm-ravages-8000sq-miles-across-us/",
+        "source": "organiser.org",
+        "published_at": "08/09/2026, 08:34 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-10T09:05:21.132386+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-10T09:17:12.161756+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-09T08:36:37.906872+00:00",
-    "total_features": 551
+    "last_updated": "2026-08-10T09:17:12.165647+00:00",
+    "total_features": 555
   }
 }
