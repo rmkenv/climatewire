@@ -6052,11 +6052,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-09T10:36:19.042963+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.firstcoastnews.com/article/syndication/associatedpress/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/616-3f1226e9-9ad6-4897-8aff-43cf92cc2be2",
+        "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+        "snippet": "",
+        "url": "https://www.firstcoastnews.com/article/syndication/associatedpress/heat-dome-expands-across-the-central-united-states-creating-dangerous-conditions-for-millions/616-3f1226e9-9ad6-4897-8aff-43cf92cc2be2",
+        "source": "firstcoastnews.com",
+        "published_at": "07/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-11T10:40:28.592810+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "United States",
+        "osm_display": "United States, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-11T23:00",
+        "sensor_temp_f": 81.3,
+        "sensor_rh_pct": 80,
+        "sensor_wind_mph": 5.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 75.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-11T10:55:30.811549+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-10T11:11:39.213127+00:00",
-    "total_features": 178
+    "last_updated": "2026-08-11T10:55:30.815029+00:00",
+    "total_features": 179
   }
 }
