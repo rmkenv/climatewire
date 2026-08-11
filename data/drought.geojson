@@ -6632,11 +6632,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-08T12:50:10.546403+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/interactive/2026/03/21/climate/west-coast-heat-wave-water-shortage.html",
+        "title": "Across the West, Record Heat Is Colliding With a Snow Drought",
+        "snippet": "",
+        "url": "https://www.nytimes.com/interactive/2026/03/21/climate/west-coast-heat-wave-water-shortage.html",
+        "source": "nytimes.com",
+        "published_at": "03/21/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-11T12:57:12.223276+00:00",
+        "outlet_region": "New York",
+        "mention_text": "west coast",
+        "osm_display": "west coast, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-11T13:05:50.671731+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-10T13:09:29.965889+00:00",
-    "total_features": 243
+    "last_updated": "2026-08-11T13:05:50.673494+00:00",
+    "total_features": 244
   }
 }
