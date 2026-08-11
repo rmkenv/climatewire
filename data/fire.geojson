@@ -18583,11 +18583,249 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-08-10T09:17:12.161756+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4567400/washington-guard-continues-statewide-wildfire-support/",
+        "title": "Washington Guard Continues Statewide Wildfire Support",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4567400/washington-guard-continues-statewide-wildfire-support/",
+        "source": "nationalguard.mil",
+        "published_at": "08/10/2026, 05:25 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.65,
+        "firms_frp_mw": 0.43,
+        "firms_brightness": 295.4,
+        "firms_acq_datetime": "2026-08-10 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-snyder-babylon-ferris-and-gold-mountain-wildfires-in-colorado-and-utah",
+        "title": "Wildfire Map Spotlight: Snyder, Babylon, Ferris, and Gold Mountain Fires in Colorado and Utah",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-snyder-babylon-ferris-and-gold-mountain-wildfires-in-colorado-and-utah",
+        "source": "IQAir",
+        "published_at": "08/07/2026, 09:08 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/pilots-of-helicopter-that-crashed-while-fighting-wildfire-in-utah-are-dead-officials-say",
+        "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/pilots-of-helicopter-that-crashed-while-fighting-wildfire-in-utah-are-dead-officials-say",
+        "source": "PBS",
+        "published_at": "08/09/2026, 03:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.97,
+        "firms_frp_mw": 1.57,
+        "firms_brightness": 295.14,
+        "firms_acq_datetime": "2026-08-10 0837",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.flyingmag.com/2-pilots-killed-in-helicopter-crash-while-fighting-utah-wildfire/",
+        "title": "2 Pilots Killed in Helicopter Crash While Fighting Utah Wildfire",
+        "snippet": "",
+        "url": "https://www.flyingmag.com/2-pilots-killed-in-helicopter-crash-while-fighting-utah-wildfire/",
+        "source": "FLYING Magazine",
+        "published_at": "08/10/2026, 06:05 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.97,
+        "firms_frp_mw": 1.57,
+        "firms_brightness": 295.14,
+        "firms_acq_datetime": "2026-08-10 0837",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://people.com/2-firefighters-die-helicopter-crash-while-battling-utah-wildfire-12037296",
+        "title": "2 Firefighters Die in Helicopter Crash While Battling Massive Utah Wildfire as Incident Ignites Another Blaze",
+        "snippet": "",
+        "url": "https://people.com/2-firefighters-die-helicopter-crash-while-battling-utah-wildfire-12037296",
+        "source": "People.com",
+        "published_at": "08/10/2026, 03:21 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.97,
+        "firms_frp_mw": 1.57,
+        "firms_brightness": 295.14,
+        "firms_acq_datetime": "2026-08-10 0837",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aerotime.aero/articles/s-64-skycrane-crash-utah-wildfire-two-pilots-killed",
+        "title": "Two pilots killed in S-64 Skycrane crash while fighting Utah wildfire",
+        "snippet": "",
+        "url": "https://www.aerotime.aero/articles/s-64-skycrane-crash-utah-wildfire-two-pilots-killed",
+        "source": "AeroTime",
+        "published_at": "08/11/2026, 01:36 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Utah",
+        "mention_text": "Utah",
+        "osm_display": "Utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 90.97,
+        "firms_frp_mw": 1.57,
+        "firms_brightness": 295.14,
+        "firms_acq_datetime": "2026-08-10 0837",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/294343/washington_guard_responds_to_wildfires_across_state",
+        "title": "Washington Guard responds to wildfires across state",
+        "snippet": "",
+        "url": "https://www.army.mil/article/294343/washington_guard_responds_to_wildfires_across_state",
+        "source": "army.mil",
+        "published_at": "08/03/2026, 04:57 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-11T08:42:04.414977+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington Guard",
+        "osm_display": "Washington Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.65,
+        "firms_frp_mw": 0.43,
+        "firms_brightness": 295.4,
+        "firms_acq_datetime": "2026-08-10 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-11T08:54:00.802151+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-10T09:17:12.165647+00:00",
-    "total_features": 555
+    "last_updated": "2026-08-11T08:54:00.805577+00:00",
+    "total_features": 562
   }
 }
