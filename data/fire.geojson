@@ -18821,11 +18821,283 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-11T08:54:00.802151+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.war.gov/News/News-Stories/Article/Article/4568436/national-guard-continues-washington-wildfire-support/",
+        "title": "National Guard Continues Washington Wildfire Support",
+        "snippet": "",
+        "url": "https://www.war.gov/News/News-Stories/Article/Article/4568436/national-guard-continues-washington-wildfire-support/",
+        "source": "U.S. Department of War (.gov)",
+        "published_at": "08/11/2026, 06:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbur.org/news/2026/08/11/west-coast-washington-wildfire-smoke-new-england-hazy-skies",
+        "title": "Hazy skies overhead: West Coast wildfire smoke reaches New England",
+        "snippet": "",
+        "url": "https://www.wbur.org/news/2026/08/11/west-coast-washington-wildfire-smoke-new-england-hazy-skies",
+        "source": "wbur.org",
+        "published_at": "08/11/2026, 06:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": null,
+        "mention_text": "washington wildfire",
+        "osm_display": "washington wildfire",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktvb.com/article/news/local/idaho/federal-officials-tour-idaho-fire-sites-following-significant-western-wildfire-activity/277-e30aafb1-0dc7-43bb-ba38-438320f9e29e",
+        "title": "Federal officials tour Idaho fire sites following significant Western wildfire activity",
+        "snippet": "",
+        "url": "https://www.ktvb.com/article/news/local/idaho/federal-officials-tour-idaho-fire-sites-following-significant-western-wildfire-activity/277-e30aafb1-0dc7-43bb-ba38-438320f9e29e",
+        "source": "KTVB",
+        "published_at": "08/12/2026, 04:18 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://arkvalleyvoice.com/experts-warn-wildfire-could-pose-a-greater-long-term-threat-to-the-arkansas-river-than-drought/",
+        "title": "Experts Warn Wildfire Could Pose a Greater Long-Term Threat to the Arkansas River Than Drought",
+        "snippet": "",
+        "url": "https://arkvalleyvoice.com/experts-warn-wildfire-could-pose-a-greater-long-term-threat-to-the-arkansas-river-than-drought/",
+        "source": "Ark Valley Voice",
+        "published_at": "08/11/2026, 10:46 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": "Arkansas",
+        "mention_text": "the Arkansas River",
+        "osm_display": "the Arkansas River",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://missoulacurrent.com/washington-wildfire-victims/",
+        "title": "Washington state offers expanded assistance for wildfire victims",
+        "snippet": "",
+        "url": "https://missoulacurrent.com/washington-wildfire-victims/",
+        "source": "Missoula Current",
+        "published_at": "08/11/2026, 02:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.16996
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kalb.com/2026/08/11/is-louisiana-seeing-air-quality-impacts-wildfire-smoke/",
+        "title": "Is Louisiana seeing air quality impacts from wildfire smoke?",
+        "snippet": "",
+        "url": "https://www.kalb.com/2026/08/11/is-louisiana-seeing-air-quality-impacts-wildfire-smoke/",
+        "source": "KALB | News Channel 5",
+        "published_at": "08/11/2026, 03:22 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": "Louisiana",
+        "mention_text": "Louisiana",
+        "osm_display": "Louisiana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.politico.com/newsletters/california-currents/2026/08/10/the-wildfire-fight-newsom-cant-quit-01031974",
+        "title": "The wildfire fight Newsom can\u2019t quit",
+        "snippet": "",
+        "url": "https://www.politico.com/newsletters/california-currents/2026/08/10/the-wildfire-fight-newsom-cant-quit-01031974",
+        "source": "Politico",
+        "published_at": "08/10/2026, 11:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://edmidentity.com/2026/08/11/alderwild-nature-fund-launches/",
+        "title": "Camp Alderwild Launches Alderwild Nature Fund To Support Wildfire Relief In Colorado",
+        "snippet": "",
+        "url": "https://edmidentity.com/2026/08/11/alderwild-nature-fund-launches/",
+        "source": "EDM Identity",
+        "published_at": "08/12/2026, 12:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-12T08:59:14.880998+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-12T09:12:22.319260+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-11T08:54:00.805577+00:00",
-    "total_features": 562
+    "last_updated": "2026-08-12T09:12:22.323298+00:00",
+    "total_features": 570
   }
 }
