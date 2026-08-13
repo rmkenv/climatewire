@@ -6086,11 +6086,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-11T10:55:30.811549+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/heat-dome-record-breaking-temperatures-florida-texas-north-carolina-map-forecast-12315713",
+        "title": "Maps Show Where Weekend Heat Dome Threatens Record US Temperatures",
+        "snippet": "",
+        "url": "https://www.newsweek.com/heat-dome-record-breaking-temperatures-florida-texas-north-carolina-map-forecast-12315713",
+        "source": "Newsweek",
+        "published_at": "08/12/2026, 10:38 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-13T10:51:30.834594+00:00",
+        "outlet_region": null,
+        "mention_text": "florida",
+        "osm_display": "florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-13T23:00",
+        "sensor_temp_f": 82.4,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 4.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 76.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-13T11:05:27.971976+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfla.com/weather/weather-stories/sweltering-heat-dome-to-bake-florida-southeast/",
+        "title": "Sweltering heat dome to bake Florida, Southeast",
+        "snippet": "",
+        "url": "https://www.wfla.com/weather/weather-stories/sweltering-heat-dome-to-bake-florida-southeast/",
+        "source": "wfla.com",
+        "published_at": "08/12/2026, 09:38 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-13T10:51:30.834594+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-13T23:00",
+        "sensor_temp_f": 82.4,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 4.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 76.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-13T11:05:27.971976+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-12T11:06:32.935966+00:00",
-    "total_features": 179
+    "last_updated": "2026-08-13T11:05:27.976605+00:00",
+    "total_features": 181
   }
 }
