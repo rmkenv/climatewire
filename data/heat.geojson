@@ -6154,11 +6154,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-13T11:05:27.971976+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/new-heat-dome-to-spread-100-f-heat-from-texas-to-dakotas-this-weekend/1914210",
+        "title": "New heat dome to spread 100 F heat from Texas to Dakotas this weekend",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/new-heat-dome-to-spread-100-f-heat-from-texas-to-dakotas-this-weekend/1914210",
+        "source": "AccuWeather",
+        "published_at": "07/22/2026, 05:39 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-14T10:47:25.313356+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-14T23:00",
+        "sensor_temp_f": 84.7,
+        "sensor_rh_pct": 65,
+        "sensor_wind_mph": 17.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-14T11:02:01.903594+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-13T11:05:27.976605+00:00",
-    "total_features": 181
+    "last_updated": "2026-08-14T11:02:01.907522+00:00",
+    "total_features": 182
   }
 }
