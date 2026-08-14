@@ -19331,11 +19331,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-13T09:12:57.785397+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/294511/washington_national_guard_continues_statewide_wildfire_support",
+        "title": "Washington National Guard continues statewide wildfire support",
+        "snippet": "",
+        "url": "https://www.army.mil/article/294511/washington_national_guard_continues_statewide_wildfire_support",
+        "source": "army.mil",
+        "published_at": "08/10/2026, 04:36 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-14T08:56:29.982749+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington National Guard",
+        "osm_display": "Washington National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 18.23,
+        "firms_frp_mw": 1.29,
+        "firms_brightness": 298.41,
+        "firms_acq_datetime": "2026-08-13 0920",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-14T09:07:39.544788+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/13/us/timber-fire-big-sur.html",
+        "title": "Timber Fire Threatens California\u2019s Big Sur Region: What to Know",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/13/us/timber-fire-big-sur.html",
+        "source": "The New York Times",
+        "published_at": "08/13/2026, 07:02 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-14T08:56:29.982749+00:00",
+        "outlet_region": "California",
+        "mention_text": "Timber Fire Threatens California",
+        "osm_display": "Timber Fire Threatens California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-14T09:07:39.544788+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://lamag.com/environment/wildfires/lawmakers-demand-online-betting-guardrails-after-california-wildfire-prediction-market/",
+        "title": "Lawmakers Demand Online Betting Guardrails After California Wildfire Prediction Market",
+        "snippet": "",
+        "url": "https://lamag.com/environment/wildfires/lawmakers-demand-online-betting-guardrails-after-california-wildfire-prediction-market/",
+        "source": "LAmag",
+        "published_at": "08/12/2026, 07:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-14T08:56:29.982749+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-14T09:07:39.544788+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-13T09:12:57.789151+00:00",
-    "total_features": 577
+    "last_updated": "2026-08-14T09:07:39.548297+00:00",
+    "total_features": 580
   }
 }
