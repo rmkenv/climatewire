@@ -19433,11 +19433,79 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-14T09:07:39.544788+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+        "title": "Famed tourist destinations evacuated as wildfire threatens California\u2019s Big Sur",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/aug/11/big-sur-timber-fire-evacuations",
+        "source": "The Guardian",
+        "published_at": "08/11/2026, 01:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-16T08:15:28.389690+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 64.02,
+        "firms_frp_mw": 7.6,
+        "firms_brightness": 335.79,
+        "firms_acq_datetime": "2026-08-15 2008",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-16T08:24:45.159689+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/13/us/timber-fire-big-sur.html",
+        "title": "Wildfire Continues to Threaten California\u2019s Famed Big Sur Region",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/13/us/timber-fire-big-sur.html",
+        "source": "The New York Times",
+        "published_at": "08/13/2026, 05:57 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-16T08:15:28.389690+00:00",
+        "outlet_region": "California",
+        "mention_text": "Wildfire Continues",
+        "osm_display": "Wildfire Continues, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 64.02,
+        "firms_frp_mw": 7.6,
+        "firms_brightness": 335.79,
+        "firms_acq_datetime": "2026-08-15 2008",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-16T08:24:45.159689+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-15T08:24:39.954763+00:00",
-    "total_features": 580
+    "last_updated": "2026-08-16T08:24:45.163612+00:00",
+    "total_features": 582
   }
 }
