@@ -6188,11 +6188,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-14T11:02:01.903594+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/weather/stories-weather/south-florida-and-the-southeast-brace-for-intensifying-heat-dome/3846107/",
+        "title": "South Florida and the Southeast brace for intensifying heat dome",
+        "snippet": "",
+        "url": "https://www.nbcmiami.com/weather/stories-weather/south-florida-and-the-southeast-brace-for-intensifying-heat-dome/3846107/",
+        "source": "NBC 6 South Florida",
+        "published_at": "08/14/2026, 06:09 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-16T10:12:06.401063+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "South Florida",
+        "osm_display": "South Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-16T23:00",
+        "sensor_temp_f": 82.6,
+        "sensor_rh_pct": 79,
+        "sensor_wind_mph": 3.4,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 77.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-16T10:27:56.113078+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-15T10:25:41.241983+00:00",
-    "total_features": 182
+    "last_updated": "2026-08-16T10:27:56.117060+00:00",
+    "total_features": 183
   }
 }
