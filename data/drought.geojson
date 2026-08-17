@@ -6692,11 +6692,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-13T13:11:34.534896+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://komonews.com/news/local/washington-state-drought-emergency-spring-summer-winter-snow-snowpack-low-declare-warn-hot-dry-department-ecology-seattle-tacoma-seatac-everett-water-supply-crops-farmers-wildfire-fire-governor-jay-inslee-fish-wildlife",
+        "title": "Drought emergency declared for most of Washington state. Here's what that means",
+        "snippet": "",
+        "url": "https://komonews.com/news/local/washington-state-drought-emergency-spring-summer-winter-snow-snowpack-low-declare-warn-hot-dry-department-ecology-seattle-tacoma-seatac-everett-water-supply-crops-farmers-wildfire-fire-governor-jay-inslee-fish-wildlife",
+        "source": "KOMO",
+        "published_at": "04/16/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-17T12:37:36.868618+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-17T12:46:13.789738+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-16T12:41:42.937252+00:00",
-    "total_features": 245
+    "last_updated": "2026-08-17T12:46:13.791281+00:00",
+    "total_features": 246
   }
 }
