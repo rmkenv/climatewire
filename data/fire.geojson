@@ -19501,11 +19501,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-16T08:24:45.159689+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4573888/oregon-guard-supports-klamath-county-wildfire-evacuations/",
+        "title": "Oregon Guard Supports Klamath County Wildfire Evacuations",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4573888/oregon-guard-supports-klamath-county-wildfire-evacuations/",
+        "source": "nationalguard.mil",
+        "published_at": "08/14/2026, 01:58 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-17T08:29:55.957811+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon Guard Supports Klamath County Wildfire Evacuations",
+        "osm_display": "Oregon Guard Supports Klamath County Wildfire Evacuations",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 49.73,
+        "firms_frp_mw": 8.94,
+        "firms_brightness": 330.28,
+        "firms_acq_datetime": "2026-08-16 2131",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-17T08:41:06.006802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sltrib.com/news/politics/2026/08/15/trump-appointee-requested-aircraft/",
+        "title": "Report: Trump appointee asked aircraft to fight 7-acre wildfire near his Idaho ranch as Utah burned",
+        "snippet": "",
+        "url": "https://www.sltrib.com/news/politics/2026/08/15/trump-appointee-requested-aircraft/",
+        "source": "The Salt Lake Tribune",
+        "published_at": "08/15/2026, 12:06 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-17T08:29:55.957811+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-17T08:41:06.006802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chicagotribune.com/2026/07/21/canada-wildfires-smoke-illinois-pollution/",
+        "title": "More intense fires and unpredictable wind patterns likely to keep putting Illinois in path of wildfire smoke",
+        "snippet": "",
+        "url": "https://www.chicagotribune.com/2026/07/21/canada-wildfires-smoke-illinois-pollution/",
+        "source": "chicagotribune.com",
+        "published_at": "07/21/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-17T08:29:55.957811+00:00",
+        "outlet_region": "Illinois",
+        "mention_text": "Illinois",
+        "osm_display": "Illinois",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-17T08:41:06.006802+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-16T08:24:45.163612+00:00",
-    "total_features": 582
+    "last_updated": "2026-08-17T08:41:06.010647+00:00",
+    "total_features": 585
   }
 }
