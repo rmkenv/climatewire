@@ -6722,11 +6722,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-17T12:46:13.789738+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonpublicmedia.org/articles/news/texas/2026/03/10/545663/after-a-decade-of-missteps-a-texas-city-careens-toward-a-water-shortage-catastrophe/",
+        "title": "After a decade of missteps, Corpus Christi careens toward a water-shortage catastrophe",
+        "snippet": "",
+        "url": "https://www.houstonpublicmedia.org/articles/news/texas/2026/03/10/545663/after-a-decade-of-missteps-a-texas-city-careens-toward-a-water-shortage-catastrophe/",
+        "source": "Houston Public Media",
+        "published_at": "03/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-18T12:38:26.483511+00:00",
+        "outlet_region": null,
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-18T12:46:48.974137+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-17T12:46:13.791281+00:00",
-    "total_features": 246
+    "last_updated": "2026-08-18T12:46:48.975712+00:00",
+    "total_features": 247
   }
 }
