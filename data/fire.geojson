@@ -19603,11 +19603,113 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-17T08:41:06.006802+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article316909488.html",
+        "title": "Update: Wildfire in Fresno County in Fresno County - Aug. 17 status",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article316909488.html",
+        "source": "Sacramento Bee",
+        "published_at": "08/17/2026, 05:19 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-18T08:21:40.083377+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 54.74,
+        "firms_frp_mw": 0.48,
+        "firms_brightness": 305.73,
+        "firms_acq_datetime": "2026-08-17 0949",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-18T08:32:08.510314+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+        "title": "Oregon is on track for its worst wildfire season yet",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+        "source": "NPR",
+        "published_at": "07/29/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-18T08:21:40.083377+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 49.57,
+        "firms_frp_mw": 0.83,
+        "firms_brightness": 296.77,
+        "firms_acq_datetime": "2026-08-17 1128",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-18T08:32:08.510314+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://coloradosun.com/2026/07/14/busy-wildfire-seasons-tests-us-fire-bosses/",
+        "title": "Busy wildfire season tests US fire bosses as they juggle resources to stay ahead",
+        "snippet": "",
+        "url": "https://coloradosun.com/2026/07/14/busy-wildfire-seasons-tests-us-fire-bosses/",
+        "source": "coloradosun.com",
+        "published_at": "07/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-18T08:21:40.083377+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Busy",
+        "osm_display": "Busy, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 84.3,
+        "firms_frp_mw": 0.29,
+        "firms_brightness": 296.76,
+        "firms_acq_datetime": "2026-08-17 0947",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-18T08:32:08.510314+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-17T08:41:06.010647+00:00",
-    "total_features": 585
+    "last_updated": "2026-08-18T08:32:08.513296+00:00",
+    "total_features": 588
   }
 }
