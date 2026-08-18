@@ -1666,11 +1666,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-08-06T13:07:42.936837+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/08/06/us-news/puerto-rican-cities-hit-with-water-rationing-measures-as-record-dry-conditions-continue/",
+        "title": "Puerto Rican cities hit with water rationing measures as record dry conditions continue",
+        "snippet": "",
+        "url": "https://nypost.com/2026/08/06/us-news/puerto-rican-cities-hit-with-water-rationing-measures-as-record-dry-conditions-continue/",
+        "source": "nypost.com",
+        "published_at": "08/06/2026, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-08-18T11:25:48.683032+00:00",
+        "outlet_region": "New York",
+        "mention_text": "Puerto Rican",
+        "osm_display": "Puerto Rican, New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": "421948074483701",
+        "usgs_gw_name": "Local number, D-503, Bloomville NY",
+        "usgs_gw_dist_km": 21.5,
+        "usgs_gw_depth_ft": 5.88,
+        "run_at": "2026-08-18T11:33:37.293781+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-08-17T11:33:52.743658+00:00",
-    "total_features": 52
+    "last_updated": "2026-08-18T11:33:37.294377+00:00",
+    "total_features": 53
   }
 }
