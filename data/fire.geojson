@@ -19705,11 +19705,351 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-18T08:32:08.510314+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161087,
+          32.715736
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article316927700.html",
+        "title": "Update: Wildfire in San Diego County in San Diego County - Aug. 18 status",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article316927700.html",
+        "source": "Sacramento Bee",
+        "published_at": "08/19/2026, 02:29 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": null,
+        "mention_text": "San Diego County",
+        "osm_display": "San Diego County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 15.77,
+        "firms_frp_mw": 0.61,
+        "firms_brightness": 302.1,
+        "firms_acq_datetime": "2026-08-18 0932",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-washington-wildfires",
+        "title": "Wildfire Map Spotlight: Washington Wildfires",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-washington-wildfires",
+        "source": "IQAir",
+        "published_at": "08/18/2026, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.35,
+        "firms_frp_mw": 3.79,
+        "firms_brightness": 331.85,
+        "firms_acq_datetime": "2026-08-18 2053",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://capitalpress.com/2026/08/18/37-blazes-make-pacific-northwest-nations-wildfire-hotspot/",
+        "title": "37 blazes make Pacific Northwest nation\u2019s wildfire hotspot",
+        "snippet": "",
+        "url": "https://capitalpress.com/2026/08/18/37-blazes-make-pacific-northwest-nations-wildfire-hotspot/",
+        "source": "Capital Press",
+        "published_at": "08/18/2026, 03:17 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": null,
+        "mention_text": "Pacific Northwest",
+        "osm_display": "Pacific Northwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 64.53,
+        "firms_frp_mw": 0.62,
+        "firms_brightness": 301.81,
+        "firms_acq_datetime": "2026-08-18 1108",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/local/nevada-air-national-guard-c-130-heads-to-oregon-for-wildfire-fight/article_9df7938d-78c4-4b8a-8a18-6127abf72e8a.html",
+        "title": "Nevada Air National Guard C-130 heads to Oregon for wildfire fight",
+        "snippet": "",
+        "url": "https://www.2news.com/news/local/nevada-air-national-guard-c-130-heads-to-oregon-for-wildfire-fight/article_9df7938d-78c4-4b8a-8a18-6127abf72e8a.html",
+        "source": "KTVN",
+        "published_at": "08/18/2026, 05:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/294685/washington_guardsman_supports_wildfire_recovery",
+        "title": "Washington Guardsman supports Wildfire recovery",
+        "snippet": "",
+        "url": "https://www.army.mil/article/294685/washington_guardsman_supports_wildfire_recovery",
+        "source": "army.mil",
+        "published_at": "08/14/2026, 08:02 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.35,
+        "firms_frp_mw": 3.79,
+        "firms_brightness": 331.85,
+        "firms_acq_datetime": "2026-08-18 2053",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires",
+        "title": "Accused arsonist studied how to maximize Washington wildfire\u2019s harm, police say",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires",
+        "source": "The Guardian",
+        "published_at": "08/06/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.35,
+        "firms_frp_mw": 3.79,
+        "firms_brightness": 331.85,
+        "firms_acq_datetime": "2026-08-18 2053",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
+        "title": "Suspect in Washington state wildfire was questioned about blazes last year",
+        "snippet": "",
+        "url": "https://www.theguardian.com/world/2026/aug/05/suspect-washington-state-wildfire",
+        "source": "The Guardian",
+        "published_at": "08/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.35,
+        "firms_frp_mw": 3.79,
+        "firms_brightness": 331.85,
+        "firms_acq_datetime": "2026-08-18 2053",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/oregon-nears-all-time-wildfire-acreage-record-as-2026-fires-top-2-million-acres",
+        "title": "Oregon nears all-time wildfire acreage record as 2026 fires top 2 million acres",
+        "snippet": "",
+        "url": "https://katu.com/news/local/oregon-nears-all-time-wildfire-acreage-record-as-2026-fires-top-2-million-acres",
+        "source": "KATU",
+        "published_at": "08/03/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 49.44,
+        "firms_frp_mw": 1.0,
+        "firms_brightness": 309.47,
+        "firms_acq_datetime": "2026-08-18 1108",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained",
+        "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained",
+        "source": "Al Jazeera",
+        "published_at": "08/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.35,
+        "firms_frp_mw": 3.79,
+        "firms_brightness": 331.85,
+        "firms_acq_datetime": "2026-08-18 2053",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+        "title": "As North America grapples with destructive wildfires, \u2018super\u2019 El Ni\u00f1o may offer hope",
+        "snippet": "",
+        "url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+        "source": "latimes.com",
+        "published_at": "07/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-19T08:22:25.669009+00:00",
+        "outlet_region": "California",
+        "mention_text": "North America",
+        "osm_display": "North America, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-19T08:31:05.323479+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-18T08:32:08.513296+00:00",
-    "total_features": 588
+    "last_updated": "2026-08-19T08:31:05.327158+00:00",
+    "total_features": 598
   }
 }
