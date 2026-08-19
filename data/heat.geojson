@@ -6222,11 +6222,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-16T10:27:56.113078+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/video/heat-dome-over-the-southwestern-united-states/11952809/",
+        "title": "Heat dome over the Southwestern United States",
+        "snippet": "",
+        "url": "https://fox5sandiego.com/video/heat-dome-over-the-southwestern-united-states/11952809/",
+        "source": "fox5sandiego.com",
+        "published_at": "08/19/2026, 06:52 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-19T10:17:23.945184+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwestern United States",
+        "osm_display": "Southwestern United States",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-19T23:00",
+        "sensor_temp_f": 71.8,
+        "sensor_rh_pct": 56,
+        "sensor_wind_mph": 8.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 61.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-19T10:30:33.310665+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/miami-hits-100f-for-first-time-since-1942-amid-florida-heat-dome-12340691",
+        "title": "Miami Hits 100\u00b0F for First Time Since 1942 Amid Florida Heat Dome",
+        "snippet": "",
+        "url": "https://www.newsweek.com/miami-hits-100f-for-first-time-since-1942-amid-florida-heat-dome-12340691",
+        "source": "Newsweek",
+        "published_at": "08/19/2026, 09:09 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-19T10:17:23.945184+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Miami",
+        "osm_display": "Miami, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-19T23:00",
+        "sensor_temp_f": 82.4,
+        "sensor_rh_pct": 72,
+        "sensor_wind_mph": 5.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 75.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-19T10:30:33.310665+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/miami-hits-100-f-first-090907609.html",
+        "title": "Miami Hits 100\u00b0F for First Time Since 1942 Amid Florida Heat Dome",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/miami-hits-100-f-first-090907609.html",
+        "source": "Yahoo",
+        "published_at": "08/19/2026, 09:09 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-19T10:17:23.945184+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Miami",
+        "osm_display": "Miami, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-19T23:00",
+        "sensor_temp_f": 82.4,
+        "sensor_rh_pct": 72,
+        "sensor_wind_mph": 5.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 75.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-19T10:30:33.310665+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-18T10:30:33.974589+00:00",
-    "total_features": 183
+    "last_updated": "2026-08-19T10:30:33.313872+00:00",
+    "total_features": 186
   }
 }
