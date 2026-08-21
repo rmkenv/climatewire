@@ -6324,11 +6324,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-19T10:30:33.310665+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/08/20/parts-west-plains-texas-are-about-see-record-heat/",
+        "title": "Parts of the West, Plains and Texas are about to see record heat",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/08/20/parts-west-plains-texas-are-about-see-record-heat/",
+        "source": "The Washington Post",
+        "published_at": "08/20/2026, 09:37 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-21T10:18:39.486550+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-21T23:00",
+        "sensor_temp_f": 88.9,
+        "sensor_rh_pct": 38,
+        "sensor_wind_mph": 8.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-21T10:33:53.343564+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/news/travel-forecast-heat-dome-in-texas-stormy-plains/",
+        "title": "Travel forecast: Heat dome in Texas, stormy plains",
+        "snippet": "",
+        "url": "https://www.kxan.com/news/travel-forecast-heat-dome-in-texas-stormy-plains/",
+        "source": "KXAN Austin",
+        "published_at": "08/17/2026, 01:13 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-21T10:18:39.486550+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-21T23:00",
+        "sensor_temp_f": 88.9,
+        "sensor_rh_pct": 38,
+        "sensor_wind_mph": 8.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 72.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-21T10:33:53.343564+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-20T10:32:04.464835+00:00",
-    "total_features": 186
+    "last_updated": "2026-08-21T10:33:53.347461+00:00",
+    "total_features": 188
   }
 }
