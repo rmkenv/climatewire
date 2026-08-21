@@ -20283,11 +20283,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-20T08:32:53.494929+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://aerialfiremag.com/2026/08/20/nevada-air-guards-high-rollers-activate-aircraft-in-support-of-wildfire-firefighting-operations/",
+        "title": "Nevada Air Guard\u2019s \u2018High Rollers\u2019 Activate Aircraft in Support of Wildfire Firefighting Operations",
+        "snippet": "",
+        "url": "https://aerialfiremag.com/2026/08/20/nevada-air-guards-high-rollers-activate-aircraft-in-support-of-wildfire-firefighting-operations/",
+        "source": "AerialFire",
+        "published_at": "08/20/2026, 09:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-21T08:24:57.795317+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada Air Guard",
+        "osm_display": "Nevada Air Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-21T08:34:33.246614+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/local/nevada-extends-deadline-for-wildfire-snap-food-loss-replacement-requests/article_aacdf4fb-11c2-40aa-b376-0af86c4a6c71.html",
+        "title": "Nevada extends deadline for wildfire SNAP food loss replacement requests",
+        "snippet": "",
+        "url": "https://www.2news.com/news/local/nevada-extends-deadline-for-wildfire-snap-food-loss-replacement-requests/article_aacdf4fb-11c2-40aa-b376-0af86c4a6c71.html",
+        "source": "KTVN",
+        "published_at": "08/20/2026, 07:05 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-21T08:24:57.795317+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-21T08:34:33.246614+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+        "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+        "source": "NPR",
+        "published_at": "08/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-21T08:24:57.795317+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": 17.0,
+        "firms_frp_mw": 3.45,
+        "firms_brightness": 341.47,
+        "firms_acq_datetime": "2026-08-20 2155",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-21T08:34:33.246614+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-20T08:32:53.498634+00:00",
-    "total_features": 605
+    "last_updated": "2026-08-21T08:34:33.250384+00:00",
+    "total_features": 608
   }
 }
