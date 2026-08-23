@@ -20691,11 +20691,113 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-22T08:24:26.380925+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/top-news/articles/2026-08-23/brush-fire-in-nevada-grows-to-over-10-500-acres",
+        "title": "Brush Fire in Nevada Grows to Over 10,500 Acres",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/top-news/articles/2026-08-23/brush-fire-in-nevada-grows-to-over-10-500-acres",
+        "source": "U.S. News & World Report",
+        "published_at": "08/23/2026, 06:12 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-23T08:16:44.727949+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "nevada",
+        "osm_display": "nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-23T08:25:29.945499+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article316979228.html",
+        "title": "New wildfire reported in Mariposa County on June 26",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article316979228.html",
+        "source": "Sacramento Bee",
+        "published_at": "08/23/2026, 12:25 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-23T08:16:44.727949+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-23T08:25:29.945499+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lmtribune.com/local-news/report-as-idaho-wildfire-risk-grows-homeowners-insurance-costs-rise-d830b39d",
+        "title": "Report: As Idaho wildfire risk grows, homeowner\u2019s insurance costs rise",
+        "snippet": "",
+        "url": "https://www.lmtribune.com/local-news/report-as-idaho-wildfire-risk-grows-homeowners-insurance-costs-rise-d830b39d",
+        "source": "The Lewiston Tribune",
+        "published_at": "08/22/2026, 07:10 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-23T08:16:44.727949+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-23T08:25:29.945499+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-22T08:24:26.384385+00:00",
-    "total_features": 617
+    "last_updated": "2026-08-23T08:25:29.949461+00:00",
+    "total_features": 620
   }
 }
