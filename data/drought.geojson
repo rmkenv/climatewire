@@ -6752,11 +6752,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-18T12:46:48.974137+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/warm-springs-reservation-faces-critical-water-shortage-as-bench-fire-burns-nearby-oregon-tribal-land-devastation-public-health-emergency-wildfires",
+        "title": "Warm Springs Reservation faces critical water shortage as Bench Fire burns nearby",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/warm-springs-reservation-faces-critical-water-shortage-as-bench-fire-burns-nearby-oregon-tribal-land-devastation-public-health-emergency-wildfires",
+        "source": "KATU",
+        "published_at": "07/31/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-24T12:42:44.153384+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-24T12:50:51.103574+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-23T12:42:24.547571+00:00",
-    "total_features": 247
+    "last_updated": "2026-08-24T12:50:51.105107+00:00",
+    "total_features": 248
   }
 }
