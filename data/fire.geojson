@@ -20793,11 +20793,623 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-08-23T08:25:29.945499+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080",
+        "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+        "snippet": "",
+        "url": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080",
+        "source": "DW.com",
+        "published_at": "08/24/2026, 05:29 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Reno",
+        "osm_display": "Reno, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+        "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+        "source": "NPR",
+        "published_at": "08/24/2026, 03:47 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Reno",
+        "osm_display": "Reno, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada",
+        "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada",
+        "source": "Al Jazeera",
+        "published_at": "08/23/2026, 06:57 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
+        "title": "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/human-caused-wildfire-approaches-reno-nevada-forcing-thousands-of-evacuations",
+        "source": "PBS",
+        "published_at": "08/23/2026, 09:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Reno",
+        "osm_display": "Reno, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chinadailyasia.com/article/638401",
+        "title": "Fast-growing wildfire near US Nevada-California border injures 6, forces 42,000 to evacuate",
+        "snippet": "",
+        "url": "https://www.chinadailyasia.com/article/638401",
+        "source": "chinadailyasia.com",
+        "published_at": "08/24/2026, 05:54 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denvergazette.com/2026/08/23/firefighters-deaths-prompt-debate-over-100-suppression-wildfire-strategy/",
+        "title": "Firefighters\u2019 deaths prompt debate over 100% suppression wildfire strategy",
+        "snippet": "",
+        "url": "https://www.denvergazette.com/2026/08/23/firefighters-deaths-prompt-debate-over-100-suppression-wildfire-strategy/",
+        "source": "Denver Gazette",
+        "published_at": "08/24/2026, 12:29 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Firefighters",
+        "osm_display": "Firefighters, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/08/23/us/hawk-fire-nevada-governor-emergency-reno-hnk",
+        "title": "Human-caused wildfire near Reno, Nevada, prompts state of emergency as 90,000 urged to flee",
+        "snippet": "",
+        "url": "https://www.cnn.com/2026/08/23/us/hawk-fire-nevada-governor-emergency-reno-hnk",
+        "source": "CNN",
+        "published_at": "08/23/2026, 07:29 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Reno",
+        "osm_display": "Reno, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.insurancebusinessmag.com/us/news/catastrophe/reno-wildfire-hits-nevada-homes-under-its-brandnew-wildfire-exclusion-law-587100.aspx",
+        "title": "Reno wildfire hits Nevada homes under its brand-new wildfire exclusion law",
+        "snippet": "",
+        "url": "https://www.insurancebusinessmag.com/us/news/catastrophe/reno-wildfire-hits-nevada-homes-under-its-brandnew-wildfire-exclusion-law-587100.aspx",
+        "source": "Insurance Business",
+        "published_at": "08/24/2026, 03:49 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.381927,
+          44.693947
+        ]
+      },
+      "properties": {
+        "article_id": "https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/",
+        "title": "Burning Questions Confront Wildland Firefighters in Maine and Across New England",
+        "snippet": "",
+        "url": "https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/",
+        "source": "Inside Climate News",
+        "published_at": "08/23/2026, 09:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Maine",
+        "mention_text": "Maine",
+        "osm_display": "Maine",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+        "title": "California passes the toughest wildfire rules in the U.S. for home landscaping",
+        "snippet": "",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+        "source": "NPR",
+        "published_at": "08/19/2026, 11:19 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.sky.com/video/vertical-video-2-reno-wildfire-hub-001-13576514",
+        "title": "Wildfire in Reno, Nevada, tears through vehicles and buildings",
+        "snippet": "",
+        "url": "https://news.sky.com/video/vertical-video-2-reno-wildfire-hub-001-13576514",
+        "source": "Sky News",
+        "published_at": "08/24/2026, 06:32 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Reno",
+        "osm_display": "Reno, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
+        "title": "Nevada brush fire spreads to 10,500 acres as governor declares state of emergency",
+        "snippet": "",
+        "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
+        "source": "Fox News",
+        "published_at": "08/23/2026, 12:18 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://english.news.cn/20260824/0bcbc53e865446cc85b6c284dbaccba7/c.html",
+        "title": "Fast-growing wildfire near U.S. Nevada-California border forces thousands to evacuate",
+        "snippet": "",
+        "url": "https://english.news.cn/20260824/0bcbc53e865446cc85b6c284dbaccba7/c.html",
+        "source": "Xinhua",
+        "published_at": "08/23/2026, 06:21 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nzherald.co.nz/world/wildfire-nears-reno-nevada-in-western-us-more-than-40000-evacuate/IX4DNAECLBF37BRKK3RDRH45SM/",
+        "title": "More than 40,000 evacuate as wildfire rages in Nevada",
+        "snippet": "",
+        "url": "https://www.nzherald.co.nz/world/wildfire-nears-reno-nevada-in-western-us-more-than-40000-evacuate/IX4DNAECLBF37BRKK3RDRH45SM/",
+        "source": "NZ Herald",
+        "published_at": "08/24/2026, 03:01 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/fast-moving-wildfire-nevada-forces-200607000.html",
+        "title": "Fast-moving wildfire in Nevada forces 90,000 to evacuate was human caused: sheriff",
+        "snippet": "",
+        "url": "https://www.aol.com/articles/fast-moving-wildfire-nevada-forces-200607000.html",
+        "source": "AOL.com",
+        "published_at": "08/24/2026, 02:04 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thetravel.com/hawk-fire-reno-airport-closes-hotels-waive-fees-evacuees/",
+        "title": "Nevada Airport Closes As Hotels Waive Fees For Wildfire Evacuees",
+        "snippet": "",
+        "url": "https://www.thetravel.com/hawk-fire-reno-airport-closes-hotels-waive-fees-evacuees/",
+        "source": "TheTravel",
+        "published_at": "08/23/2026, 05:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada Airport Closes",
+        "osm_display": "Nevada Airport Closes",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/49-large-fires-burn-in-oregon-and-washington-as-smoke-worsens-air-quality-grasshopper-big-grass-rowe-creek-complex-pacific-northwest-timberline-lodge-government-camp-meadows-mount-hood-portland",
+        "title": "49 large fires burn in Oregon and Washington as smoke worsens air quality",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/49-large-fires-burn-in-oregon-and-washington-as-smoke-worsens-air-quality-grasshopper-big-grass-rowe-creek-complex-pacific-northwest-timberline-lodge-government-camp-meadows-mount-hood-portland",
+        "source": "KATU",
+        "published_at": "08/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676483,
+          45.523064
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/wildfire-smoke-arrives-in-portland-how-long-will-it-last-oregon-air-quality-noaa-surface-smoke-washngton-pacific-northwest-pnw-total-smoke-smog-pollution",
+        "title": "Wildfire smoke arrives in Portland, how long will it last?",
+        "snippet": "",
+        "url": "https://katu.com/news/local/wildfire-smoke-arrives-in-portland-how-long-will-it-last-oregon-air-quality-noaa-surface-smoke-washngton-pacific-northwest-pnw-total-smoke-smog-pollution",
+        "source": "KATU",
+        "published_at": "08/03/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-24T08:34:43.822874+00:00",
+        "outlet_region": null,
+        "mention_text": "Portland",
+        "osm_display": "Portland",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-08-24T08:46:43.157970+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-23T08:25:29.949461+00:00",
-    "total_features": 620
+    "last_updated": "2026-08-24T08:46:43.161806+00:00",
+    "total_features": 638
   }
 }
