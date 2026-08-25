@@ -6782,11 +6782,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-24T12:50:51.103574+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wcjb.com/2026/03/06/water-management-district-issues-severe-water-shortage-parts-northeast-florida/",
+        "title": "Water management district issues severe water shortage for parts of Northeast Florida",
+        "snippet": "",
+        "url": "https://www.wcjb.com/2026/03/06/water-management-district-issues-severe-water-shortage-parts-northeast-florida/",
+        "source": "WCJB",
+        "published_at": "03/06/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-25T12:41:18.677401+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Northeast Florida",
+        "osm_display": "Northeast Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-25T12:48:34.529919+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-24T12:50:51.105107+00:00",
-    "total_features": 248
+    "last_updated": "2026-08-25T12:48:34.531364+00:00",
+    "total_features": 249
   }
 }
