@@ -6392,11 +6392,181 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-21T10:33:53.343564+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.capradio.org/articles/2024/06/06/a-heat-dome-is-broiling-the-southwest-including-california-what-is-it/",
+        "title": "A heat dome is broiling the Southwest \u2014 including California. What is it?",
+        "snippet": "",
+        "url": "https://www.capradio.org/articles/2024/06/06/a-heat-dome-is-broiling-the-southwest-including-california-what-is-it/",
+        "source": "capradio.org",
+        "published_at": "06/06/2024, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-25T10:20:44.605615+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southwest",
+        "osm_display": "Southwest, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-25T23:00",
+        "sensor_temp_f": 85.1,
+        "sensor_rh_pct": 28,
+        "sensor_wind_mph": 11.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-25T10:35:11.197934+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507141,
+          39.318523
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.delawareonline.com/story/weather/2025/06/23/de-weather-heat-wave-heat-advisory-delaware/84315491007/",
+        "title": "Excessive heat warning expanded in Delaware as heat wave brings dangerous temperatures",
+        "snippet": "",
+        "url": "https://www.delawareonline.com/story/weather/2025/06/23/de-weather-heat-wave-heat-advisory-delaware/84315491007/",
+        "source": "The News Journal",
+        "published_at": "06/23/2025, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-25T10:20:44.605615+00:00",
+        "outlet_region": "Delaware",
+        "mention_text": "Delaware",
+        "osm_display": "Delaware",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_warning",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-08-25T10:35:11.197934+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/heat-dome-mexico-central-america-climate-florida-3afaec4f5339f7f9d107dc74341a16bc",
+        "title": "\u2018Heat dome\u2019 leads to sweltering temperatures in Mexico, Central America and US South",
+        "snippet": "",
+        "url": "https://apnews.com/article/heat-dome-mexico-central-america-climate-florida-3afaec4f5339f7f9d107dc74341a16bc",
+        "source": "AP News",
+        "published_at": "05/23/2024, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-25T10:20:44.605615+00:00",
+        "outlet_region": null,
+        "mention_text": "florida",
+        "osm_display": "florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-08-25T10:35:11.197934+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.worldweatherattribution.org/western-north-american-extreme-heat-virtually-impossible-without-human-caused-climate-change/",
+        "title": "Western North American extreme heat virtually impossible without human-caused climate change",
+        "snippet": "",
+        "url": "https://www.worldweatherattribution.org/western-north-american-extreme-heat-virtually-impossible-without-human-caused-climate-change/",
+        "source": "World Weather Attribution",
+        "published_at": "07/07/2021, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-25T10:20:44.605615+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Western North American",
+        "osm_display": "Western North American, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-08-25T10:35:11.197934+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.the-sun.com/news/16854855/extreme-heat-warning-south-us-texas-florida-oklahoma-georgia/",
+        "title": "'Threat to life' warning as 'monster' heat dome sparks temperatures 'hotter than the Sahara' across 12 US states",
+        "snippet": "",
+        "url": "https://www.the-sun.com/news/16854855/extreme-heat-warning-south-us-texas-florida-oklahoma-georgia/",
+        "source": "the-sun.com",
+        "published_at": "08/17/2026, 06:29 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-25T10:20:44.605615+00:00",
+        "outlet_region": null,
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-08-25T10:35:11.197934+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-24T10:42:57.623460+00:00",
-    "total_features": 188
+    "last_updated": "2026-08-25T10:35:11.200602+00:00",
+    "total_features": 193
   }
 }
