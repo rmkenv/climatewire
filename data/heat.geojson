@@ -6562,11 +6562,79 @@
         "wbgt_flag": null,
         "run_at": "2026-08-25T10:35:11.197934+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtonpost.com/weather/2026/08/25/relentless-heat-dome-is-expanding-texas-california-challenging-records/",
+        "title": "A relentless heat dome is expanding from Texas to California, challenging records",
+        "snippet": "",
+        "url": "https://www.washingtonpost.com/weather/2026/08/25/relentless-heat-dome-is-expanding-texas-california-challenging-records/",
+        "source": "The Washington Post",
+        "published_at": "08/25/2026, 05:28 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-26T10:23:10.242519+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-26T23:00",
+        "sensor_temp_f": 86.9,
+        "sensor_rh_pct": 45,
+        "sensor_wind_mph": 6.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 73.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-26T10:37:22.675631+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316707292.html",
+        "title": "Largest heat dome on Earth plus El Ni\u00f1o-fueled Genevieve to bake California this weekend",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/weather-news/article316707292.html",
+        "source": "Sacramento Bee",
+        "published_at": "07/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-26T10:23:10.242519+00:00",
+        "outlet_region": "California",
+        "mention_text": "Earth",
+        "osm_display": "Earth, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-26T23:00",
+        "sensor_temp_f": 84.6,
+        "sensor_rh_pct": 26,
+        "sensor_wind_mph": 9.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 65.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-26T10:37:22.675631+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-25T10:35:11.200602+00:00",
-    "total_features": 193
+    "last_updated": "2026-08-26T10:37:22.678296+00:00",
+    "total_features": 195
   }
 }
