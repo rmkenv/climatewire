@@ -22187,11 +22187,453 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-08-25T08:36:56.697421+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced",
+        "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
+        "snippet": "",
+        "url": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced",
+        "source": "Al Jazeera",
+        "published_at": "08/25/2026, 04:08 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/294861/montana_guard_chinook_crew_returns_from_washington_wildfire_mission",
+        "title": "Montana Guard Chinook crew returns from Washington wildfire mission",
+        "snippet": "",
+        "url": "https://www.army.mil/article/294861/montana_guard_chinook_crew_returns_from_washington_wildfire_mission",
+        "source": "army.mil",
+        "published_at": "08/25/2026, 04:10 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Washington",
+        "osm_display": "Washington, Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.26,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 298.44,
+        "firms_acq_datetime": "2026-08-25 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgw.com/article/tech/science/environment/environment-northwest-wildfire-smoke-threatens-cattle-health-milk-production/293-7467217a-8c22-480d-bd58-49e2417dfdef",
+        "title": "Environment Northwest: Wildfire smoke threatens cattle health & milk production in Pacific Northwest",
+        "snippet": "",
+        "url": "https://www.kgw.com/article/tech/science/environment/environment-northwest-wildfire-smoke-threatens-cattle-health-milk-production/293-7467217a-8c22-480d-bd58-49e2417dfdef",
+        "source": "KGW",
+        "published_at": "08/26/2026, 01:42 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Pacific Northwest",
+        "osm_display": "Pacific Northwest, Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 47.56,
+        "firms_frp_mw": 1.57,
+        "firms_brightness": 304.36,
+        "firms_acq_datetime": "2026-08-25 1038",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.montanarightnow.com/montana/montana-army-national-guard-crew-back-home-after-wildfire-mission-in-wenatchee/article_a68dbba2-2010-4038-8b94-e09da4f2b851.html",
+        "title": "Montana Army National Guard crew back home after wildfire mission in Wenatchee",
+        "snippet": "",
+        "url": "https://www.montanarightnow.com/montana/montana-army-national-guard-crew-back-home-after-wildfire-mission-in-wenatchee/article_a68dbba2-2010-4038-8b94-e09da4f2b851.html",
+        "source": "Nonstop Local News Montana",
+        "published_at": "08/26/2026, 12:14 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Montana Army National Guard",
+        "osm_display": "Montana Army National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.26,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 298.44,
+        "firms_acq_datetime": "2026-08-25 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/national/arizona-firefighter-dies-battling-wildfire-new-mexico/75-dcc40c60-6edf-4d71-837d-cc75d264f531",
+        "title": "Arizona firefighter dies battling wildfire in New Mexico",
+        "snippet": "",
+        "url": "https://www.12news.com/article/news/national/arizona-firefighter-dies-battling-wildfire-new-mexico/75-dcc40c60-6edf-4d71-837d-cc75d264f531",
+        "source": "12News",
+        "published_at": "08/25/2026, 03:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 63.07,
+        "firms_frp_mw": 1.36,
+        "firms_brightness": 313.82,
+        "firms_acq_datetime": "2026-08-25 0900",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+        "title": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+        "source": "The New York Times",
+        "published_at": "08/24/2026, 03:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.montanarightnow.com/fires/montana-army-national-guard-crew-returns-after-helping-fight-washington-wildfire/article_6e2b7009-9f49-4fa3-b5e8-f8f1e36de3f8.html",
+        "title": "Montana Army National Guard crew returns after helping fight Washington wildfire",
+        "snippet": "",
+        "url": "https://www.montanarightnow.com/fires/montana-army-national-guard-crew-returns-after-helping-fight-washington-wildfire/article_6e2b7009-9f49-4fa3-b5e8-f8f1e36de3f8.html",
+        "source": "Nonstop Local News Montana",
+        "published_at": "08/25/2026, 06:25 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Washington",
+        "osm_display": "Washington, Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.26,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 298.44,
+        "firms_acq_datetime": "2026-08-25 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/heat-drought-continue-fueling-wildfire-risk-from-texas-to-california-and-washington/1926665",
+        "title": "Heat, drought continue fueling wildfire risk from Texas to California and Washington",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/heat-drought-continue-fueling-wildfire-risk-from-texas-to-california-and-washington/1926665",
+        "source": "AccuWeather",
+        "published_at": "08/25/2026, 07:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 24.51,
+        "firms_frp_mw": 2.16,
+        "firms_brightness": 311.15,
+        "firms_acq_datetime": "2026-08-25 0900",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com/news/world/united-states/evacuations-ordered-in-rural-texas-as-wildfire-mushrooms-within-hours/article_92a3d1bf-b667-54af-9850-147329383191.html",
+        "title": "Texas wildfire mushrooms within hours, ripping through ranchlands",
+        "snippet": "",
+        "url": "https://www.thestar.com/news/world/united-states/evacuations-ordered-in-rural-texas-as-wildfire-mushrooms-within-hours/article_92a3d1bf-b667-54af-9850-147329383191.html",
+        "source": "Toronto Star",
+        "published_at": "08/25/2026, 03:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 24.51,
+        "firms_frp_mw": 2.16,
+        "firms_brightness": 311.15,
+        "firms_acq_datetime": "2026-08-25 0900",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ynetnews.com/article/b14remcdmx",
+        "title": "Nevada wildfire threatens Reno as 90,000 evacuate amid record US fire season",
+        "snippet": "",
+        "url": "https://www.ynetnews.com/article/b14remcdmx",
+        "source": "Ynetnews",
+        "published_at": "08/24/2026, 08:11 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/national-news/articles/2026-08-25/todays-news-canada-tariffs-trump-iran-sanctions-nevada-wildfire",
+        "title": "Today\u2019s News: Sanctions for Iran, Tariffs for Canada and a Wildfire in Nevada",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/national-news/articles/2026-08-25/todays-news-canada-tariffs-trump-iran-sanctions-nevada-wildfire",
+        "source": "U.S. News & World Report",
+        "published_at": "08/25/2026, 12:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Iran",
+        "osm_display": "Iran, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9887934/montana-army-national-guard-chinook-crew-returns-after-supporting-washington-wildfire-suppression",
+        "title": "Montana Army National Guard Chinook Crew Returns After Supporting Washington Wildfire Suppression",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9887934/montana-army-national-guard-chinook-crew-returns-after-supporting-washington-wildfire-suppression",
+        "source": "DVIDS",
+        "published_at": "08/25/2026, 03:09 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Montana",
+        "mention_text": "Supporting",
+        "osm_display": "Supporting, Montana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.26,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 298.44,
+        "firms_acq_datetime": "2026-08-25 1036",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.globaltimes.cn/page/202608/1368881.shtml",
+        "title": "Fast-growing wildfire near US Nevada-California border forces thousands to evacuate",
+        "snippet": "",
+        "url": "https://www.globaltimes.cn/page/202608/1368881.shtml",
+        "source": "Global Times",
+        "published_at": "08/24/2026, 05:12 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-26T08:28:48.387719+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-26T08:36:48.018028+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-25T08:36:56.701583+00:00",
-    "total_features": 661
+    "last_updated": "2026-08-26T08:36:48.021122+00:00",
+    "total_features": 674
   }
 }
