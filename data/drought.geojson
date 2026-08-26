@@ -6812,11 +6812,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-25T12:48:34.529919+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/06/05/colorado-governor-jared-polis-declares-statewide-drought-emergency-as-93-percent-of-state-faces-severe-conditions",
+        "title": "Colorado Governor Jared Polis Declares Statewide Drought Emergency as 93 Percent of State Faces Severe Conditions",
+        "snippet": "",
+        "url": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/06/05/colorado-governor-jared-polis-declares-statewide-drought-emergency-as-93-percent-of-state-faces-severe-conditions",
+        "source": "NBC Palm Springs",
+        "published_at": "06/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-26T12:44:45.491455+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-26T12:52:58.800282+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13seattle.com/news/drought-emergency-declared-in-all-of-washington-except-these-cities",
+        "title": "WA to adopt federal regulations on PFAS in drinking water",
+        "snippet": "",
+        "url": "https://www.fox13seattle.com/news/drought-emergency-declared-in-all-of-washington-except-these-cities",
+        "source": "FOX 13 Seattle",
+        "published_at": "04/16/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-26T12:44:45.491455+00:00",
+        "outlet_region": null,
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-26T12:52:58.800282+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-25T12:48:34.531364+00:00",
-    "total_features": 249
+    "last_updated": "2026-08-26T12:52:58.801746+00:00",
+    "total_features": 251
   }
 }
