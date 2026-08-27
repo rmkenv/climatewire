@@ -1701,11 +1701,46 @@
         "usgs_gw_depth_ft": 5.88,
         "run_at": "2026-08-18T11:33:37.293781+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktul.com/news/local/city-of-bethany-oklahoma-stage-2-stage-4-water-rationing-booster-pumps-watering-schedule-heat-heatwave-june-30-2022",
+        "title": "City of Bethany upgrades water rationing to Stage 4",
+        "snippet": "",
+        "url": "https://ktul.com/news/local/city-of-bethany-oklahoma-stage-2-stage-4-water-rationing-booster-pumps-watering-schedule-heat-heatwave-june-30-2022",
+        "source": "KTUL",
+        "published_at": "06/30/2022, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-08-27T20:55:26.253205+00:00",
+        "outlet_region": null,
+        "mention_text": "oklahoma",
+        "osm_display": "oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-08-27T21:03:39.875414+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-08-26T11:38:15.705601+00:00",
-    "total_features": 53
+    "last_updated": "2026-08-27T21:03:39.876034+00:00",
+    "total_features": 54
   }
 }
