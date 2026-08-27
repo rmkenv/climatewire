@@ -6630,11 +6630,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-26T10:37:22.675631+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/heat-dome-to-bounce-back-in-mississippi-valley-east-as-west-cools-down/1927235",
+        "title": "Heat dome to bounce back in Mississippi Valley, East as West cools down",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/heat-dome-to-bounce-back-in-mississippi-valley-east-as-west-cools-down/1927235",
+        "source": "AccuWeather",
+        "published_at": "08/27/2026, 06:12 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-27T20:02:44.361382+00:00",
+        "outlet_region": "Mississippi",
+        "mention_text": "Mississippi Valley",
+        "osm_display": "Mississippi Valley",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-27T23:00",
+        "sensor_temp_f": 77.2,
+        "sensor_rh_pct": 83,
+        "sensor_wind_mph": 2.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 73.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-27T20:17:48.464822+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.093731,
+          34.048928
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ft.com/content/ab090526-171c-4e85-b70b-65999fdc5c43?syn-25a6b1a6=1",
+        "title": "Heat dome leaves US Southwest facing \u2018dangerous\u2019 temperatures",
+        "snippet": "",
+        "url": "https://www.ft.com/content/ab090526-171c-4e85-b70b-65999fdc5c43?syn-25a6b1a6=1",
+        "source": "Financial Times",
+        "published_at": "08/26/2026, 04:58 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-27T20:02:44.361382+00:00",
+        "outlet_region": null,
+        "mention_text": "Southwest",
+        "osm_display": "Southwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-27T23:00",
+        "sensor_temp_f": 81.7,
+        "sensor_rh_pct": 25,
+        "sensor_wind_mph": 11.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 62.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-27T20:17:48.464822+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-26T10:37:22.678296+00:00",
-    "total_features": 195
+    "last_updated": "2026-08-27T20:17:48.466825+00:00",
+    "total_features": 197
   }
 }
