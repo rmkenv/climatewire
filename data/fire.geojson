@@ -22629,11 +22629,215 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-26T08:36:48.018028+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616508,
+          44.268543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wpr.org/news/wildfire-smoke-air-pollution-rock-county-asthma-rates-among-the-highest-wisconsin",
+        "title": "Wildfire smoke raises air pollution concerns in Rock County, where asthma rates are among the highest in Wisconsin",
+        "snippet": "",
+        "url": "https://www.wpr.org/news/wildfire-smoke-air-pollution-rock-county-asthma-rates-among-the-highest-wisconsin",
+        "source": "WPR",
+        "published_at": "08/27/2026, 10:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-27T18:28:45.144730+00:00",
+        "outlet_region": "Wisconsin",
+        "mention_text": "Rock County",
+        "osm_display": "Rock County, Wisconsin",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 30.41,
+        "firms_frp_mw": 0.68,
+        "firms_brightness": 297.04,
+        "firms_acq_datetime": "2026-08-27 0818",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-27T18:39:38.760826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dallasnews.com/news/weather/article/texas-biggest-historical-wildfires-22404518.php",
+        "title": "Map: See the largest wildfires in Texas history",
+        "snippet": "",
+        "url": "https://www.dallasnews.com/news/weather/article/texas-biggest-historical-wildfires-22404518.php",
+        "source": "Dallas News",
+        "published_at": "08/27/2026, 06:02 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-27T18:28:45.144730+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 72.89,
+        "firms_frp_mw": 0.65,
+        "firms_brightness": 311.43,
+        "firms_acq_datetime": "2026-08-26 0839",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-27T18:39:38.760826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+        "title": "Firefighters Grapple With Nevada Blaze That Drove Thousands From Homes",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+        "source": "The New York Times",
+        "published_at": "08/24/2026, 03:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-27T18:28:45.144730+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "nevada",
+        "osm_display": "nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-27T18:39:38.760826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/newsroom/wildfire-map-spotlight-bug-and-stallion-fires-nevada",
+        "title": "Wildfire Map Spotlight: Bug and Stallion Fires, Nevada",
+        "snippet": "",
+        "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-bug-and-stallion-fires-nevada",
+        "source": "IQAir",
+        "published_at": "08/24/2026, 08:46 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-27T18:28:45.144730+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-27T18:39:38.760826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krem.com/article/tech/science/environment/environment-northwest/environment-northwest-wildfire-smoke-threatens-cattle-health-milk-production/293-7467217a-8c22-480d-bd58-49e2417dfdef",
+        "title": "Environment Northwest: Wildfire smoke threatens cattle health & milk production in Pacific Northwest",
+        "snippet": "",
+        "url": "https://www.krem.com/article/tech/science/environment/environment-northwest/environment-northwest-wildfire-smoke-threatens-cattle-health-milk-production/293-7467217a-8c22-480d-bd58-49e2417dfdef",
+        "source": "KREM",
+        "published_at": "08/26/2026, 01:42 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-27T18:28:45.144730+00:00",
+        "outlet_region": null,
+        "mention_text": "Pacific Northwest",
+        "osm_display": "Pacific Northwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 38.36,
+        "firms_frp_mw": 1.74,
+        "firms_brightness": 327.47,
+        "firms_acq_datetime": "2026-08-26 1017",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-27T18:39:38.760826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mesabitribune.com/news/local/northern-minnesota-wildfire-containment-grows/article_0535f811-afcc-41df-893a-518c297fab13.html",
+        "title": "Northern Minnesota wildfire containment grows",
+        "snippet": "",
+        "url": "https://www.mesabitribune.com/news/local/northern-minnesota-wildfire-containment-grows/article_0535f811-afcc-41df-893a-518c297fab13.html",
+        "source": "Mesabi Tribune",
+        "published_at": "08/26/2026, 10:55 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-27T18:28:45.144730+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Northern Minnesota",
+        "osm_display": "Northern Minnesota, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "containment_update",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-27T18:39:38.760826+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-26T08:36:48.021122+00:00",
-    "total_features": 674
+    "last_updated": "2026-08-27T18:39:38.764551+00:00",
+    "total_features": 680
   }
 }
