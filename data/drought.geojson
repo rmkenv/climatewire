@@ -6872,11 +6872,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-26T12:52:58.800282+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eenews.net/articles/water-shortage-threatens-texas-refining-hub/",
+        "title": "Water shortage threatens Texas refining hub",
+        "snippet": "",
+        "url": "https://www.eenews.net/articles/water-shortage-threatens-texas-refining-hub/",
+        "source": "E&E News by POLITICO",
+        "published_at": "10/27/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-27T21:43:14.170512+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-27T21:51:15.572067+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      },
+      "properties": {
+        "article_id": "https://krcgtv.com/news/local/parson-issues-another-drought-declaration-for-missouri",
+        "title": "Parson issues another drought declaration for Missouri",
+        "snippet": "",
+        "url": "https://krcgtv.com/news/local/parson-issues-another-drought-declaration-for-missouri",
+        "source": "KRCG",
+        "published_at": "10/29/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-27T21:43:14.170512+00:00",
+        "outlet_region": "Missouri",
+        "mention_text": "Missouri",
+        "osm_display": "Missouri",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-27T21:51:15.572067+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-26T12:52:58.801746+00:00",
-    "total_features": 251
+    "last_updated": "2026-08-27T21:51:15.573515+00:00",
+    "total_features": 253
   }
 }
