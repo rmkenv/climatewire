@@ -6698,11 +6698,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-27T20:17:48.464822+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstormchasers.com/forecast/last-storm-chances-today-before-the-heat-dome-returns-texas-weather-roundup-8-28/",
+        "title": "Last Storm Chances Today Before the Heat Dome Returns | Texas Weather Roundup 8/28",
+        "snippet": "",
+        "url": "https://texasstormchasers.com/forecast/last-storm-chances-today-before-the-heat-dome-returns-texas-weather-roundup-8-28/",
+        "source": "Texas Storm Chasers",
+        "published_at": "08/28/2026, 05:02 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-28T21:01:24.163720+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-28T23:00",
+        "sensor_temp_f": 83.3,
+        "sensor_rh_pct": 67,
+        "sensor_wind_mph": 13.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-28T21:17:04.456169+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-27T20:17:48.466825+00:00",
-    "total_features": 197
+    "last_updated": "2026-08-28T21:17:04.459954+00:00",
+    "total_features": 198
   }
 }
