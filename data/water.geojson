@@ -1736,11 +1736,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-08-27T21:03:39.875414+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/city-of-bethany-oklahoma-stage-2-stage-4-water-rationing-booster-pumps-watering-schedule-heat-heatwave-june-30-2022",
+        "title": "City of Bethany upgrades water rationing to Stage 4",
+        "snippet": "",
+        "url": "https://okcfox.com/news/local/city-of-bethany-oklahoma-stage-2-stage-4-water-rationing-booster-pumps-watering-schedule-heat-heatwave-june-30-2022",
+        "source": "KOKH",
+        "published_at": "06/30/2022, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-08-28T21:19:52.753454+00:00",
+        "outlet_region": null,
+        "mention_text": "oklahoma",
+        "osm_display": "oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "07242380",
+        "usgs_streamflow_name": "Deep Fork at Warwick, OK",
+        "usgs_streamflow_dist_km": 14.72,
+        "usgs_streamflow_cfs": 11.5,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-08-28T21:28:40.921961+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-08-27T21:03:39.876034+00:00",
-    "total_features": 54
+    "last_updated": "2026-08-28T21:28:40.922705+00:00",
+    "total_features": 55
   }
 }
