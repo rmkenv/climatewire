@@ -6932,11 +6932,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-27T21:51:15.572067+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://local21news.com/news/local/mifflin-county-distributes-bottled-water-as-water-shortage-continues-lewistown-milroy-pennsylvania-pa-laurel-creek-reservoir",
+        "title": "Mifflin County distributes bottled water as water shortage continues",
+        "snippet": "",
+        "url": "https://local21news.com/news/local/mifflin-county-distributes-bottled-water-as-water-shortage-continues-lewistown-milroy-pennsylvania-pa-laurel-creek-reservoir",
+        "source": "local21news.com",
+        "published_at": "04/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-28T21:42:32.273558+00:00",
+        "outlet_region": null,
+        "mention_text": "pennsylvania",
+        "osm_display": "pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-28T21:50:46.234824+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-27T21:51:15.573515+00:00",
-    "total_features": 253
+    "last_updated": "2026-08-28T21:50:46.236054+00:00",
+    "total_features": 254
   }
 }
