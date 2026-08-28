@@ -22833,11 +22833,113 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-27T18:39:38.760826+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/videos/cy0zr8lkr8lo",
+        "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+        "snippet": "",
+        "url": "https://www.bbc.com/news/videos/cy0zr8lkr8lo",
+        "source": "BBC",
+        "published_at": "08/24/2026, 10:05 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-28T19:43:44.224665+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Nevada",
+        "osm_display": "Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-28T19:52:36.486793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.055374,
+          38.313515
+        ]
+      },
+      "properties": {
+        "article_id": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-aae2f4b77e2d4aa5678b365a2ee377e6",
+        "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate",
+        "snippet": "",
+        "url": "https://apnews.com/article/hawk-fire-reno-nevada-evacuations-aae2f4b77e2d4aa5678b365a2ee377e6",
+        "source": "AP News",
+        "published_at": "08/24/2026, 06:42 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-28T19:43:44.224665+00:00",
+        "outlet_region": "Nevada",
+        "mention_text": "Reno",
+        "osm_display": "Reno, Nevada",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-28T19:52:36.486793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nomadlawyer.org/us-wildfire-emergency-2026-texas-ross-fire-nevada-outdoor-tourism-disruption",
+        "title": "US Wildfire Emergency 2026",
+        "snippet": "",
+        "url": "https://www.nomadlawyer.org/us-wildfire-emergency-2026-texas-ross-fire-nevada-outdoor-tourism-disruption",
+        "source": "Nomad Lawyer",
+        "published_at": "08/26/2026, 05:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-28T19:43:44.224665+00:00",
+        "outlet_region": null,
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 27.11,
+        "firms_frp_mw": 7.39,
+        "firms_brightness": 339.03,
+        "firms_acq_datetime": "2026-08-27 1940",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-28T19:52:36.486793+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-27T18:39:38.764551+00:00",
-    "total_features": 680
+    "last_updated": "2026-08-28T19:52:36.491175+00:00",
+    "total_features": 683
   }
 }
