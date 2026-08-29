@@ -22935,11 +22935,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-28T19:52:36.486793+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/294820/washington_national_guard_continues_wildfire_response",
+        "title": "Washington National Guard continues wildfire response",
+        "snippet": "",
+        "url": "https://www.army.mil/article/294820/washington_national_guard_continues_wildfire_response",
+        "source": "army.mil",
+        "published_at": "08/21/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-29T13:27:06.960854+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington National Guard",
+        "osm_display": "Washington National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 16.43,
+        "firms_frp_mw": 3.77,
+        "firms_brightness": 333.56,
+        "firms_acq_datetime": "2026-08-28 2106",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-29T13:37:07.185921+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesmanjournal.com/story/news/wildfires/2026/08/02/2026-oregon-wildfires-set-record-for-acres-burned/91138377007/",
+        "title": "Oregon wildfires near record for acres burned, new fires spark evacuations",
+        "snippet": "",
+        "url": "https://www.statesmanjournal.com/story/news/wildfires/2026/08/02/2026-oregon-wildfires-set-record-for-acres-burned/91138377007/",
+        "source": "Statesman Journal",
+        "published_at": "08/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-29T13:27:06.960854+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "active_fire",
+        "firms_dist_km": 48.14,
+        "firms_frp_mw": 3.83,
+        "firms_brightness": 341.47,
+        "firms_acq_datetime": "2026-08-28 2106",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-29T13:37:07.185921+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-28T19:52:36.491175+00:00",
-    "total_features": 683
+    "last_updated": "2026-08-29T13:37:07.190099+00:00",
+    "total_features": 685
   }
 }
