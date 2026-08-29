@@ -6732,11 +6732,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-28T21:17:04.456169+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/heat-dome-to-bounce-back-in-mississippi-valley-mid-atlantic-as-west-cools-down/1927235",
+        "title": "Heat dome to bounce back in Mississippi Valley, mid-Atlantic as West cools down",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/heat-dome-to-bounce-back-in-mississippi-valley-mid-atlantic-as-west-cools-down/1927235",
+        "source": "AccuWeather",
+        "published_at": "08/29/2026, 09:13 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-29T14:46:36.854782+00:00",
+        "outlet_region": "Mississippi",
+        "mention_text": "Mississippi Valley",
+        "osm_display": "Mississippi Valley",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-29T23:00",
+        "sensor_temp_f": 78.8,
+        "sensor_rh_pct": 58,
+        "sensor_wind_mph": 2.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 70.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-29T15:00:27.835039+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/heat-dome-settles-over-florida-with-feels-like-temperatures-near-110",
+        "title": "Heat dome settles over Florida with feels-like temperatures near 110",
+        "snippet": "",
+        "url": "https://cbs12.com/news/local/heat-dome-settles-over-florida-with-feels-like-temperatures-near-110",
+        "source": "WPEC",
+        "published_at": "08/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-29T14:46:36.854782+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Florida",
+        "osm_display": "Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-29T23:00",
+        "sensor_temp_f": 76.5,
+        "sensor_rh_pct": 89,
+        "sensor_wind_mph": 0.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-29T15:00:27.835039+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-28T21:17:04.459954+00:00",
-    "total_features": 198
+    "last_updated": "2026-08-29T15:00:27.841200+00:00",
+    "total_features": 200
   }
 }
