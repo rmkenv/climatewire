@@ -23003,11 +23003,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-08-29T13:37:07.185921+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/wildfire-season/austin-fire-tops-10000-acres-in-clackamas-county-still-0-contained-wildfires-oregon-evacuations",
+        "title": "Austin Fire tops 10,000 acres in Clackamas County; still 0% contained",
+        "snippet": "",
+        "url": "https://katu.com/news/wildfire-season/austin-fire-tops-10000-acres-in-clackamas-county-still-0-contained-wildfires-oregon-evacuations",
+        "source": "KATU",
+        "published_at": "08/29/2026, 12:34 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-30T13:23:29.570362+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 47.98,
+        "firms_frp_mw": 1.41,
+        "firms_brightness": 297.94,
+        "firms_acq_datetime": "2026-08-29 1102",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-30T13:34:28.159526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/railroad-south-fire-large-wildfire-near-indiahoma-oklahoma-destroys-buildings-check-map-as-scary-visuals-emerge-101788065240102.html",
+        "title": "Railroad South Fire: Large wildfire near Indiahoma, Oklahoma destroys buildings; check map as scary visuals emerge | Hindustan Times",
+        "snippet": "",
+        "url": "https://www.hindustantimes.com/world-news/us-news/railroad-south-fire-large-wildfire-near-indiahoma-oklahoma-destroys-buildings-check-map-as-scary-visuals-emerge-101788065240102.html",
+        "source": "Hindustan Times",
+        "published_at": "08/30/2026, 04:55 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-30T13:23:29.570362+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Indiahoma",
+        "osm_display": "Indiahoma, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 54.97,
+        "firms_frp_mw": 1.4,
+        "firms_brightness": 316.36,
+        "firms_acq_datetime": "2026-08-29 0744",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-30T13:34:28.159526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/81129-governor-gavin-newsom-announces-california-has-deployed-3-372-personnel-and-258-pieces-of-equipment-since-june-to-support-wildfire-flood-and-earthquake-response-in-12-states-and-two-countries",
+        "title": "Governor Gavin Newsom Announces California Has Deployed 3,372 Personnel and 258 Pieces of Equipment Since June to Support Wildfire, Flood, and Earthquake Response in 12 States and Two Countries",
+        "snippet": "",
+        "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/81129-governor-gavin-newsom-announces-california-has-deployed-3-372-personnel-and-258-pieces-of-equipment-since-june-to-support-wildfire-flood-and-earthquake-response-in-12-states-and-two-countries",
+        "source": "Sierra Sun Times",
+        "published_at": "08/28/2026, 12:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-30T13:23:29.570362+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-30T13:34:28.159526+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-29T13:37:07.190099+00:00",
-    "total_features": 685
+    "last_updated": "2026-08-30T13:34:28.164039+00:00",
+    "total_features": 688
   }
 }
