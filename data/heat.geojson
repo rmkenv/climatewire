@@ -6800,11 +6800,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-29T15:00:27.835039+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahoman.com/story/weather/2026/08/29/oklahoma-heat-dome-to-linger-through-september-nws-says/91507213007/",
+        "title": "Oklahoma heat dome to linger through September, forecasters say",
+        "snippet": "",
+        "url": "https://www.oklahoman.com/story/weather/2026/08/29/oklahoma-heat-dome-to-linger-through-september-nws-says/91507213007/",
+        "source": "The Oklahoman",
+        "published_at": "08/29/2026, 10:03 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-08-31T17:17:04.973816+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-08-31T23:00",
+        "sensor_temp_f": 83.7,
+        "sensor_rh_pct": 40,
+        "sensor_wind_mph": 7.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 68.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-08-31T17:33:14.000618+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-08-30T14:49:41.626703+00:00",
-    "total_features": 200
+    "last_updated": "2026-08-31T17:33:14.005596+00:00",
+    "total_features": 201
   }
 }
