@@ -6962,11 +6962,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-28T21:50:46.234824+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eia.gov/todayinenergy/detail.php?id=63664",
+        "title": "Drought conditions reduce hydropower generation, particularly in the Pacific Northwest",
+        "snippet": "",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=63664",
+        "source": "U.S. Energy Information Administration (EIA) (.gov)",
+        "published_at": "11/07/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-08-31T18:44:11.581679+00:00",
+        "outlet_region": null,
+        "mention_text": "Pacific Northwest",
+        "osm_display": "Pacific Northwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-08-31T18:53:43.289579+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-08-30T16:10:28.522308+00:00",
-    "total_features": 254
+    "last_updated": "2026-08-31T18:53:43.291036+00:00",
+    "total_features": 255
   }
 }
