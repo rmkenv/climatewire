@@ -23105,11 +23105,147 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-30T13:34:28.159526+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://idahocapitalsun.com/2026/08/28/dems-push-trump-administration-for-investigation-into-wildfire-response-near-borens-idaho-ranch/",
+        "title": "Dems push Trump administration for investigation into wildfire response near Boren\u2019s Idaho ranch",
+        "snippet": "",
+        "url": "https://idahocapitalsun.com/2026/08/28/dems-push-trump-administration-for-investigation-into-wildfire-response-near-borens-idaho-ranch/",
+        "source": "Idaho Capital Sun",
+        "published_at": "08/28/2026, 07:47 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-31T15:36:56.832176+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 95.82,
+        "firms_frp_mw": 8.68,
+        "firms_brightness": 343.01,
+        "firms_acq_datetime": "2026-08-30 2027",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-31T15:48:43.900510+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid",
+        "title": "Los Angeles fire survivors face record wait for federal disaster aid under Trump",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid",
+        "source": "The Guardian",
+        "published_at": "08/28/2026, 10:39 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-31T15:36:56.832176+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles",
+        "osm_display": "Los Angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 11.89,
+        "firms_frp_mw": 2.11,
+        "firms_brightness": 299.23,
+        "firms_acq_datetime": "2026-08-30 0905",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-31T15:48:43.900510+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/us/articles/oregons-josephine-county-highest-us-025900246.html",
+        "title": "Oregon's Josephine County has the highest US wildfire-smoke death rate as haze becomes a season",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/us/articles/oregons-josephine-county-highest-us-025900246.html",
+        "source": "Yahoo",
+        "published_at": "08/31/2026, 02:59 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-31T15:36:56.832176+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 47.72,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 297.95,
+        "firms_acq_datetime": "2026-08-31 1026",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-08-31T15:48:43.900510+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/news/2026/08/federal-wildlife-officer-dies-while-helping-family-escape-wildfire.html",
+        "title": "Federal wildlife officer dies while helping family escape wildfire",
+        "snippet": "",
+        "url": "https://www.mlive.com/news/2026/08/federal-wildlife-officer-dies-while-helping-family-escape-wildfire.html",
+        "source": "MLive.com",
+        "published_at": "08/31/2026, 03:28 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-08-31T15:36:56.832176+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Federal",
+        "osm_display": "Federal, Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-08-31T15:48:43.900510+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-30T13:34:28.164039+00:00",
-    "total_features": 688
+    "last_updated": "2026-08-31T15:48:43.904960+00:00",
+    "total_features": 692
   }
 }
