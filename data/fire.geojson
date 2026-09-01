@@ -23241,11 +23241,79 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-08-31T15:48:43.900510+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/wildlife-officer-killed-during-oklahoma-wildfire-evacuations",
+        "title": "Wildlife officer killed during Oklahoma wildfire evacuations",
+        "snippet": "",
+        "url": "https://okcfox.com/news/local/wildlife-officer-killed-during-oklahoma-wildfire-evacuations",
+        "source": "KOKH",
+        "published_at": "08/31/2026, 04:09 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-01T12:51:30.569538+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 23.67,
+        "firms_frp_mw": 1.44,
+        "firms_brightness": 309.06,
+        "firms_acq_datetime": "2026-08-31 0845",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-01T13:03:41.415884+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/los-angeles-county-hits-state-farm-with-lawsuit-over-wildfire-claims-handling-588037.aspx",
+        "title": "Los Angeles County hits State Farm with lawsuit over wildfire claims handling",
+        "snippet": "",
+        "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/los-angeles-county-hits-state-farm-with-lawsuit-over-wildfire-claims-handling-588037.aspx",
+        "source": "Insurance Business",
+        "published_at": "08/31/2026, 08:36 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-01T12:51:30.569538+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles County",
+        "osm_display": "Los Angeles County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 11.96,
+        "firms_frp_mw": 0.79,
+        "firms_brightness": 299.9,
+        "firms_acq_datetime": "2026-09-01 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-01T13:03:41.415884+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-08-31T15:48:43.904960+00:00",
-    "total_features": 692
+    "last_updated": "2026-09-01T13:03:41.419893+00:00",
+    "total_features": 694
   }
 }
