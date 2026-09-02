@@ -6992,11 +6992,101 @@
         "usdm_in_drought": null,
         "run_at": "2026-08-31T18:53:43.289579+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/over-90-of-oregon-facing-severe-drought-conditions-or-worse",
+        "title": "Over 90% of Oregon facing Severe Drought conditions - or worse",
+        "snippet": "",
+        "url": "https://katu.com/news/local/over-90-of-oregon-facing-severe-drought-conditions-or-worse",
+        "source": "KATU",
+        "published_at": "07/22/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-02T15:56:27.723653+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-02T16:04:55.409391+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reuters.com/world/us/arizona-restricts-phoenix-home-construction-amid-water-shortage-2023-06-02/",
+        "title": "Arizona restricts Phoenix home construction amid water shortage",
+        "snippet": "",
+        "url": "https://www.reuters.com/world/us/arizona-restricts-phoenix-home-construction-amid-water-shortage-2023-06-02/",
+        "source": "Reuters",
+        "published_at": "06/01/2023, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-02T15:56:27.723653+00:00",
+        "outlet_region": "Arizona",
+        "mention_text": "Arizona",
+        "osm_display": "Arizona",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-02T16:04:55.409391+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/tiny-sliver-of-oregon-drought-free-after-6-months-most-of-state-remains-abnormally-dry",
+        "title": "Tiny sliver of Oregon now drought-free, but most of state remains abnormally dry",
+        "snippet": "",
+        "url": "https://katu.com/news/local/tiny-sliver-of-oregon-drought-free-after-6-months-most-of-state-remains-abnormally-dry",
+        "source": "KATU",
+        "published_at": "11/05/2021, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-02T15:56:27.723653+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-02T16:04:55.409391+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-01T16:11:54.134077+00:00",
-    "total_features": 255
+    "last_updated": "2026-09-02T16:04:55.411112+00:00",
+    "total_features": 258
   }
 }
