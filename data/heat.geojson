@@ -6834,11 +6834,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-08-31T17:33:14.000618+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tennessean.com/story/weather/2026/09/02/nashville-heat-dome-labor-day-weekend-forecast/91564253007/",
+        "title": "Nashville heat dome to bring dangerous temperatures through Labor Day weekend",
+        "snippet": "",
+        "url": "https://www.tennessean.com/story/weather/2026/09/02/nashville-heat-dome-labor-day-weekend-forecast/91564253007/",
+        "source": "The Tennessean",
+        "published_at": "09/02/2026, 09:01 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-02T13:56:44.519895+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Nashville",
+        "osm_display": "Nashville, Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-02T23:00",
+        "sensor_temp_f": 82.8,
+        "sensor_rh_pct": 37,
+        "sensor_wind_mph": 1.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-02T14:12:38.255852+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox56news.com/news/kentucky/heat-dome-scorches-kentucky-where-will-records-be-broken/",
+        "title": "Heat dome scorches US: Where will records be broken?",
+        "snippet": "",
+        "url": "https://fox56news.com/news/kentucky/heat-dome-scorches-kentucky-where-will-records-be-broken/",
+        "source": "FOX 56 News",
+        "published_at": "07/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-02T13:56:44.519895+00:00",
+        "outlet_region": null,
+        "mention_text": "kentucky",
+        "osm_display": "kentucky",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-02T23:00",
+        "sensor_temp_f": 81.3,
+        "sensor_rh_pct": 52,
+        "sensor_wind_mph": 4.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 71.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-02T14:12:38.255852+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-09-01T14:37:30.174773+00:00",
-    "total_features": 201
+    "last_updated": "2026-09-02T14:12:38.259500+00:00",
+    "total_features": 203
   }
 }
