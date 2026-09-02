@@ -23309,11 +23309,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-01T13:03:41.415884+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/science/environment/california-wildfire-smoke-standards-bill-contamination-homes-rcna595507",
+        "title": "When is it safe to return home after a wildfire? California becomes first state to pass standards",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/science/environment/california-wildfire-smoke-standards-bill-contamination-homes-rcna595507",
+        "source": "NBC News",
+        "published_at": "09/01/2026, 07:04 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-02T12:21:24.247566+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 73.08,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 301.66,
+        "firms_acq_datetime": "2026-09-01 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-02T12:30:51.216613+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/california-wildfires/article/plaskett-fire-timber-big-sur-22413049.php",
+        "title": "Plaskett Fire in Big Sur has become California\u2019s second largest wildfire of 2026",
+        "snippet": "",
+        "url": "https://www.sfchronicle.com/california-wildfires/article/plaskett-fire-timber-big-sur-22413049.php",
+        "source": "San Francisco Chronicle",
+        "published_at": "09/01/2026, 08:43 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-02T12:21:24.247566+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "California",
+        "osm_display": "California, Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 73.08,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 301.66,
+        "firms_acq_datetime": "2026-09-01 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-02T12:30:51.216613+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.112997,
+          36.106965
+        ]
+      },
+      "properties": {
+        "article_id": "https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/",
+        "title": "At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks",
+        "snippet": "",
+        "url": "https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/",
+        "source": "Inside Climate News",
+        "published_at": "09/01/2026, 10:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-02T12:21:24.247566+00:00",
+        "outlet_region": null,
+        "mention_text": "the Grand Canyon",
+        "osm_display": "the Grand Canyon",
+        "osm_type": "park",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-02T12:30:51.216613+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/us/articles/2026-08-31/state-farm-sued-by-los-angeles-county-for-allegedly-mishandling-wildfire-claims",
+        "title": "State Farm Sued by Los Angeles County for Allegedly Mishandling Wildfire Claims",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/us/articles/2026-08-31/state-farm-sued-by-los-angeles-county-for-allegedly-mishandling-wildfire-claims",
+        "source": "U.S. News & World Report",
+        "published_at": "08/31/2026, 08:41 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-02T12:21:24.247566+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles County",
+        "osm_display": "Los Angeles County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 11.96,
+        "firms_frp_mw": 0.79,
+        "firms_brightness": 299.9,
+        "firms_acq_datetime": "2026-09-01 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-02T12:30:51.216613+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://communityimpact.com/central-austin/weather/austin-leads-us-wildfire-risk-outside-california/",
+        "title": "Austin leads US wildfire risk outside California",
+        "snippet": "",
+        "url": "https://communityimpact.com/central-austin/weather/austin-leads-us-wildfire-risk-outside-california/",
+        "source": "Community Impact",
+        "published_at": "08/27/2026, 10:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-02T12:21:24.247566+00:00",
+        "outlet_region": "California",
+        "mention_text": "Austin",
+        "osm_display": "Austin, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 73.08,
+        "firms_frp_mw": 0.57,
+        "firms_brightness": 301.66,
+        "firms_acq_datetime": "2026-09-01 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-02T12:30:51.216613+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-01T13:03:41.419893+00:00",
-    "total_features": 694
+    "last_updated": "2026-09-02T12:30:51.219921+00:00",
+    "total_features": 699
   }
 }
