@@ -1771,11 +1771,81 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-08-28T21:28:40.921961+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396381,
+          27.800583
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/news/us-news/corpus-christi-water-ban-here-s-what-know-about-possible-n697386",
+        "title": "Don't drink the water: What to know about Corpus Christi's ban",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/news/us-news/corpus-christi-water-ban-here-s-what-know-about-possible-n697386",
+        "source": "nbcnews.com",
+        "published_at": "12/17/2016, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-09-03T14:53:50.824443+00:00",
+        "outlet_region": null,
+        "mention_text": "Corpus Christi",
+        "osm_display": "Corpus Christi",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-09-03T15:02:09.808615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2015/04/02/us/california-imposes-first-ever-water-restrictions-to-deal-with-drought.html",
+        "title": "California Imposes First Mandatory Water Restrictions to Deal With Drought (Published 2015)",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2015/04/02/us/california-imposes-first-ever-water-restrictions-to-deal-with-drought.html",
+        "source": "The New York Times",
+        "published_at": "04/01/2015, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-09-03T14:53:50.824443+00:00",
+        "outlet_region": "California",
+        "mention_text": "California Imposes First Mandatory Water Restrictions",
+        "osm_display": "California Imposes First Mandatory Water Restrictions",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-09-03T15:02:09.808615+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-09-02T15:09:07.988896+00:00",
-    "total_features": 55
+    "last_updated": "2026-09-03T15:02:09.809351+00:00",
+    "total_features": 57
   }
 }
