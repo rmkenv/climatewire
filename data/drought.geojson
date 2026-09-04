@@ -7082,11 +7082,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-02T16:04:55.409391+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2026/04/08/washington-state-drought-water-emergency/",
+        "title": "Another year, another drought emergency declared in Washington state",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2026/04/08/washington-state-drought-water-emergency/",
+        "source": "opb.org",
+        "published_at": "04/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-04T15:44:18.291246+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-04T15:52:15.212208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/pacific-northwest-news/2026/06/oregon-drought-emergencies-declared-in-over-half-of-the-states-counties.html",
+        "title": "Oregon drought emergencies declared in over half of the state\u2019s counties",
+        "snippet": "",
+        "url": "https://www.oregonlive.com/pacific-northwest-news/2026/06/oregon-drought-emergencies-declared-in-over-half-of-the-states-counties.html",
+        "source": "OregonLive.com",
+        "published_at": "06/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-04T15:44:18.291246+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-04T15:52:15.212208+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-03T15:45:27.145547+00:00",
-    "total_features": 258
+    "last_updated": "2026-09-04T15:52:15.213719+00:00",
+    "total_features": 260
   }
 }
