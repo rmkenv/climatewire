@@ -1841,11 +1841,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-09-03T15:02:09.808615+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://californiapolicycenter.org/water-rationing-law-exemplifies-the-malthusian-mentality-of-californias-legislators/",
+        "title": "Water Rationing Laws Exemplify the Malthusian Mentality of California\u2019s Legislators",
+        "snippet": "",
+        "url": "https://californiapolicycenter.org/water-rationing-law-exemplifies-the-malthusian-mentality-of-californias-legislators/",
+        "source": "California Policy Center",
+        "published_at": "06/12/2018, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-09-07T16:18:35.194425+00:00",
+        "outlet_region": "California",
+        "mention_text": "Water Rationing Laws Exemplify",
+        "osm_display": "Water Rationing Laws Exemplify, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 453.83,
+        "run_at": "2026-09-07T16:25:57.935369+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-09-06T13:59:27.985900+00:00",
-    "total_features": 57
+    "last_updated": "2026-09-07T16:25:57.936161+00:00",
+    "total_features": 58
   }
 }
