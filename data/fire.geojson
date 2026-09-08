@@ -23819,11 +23819,45 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-09-07T13:57:04.691734+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khq.com/news/550-washington-national-guard-members-return-after-fighting-wildfires-across-the-state/article_2ecc55d8-4d84-478b-854f-d2435122f33b.html",
+        "title": "550 Washington National Guard members return after fighting wildfires across the state",
+        "snippet": "",
+        "url": "https://www.khq.com/news/550-washington-national-guard-members-return-after-fighting-wildfires-across-the-state/article_2ecc55d8-4d84-478b-854f-d2435122f33b.html",
+        "source": "NonStop Local KHQ",
+        "published_at": "09/07/2026, 09:11 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-08T12:21:14.635717+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington National Guard",
+        "osm_display": "Washington National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 74.95,
+        "firms_frp_mw": 1.28,
+        "firms_brightness": 296.71,
+        "firms_acq_datetime": "2026-09-07 0952",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-08T12:35:51.753486+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-07T13:57:04.696192+00:00",
-    "total_features": 709
+    "last_updated": "2026-09-08T12:35:51.757873+00:00",
+    "total_features": 710
   }
 }
