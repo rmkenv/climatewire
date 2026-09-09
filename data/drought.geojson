@@ -7142,11 +7142,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-04T15:52:15.212208+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.walb.com/2025/11/20/exceptional-drought-develops-parts-big-bend-south-georgia/",
+        "title": "Exceptional drought develops for parts of Big Bend and South Georgia",
+        "snippet": "",
+        "url": "https://www.walb.com/2025/11/20/exceptional-drought-develops-parts-big-bend-south-georgia/",
+        "source": "WALB",
+        "published_at": "11/20/2025, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-09T15:53:22.412746+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "South Georgia",
+        "osm_display": "South Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-09T16:02:02.938769+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-08T16:06:11.819831+00:00",
-    "total_features": 260
+    "last_updated": "2026-09-09T16:02:02.940421+00:00",
+    "total_features": 261
   }
 }
