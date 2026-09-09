@@ -23853,11 +23853,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-08T12:35:51.753486+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/295146/washington_national_guard_concludes_extended_wildfire_response",
+        "title": "Washington National Guard concludes extended wildfire response",
+        "snippet": "",
+        "url": "https://www.army.mil/article/295146/washington_national_guard_concludes_extended_wildfire_response",
+        "source": "army.mil",
+        "published_at": "09/08/2026, 06:02 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-09T12:32:49.667975+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington National Guard",
+        "osm_display": "Washington National Guard",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 66.47,
+        "firms_frp_mw": 0.69,
+        "firms_brightness": 300.78,
+        "firms_acq_datetime": "2026-09-08 1115",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-09T12:42:43.700886+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-08T12:35:51.757873+00:00",
-    "total_features": 710
+    "last_updated": "2026-09-09T12:42:43.704829+00:00",
+    "total_features": 711
   }
 }
