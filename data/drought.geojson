@@ -7172,11 +7172,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-09T16:02:02.938769+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/rain-eases-drought-eastern-plains-exceptional-conditions-tighten-across-mountains",
+        "title": "Rain eases drought on eastern plains as exceptional conditions tighten across the mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/rain-eases-drought-eastern-plains-exceptional-conditions-tighten-across-mountains",
+        "source": "kiowacountypress.net",
+        "published_at": "08/21/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-10T15:48:37.874167+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Rain",
+        "osm_display": "Rain, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-10T15:57:45.020323+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-09T16:02:02.940421+00:00",
-    "total_features": 261
+    "last_updated": "2026-09-10T15:57:45.022398+00:00",
+    "total_features": 262
   }
 }
