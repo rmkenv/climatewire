@@ -7202,11 +7202,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-10T15:57:45.020323+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-deepens-across-colorados-central-mountains",
+        "title": "Exceptional drought deepens across Colorado's central mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-deepens-across-colorados-central-mountains",
+        "source": "Kiowa County Press",
+        "published_at": "09/10/2026, 07:52 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-11T15:50:28.755860+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-11T16:00:15.048482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wunc.org/environment/2026-06-19/north-carolinas-drought-status-2026",
+        "title": "N.C. drought update Sept. 10: Rain brings relief to eastern North Carolina",
+        "snippet": "",
+        "url": "https://www.wunc.org/environment/2026-06-19/north-carolinas-drought-status-2026",
+        "source": "WUNC News",
+        "published_at": "06/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-11T15:50:28.755860+00:00",
+        "outlet_region": "North Carolina",
+        "mention_text": "N.C.",
+        "osm_display": "N.C., North Carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-11T16:00:15.048482+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-10T15:57:45.022398+00:00",
-    "total_features": 262
+    "last_updated": "2026-09-11T16:00:15.049803+00:00",
+    "total_features": 264
   }
 }
