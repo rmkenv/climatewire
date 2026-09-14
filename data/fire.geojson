@@ -24159,11 +24159,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-13T13:04:58.409739+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=1536",
+        "title": "Michigan Republicans: Canada's Apologies Won't Clear Michigan's Skies",
+        "snippet": "",
+        "url": "https://bergman.house.gov/news/documentsingle.aspx?DocumentID=1536",
+        "source": "U.S. Representative Jack Bergman (.gov)",
+        "published_at": "07/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-14T14:31:54.359621+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 61.28,
+        "firms_frp_mw": 0.3,
+        "firms_brightness": 296.6,
+        "firms_acq_datetime": "2026-09-14 0739",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-14T14:43:28.240190+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-13T13:04:58.414482+00:00",
-    "total_features": 719
+    "last_updated": "2026-09-14T14:43:28.244634+00:00",
+    "total_features": 720
   }
 }
