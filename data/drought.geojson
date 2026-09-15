@@ -7262,11 +7262,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-11T16:00:15.048482+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://capitalpress.com/2026/08/17/drought-update-impacts-on-oregon-idaho-and-washington/",
+        "title": "Drought Update: Impacts on Oregon, Idaho and Washington",
+        "snippet": "",
+        "url": "https://capitalpress.com/2026/08/17/drought-update-impacts-on-oregon-idaho-and-washington/",
+        "source": "Capital Press",
+        "published_at": "08/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-15T16:12:56.008783+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-15T16:21:28.507383+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postindependent.com/news/colorado-drought-conditions-emergency-headwaters-state",
+        "title": "How did Colorado get here? Understanding the drought emergency in the headwaters state",
+        "snippet": "",
+        "url": "https://www.postindependent.com/news/colorado-drought-conditions-emergency-headwaters-state",
+        "source": "Post Independent",
+        "published_at": "06/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-15T16:12:56.008783+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-15T16:21:28.507383+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-14T17:47:52.202060+00:00",
-    "total_features": 264
+    "last_updated": "2026-09-15T16:21:28.508988+00:00",
+    "total_features": 266
   }
 }
