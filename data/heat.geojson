@@ -6902,11 +6902,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-09-02T14:12:38.255852+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.indiatoday.in/science/story/us-heat-dome-texas-tennessee-september-donald-trump-climate-change-extreme-2995696-2026-09-16",
+        "title": "US should have cooled down in autumn. Instead, it's baking under a giant heat dome",
+        "snippet": "",
+        "url": "https://www.indiatoday.in/science/story/us-heat-dome-texas-tennessee-september-donald-trump-climate-change-extreme-2995696-2026-09-16",
+        "source": "India Today",
+        "published_at": "09/16/2026, 07:16 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-16T14:26:46.274247+00:00",
+        "outlet_region": null,
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-16T23:00",
+        "sensor_temp_f": 84.7,
+        "sensor_rh_pct": 48,
+        "sensor_wind_mph": 3.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 73.4,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-16T14:38:52.242734+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/nj-weather-forecast-heat-dome-180412111.html",
+        "title": "NJ weather forecast: Will the heat dome reach New Jersey this week.",
+        "snippet": "",
+        "url": "https://www.yahoo.com/news/weather-news/articles/nj-weather-forecast-heat-dome-180412111.html",
+        "source": "Yahoo",
+        "published_at": "09/15/2026, 06:04 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-16T14:26:46.274247+00:00",
+        "outlet_region": "New Jersey",
+        "mention_text": "New Jersey",
+        "osm_display": "New Jersey",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-16T23:00",
+        "sensor_temp_f": 66.9,
+        "sensor_rh_pct": 82,
+        "sensor_wind_mph": 5.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 62.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-16T14:38:52.242734+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-09-15T14:45:27.662665+00:00",
-    "total_features": 203
+    "last_updated": "2026-09-16T14:38:52.244174+00:00",
+    "total_features": 205
   }
 }
