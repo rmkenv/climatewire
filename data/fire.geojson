@@ -24329,11 +24329,79 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-09-16T13:10:21.288607+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/nation-world/video-shows-fireworks-shot-from-truck-blamed-for-deadly-washington-state-wildfire?teaserSource=trending",
+        "title": "Video shows fireworks shot from truck blamed for deadly Washington state wildfire",
+        "snippet": "",
+        "url": "https://news4sanantonio.com/news/nation-world/video-shows-fireworks-shot-from-truck-blamed-for-deadly-washington-state-wildfire?teaserSource=trending",
+        "source": "WOAI",
+        "published_at": "09/16/2026, 03:56 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-17T12:51:00.480418+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 42.02,
+        "firms_frp_mw": 0.44,
+        "firms_brightness": 297.38,
+        "firms_acq_datetime": "2026-09-16 1024",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-17T13:19:55.431793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165222,
+          39.952583
+        ]
+      },
+      "properties": {
+        "article_id": "https://whyy.org/articles/philadelphia-pa-wildfire-smoke-code-red-canada/",
+        "title": "Philly area residents warned to stay indoors as Canadian wildfire smoke worsens",
+        "snippet": "",
+        "url": "https://whyy.org/articles/philadelphia-pa-wildfire-smoke-code-red-canada/",
+        "source": "WHYY",
+        "published_at": "07/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-17T12:51:00.480418+00:00",
+        "outlet_region": null,
+        "mention_text": "philadelphia",
+        "osm_display": "philadelphia",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 36.3,
+        "firms_frp_mw": 0.36,
+        "firms_brightness": 301.16,
+        "firms_acq_datetime": "2026-09-16 0703",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-17T13:19:55.431793+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-16T13:10:21.293255+00:00",
-    "total_features": 724
+    "last_updated": "2026-09-17T13:19:55.437487+00:00",
+    "total_features": 726
   }
 }
