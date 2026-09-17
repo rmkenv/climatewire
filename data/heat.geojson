@@ -6970,11 +6970,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-09-16T14:38:52.242734+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.493629,
+          29.424122
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/forecast/article/texas-high-temps-summer-model-san-antonio-22399307.php",
+        "title": "South Texas heat dome: Here\u2019s when 100-degree temps could stop",
+        "snippet": "",
+        "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/texas-high-temps-summer-model-san-antonio-22399307.php",
+        "source": "San Antonio Express-News",
+        "published_at": "08/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-17T14:31:04.576934+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "san antonio",
+        "osm_display": "san antonio, Texas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-17T23:00",
+        "sensor_temp_f": 81.9,
+        "sensor_rh_pct": 75,
+        "sensor_wind_mph": 7.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 74.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-17T14:46:06.497885+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-09-16T14:38:52.244174+00:00",
-    "total_features": 205
+    "last_updated": "2026-09-17T14:46:06.499386+00:00",
+    "total_features": 206
   }
 }
