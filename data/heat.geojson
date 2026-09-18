@@ -7004,11 +7004,113 @@
         "wbgt_flag": "green",
         "run_at": "2026-09-17T14:46:06.497885+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.knoxnews.com/story/weather/2026/09/17/tennessee-hotter-than-sahara-desert-heat-dome/91805957007/",
+        "title": "Tennessee feels hotter than the Sahara Desert. Here's why",
+        "snippet": "",
+        "url": "https://www.knoxnews.com/story/weather/2026/09/17/tennessee-hotter-than-sahara-desert-heat-dome/91805957007/",
+        "source": "Knoxville News Sentinel",
+        "published_at": "09/17/2026, 06:11 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-18T13:57:41.997548+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Tennessee",
+        "osm_display": "Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-09-18T23:00",
+        "sensor_temp_f": 82.2,
+        "sensor_rh_pct": 40,
+        "sensor_wind_mph": 3.7,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-18T14:11:35.882848+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/09/17/us-news/relentless-heat-dome-triggers-severe-storms-across-the-midwest-central-plains/",
+        "title": "Relentless heat dome triggers severe storms across the Midwest, Central Plains",
+        "snippet": "",
+        "url": "https://nypost.com/2026/09/17/us-news/relentless-heat-dome-triggers-severe-storms-across-the-midwest-central-plains/",
+        "source": "New York Post",
+        "published_at": "09/17/2026, 02:45 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-18T13:57:41.997548+00:00",
+        "outlet_region": null,
+        "mention_text": "Midwest",
+        "osm_display": "Midwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-18T23:00",
+        "sensor_temp_f": 69.8,
+        "sensor_rh_pct": 92,
+        "sensor_wind_mph": 9.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 64.9,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-18T14:11:35.882848+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html",
+        "title": "Another Heat Wave Brings Unbearable Temperatures to Parts of the U.S.",
+        "snippet": "",
+        "url": "https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html",
+        "source": "nytimes.com",
+        "published_at": "07/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-18T13:57:41.997548+00:00",
+        "outlet_region": "New York",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., New York",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-09-18T14:11:35.882848+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-09-17T14:46:06.499386+00:00",
-    "total_features": 206
+    "last_updated": "2026-09-18T14:11:35.884376+00:00",
+    "total_features": 209
   }
 }
