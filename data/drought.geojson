@@ -7322,11 +7322,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-15T16:21:28.507383+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/09/17/drought-monitor-exceptional-drought-expands-across-oklahoma-as-september-rainfall-remains-elusive/",
+        "title": "Drought Monitor: Exceptional Drought Expands Across Oklahoma as September Rainfall Remains Elusive",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/09/17/drought-monitor-exceptional-drought-expands-across-oklahoma-as-september-rainfall-remains-elusive/",
+        "source": "oklahomafarmreport.com",
+        "published_at": "09/17/2026, 02:30 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-18T15:47:56.562274+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-18T15:56:16.210327+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalreview.com/2026/07/large-scale-desalination-could-help-offset-colorado-river-water-shortage/",
+        "title": "Large-Scale Desalination Could Help Offset Colorado River Water Shortage",
+        "snippet": "",
+        "url": "https://www.nationalreview.com/2026/07/large-scale-desalination-could-help-offset-colorado-river-water-shortage/",
+        "source": "National Review",
+        "published_at": "07/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-18T15:47:56.562274+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "colorado river",
+        "osm_display": "colorado river",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-18T15:56:16.210327+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-17T16:21:27.254231+00:00",
-    "total_features": 266
+    "last_updated": "2026-09-18T15:56:16.212007+00:00",
+    "total_features": 268
   }
 }
