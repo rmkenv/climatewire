@@ -24431,11 +24431,181 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-18T12:42:11.880509+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9949900/oklahoma-national-guard-helps-fight-arkansas-wildfire",
+        "title": "Oklahoma National Guard helps fight Arkansas wildfire [Image 5 of 5]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9949900/oklahoma-national-guard-helps-fight-arkansas-wildfire",
+        "source": "DVIDS",
+        "published_at": "09/19/2026, 02:34 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-19T12:07:57.366359+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.33,
+        "firms_frp_mw": 6.7,
+        "firms_brightness": 338.99,
+        "firms_acq_datetime": "2026-09-18 1928",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-19T12:17:59.741714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9949890/oklahoma-national-guard-helps-fight-arkansas-wildfire",
+        "title": "Oklahoma National Guard helps fight Arkansas wildfire [Image 1 of 5]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9949890/oklahoma-national-guard-helps-fight-arkansas-wildfire",
+        "source": "DVIDS",
+        "published_at": "09/19/2026, 02:34 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-19T12:07:57.366359+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.33,
+        "firms_frp_mw": 6.7,
+        "firms_brightness": 338.99,
+        "firms_acq_datetime": "2026-09-18 1928",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-19T12:17:59.741714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9949878/mississippi-national-guard-helps-fight-arkansas-wildfire",
+        "title": "Mississippi National Guard helps fight Arkansas wildfire [Image 1 of 2]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9949878/mississippi-national-guard-helps-fight-arkansas-wildfire",
+        "source": "DVIDS",
+        "published_at": "09/19/2026, 02:30 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-19T12:07:57.366359+00:00",
+        "outlet_region": "Mississippi",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas, Mississippi",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.33,
+        "firms_frp_mw": 6.7,
+        "firms_brightness": 338.99,
+        "firms_acq_datetime": "2026-09-18 1928",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-19T12:17:59.741714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/09/17/weather/video/wildfire-shuts-down-major-california-highway-ldn-digvid-vrtc",
+        "title": "Wildfire shuts down major California highway",
+        "snippet": "",
+        "url": "https://www.cnn.com/2026/09/17/weather/video/wildfire-shuts-down-major-california-highway-ldn-digvid-vrtc",
+        "source": "CNN",
+        "published_at": "09/17/2026, 12:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-19T12:07:57.366359+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-19T12:17:59.741714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://svs.gsfc.nasa.gov/5668/",
+        "title": "Unprecedented Wildfires in the Pacific Northwest Engulf the Region in Smoke",
+        "snippet": "",
+        "url": "https://svs.gsfc.nasa.gov/5668/",
+        "source": "NASA SVS (.gov)",
+        "published_at": "08/06/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-19T12:07:57.366359+00:00",
+        "outlet_region": null,
+        "mention_text": "Pacific Northwest Engulf",
+        "osm_display": "Pacific Northwest Engulf",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-19T12:17:59.741714+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-18T12:42:11.884231+00:00",
-    "total_features": 727
+    "last_updated": "2026-09-19T12:17:59.745442+00:00",
+    "total_features": 732
   }
 }
