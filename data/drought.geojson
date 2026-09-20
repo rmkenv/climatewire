@@ -7382,11 +7382,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-18T15:56:16.210327+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.671873,
+          36.507747
+        ]
+      },
+      "properties": {
+        "article_id": "https://opvp.navajo-nsn.gov/260610-navajo-nation-declares-a-drought-emergency/",
+        "title": "Navajo Nation declares a drought emergency",
+        "snippet": "",
+        "url": "https://opvp.navajo-nsn.gov/260610-navajo-nation-declares-a-drought-emergency/",
+        "source": "Navajo Nation Office of the President (.gov)",
+        "published_at": "06/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-20T15:24:41.005400+00:00",
+        "outlet_region": null,
+        "mention_text": "Navajo Nation",
+        "osm_display": "Navajo Nation",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-20T15:32:17.311766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwaytv3.com/exceptional-drought-expands-across-central-north-carolina-impacting-10-counties/",
+        "title": "Exceptional drought expands across central North Carolina impacting 10 Counties",
+        "snippet": "",
+        "url": "https://www.wwaytv3.com/exceptional-drought-expands-across-central-north-carolina-impacting-10-counties/",
+        "source": "WWAYTV3",
+        "published_at": "06/18/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-20T15:24:41.005400+00:00",
+        "outlet_region": "North Carolina",
+        "mention_text": "North Carolina",
+        "osm_display": "North Carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-20T15:32:17.311766+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-19T15:29:44.190778+00:00",
-    "total_features": 268
+    "last_updated": "2026-09-20T15:32:17.312791+00:00",
+    "total_features": 270
   }
 }
