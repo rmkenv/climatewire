@@ -24601,11 +24601,147 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-09-19T12:17:59.741714+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article317310571.html",
+        "title": "Breaking: New wildfire reported in Los Angeles County on Sep. 19",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article317310571.html",
+        "source": "Sacramento Bee",
+        "published_at": "09/20/2026, 01:32 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-20T12:44:13.877568+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles County",
+        "osm_display": "Los Angeles County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 11.81,
+        "firms_frp_mw": 0.43,
+        "firms_brightness": 301.37,
+        "firms_acq_datetime": "2026-09-20 0911",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-20T12:53:21.733788+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/image/9949896/oklahoma-national-guard-helps-fight-arkansas-wildfire",
+        "title": "Oklahoma National Guard helps fight Arkansas wildfire [Image 3 of 5]",
+        "snippet": "",
+        "url": "https://www.dvidshub.net/image/9949896/oklahoma-national-guard-helps-fight-arkansas-wildfire",
+        "source": "DVIDS",
+        "published_at": "09/19/2026, 02:34 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-20T12:44:13.877568+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 10.66,
+        "firms_frp_mw": 1.93,
+        "firms_brightness": 330.6,
+        "firms_acq_datetime": "2026-09-19 1910",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-20T12:53:21.733788+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.iqair.com/mx-en/newsroom/wildfire-map-spotlight-big-grass-fire-oregon-and-idaho",
+        "title": "Wildfire Map Spotlight: Big Grass Fire, Oregon and Idaho",
+        "snippet": "",
+        "url": "https://www.iqair.com/mx-en/newsroom/wildfire-map-spotlight-big-grass-fire-oregon-and-idaho",
+        "source": "IQAir",
+        "published_at": "09/06/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-20T12:44:13.877568+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-20T12:53:21.733788+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/26/oregon-wildfire-smoke-deaths",
+        "title": "\u2018You can taste the ash\u2019: surviving in America\u2019s wildfire smoke capital",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/26/oregon-wildfire-smoke-deaths",
+        "source": "The Guardian",
+        "published_at": "08/26/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-20T12:44:13.877568+00:00",
+        "outlet_region": null,
+        "mention_text": "oregon",
+        "osm_display": "oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-20T12:53:21.733788+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-19T12:17:59.745442+00:00",
-    "total_features": 732
+    "last_updated": "2026-09-20T12:53:21.738467+00:00",
+    "total_features": 736
   }
 }
