@@ -1876,11 +1876,46 @@
         "usgs_gw_depth_ft": 453.83,
         "run_at": "2026-09-07T16:25:57.935369+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.today.com/video/corpus-christi-texas-lifts-4-day-water-ban-after-finding-no-contamination-836541507762",
+        "title": "Corpus Christi, Texas lifts 4-day water ban after finding no contamination",
+        "snippet": "",
+        "url": "https://www.today.com/video/corpus-christi-texas-lifts-4-day-water-ban-after-finding-no-contamination-836541507762",
+        "source": "TODAY.com",
+        "published_at": "12/19/2016, 08:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-09-20T14:33:51.357416+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "08104055",
+        "usgs_streamflow_name": "Chalk Ridge Falls Spgs nr Belton, TX",
+        "usgs_streamflow_dist_km": 5.39,
+        "usgs_streamflow_cfs": 0.29,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-09-20T14:42:38.741319+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-09-19T14:21:47.741406+00:00",
-    "total_features": 58
+    "last_updated": "2026-09-20T14:42:38.742097+00:00",
+    "total_features": 59
   }
 }
