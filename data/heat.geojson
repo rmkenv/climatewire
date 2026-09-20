@@ -7106,11 +7106,45 @@
         "wbgt_flag": null,
         "run_at": "2026-09-18T14:11:35.882848+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/weather/triple-digit-heat-returns-north-texas-heat-dome-locks-high-temperatures",
+        "title": "Triple-digit heat returns to North Texas as heat dome locks in high temperatures",
+        "snippet": "",
+        "url": "https://www.fox4news.com/weather/triple-digit-heat-returns-north-texas-heat-dome-locks-high-temperatures",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "published_at": "07/27/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-20T13:47:25.770302+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-20T23:00",
+        "sensor_temp_f": 78.6,
+        "sensor_rh_pct": 74,
+        "sensor_wind_mph": 12.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-20T14:00:34.748619+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-09-19T13:45:47.355309+00:00",
-    "total_features": 209
+    "last_updated": "2026-09-20T14:00:34.752595+00:00",
+    "total_features": 210
   }
 }
