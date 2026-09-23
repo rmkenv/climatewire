@@ -7442,11 +7442,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-20T15:32:17.311766+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73336/20260922/exceptional-drought-expands-166-oklahoma-wheat-seeding-falls-behind-entire-state-stays.htm",
+        "title": "Exceptional Drought Expands to 16.6% of Oklahoma as Wheat Seeding Falls Behind and the Entire State Stays in Drought",
+        "snippet": "",
+        "url": "https://www.natureworldnews.com/articles/73336/20260922/exceptional-drought-expands-166-oklahoma-wheat-seeding-falls-behind-entire-state-stays.htm",
+        "source": "Nature World News",
+        "published_at": "09/22/2026, 11:00 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-23T16:04:10.761236+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-23T16:12:04.402661+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-22T16:26:41.132203+00:00",
-    "total_features": 270
+    "last_updated": "2026-09-23T16:12:04.404351+00:00",
+    "total_features": 271
   }
 }
