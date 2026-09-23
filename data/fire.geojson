@@ -24737,11 +24737,79 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-09-20T12:53:21.733788+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.arkansasonline.com/news/2026/sep/22/five-states-deploy-wildfire-task-force-teams-to/",
+        "title": "Five states deploy wildfire task force teams to Arkansas to support ongoing suppression efforts",
+        "snippet": "",
+        "url": "https://www.arkansasonline.com/news/2026/sep/22/five-states-deploy-wildfire-task-force-teams-to/",
+        "source": "The Arkansas Democrat-Gazette",
+        "published_at": "09/22/2026, 09:30 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-23T13:05:50.656177+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.02,
+        "firms_frp_mw": 13.15,
+        "firms_brightness": 341.9,
+        "firms_acq_datetime": "2026-09-22 1813",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-23T13:20:51.229792+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thv11.com/article/sports/outdoors/wildfire-task-force-teams-arkansas-dry-conditions/91-1bcf8589-59de-43a8-a37e-1f37e9c70a72",
+        "title": "Five out-of-state wildfire task force teams coming to Arkansas as dry conditions continue",
+        "snippet": "",
+        "url": "https://www.thv11.com/article/sports/outdoors/wildfire-task-force-teams-arkansas-dry-conditions/91-1bcf8589-59de-43a8-a37e-1f37e9c70a72",
+        "source": "thv11.com",
+        "published_at": "09/22/2026, 01:54 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-23T13:05:50.656177+00:00",
+        "outlet_region": "Arkansas",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 45.02,
+        "firms_frp_mw": 13.15,
+        "firms_brightness": 341.9,
+        "firms_acq_datetime": "2026-09-22 1813",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-23T13:20:51.229792+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-22T13:15:19.902614+00:00",
-    "total_features": 736
+    "last_updated": "2026-09-23T13:20:51.234571+00:00",
+    "total_features": 738
   }
 }
