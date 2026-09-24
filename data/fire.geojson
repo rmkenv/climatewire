@@ -24805,11 +24805,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-23T13:20:51.229792+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/news/southern-utah/wildfire-kolob-mountain/",
+        "title": "Crews respond to new wildfire start on Kolob Mountain",
+        "snippet": "",
+        "url": "https://www.abc4.com/news/southern-utah/wildfire-kolob-mountain/",
+        "source": "ABC4 Utah",
+        "published_at": "09/23/2026, 10:22 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-24T12:58:42.264918+00:00",
+        "outlet_region": null,
+        "mention_text": "utah",
+        "osm_display": "utah",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 77.61,
+        "firms_frp_mw": 0.59,
+        "firms_brightness": 296.95,
+        "firms_acq_datetime": "2026-09-24 0937",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-24T13:11:39.744806+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.newswatchman.com/news/odnr-urges-caution-during-ohio-s-fall-wildfire-season/article_d9fc2dc9-026f-43fa-b719-2e628659f9c9.html",
+        "title": "ODNR urges caution during Ohio\u2019s fall wildfire season",
+        "snippet": "",
+        "url": "http://www.newswatchman.com/news/odnr-urges-caution-during-ohio-s-fall-wildfire-season/article_d9fc2dc9-026f-43fa-b719-2e628659f9c9.html",
+        "source": "The Pike County News Watchman",
+        "published_at": "09/22/2026, 09:39 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-24T12:58:42.264918+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-24T13:11:39.744806+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/evacuations-ordered-in-rural-texas-as-wildfire-mushrooms-within-hours",
+        "title": "Evacuations ordered in rural Texas as wildfire mushrooms within hours",
+        "snippet": "",
+        "url": "https://www.pbs.org/newshour/nation/evacuations-ordered-in-rural-texas-as-wildfire-mushrooms-within-hours",
+        "source": "PBS",
+        "published_at": "08/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-24T12:58:42.264918+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 25.83,
+        "firms_frp_mw": 3.2,
+        "firms_brightness": 331.47,
+        "firms_acq_datetime": "2026-09-23 1934",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-24T13:11:39.744806+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-23T13:20:51.234571+00:00",
-    "total_features": 738
+    "last_updated": "2026-09-24T13:11:39.749430+00:00",
+    "total_features": 741
   }
 }
