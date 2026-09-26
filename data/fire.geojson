@@ -24907,11 +24907,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-24T13:11:39.744806+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox40.com/news/california-connection/pay-us-what-we-are-owed-wildfire-survivors-push-for-change-as-bill-deadline-nears/",
+        "title": "\u2018Pay Us What We Are Owed\u2019: Wildfire survivors push for change as bill deadline nears",
+        "snippet": "",
+        "url": "https://fox40.com/news/california-connection/pay-us-what-we-are-owed-wildfire-survivors-push-for-change-as-bill-deadline-nears/",
+        "source": "FOX40",
+        "published_at": "09/25/2026, 07:29 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-26T12:32:21.125366+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.95,
+        "firms_frp_mw": 2.24,
+        "firms_brightness": 336.3,
+        "firms_acq_datetime": "2026-09-25 2040",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-26T12:41:52.586606+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usnews.com/news/top-news/articles/2026-09-21/two-pilots-die-in-helicopter-crash-fighting-california-wildfire",
+        "title": "Two Pilots Die in Helicopter Crash Fighting California Wildfire",
+        "snippet": "",
+        "url": "https://www.usnews.com/news/top-news/articles/2026-09-21/two-pilots-die-in-helicopter-crash-fighting-california-wildfire",
+        "source": "U.S. News & World Report",
+        "published_at": "09/21/2026, 09:58 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-26T12:32:21.125366+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 92.95,
+        "firms_frp_mw": 2.24,
+        "firms_brightness": 336.3,
+        "firms_acq_datetime": "2026-09-25 2040",
+        "firms_confidence": "low",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-26T12:41:52.586606+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-25T13:18:15.002247+00:00",
-    "total_features": 741
+    "last_updated": "2026-09-26T12:41:52.591034+00:00",
+    "total_features": 743
   }
 }
