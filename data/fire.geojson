@@ -24975,11 +24975,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-09-26T12:41:52.586606+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reuters.com/business/environment/two-pilots-die-helicopter-crash-fighting-california-wildfire-2026-09-21/",
+        "title": "Two pilots die in helicopter crash fighting California wildfire",
+        "snippet": "",
+        "url": "https://www.reuters.com/business/environment/two-pilots-die-helicopter-crash-fighting-california-wildfire-2026-09-21/",
+        "source": "Reuters",
+        "published_at": "09/21/2026, 11:37 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-27T13:22:53.537177+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-27T13:32:28.400992+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-26T12:41:52.591034+00:00",
-    "total_features": 743
+    "last_updated": "2026-09-27T13:32:28.405678+00:00",
+    "total_features": 744
   }
 }
