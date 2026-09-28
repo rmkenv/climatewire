@@ -7592,11 +7592,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-27T16:30:03.124164+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2024/08/for-the-first-time-in-the-21st-century-part-of-ohio-in-worst-drought-classification-possible.html",
+        "title": "For the first time in the 21st century, part of Ohio in worst drought classification possible",
+        "snippet": "",
+        "url": "https://www.cleveland.com/news/2024/08/for-the-first-time-in-the-21st-century-part-of-ohio-in-worst-drought-classification-possible.html",
+        "source": "Cleveland.com",
+        "published_at": "08/29/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-28T19:13:11.073724+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-28T19:23:19.470366+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-27T16:30:03.125913+00:00",
-    "total_features": 275
+    "last_updated": "2026-09-28T19:23:19.471695+00:00",
+    "total_features": 276
   }
 }
