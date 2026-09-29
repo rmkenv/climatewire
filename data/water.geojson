@@ -1911,11 +1911,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-09-20T14:42:38.741319+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.784012,
+          47.528912
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.valleynewslive.com/2026/09/28/north-dakota-5-other-states-unite-against-missouri-river-water-restriction/",
+        "title": "North Dakota, 5 other states unite against Missouri River water restriction",
+        "snippet": "",
+        "url": "https://www.valleynewslive.com/2026/09/28/north-dakota-5-other-states-unite-against-missouri-river-water-restriction/",
+        "source": "Valley News Live",
+        "published_at": "09/28/2026, 08:23 PM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-09-29T16:48:36.810954+00:00",
+        "outlet_region": "North Dakota",
+        "mention_text": "North Dakota",
+        "osm_display": "North Dakota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": null,
+        "usgs_streamflow_name": null,
+        "usgs_streamflow_dist_km": null,
+        "usgs_streamflow_cfs": null,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-09-29T16:57:15.355030+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-09-28T18:38:21.484271+00:00",
-    "total_features": 59
+    "last_updated": "2026-09-29T16:57:15.355662+00:00",
+    "total_features": 60
   }
 }
