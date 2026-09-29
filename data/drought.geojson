@@ -7622,11 +7622,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-28T19:23:19.470366+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "http://kiowacountypress.net/content/rain-trims-extreme-and-exceptional-drought-colorado-closes-out-water-year",
+        "title": "Rain trims extreme and exceptional drought as Colorado closes out the water year",
+        "snippet": "",
+        "url": "http://kiowacountypress.net/content/rain-trims-extreme-and-exceptional-drought-colorado-closes-out-water-year",
+        "source": "kiowacountypress.net",
+        "published_at": "09/27/2026, 11:01 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-09-29T17:36:02.352632+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-09-29T17:43:59.489757+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-09-28T19:23:19.471695+00:00",
-    "total_features": 276
+    "last_updated": "2026-09-29T17:43:59.491808+00:00",
+    "total_features": 277
   }
 }
