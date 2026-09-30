@@ -7208,11 +7208,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-09-22T14:28:10.811637+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.detroitnews.com/story/news/nation/2026/08/25/relentless-heat-dome-expanding-texas-to-california-challenging-records/91455017007/",
+        "title": "A relentless heat dome is expanding from Texas to California, challenging records",
+        "snippet": "",
+        "url": "https://www.detroitnews.com/story/news/nation/2026/08/25/relentless-heat-dome-expanding-texas-to-california-challenging-records/91455017007/",
+        "source": "The Detroit News",
+        "published_at": "08/25/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-09-30T16:08:48.270148+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "Texas",
+        "osm_display": "Texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-09-30T23:00",
+        "sensor_temp_f": 81.7,
+        "sensor_rh_pct": 74,
+        "sensor_wind_mph": 18.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 69.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-09-30T16:27:08.007370+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-09-29T16:26:25.228536+00:00",
-    "total_features": 212
+    "last_updated": "2026-09-30T16:27:08.011397+00:00",
+    "total_features": 213
   }
 }
