@@ -25145,11 +25145,79 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-09-29T14:37:13.796269+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.northwestgeorgianews.com/rome/news/local/wildfire-closes-u-s-411-near-alabama-state-line/article_8e0fc34b-7d07-4202-9582-7551beb0a0d4.html",
+        "title": "Wildfire closes U.S. 411 near Alabama state line",
+        "snippet": "",
+        "url": "https://www.northwestgeorgianews.com/rome/news/local/wildfire-closes-u-s-411-near-alabama-state-line/article_8e0fc34b-7d07-4202-9582-7551beb0a0d4.html",
+        "source": "The Rome News-Tribune",
+        "published_at": "09/29/2026, 09:42 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-30T14:22:48.778602+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-09-30T14:32:45.889911+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/alabama-forestry-commission-deploys-ororatech-satellite-technology-to-support-prescribed-burns-wildfire-response/2436216",
+        "title": "Alabama Forestry Commission Deploys OroraTech Satellite Technology to Support Prescribed Burns, Wildfire Response",
+        "snippet": "",
+        "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/alabama-forestry-commission-deploys-ororatech-satellite-technology-to-support-prescribed-burns-wildfire-response/2436216",
+        "source": "The Manila Times",
+        "published_at": "09/30/2026, 01:23 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-09-30T14:22:48.778602+00:00",
+        "outlet_region": "Alabama",
+        "mention_text": "Alabama Forestry Commission Deploys",
+        "osm_display": "Alabama Forestry Commission Deploys",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 28.73,
+        "firms_frp_mw": 0.68,
+        "firms_brightness": 300.08,
+        "firms_acq_datetime": "2026-09-30 0744",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-09-30T14:32:45.889911+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-09-29T14:37:13.801244+00:00",
-    "total_features": 748
+    "last_updated": "2026-09-30T14:32:45.895218+00:00",
+    "total_features": 750
   }
 }
