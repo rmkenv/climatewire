@@ -7652,11 +7652,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-09-29T17:43:59.489757+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktok.iheart.com/featured/ktok-top-stories/content/2026-10-01-nearly-quarter-of-oklahoma-in-exceptional-drought/",
+        "title": "Nearly Quarter Of Oklahoma In Exceptional Drought",
+        "snippet": "",
+        "url": "https://ktok.iheart.com/featured/ktok-top-stories/content/2026-10-01-nearly-quarter-of-oklahoma-in-exceptional-drought/",
+        "source": "NewsRadio 1000 KTOK",
+        "published_at": "10/01/2026, 09:02 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-02T17:25:47.261409+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "oklahoma",
+        "osm_display": "oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-02T17:33:42.774100+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-01T18:08:39.175841+00:00",
-    "total_features": 277
+    "last_updated": "2026-10-02T17:33:42.775913+00:00",
+    "total_features": 278
   }
 }
