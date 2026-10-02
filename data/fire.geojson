@@ -25281,11 +25281,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-01T15:04:27.377880+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.savannahnow.com/story/news/environment/2026/10/02/georgia-wildfire-funding-helps-rural-departments-buy-equipment/92029968007/",
+        "title": "Wildfire-ravaged Georgia counties receive funding for equipment",
+        "snippet": "",
+        "url": "https://www.savannahnow.com/story/news/environment/2026/10/02/georgia-wildfire-funding-helps-rural-departments-buy-equipment/92029968007/",
+        "source": "Savannah Morning News",
+        "published_at": "10/02/2026, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-02T14:16:10.850823+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 26.57,
+        "firms_frp_mw": 4.05,
+        "firms_brightness": 340.57,
+        "firms_acq_datetime": "2026-10-01 1843",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-02T14:27:07.180639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalguard.mil/News/Article-View/Article/4616718/new-york-guard-strengthens-wildfire-response-capabilities/",
+        "title": "New York Guard Strengthens Wildfire Response Capabilities",
+        "snippet": "",
+        "url": "https://www.nationalguard.mil/News/Article-View/Article/4616718/new-york-guard-strengthens-wildfire-response-capabilities/",
+        "source": "nationalguard.mil",
+        "published_at": "10/01/2026, 07:31 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-02T14:16:10.850823+00:00",
+        "outlet_region": "New York",
+        "mention_text": "New York Guard Strengthens Wildfire Response Capabilities",
+        "osm_display": "New York Guard Strengthens Wildfire Response Capabilities",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 74.44,
+        "firms_frp_mw": 0.3,
+        "firms_brightness": 295.96,
+        "firms_acq_datetime": "2026-10-02 0703",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-02T14:27:07.180639+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-01T15:04:27.382695+00:00",
-    "total_features": 752
+    "last_updated": "2026-10-02T14:27:07.184388+00:00",
+    "total_features": 754
   }
 }
