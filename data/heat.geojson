@@ -7242,11 +7242,45 @@
         "wbgt_flag": "green",
         "run_at": "2026-09-30T16:27:08.007370+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://coloradosun.com/2026/08/10/are-heat-domes-becoming-more-common-in-north-america/",
+        "title": "Are heat domes becoming more common in North America?",
+        "snippet": "",
+        "url": "https://coloradosun.com/2026/08/10/are-heat-domes-becoming-more-common-in-north-america/",
+        "source": "coloradosun.com",
+        "published_at": "08/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-03T14:27:23.978554+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "North America",
+        "osm_display": "North America, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-03T23:00",
+        "sensor_temp_f": 47.7,
+        "sensor_rh_pct": 52,
+        "sensor_wind_mph": 10.5,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 37.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-03T14:41:49.968631+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-10-02T16:14:50.834642+00:00",
-    "total_features": 213
+    "last_updated": "2026-10-03T14:41:49.969919+00:00",
+    "total_features": 214
   }
 }
