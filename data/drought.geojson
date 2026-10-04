@@ -7682,11 +7682,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-02T17:33:42.774100+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.806419,
+          35.630066
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailytarheel.com/244612/city-state/city-north-carolina-triangle-exceptional-drought/",
+        "title": "Parts of the Triangle under exceptional drought as conditions worsen across the state",
+        "snippet": "",
+        "url": "https://dailytarheel.com/244612/city-state/city-north-carolina-triangle-exceptional-drought/",
+        "source": "The Daily Tar Heel",
+        "published_at": "08/15/2026, 04:59 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-04T16:24:54.907773+00:00",
+        "outlet_region": null,
+        "mention_text": "north carolina",
+        "osm_display": "north carolina",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-04T16:32:24.061843+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-03T15:49:15.461853+00:00",
-    "total_features": 278
+    "last_updated": "2026-10-04T16:32:24.063513+00:00",
+    "total_features": 279
   }
 }
