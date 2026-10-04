@@ -25417,11 +25417,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-03T12:59:06.616871+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.scrippsnews.com/science-and-tech/climate-change/supreme-court-will-hear-a-major-climate-change-case-involving-a-devastating-colorado-wildfire",
+        "title": "Supreme Court will hear a major climate change case involving a devastating Colorado wildfire",
+        "snippet": "",
+        "url": "https://www.scrippsnews.com/science-and-tech/climate-change/supreme-court-will-hear-a-major-climate-change-case-involving-a-devastating-colorado-wildfire",
+        "source": "Scripps News",
+        "published_at": "10/03/2026, 04:12 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-04T13:32:39.482979+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.73,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 295.95,
+        "firms_acq_datetime": "2026-10-03 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-04T13:42:06.525164+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvnews.com/newsfeed/us/the-supreme-court-will-hear-a-major-climate-change-case-involving-a-devastating-colorado-wildfire/article_c0e44ee7-e353-5e81-b553-39999772d24f.html",
+        "title": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire",
+        "snippet": "",
+        "url": "https://www.wvnews.com/newsfeed/us/the-supreme-court-will-hear-a-major-climate-change-case-involving-a-devastating-colorado-wildfire/article_c0e44ee7-e353-5e81-b553-39999772d24f.html",
+        "source": "WV News",
+        "published_at": "10/03/2026, 11:48 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-04T13:32:39.482979+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 83.73,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 295.95,
+        "firms_acq_datetime": "2026-10-03 0826",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-04T13:42:06.525164+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-03T12:59:06.621552+00:00",
-    "total_features": 756
+    "last_updated": "2026-10-04T13:42:06.529891+00:00",
+    "total_features": 758
   }
 }
