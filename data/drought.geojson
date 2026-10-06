@@ -7742,11 +7742,71 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-05T20:30:01.237974+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kiowacountypress.net/content/rain-trims-extreme-and-exceptional-drought-colorado-closes-out-water-year",
+        "title": "Rain trims extreme and exceptional drought as Colorado closes out the water year",
+        "snippet": "",
+        "url": "https://www.kiowacountypress.net/content/rain-trims-extreme-and-exceptional-drought-colorado-closes-out-water-year",
+        "source": "Kiowa County Press",
+        "published_at": "09/27/2026, 11:01 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-06T17:54:10.484556+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-06T18:01:18.534357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/drought-emergency-now-covers-12-of-oregons-36-counties-after-3rd-declaration-this-year-hot-weather-governor-tina-kotek",
+        "title": "Drought emergency now covers 12 of Oregon s 36 counties after 3rd declaration this year",
+        "snippet": "",
+        "url": "https://katu.com/news/local/drought-emergency-now-covers-12-of-oregons-36-counties-after-3rd-declaration-this-year-hot-weather-governor-tina-kotek",
+        "source": "KATU",
+        "published_at": "05/12/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-06T17:54:10.484556+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-06T18:01:18.534357+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-05T20:30:01.239142+00:00",
-    "total_features": 280
+    "last_updated": "2026-10-06T18:01:18.536050+00:00",
+    "total_features": 282
   }
 }
