@@ -7802,11 +7802,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-06T18:01:18.534357+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.034153,
+          36.105793
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.npr.org/2022/09/29/1125905928/the-colorado-river-water-shortage-is-forcing-tough-choices-in-7-states",
+        "title": "The Colorado River water shortage is forcing tough choices in 7 states",
+        "snippet": "",
+        "url": "https://www.npr.org/2022/09/29/1125905928/the-colorado-river-water-shortage-is-forcing-tough-choices-in-7-states",
+        "source": "NPR",
+        "published_at": "09/29/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-07T18:24:42.611075+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado River",
+        "osm_display": "Colorado River",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-07T18:33:11.467229+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-06T18:01:18.536050+00:00",
-    "total_features": 282
+    "last_updated": "2026-10-07T18:33:11.468498+00:00",
+    "total_features": 283
   }
 }
