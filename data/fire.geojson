@@ -25587,11 +25587,45 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-10-06T14:47:36.829494+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article317535473.html",
+        "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 7",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article317535473.html",
+        "source": "Sacramento Bee",
+        "published_at": "10/08/2026, 03:39 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-08T15:01:30.353024+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles County",
+        "osm_display": "Los Angeles County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 11.99,
+        "firms_frp_mw": 1.11,
+        "firms_brightness": 307.5,
+        "firms_acq_datetime": "2026-10-07 1034",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-08T15:13:29.914623+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-07T15:04:17.925754+00:00",
-    "total_features": 761
+    "last_updated": "2026-10-08T15:13:29.919383+00:00",
+    "total_features": 762
   }
 }
