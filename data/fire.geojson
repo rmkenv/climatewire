@@ -25621,11 +25621,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-08T15:13:29.914623+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.248482,
+          34.840515
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailydispatch.com/fire-news/new-mexico/new-mexico-officials-demonstrate-how-to-better-protect-homes-from-wildfire/",
+        "title": "New Mexico officials demonstrate how to better protect homes from wildfire",
+        "snippet": "",
+        "url": "https://dailydispatch.com/fire-news/new-mexico/new-mexico-officials-demonstrate-how-to-better-protect-homes-from-wildfire/",
+        "source": "DailyDispatch.com",
+        "published_at": "10/08/2026, 01:15 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-09T14:45:51.910286+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "New Mexico",
+        "osm_display": "New Mexico, Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 86.26,
+        "firms_frp_mw": 5.68,
+        "firms_brightness": 330.82,
+        "firms_acq_datetime": "2026-10-08 1953",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-09T14:59:57.783221+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-08T15:13:29.919383+00:00",
-    "total_features": 762
+    "last_updated": "2026-10-09T14:59:57.788457+00:00",
+    "total_features": 763
   }
 }
