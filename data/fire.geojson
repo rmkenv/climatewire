@@ -25655,11 +25655,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-09T14:59:57.783221+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.richlandsource.com/2026/10/09/ohio-firefighters-are-among-nationwide-wildfire-response-team-in-2026/",
+        "title": "Ohio firefighters are among nationwide wildfire response team in 2026",
+        "snippet": "",
+        "url": "https://www.richlandsource.com/2026/10/09/ohio-firefighters-are-among-nationwide-wildfire-response-team-in-2026/",
+        "source": "Richland Source",
+        "published_at": "10/09/2026, 03:19 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-10T14:03:56.148750+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 37.35,
+        "firms_frp_mw": 0.97,
+        "firms_brightness": 299.42,
+        "firms_acq_datetime": "2026-10-09 0813",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-10T14:15:28.439922+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-09T14:59:57.788457+00:00",
-    "total_features": 763
+    "last_updated": "2026-10-10T14:15:28.444826+00:00",
+    "total_features": 764
   }
 }
