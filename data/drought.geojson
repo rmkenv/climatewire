@@ -7832,11 +7832,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-07T18:33:11.467229+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://idahonews.com/news/local/emergency-drought-declared-for-34-idaho-counties",
+        "title": "Emergency drought declaration issued for 34 Idaho counties",
+        "snippet": "",
+        "url": "https://idahonews.com/news/local/emergency-drought-declared-for-34-idaho-counties",
+        "source": "KBOI",
+        "published_at": "04/29/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-12T20:53:04.654442+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-12T21:01:05.679106+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-11T17:27:30.480641+00:00",
-    "total_features": 283
+    "last_updated": "2026-10-12T21:01:05.680971+00:00",
+    "total_features": 284
   }
 }
