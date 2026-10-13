@@ -7862,11 +7862,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-12T21:01:05.679106+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox17.com/news/local/fall-creek-falls-state-park-closes-restrooms-and-bathhouses-due-to-water-shortage-tennessee-outdoors-camping-spencer-fishing-hiking",
+        "title": "Fall Creek Falls State Park closes restrooms and bathhouses due to water shortage",
+        "snippet": "",
+        "url": "https://fox17.com/news/local/fall-creek-falls-state-park-closes-restrooms-and-bathhouses-due-to-water-shortage-tennessee-outdoors-camping-spencer-fishing-hiking",
+        "source": "WZTV",
+        "published_at": "07/31/2025, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-13T18:51:09.039635+00:00",
+        "outlet_region": null,
+        "mention_text": "tennessee",
+        "osm_display": "tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-13T18:58:36.461566+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-12T21:01:05.680971+00:00",
-    "total_features": 284
+    "last_updated": "2026-10-13T18:58:36.463414+00:00",
+    "total_features": 285
   }
 }
