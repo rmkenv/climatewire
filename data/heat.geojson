@@ -7276,11 +7276,79 @@
         "wbgt_flag": "green",
         "run_at": "2026-10-03T14:41:49.968631+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          45.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://wwmt.com/news/local/hot-and-very-humid-start-september-heat-dome-settles-great-lakes-region-midwest-weather-labor-day-summer",
+        "title": "Hot and very humid start to September as heat dome settles upon Great Lakes region",
+        "snippet": "",
+        "url": "https://wwmt.com/news/local/hot-and-very-humid-start-september-heat-dome-settles-great-lakes-region-midwest-weather-labor-day-summer",
+        "source": "WWMT",
+        "published_at": "09/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-15T14:30:51.851768+00:00",
+        "outlet_region": null,
+        "mention_text": "Great Lakes",
+        "osm_display": "Great Lakes",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-15T23:00",
+        "sensor_temp_f": 49.6,
+        "sensor_rh_pct": 98,
+        "sensor_wind_mph": 2.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 48.6,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-15T14:42:53.436054+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ottawanewsnetwork.org/dangerous-heat-dome-will-bring-soaring-temperatures-extremely-dry-conditions-in-michigan/",
+        "title": "Dangerous heat dome will bring soaring temperatures, extremely dry conditions in Michigan",
+        "snippet": "",
+        "url": "https://www.ottawanewsnetwork.org/dangerous-heat-dome-will-bring-soaring-temperatures-extremely-dry-conditions-in-michigan/",
+        "source": "Ottawa News Network",
+        "published_at": "07/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-15T14:30:51.851768+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Michigan",
+        "osm_display": "Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-15T23:00",
+        "sensor_temp_f": 54.7,
+        "sensor_rh_pct": 96,
+        "sensor_wind_mph": 11.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 49.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-15T14:42:53.436054+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-10-14T14:59:32.028176+00:00",
-    "total_features": 214
+    "last_updated": "2026-10-15T14:42:53.437964+00:00",
+    "total_features": 216
   }
 }
