@@ -25927,11 +25927,283 @@
         "firms_active_fire_nearby": false,
         "run_at": "2026-10-16T12:58:02.758673+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/biggest-wildfire-nebraska-history-continues-burn-control/story?id=131086196",
+        "title": "Biggest wildfire in Nebraska history continues to burn out of control",
+        "snippet": "",
+        "url": "https://abcnews.com/US/biggest-wildfire-nebraska-history-continues-burn-control/story?id=131086196",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published_at": "10/17/2026, 07:05 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Nebraska",
+        "osm_display": "Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/news/us-news/malibu-wildfire-rages-triggering-evacuations-southern-california-rcna603911",
+        "title": "Multiple fires burn in Southern California, triggering some evacuations",
+        "snippet": "",
+        "url": "https://www.nbcnews.com/news/us-news/malibu-wildfire-rages-triggering-evacuations-southern-california-rcna603911",
+        "source": "NBC News",
+        "published_at": "10/16/2026, 11:45 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc.net.au/news/2026-10-17/multiple-southern-california-homes-are-ablaze-in-wildfire/107279038",
+        "title": "Wildfires rage in Southern California, burn homes",
+        "snippet": "",
+        "url": "https://www.abc.net.au/news/2026-10-17/multiple-southern-california-homes-are-ablaze-in-wildfire/107279038",
+        "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "published_at": "10/17/2026, 02:23 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "California",
+        "mention_text": "Southern California",
+        "osm_display": "Southern California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.arkansasonline.com/news/2026/oct/16/cold-front-brings-fall-temperatures-to-arkansas/",
+        "title": "Cold front brings fall temperatures to Arkansas; forecasters warn of continued wildfire risk",
+        "snippet": "",
+        "url": "https://www.arkansasonline.com/news/2026/oct/16/cold-front-brings-fall-temperatures-to-arkansas/",
+        "source": "The Arkansas Democrat-Gazette",
+        "published_at": "10/16/2026, 04:09 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Arkansas",
+        "osm_display": "Arkansas, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 12.64,
+        "firms_frp_mw": 6.13,
+        "firms_brightness": 352.74,
+        "firms_acq_datetime": "2026-10-16 1904",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo",
+        "title": "Evacuation orders as fast-moving Norte Fire burns homes south of Los Angeles",
+        "snippet": "",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo",
+        "source": "BBC",
+        "published_at": "10/17/2026, 01:36 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles",
+        "osm_display": "Los Angeles",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": 11.99,
+        "firms_frp_mw": 0.85,
+        "firms_brightness": 314.11,
+        "firms_acq_datetime": "2026-10-16 0926",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.vinetur.com/en/20261016109128/study-finds-oregons-2020-wildfire-smoke-weakened-wine-sales-for-years.html",
+        "title": "Study Finds Oregon\u2019s 2020 Wildfire Smoke Weakened Wine Sales for Years",
+        "snippet": "",
+        "url": "https://www.vinetur.com/en/20261016109128/study-finds-oregons-2020-wildfire-smoke-weakened-wine-sales-for-years.html",
+        "source": "Vinetur",
+        "published_at": "10/16/2026, 03:53 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon",
+        "osm_display": "Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 20.3,
+        "firms_frp_mw": 17.47,
+        "firms_brightness": 330.9,
+        "firms_acq_datetime": "2026-10-16 2049",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.epa.gov/wa/2026-eastern-washington-wildfires-recovery",
+        "title": "2026 Eastern Washington Wildfires Recovery",
+        "snippet": "",
+        "url": "https://www.epa.gov/wa/2026-eastern-washington-wildfires-recovery",
+        "source": "U.S. Environmental Protection Agency (.gov)",
+        "published_at": "10/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "washington",
+        "osm_display": "washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.47,
+        "firms_frp_mw": 2.3,
+        "firms_brightness": 318.5,
+        "firms_acq_datetime": "2026-10-16 1102",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/10/us-wildfires-pacific-north-west",
+        "title": "\u2018Unprecedented, dangerous territory\u2019: US north-west reckons with a summer of historic wildfires | Washington state",
+        "snippet": "",
+        "url": "https://www.theguardian.com/us-news/2026/aug/10/us-wildfires-pacific-north-west",
+        "source": "The Guardian",
+        "published_at": "08/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-17T11:48:43.952740+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington",
+        "osm_display": "Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 55.47,
+        "firms_frp_mw": 2.3,
+        "firms_brightness": 318.5,
+        "firms_acq_datetime": "2026-10-16 1102",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-17T11:57:25.733445+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-16T12:58:02.762784+00:00",
-    "total_features": 771
+    "last_updated": "2026-10-17T11:57:25.736483+00:00",
+    "total_features": 779
   }
 }
