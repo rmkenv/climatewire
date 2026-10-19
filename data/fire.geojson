@@ -26267,11 +26267,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-18T12:23:46.732008+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article317675191.html",
+        "title": "Update: Wildfire in Riverside County in Riverside County - Oct. 18 status",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article317675191.html",
+        "source": "Sacramento Bee",
+        "published_at": "10/18/2026, 06:58 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-19T15:05:35.052786+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 31.92,
+        "firms_frp_mw": 1.15,
+        "firms_brightness": 313.32,
+        "firms_acq_datetime": "2026-10-19 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-19T15:15:13.182914+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/midweek-storms-heavy-rain-wildfire-relief-california",
+        "title": "California storms could bring much-needed rain and relief to wildfire-weary areas",
+        "snippet": "",
+        "url": "https://www.foxweather.com/weather-news/midweek-storms-heavy-rain-wildfire-relief-california",
+        "source": "FOX Weather",
+        "published_at": "10/18/2026, 05:13 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-19T15:05:35.052786+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 31.92,
+        "firms_frp_mw": 1.15,
+        "firms_brightness": 313.32,
+        "firms_acq_datetime": "2026-10-19 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-19T15:15:13.182914+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7news.com/feature/california-wildfire-tracker-interactive-map-has-latest-fires-san-francisco-bay-area-central-valley-southern/6378362/",
+        "title": "Track wildfires across San Francisco Bay Area, other parts of California with this interactive map",
+        "snippet": "",
+        "url": "https://abc7news.com/feature/california-wildfire-tracker-interactive-map-has-latest-fires-san-francisco-bay-area-central-valley-southern/6378362/",
+        "source": "ABC7 Bay Area",
+        "published_at": "10/16/2026, 02:56 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-19T15:05:35.052786+00:00",
+        "outlet_region": "California",
+        "mention_text": "San Francisco Bay Area",
+        "osm_display": "San Francisco Bay Area, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 31.92,
+        "firms_frp_mw": 1.15,
+        "firms_brightness": 313.32,
+        "firms_acq_datetime": "2026-10-19 1009",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-19T15:15:13.182914+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-18T12:23:46.736844+00:00",
-    "total_features": 781
+    "last_updated": "2026-10-19T15:15:13.186835+00:00",
+    "total_features": 784
   }
 }
