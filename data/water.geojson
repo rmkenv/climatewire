@@ -1981,11 +1981,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-10-01T17:25:47.301856+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.784012,
+          47.528912
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.valleynewslive.com/video/2026/09/29/north-dakota-5-other-states-unite-against-missouri-river-water-restriction/",
+        "title": "North Dakota, 5 other states unite against Missouri River water restriction",
+        "snippet": "",
+        "url": "https://www.valleynewslive.com/video/2026/09/29/north-dakota-5-other-states-unite-against-missouri-river-water-restriction/",
+        "source": "Valley News Live",
+        "published_at": "09/28/2026, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-10-19T17:21:24.314641+00:00",
+        "outlet_region": "North Dakota",
+        "mention_text": "North Dakota",
+        "osm_display": "North Dakota",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "06467600",
+        "usgs_streamflow_name": "JAMES RIVER NEAR MANFRED, ND",
+        "usgs_streamflow_dist_km": 13.47,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": null,
+        "usgs_gw_name": null,
+        "usgs_gw_dist_km": null,
+        "usgs_gw_depth_ft": null,
+        "run_at": "2026-10-19T17:28:26.564521+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-10-18T14:29:05.437657+00:00",
-    "total_features": 61
+    "last_updated": "2026-10-19T17:28:26.565425+00:00",
+    "total_features": 62
   }
 }
