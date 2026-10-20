@@ -26369,11 +26369,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-19T15:15:13.182914+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.498337,
+          21.094318
+        ]
+      },
+      "properties": {
+        "article_id": "https://simplywall.st/stocks/us/utilities/nyse-he/hawaiian-electric-industries/news/how-investors-may-respond-to-hawaiian-electric-industries-he",
+        "title": "How Investors May Respond To Hawaiian Electric Industries (HE) $4b Wildfire Settlement",
+        "snippet": "",
+        "url": "https://simplywall.st/stocks/us/utilities/nyse-he/hawaiian-electric-industries/news/how-investors-may-respond-to-hawaiian-electric-industries-he",
+        "source": "Simply Wall Street",
+        "published_at": "10/20/2026, 09:42 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-20T13:06:50.724590+00:00",
+        "outlet_region": null,
+        "mention_text": "How Investors May Respond To Hawaiian Electric Industries",
+        "osm_display": "How Investors May Respond To Hawaiian Electric Industries",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-10-20T13:17:15.870749+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-19T15:15:13.186835+00:00",
-    "total_features": 784
+    "last_updated": "2026-10-20T13:17:15.874928+00:00",
+    "total_features": 785
   }
 }
