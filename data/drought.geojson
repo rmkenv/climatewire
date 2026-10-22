@@ -7922,11 +7922,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-14T16:37:58.994249+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2024/11/drought-conditions-continue-to-worsen-in-ohio-erasing-earlier-improvements.html",
+        "title": "Drought conditions continue to worsen in Ohio, erasing earlier improvements",
+        "snippet": "",
+        "url": "https://www.cleveland.com/news/2024/11/drought-conditions-continue-to-worsen-in-ohio-erasing-earlier-improvements.html",
+        "source": "Cleveland.com",
+        "published_at": "11/07/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-22T16:36:31.936748+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Ohio",
+        "osm_display": "Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-22T16:43:41.878609+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-21T16:42:47.516070+00:00",
-    "total_features": 286
+    "last_updated": "2026-10-22T16:43:41.880745+00:00",
+    "total_features": 287
   }
 }
