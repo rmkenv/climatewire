@@ -7952,11 +7952,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-22T16:43:41.878609+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.104759,
+          29.736446
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/article/rio-grande-valley-water-shortage-citrus-sugar-19488992.php",
+        "title": "Water shortage threatens agriculture industry in the Rio Grande Valley",
+        "snippet": "",
+        "url": "https://www.expressnews.com/news/article/rio-grande-valley-water-shortage-citrus-sugar-19488992.php",
+        "source": "San Antonio Express-News",
+        "published_at": "06/16/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-23T16:25:43.263555+00:00",
+        "outlet_region": null,
+        "mention_text": "Rio Grande Valley",
+        "osm_display": "Rio Grande Valley",
+        "osm_type": "river",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-23T16:33:38.692222+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-22T16:43:41.880745+00:00",
-    "total_features": 287
+    "last_updated": "2026-10-23T16:33:38.693498+00:00",
+    "total_features": 288
   }
 }
