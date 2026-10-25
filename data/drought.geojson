@@ -7982,11 +7982,1001 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-23T16:33:38.692222+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aspentimes.com/news/colorado-drought-conditions-emergency-headwaters-state/",
+        "title": "How did Colorado get here? Understanding the drought emergency in the headwaters state",
+        "snippet": "",
+        "url": "https://www.aspentimes.com/news/colorado-drought-conditions-emergency-headwaters-state/",
+        "source": "AspenTimes.com",
+        "published_at": "06/16/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "How",
+        "osm_display": "How, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://capitalpress.com/2026/08/17/drought-update-impacts-on-oregon-idaho-and-washington/",
+        "title": "Drought Update: Impacts on Oregon, Idaho and Washington",
+        "snippet": "",
+        "url": "https://capitalpress.com/2026/08/17/drought-update-impacts-on-oregon-idaho-and-washington/",
+        "source": "Capital Press",
+        "published_at": "08/17/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Drought Update",
+        "osm_display": "Drought Update, Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://pagosadailypost.com/2026/06/09/colorado-governor-declares-statewide-drought-emergency/",
+        "title": "Colorado Governor Declares Statewide Drought Emergency",
+        "snippet": "",
+        "url": "https://pagosadailypost.com/2026/06/09/colorado-governor-declares-statewide-drought-emergency/",
+        "source": "Pagosa Daily Post",
+        "published_at": "06/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado Governor Declares Statewide Drought Emergency",
+        "osm_display": "Colorado Governor Declares Statewide Drought Emergency",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/09/24/drought-monitor-oklahoma-exceptional-drought-reaches-20/",
+        "title": "Drought Monitor: Oklahoma Exceptional Drought Reaches 20%",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/09/24/drought-monitor-oklahoma-exceptional-drought-reaches-20/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "09/24/2026, 02:19 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Drought Monitor",
+        "osm_display": "Drought Monitor, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/rain-trims-extreme-and-exceptional-drought-colorado-closes-out-water-year",
+        "title": "Rain trims extreme and exceptional drought as Colorado closes out the water year",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/rain-trims-extreme-and-exceptional-drought-colorado-closes-out-water-year",
+        "source": "Kiowa County Press",
+        "published_at": "09/27/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Rain",
+        "osm_display": "Rain, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/news/drought/polis-declares-statewide-drought-emergency-as-colorado-enters-phase-3",
+        "title": "Polis declares statewide drought emergency as Colorado enters Phase 3",
+        "snippet": "",
+        "url": "https://www.denver7.com/news/drought/polis-declares-statewide-drought-emergency-as-colorado-enters-phase-3",
+        "source": "Denver7",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Polis",
+        "osm_display": "Polis, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://education.nationalgeographic.org/resource/explorer-caitlin-ochs/",
+        "title": "Caitlin Ochs Documents the Colorado River\u2019s Water Shortage Crisis",
+        "snippet": "",
+        "url": "https://education.nationalgeographic.org/resource/explorer-caitlin-ochs/",
+        "source": "National Geographic Society",
+        "published_at": "09/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Caitlin Ochs Documents",
+        "osm_display": "Caitlin Ochs Documents, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_shortage",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kuow.org/stories/another-year-another-drought-emergency-declared-in-washington-state",
+        "title": "Another year, another drought emergency declared in Washington state",
+        "snippet": "",
+        "url": "https://www.kuow.org/stories/another-year-another-drought-emergency-declared-in-washington-state",
+        "source": "KUOW",
+        "published_at": "04/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Another",
+        "osm_display": "Another, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/09/17/drought-monitor-exceptional-drought-expands-across-oklahoma-as-september-rainfall-remains-elusive/",
+        "title": "Drought Monitor: Exceptional Drought Expands Across Oklahoma as September Rainfall Remains Elusive",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/09/17/drought-monitor-exceptional-drought-expands-across-oklahoma-as-september-rainfall-remains-elusive/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "09/17/2026, 02:30 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Drought Monitor",
+        "osm_display": "Drought Monitor, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-deepens-across-colorados-central-mountains",
+        "title": "Exceptional drought deepens across Colorado's central mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-deepens-across-colorados-central-mountains",
+        "source": "Kiowa County Press",
+        "published_at": "09/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Exceptional",
+        "osm_display": "Exceptional, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/local/central-oregon-drought-emergency-all-counties/article_0559c145-6c1f-4150-b12d-1b06750d2f5e.html",
+        "title": "All Central Oregon counties now under state drought emergency",
+        "snippet": "",
+        "url": "https://www.centraloregondaily.com/news/local/central-oregon-drought-emergency-all-counties/article_0559c145-6c1f-4150-b12d-1b06750d2f5e.html",
+        "source": "Central Oregon Daily",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "All Central Oregon",
+        "osm_display": "All Central Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73336/20260922/exceptional-drought-expands-166-oklahoma-wheat-seeding-falls-behind-entire-state-stays.htm",
+        "title": "Exceptional Drought Expands to 16.6% of Oklahoma as Wheat Seeding Falls Behind and the Entire State Stays in Drought",
+        "snippet": "",
+        "url": "https://www.natureworldnews.com/articles/73336/20260922/exceptional-drought-expands-166-oklahoma-wheat-seeding-falls-behind-entire-state-stays.htm",
+        "source": "Nature World News",
+        "published_at": "09/22/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Exceptional Drought Expands",
+        "osm_display": "Exceptional Drought Expands, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/exceptional-drought-denver-worst-categories-colorado/",
+        "title": "Exceptional drought surges across Colorado as Denver reaches record-worst levels",
+        "snippet": "",
+        "url": "https://www.cbsnews.com/colorado/news/exceptional-drought-denver-worst-categories-colorado/",
+        "source": "CBS News",
+        "published_at": "08/06/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Exceptional",
+        "osm_display": "Exceptional, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktok.iheart.com/featured/ktok-top-stories/content/2026-10-01-nearly-quarter-of-oklahoma-in-exceptional-drought/",
+        "title": "Nearly Quarter Of Oklahoma In Exceptional Drought",
+        "snippet": "",
+        "url": "https://ktok.iheart.com/featured/ktok-top-stories/content/2026-10-01-nearly-quarter-of-oklahoma-in-exceptional-drought/",
+        "source": "NewsRadio 1000 KTOK",
+        "published_at": "10/01/2026, 09:02 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Nearly Quarter Of Oklahoma In Exceptional Drought",
+        "osm_display": "Nearly Quarter Of Oklahoma In Exceptional Drought",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/severe-drought-spreads-across-colorado-exceptional-drought-holds-mountains",
+        "title": "Severe drought spreads across Colorado as exceptional drought holds in the mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/severe-drought-spreads-across-colorado-exceptional-drought-holds-mountains",
+        "source": "Kiowa County Press",
+        "published_at": "06/19/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Severe",
+        "osm_display": "Severe, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denverpost.com/2026/06/04/colorado-drought-emergency-jared-polis/",
+        "title": "Colorado Gov. Jared Polis declares statewide drought emergency",
+        "snippet": "",
+        "url": "https://www.denverpost.com/2026/06/04/colorado-drought-emergency-jared-polis/",
+        "source": "The Denver Post",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado Gov",
+        "osm_display": "Colorado Gov",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/07/30/drought-monitor-oklahoma-drought-holds-steady-as-exceptional-drought-persists-in-five-counties/",
+        "title": "Drought Monitor: Oklahoma Drought Holds Steady as Exceptional Drought Persists in Five Counties",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/07/30/drought-monitor-oklahoma-drought-holds-steady-as-exceptional-drought-persists-in-five-counties/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "07/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Drought Monitor",
+        "osm_display": "Drought Monitor, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/exceptional-drought-expands-across-colorados-high-country-heat-and-wildfires-deepen-dry",
+        "title": "Exceptional drought expands across Colorado's high country as heat and wildfires deepen dry conditions",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/exceptional-drought-expands-across-colorados-high-country-heat-and-wildfires-deepen-dry",
+        "source": "Kiowa County Press",
+        "published_at": "07/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Exceptional",
+        "osm_display": "Exceptional, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.268082,
+          41.12537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/05/08/exceptional-drought-conditions-return-to-central-nebraska-for-first-time-since-december-2023/",
+        "title": "Exceptional drought conditions return to central Nebraska for first time since December 2023",
+        "snippet": "",
+        "url": "https://www.centralnebraskatoday.com/2026/05/08/exceptional-drought-conditions-return-to-central-nebraska-for-first-time-since-december-2023/",
+        "source": "Central Nebraska Today",
+        "published_at": "05/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Nebraska",
+        "mention_text": "Exceptional",
+        "osm_display": "Exceptional, Nebraska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://kpq.com/wa-drought-dclaration-fourth-year/",
+        "title": "Dept. Of Ecology Declares Drought For Washington State for Fourth Consecutive Year",
+        "snippet": "",
+        "url": "https://kpq.com/wa-drought-dclaration-fourth-year/",
+        "source": "KPQ",
+        "published_at": "04/09/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Dept",
+        "osm_display": "Dept, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/drought-eases-colorados-plains-exceptional-drought-holds-mountains",
+        "title": "Drought eases on Colorado's plains as exceptional drought holds in the mountains",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/drought-eases-colorados-plains-exceptional-drought-holds-mountains",
+        "source": "Kiowa County Press",
+        "published_at": "06/04/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Drought",
+        "osm_display": "Drought, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://magnoliatribune.com/2026/04/23/moderate-to-exceptional-drought-conditions-seen-throughout-mississippi/",
+        "title": "Moderate to exceptional drought conditions seen throughout Mississippi",
+        "snippet": "",
+        "url": "https://magnoliatribune.com/2026/04/23/moderate-to-exceptional-drought-conditions-seen-throughout-mississippi/",
+        "source": "Magnolia Tribune",
+        "published_at": "04/23/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Moderate",
+        "osm_display": "Moderate, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahomafarmreport.com/2026/06/11/drought-monitor-western-oklahoma-remains-locked-in-exceptional-drought/",
+        "title": "Drought Monitor: Western Oklahoma Remains Locked in Exceptional Drought",
+        "snippet": "",
+        "url": "https://www.oklahomafarmreport.com/2026/06/11/drought-monitor-western-oklahoma-remains-locked-in-exceptional-drought/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "06/11/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Drought Monitor",
+        "osm_display": "Drought Monitor, Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.miamiherald.com/news/local/environment/article314632977.html",
+        "title": "South Florida\u2019s in a drought. Here\u2019s why and tips on how you can conserve water",
+        "snippet": "",
+        "url": "https://www.miamiherald.com/news/local/environment/article314632977.html",
+        "source": "Miami Herald",
+        "published_at": "02/10/2026, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "South Florida",
+        "osm_display": "South Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/extreme-drought-expands-across-southeast-colorado-exceptional-drought-grips-mountain",
+        "title": "Extreme drought expands across southeast Colorado as exceptional drought grips mountain headwaters",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/extreme-drought-expands-across-southeast-colorado-exceptional-drought-grips-mountain",
+        "source": "Kiowa County Press",
+        "published_at": "05/29/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Extreme",
+        "osm_display": "Extreme, Colorado",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/06/05/colorado-governor-jared-polis-declares-statewide-drought-emergency-as-93-percent-of-state-faces-severe-conditions",
+        "title": "Colorado Governor Jared Polis Declares Statewide Drought Emergency as 93 Percent of State Faces Severe Conditions",
+        "snippet": "",
+        "url": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/06/05/colorado-governor-jared-polis-declares-statewide-drought-emergency-as-93-percent-of-state-faces-severe-conditions",
+        "source": "NBC Palm Springs",
+        "published_at": "06/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "Colorado Governor Jared Polis Declares Statewide Drought Emergency",
+        "osm_display": "Colorado Governor Jared Polis Declares Statewide Drought Emergency",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theweathernetwork.com/en/news/weather/forecasts/will-canadas-chilly-pattern-help-bust-floridas-exceptional-drought",
+        "title": "Will Canada\u2019s chilly pattern help bust Florida\u2019s exceptional drought?",
+        "snippet": "",
+        "url": "https://www.theweathernetwork.com/en/news/weather/forecasts/will-canadas-chilly-pattern-help-bust-floridas-exceptional-drought",
+        "source": "The Weather Network",
+        "published_at": "05/01/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Will Canada",
+        "osm_display": "Will Canada, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wctv.tv/2025/11/20/exceptional-drought-develops-parts-big-bend-south-georgia/",
+        "title": "Exceptional drought develops for parts of Big Bend and South Georgia",
+        "snippet": "",
+        "url": "https://www.wctv.tv/2025/11/20/exceptional-drought-develops-parts-big-bend-south-georgia/",
+        "source": "WCTV",
+        "published_at": "11/20/2025, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Exceptional",
+        "osm_display": "Exceptional, Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.drought.gov/news/case-study-early-drought-declaration-gave-washington-communities-opportunity-prepare-2024-07",
+        "title": "Case Study: An Early Drought Declaration Gave Washington Communities Opportunity To Prepare",
+        "snippet": "",
+        "url": "https://www.drought.gov/news/case-study-early-drought-declaration-gave-washington-communities-opportunity-prepare-2024-07",
+        "source": "Drought.gov",
+        "published_at": "07/09/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Case Study",
+        "osm_display": "Case Study, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.opb.org/article/2023/01/14/central-oregon-crook-county-extreme-drought-emergency/",
+        "title": "As a Central Oregon county struggles with extreme drought conditions, officials declare an emergency",
+        "snippet": "",
+        "url": "https://www.opb.org/article/2023/01/14/central-oregon-crook-county-extreme-drought-emergency/",
+        "source": "Oregon Public Broadcasting - OPB",
+        "published_at": "01/14/2023, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Central Oregon",
+        "osm_display": "Central Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/tech/science/climate-science/drought-emergency-washington-state-low-snowpack-dry-warm-spring-summer/281-0c9c8d55-39b7-4c4d-a175-a905799d7d2c",
+        "title": "Dept. of Ecology declares drought emergency for most of Washington state",
+        "snippet": "",
+        "url": "https://www.king5.com/article/tech/science/climate-science/drought-emergency-washington-state-low-snowpack-dry-warm-spring-summer/281-0c9c8d55-39b7-4c4d-a175-a905799d7d2c",
+        "source": "KING5.com",
+        "published_at": "04/16/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Dept",
+        "osm_display": "Dept, Washington",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ohio.edu/news/2024/11/ohio-researchers-study-impact-exceptional-drought-southeast-ohio-ecosystems",
+        "title": "OHIO researchers study impact of exceptional drought on Southeast Ohio ecosystems",
+        "snippet": "",
+        "url": "https://www.ohio.edu/news/2024/11/ohio-researchers-study-impact-exceptional-drought-southeast-ohio-ecosystems",
+        "source": "Ohio University",
+        "published_at": "11/12/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Southeast Ohio",
+        "osm_display": "Southeast Ohio",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.propublica.org/article/colorado-river-water-shortage-jay-famiglietti",
+        "title": "As Colorado River Dries, the U.S. Teeters on the Brink of Larger Water Crisis",
+        "snippet": "",
+        "url": "https://www.propublica.org/article/colorado-river-water-shortage-jay-famiglietti",
+        "source": "ProPublica",
+        "published_at": "08/25/2022, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-25T15:31:52.994646+00:00",
+        "outlet_region": "Colorado",
+        "mention_text": "As Colorado River Dries",
+        "osm_display": "As Colorado River Dries",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-25T15:42:08.903131+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-24T15:28:31.769365+00:00",
-    "total_features": 288
+    "last_updated": "2026-10-25T15:42:08.904927+00:00",
+    "total_features": 321
   }
 }
