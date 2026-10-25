@@ -7344,11 +7344,453 @@
         "wbgt_flag": "green",
         "run_at": "2026-10-15T14:42:53.436054+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/heat-dome-to-bounce-back-in-mississippi-valley-mid-atlantic-as-west-cools-down/1927235",
+        "title": "Heat dome to bounce back in Mississippi Valley, mid-Atlantic as West cools down",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/heat-dome-to-bounce-back-in-mississippi-valley-mid-atlantic-as-west-cools-down/1927235",
+        "source": "AccuWeather",
+        "published_at": "08/29/2026, 09:13 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Mississippi",
+        "mention_text": "Heat",
+        "osm_display": "Heat, Mississippi",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 58.5,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 5.3,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.1,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/washingtonpost/videos/a-heat-dome-will-intensify-over-the-eastern-us-this-week-pushing-temperatures-in/2037540296970632/",
+        "title": "Washington Post. . A heat dome will intensify over the Eastern U.S. this week, pushing temperatures into triple digits and likely breaking records across three dozen states, according to NOAA. https://wapo.st/4ezFsuO",
+        "snippet": "",
+        "url": "https://www.facebook.com/washingtonpost/videos/a-heat-dome-will-intensify-over-the-eastern-us-this-week-pushing-temperatures-in/2037540296970632/",
+        "source": "Facebook",
+        "published_at": "06/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Washington",
+        "mention_text": "Washington Post",
+        "osm_display": "Washington Post",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 46.8,
+        "sensor_rh_pct": 54,
+        "sensor_wind_mph": 7.6,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 38.3,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfla.com/weather/weather-stories/sweltering-heat-dome-to-bake-florida-southeast/",
+        "title": "Sweltering heat dome to bake Florida, Southeast",
+        "snippet": "",
+        "url": "https://www.wfla.com/weather/weather-stories/sweltering-heat-dome-to-bake-florida-southeast/",
+        "source": "WFLA",
+        "published_at": "08/12/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Sweltering",
+        "osm_display": "Sweltering, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 70.5,
+        "sensor_rh_pct": 87,
+        "sensor_wind_mph": 11.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/heat-dome-settles-over-florida-with-feels-like-temperatures-near-110",
+        "title": "Heat dome settles over Florida with feels-like temperatures near 110",
+        "snippet": "",
+        "url": "https://cbs12.com/news/local/heat-dome-settles-over-florida-with-feels-like-temperatures-near-110",
+        "source": "WPEC",
+        "published_at": "08/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Florida",
+        "mention_text": "Heat",
+        "osm_display": "Heat, Florida",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 70.5,
+        "sensor_rh_pct": 87,
+        "sensor_wind_mph": 11.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 63.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/louisville-extreme-heat-dome-ending-soon/417-ad881c42-0dd9-4d03-924f-4d8082fc0c9d",
+        "title": "Heat dome over Kentucky and Indiana coming to an end: When temperatures will drop",
+        "snippet": "",
+        "url": "https://www.whas11.com/article/weather/weather-impact/louisville-extreme-heat-dome-ending-soon/417-ad881c42-0dd9-4d03-924f-4d8082fc0c9d",
+        "source": "WHAS11",
+        "published_at": "07/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Kentucky",
+        "mention_text": "Heat",
+        "osm_display": "Heat, Kentucky",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 52.3,
+        "sensor_rh_pct": 58,
+        "sensor_wind_mph": 5.1,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 45.0,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/dangerous-heat-dome-to-bring-triple-digit-temperatures-to-california-southwest-into-next-week/1916593",
+        "title": "Dangerous heat dome to bring triple-digit temperatures to California, Southwest into next week",
+        "snippet": "",
+        "url": "https://www.accuweather.com/en/weather-forecasts/dangerous-heat-dome-to-bring-triple-digit-temperatures-to-california-southwest-into-next-week/1916593",
+        "source": "AccuWeather",
+        "published_at": "07/28/2026, 07:10 PM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "California",
+        "mention_text": "Dangerous",
+        "osm_display": "Dangerous, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 59.2,
+        "sensor_rh_pct": 55,
+        "sensor_wind_mph": 5.9,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 50.5,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316463594.html",
+        "title": "\u2018Heat dome\u2019 could bring extreme temperatures to SLO County. Here\u2019s when, how hot",
+        "snippet": "",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316463594.html",
+        "source": "San Luis Obispo Tribune",
+        "published_at": "07/10/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Heat",
+        "osm_display": "Heat, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 30.9,
+        "sensor_rh_pct": 99,
+        "sensor_wind_mph": 12.0,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 25.8,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather/2026/07/western-heat-dome-on-the-horizon-as-warm-temperatures-forecast-for-oregon-next-week.html",
+        "title": "Western heat dome on the horizon as warm temperatures forecast for Oregon next week",
+        "snippet": "",
+        "url": "https://www.oregonlive.com/weather/2026/07/western-heat-dome-on-the-horizon-as-warm-temperatures-forecast-for-oregon-next-week.html",
+        "source": "OregonLive.com",
+        "published_at": "07/08/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Western",
+        "osm_display": "Western, Oregon",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tennessean.com/story/weather/2026/09/02/nashville-heat-dome-labor-day-weekend-forecast/91564253007/",
+        "title": "Heat dome brings dangerous temperatures to Nashville through Labor Day weekend",
+        "snippet": "",
+        "url": "https://www.tennessean.com/story/weather/2026/09/02/nashville-heat-dome-labor-day-weekend-forecast/91564253007/",
+        "source": "The Tennessean",
+        "published_at": "09/02/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "Heat",
+        "osm_display": "Heat, Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.app.com/story/weather/2026/09/15/will-the-heat-dome-reach-new-jersey-this-week-what-is-a-heat-dome/91778019007/",
+        "title": "NJ weather forecast: Will the heat dome reach New Jersey this week",
+        "snippet": "",
+        "url": "https://www.app.com/story/weather/2026/09/15/will-the-heat-dome-reach-new-jersey-this-week-what-is-a-heat-dome/91778019007/",
+        "source": "Asbury Park Press",
+        "published_at": "09/15/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "New Jersey",
+        "mention_text": "Will",
+        "osm_display": "Will, New Jersey",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wthr.com/article/weather/weather-blog/severe-storm-risk-monday-in-indiana-as-heat-dome-builds-across-the-central-us-thunderstorm-wind-lightning-july-2026/531-b2849a6b-41d1-4f20-a73f-328653834ae7",
+        "title": "Severe storm risk Monday in Indiana as heat dome builds across the central US | 13Weather Blog",
+        "snippet": "",
+        "url": "https://www.wthr.com/article/weather/weather-blog/severe-storm-risk-monday-in-indiana-as-heat-dome-builds-across-the-central-us-thunderstorm-wind-lightning-july-2026/531-b2849a6b-41d1-4f20-a73f-328653834ae7",
+        "source": "wthr.com",
+        "published_at": "07/24/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Indiana",
+        "mention_text": "Severe",
+        "osm_display": "Severe, Indiana",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": "2026-10-25T23:00",
+        "sensor_temp_f": 54.7,
+        "sensor_rh_pct": 67,
+        "sensor_wind_mph": 1.8,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 49.7,
+        "wbgt_flag": "green",
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074036,
+          33.448376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/weather/why-phoenixs-extreme-heat-just-wont-quit-blame-the-heat-dome/75-57e9ca3e-a4ba-494a-ba93-2bb864b9f42f",
+        "title": "Why Phoenix's extreme heat just won't quit: Blame the 'heat dome'",
+        "snippet": "",
+        "url": "https://www.12news.com/article/weather/why-phoenixs-extreme-heat-just-wont-quit-blame-the-heat-dome/75-57e9ca3e-a4ba-494a-ba93-2bb864b9f42f",
+        "source": "12News",
+        "published_at": "08/05/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": null,
+        "mention_text": "Why Phoenix",
+        "osm_display": "Why Phoenix",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.536095,
+          43.326618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ottawanewsnetwork.org/dangerous-heat-dome-will-bring-soaring-temperatures-extremely-dry-conditions-in-michigan/",
+        "title": "Dangerous heat dome will bring soaring temperatures, extremely dry conditions in Michigan",
+        "snippet": "",
+        "url": "https://www.ottawanewsnetwork.org/dangerous-heat-dome-will-bring-soaring-temperatures-extremely-dry-conditions-in-michigan/",
+        "source": "Ottawa News Network",
+        "published_at": "07/13/2026, 07:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-10-25T14:00:11.997259+00:00",
+        "outlet_region": "Michigan",
+        "mention_text": "Dangerous",
+        "osm_display": "Dangerous, Michigan",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "heat_dome",
+        "sensor_obs_time": null,
+        "sensor_temp_f": null,
+        "sensor_rh_pct": null,
+        "sensor_wind_mph": null,
+        "sensor_solar_wm2": null,
+        "wbgt_f": null,
+        "wbgt_flag": null,
+        "run_at": "2026-10-25T14:16:41.833879+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-10-24T13:56:32.844903+00:00",
-    "total_features": 216
+    "last_updated": "2026-10-25T14:16:41.839349+00:00",
+    "total_features": 229
   }
 }
