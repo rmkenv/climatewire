@@ -8972,11 +8972,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-25T15:42:08.903131+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616508,
+          44.268543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jsonline.com/story/news/environment/2026/10/26/drought-hurts-northern-wisconsin-with-unpredictable-winter-on-the-way/92288116007/",
+        "title": "'Exceptional' drought hurting northern Wisconsin, and no end in sight",
+        "snippet": "",
+        "url": "https://www.jsonline.com/story/news/environment/2026/10/26/drought-hurts-northern-wisconsin-with-unpredictable-winter-on-the-way/92288116007/",
+        "source": "Milwaukee Journal Sentinel",
+        "published_at": "10/26/2026, 04:47 PM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-26T18:12:32.498349+00:00",
+        "outlet_region": "Wisconsin",
+        "mention_text": "Wisconsin",
+        "osm_display": "Wisconsin",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_event",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-26T18:14:53.444875+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-25T15:42:08.904927+00:00",
-    "total_features": 321
+    "last_updated": "2026-10-26T18:14:53.446908+00:00",
+    "total_features": 322
   }
 }
