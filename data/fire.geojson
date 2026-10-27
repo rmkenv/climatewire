@@ -26845,11 +26845,113 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-26T14:41:17.271870+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailydispatch.com/fire-news/massachusetts/massachusetts-national-guard-activated-to-help-fight-wildfire-that-crossed-new-york-border/",
+        "title": "Massachusetts National Guard activated to help fight wildfire that crossed New York border",
+        "snippet": "",
+        "url": "https://dailydispatch.com/fire-news/massachusetts/massachusetts-national-guard-activated-to-help-fight-wildfire-that-crossed-new-york-border/",
+        "source": "dailydispatch.com",
+        "published_at": "10/27/2026, 08:38 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-27T13:42:39.555408+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "New York",
+        "osm_display": "New York, Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 99.93,
+        "firms_frp_mw": 0.97,
+        "firms_brightness": 296.54,
+        "firms_acq_datetime": "2026-10-26 0754",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-27T13:46:37.592077+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gov.ca.gov/2025/01/13/california-forest-management-hotter-drier-climate/",
+        "title": "Here\u2019s how California has increased wildfire response and forest management in the face of a hotter, drier climate",
+        "snippet": "",
+        "url": "https://www.gov.ca.gov/2025/01/13/california-forest-management-hotter-drier-climate/",
+        "source": "California State Portal | CA.gov",
+        "published_at": "01/13/2025, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-27T13:42:39.555408+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 21.95,
+        "firms_frp_mw": 1.19,
+        "firms_brightness": 335.35,
+        "firms_acq_datetime": "2026-10-26 2057",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-27T13:46:37.592077+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://calmatters.org/explainers/california-wildfire-season-worsening-explained/",
+        "title": "Wildfires in January? Here's why California wildfire season is worse",
+        "snippet": "",
+        "url": "https://calmatters.org/explainers/california-wildfire-season-worsening-explained/",
+        "source": "CalMatters",
+        "published_at": "01/08/2025, 08:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-27T13:42:39.555408+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 21.95,
+        "firms_frp_mw": 1.19,
+        "firms_brightness": 335.35,
+        "firms_acq_datetime": "2026-10-26 2057",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-27T13:46:37.592077+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-26T14:41:17.275903+00:00",
-    "total_features": 798
+    "last_updated": "2026-10-27T13:46:37.596915+00:00",
+    "total_features": 801
   }
 }
