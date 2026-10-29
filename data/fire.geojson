@@ -26947,11 +26947,79 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-10-27T13:46:37.592077+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "article_id": "https://usa.inquirer.net/213908/la-wildfire-smoke-exposed-millions-to-toxic-lead-levels-study-finds",
+        "title": "LA wildfire smoke exposed millions to toxic lead levels, study finds",
+        "snippet": "",
+        "url": "https://usa.inquirer.net/213908/la-wildfire-smoke-exposed-millions-to-toxic-lead-levels-study-finds",
+        "source": "INQUIRER.net USA",
+        "published_at": "10/28/2026, 09:09 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-29T14:43:45.865792+00:00",
+        "outlet_region": "Pennsylvania",
+        "mention_text": "Pennsylvania",
+        "osm_display": "Pennsylvania",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 53.73,
+        "firms_frp_mw": 2.48,
+        "firms_brightness": 323.4,
+        "firms_acq_datetime": "2026-10-29 0659",
+        "firms_confidence": "nominal",
+        "firms_daynight": "N",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-29T14:48:17.118497+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://bioengineer.org/research-report-wildfire-smoke-indoor-and-outdoor-pm2-5-and-sick-related-absenteeism-in-oklahoma-head-start-early-care-and-education-centers/",
+        "title": "Research report: Wildfire smoke, indoor and outdoor PM2.5, and sick-related",
+        "snippet": "",
+        "url": "https://bioengineer.org/research-report-wildfire-smoke-indoor-and-outdoor-pm2-5-and-sick-related-absenteeism-in-oklahoma-head-start-early-care-and-education-centers/",
+        "source": "Bioengineer.org",
+        "published_at": "10/27/2026, 06:14 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-10-29T14:43:45.865792+00:00",
+        "outlet_region": null,
+        "mention_text": "oklahoma",
+        "osm_display": "oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": 18.51,
+        "firms_frp_mw": 3.72,
+        "firms_brightness": 329.05,
+        "firms_acq_datetime": "2026-10-28 2019",
+        "firms_confidence": "nominal",
+        "firms_daynight": "D",
+        "firms_active_fire_nearby": true,
+        "run_at": "2026-10-29T14:48:17.118497+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-10-28T14:43:27.629049+00:00",
-    "total_features": 801
+    "last_updated": "2026-10-29T14:48:17.122357+00:00",
+    "total_features": 803
   }
 }
