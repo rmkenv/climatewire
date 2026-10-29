@@ -9002,11 +9002,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-26T18:14:53.444875+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://nkytribune.com/2024/10/high-level-drought-declaration-withdrawn-thanks-to-hurricane-helene-rain-remnants/",
+        "title": "High level Drought Declaration withdrawn \u2014 thanks to Hurricane Helene rain remnants",
+        "snippet": "",
+        "url": "https://nkytribune.com/2024/10/high-level-drought-declaration-withdrawn-thanks-to-hurricane-helene-rain-remnants/",
+        "source": "Northern Kentucky Tribune",
+        "published_at": "10/06/2024, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-10-29T17:59:55.233196+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "High",
+        "osm_display": "High, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-10-29T18:07:47.276583+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-10-28T17:55:20.075025+00:00",
-    "total_features": 322
+    "last_updated": "2026-10-29T18:07:47.278696+00:00",
+    "total_features": 323
   }
 }
