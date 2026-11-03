@@ -27117,11 +27117,45 @@
         "firms_active_fire_nearby": true,
         "run_at": "2026-11-02T17:36:14.098813+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.doi.gov/pressreleases/us-fish-and-wildlife-service-mourns-loss-federal-wildlife-officer-oklahoma-fire",
+        "title": "U.S. Fish and Wildlife Service Mourns Loss of Federal Wildlife Officer in Oklahoma Fire | U.S. Department of the Interior",
+        "snippet": "",
+        "url": "https://www.doi.gov/pressreleases/us-fish-and-wildlife-service-mourns-loss-federal-wildlife-officer-oklahoma-fire",
+        "source": "U.S. Department of the Interior (.gov)",
+        "published_at": "08/30/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-03T15:34:03.319124+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "U.S.",
+        "osm_display": "U.S., Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": false,
+        "run_at": "2026-11-03T15:43:29.621392+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-02T17:36:14.101964+00:00",
-    "total_features": 806
+    "last_updated": "2026-11-03T15:43:29.625796+00:00",
+    "total_features": 807
   }
 }
