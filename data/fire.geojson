@@ -27185,11 +27185,45 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-05T15:58:58.967038+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailydispatch.com/fire-news/arizona/wildfire-protection-project-starts-in-pima-county/",
+        "title": "Wildfire protection project starts in Pima County",
+        "snippet": "",
+        "url": "https://dailydispatch.com/fire-news/arizona/wildfire-protection-project-starts-in-pima-county/",
+        "source": "DailyDispatch.com",
+        "published_at": "11/06/2026, 03:16 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-07T14:28:54.691820+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "arizona",
+        "osm_display": "arizona, Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-07T14:33:45.759267+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-06T15:33:47.381160+00:00",
-    "total_features": 808
+    "last_updated": "2026-11-07T14:33:45.763862+00:00",
+    "total_features": 809
   }
 }
