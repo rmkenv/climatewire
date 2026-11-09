@@ -27219,11 +27219,45 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-07T14:33:45.759267+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.climatehubs.usda.gov/hubs/northwest/topic/climate-change-and-wildfire-alaska",
+        "title": "Climate Change and Wildfire in Alaska",
+        "snippet": "",
+        "url": "https://www.climatehubs.usda.gov/hubs/northwest/topic/climate-change-and-wildfire-alaska",
+        "source": "USDA Climate Hubs (.gov)",
+        "published_at": "11/08/2022, 05:33 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-09T17:55:29.098078+00:00",
+        "outlet_region": "Alaska",
+        "mention_text": "Alaska",
+        "osm_display": "Alaska",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-09T18:00:12.638261+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-08T14:42:02.600786+00:00",
-    "total_features": 809
+    "last_updated": "2026-11-09T18:00:12.643736+00:00",
+    "total_features": 810
   }
 }
