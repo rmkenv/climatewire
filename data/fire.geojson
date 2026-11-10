@@ -27253,11 +27253,45 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-09T18:00:12.638261+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gov.ca.gov/2026/07/07/californias-wildfire-defense-blasts-off-governor-newsom-launches-firesat-wildfire-detection-satellites-to-spot-blazes-from-space/",
+        "title": "California\u2019s wildfire defense blasts off: Governor Newsom launches \u201cFireSat\u201d wildfire-detection satellites to spot blazes from space",
+        "snippet": "",
+        "url": "https://www.gov.ca.gov/2026/07/07/californias-wildfire-defense-blasts-off-governor-newsom-launches-firesat-wildfire-detection-satellites-to-spot-blazes-from-space/",
+        "source": "California State Portal | CA.gov",
+        "published_at": "07/07/2026, 07:00 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-10T15:54:28.216881+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-10T16:01:16.657484+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-09T18:00:12.643736+00:00",
-    "total_features": 810
+    "last_updated": "2026-11-10T16:01:16.663185+00:00",
+    "total_features": 811
   }
 }
