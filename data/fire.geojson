@@ -27321,11 +27321,45 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-12T16:32:25.075920+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://timesofindia.indiatimes.com/world/us/87-year-old-disabled-california-wildfire-survivor-says-contractor-went-90k-over-budget-wants-another-51k-claims-dispute-has-left-him-homeless-and-broke-after-losing-eaton-fire-home/articleshow/135816841.cms",
+        "title": "87-year-old disabled California wildfire survivor says contractor went $90K over budget, wants another $5",
+        "snippet": "",
+        "url": "https://timesofindia.indiatimes.com/world/us/87-year-old-disabled-california-wildfire-survivor-says-contractor-went-90k-over-budget-wants-another-51k-claims-dispute-has-left-him-homeless-and-broke-after-losing-eaton-fire-home/articleshow/135816841.cms",
+        "source": "The Times of India",
+        "published_at": "11/13/2026, 10:27 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-14T14:36:19.133621+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-14T14:43:45.870763+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-13T15:53:15.588674+00:00",
-    "total_features": 812
+    "last_updated": "2026-11-14T14:43:45.875066+00:00",
+    "total_features": 813
   }
 }
