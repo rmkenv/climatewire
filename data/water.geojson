@@ -2191,11 +2191,46 @@
         "usgs_gw_depth_ft": null,
         "run_at": "2026-10-25T15:00:57.328875+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/california-new-permanent-water-restriction-will-hit-these-3-areas-hardest-1922218",
+        "title": "California\u2019s New Permanent Water Restriction Will Hit These 3 Areas Hardest",
+        "snippet": "",
+        "url": "https://www.newsweek.com/california-new-permanent-water-restriction-will-hit-these-3-areas-hardest-1922218",
+        "source": "Newsweek",
+        "published_at": "07/08/2024, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-11-14T16:51:50.488737+00:00",
+        "outlet_region": "California",
+        "mention_text": "Areas Hardest",
+        "osm_display": "Areas Hardest, California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "utility_restriction",
+        "usgs_streamflow_site_no": "11212260",
+        "usgs_streamflow_name": "CROSS C A KANSAS AVE NR HANFORD CA",
+        "usgs_streamflow_dist_km": 14.62,
+        "usgs_streamflow_cfs": 0.0,
+        "usgs_gw_site_no": "361334120035101",
+        "usgs_gw_name": "020S018E06D001M",
+        "usgs_gw_dist_km": 36.54,
+        "usgs_gw_depth_ft": 402.63,
+        "run_at": "2026-11-14T16:56:57.924840+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-11-13T18:28:43.808789+00:00",
-    "total_features": 67
+    "last_updated": "2026-11-14T16:56:57.925308+00:00",
+    "total_features": 68
   }
 }
