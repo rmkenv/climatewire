@@ -27389,11 +27389,45 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-15T15:10:59.614177+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsnationnow.com/us-news/midwest/peoria-mayor-confirms-bomb-threat/",
+        "title": "Evacuation order lifted after bomb threat near chemical plant in Peoria, Illinois",
+        "snippet": "",
+        "url": "https://www.newsnationnow.com/us-news/midwest/peoria-mayor-confirms-bomb-threat/",
+        "source": "NewsNation",
+        "published_at": "11/14/2026, 05:38 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-16T17:38:05.870168+00:00",
+        "outlet_region": "Illinois",
+        "mention_text": "Peoria",
+        "osm_display": "Peoria, Illinois",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "evacuation_order",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-16T17:45:19.611853+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-15T15:10:59.619169+00:00",
-    "total_features": 814
+    "last_updated": "2026-11-16T17:45:19.616397+00:00",
+    "total_features": 815
   }
 }
