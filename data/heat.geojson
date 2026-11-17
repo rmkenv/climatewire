@@ -7786,11 +7786,45 @@
         "wbgt_flag": null,
         "run_at": "2026-10-25T14:16:41.833879+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5,
+          47.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nature.com/articles/s41467-023-36289-3",
+        "title": "The unprecedented Pacific Northwest heatwave of June 2021",
+        "snippet": "",
+        "url": "https://www.nature.com/articles/s41467-023-36289-3",
+        "source": "Nature",
+        "published_at": "02/09/2023, 08:00 AM, +0000 UTC",
+        "wire": "heat",
+        "fetched_at": "2026-11-17T18:51:15.556731+00:00",
+        "outlet_region": null,
+        "mention_text": "Pacific Northwest",
+        "osm_display": "Pacific Northwest",
+        "osm_type": "region",
+        "geocoded": true,
+        "event_type": "heat_event",
+        "sensor_obs_time": "2026-11-17T23:00",
+        "sensor_temp_f": 31.8,
+        "sensor_rh_pct": 78,
+        "sensor_wind_mph": 1.2,
+        "sensor_solar_wm2": 0.0,
+        "wbgt_f": 29.2,
+        "wbgt_flag": "green",
+        "run_at": "2026-11-17T18:56:29.072828+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "heat",
-    "last_updated": "2026-11-16T20:00:20.821165+00:00",
-    "total_features": 229
+    "last_updated": "2026-11-17T18:56:29.074801+00:00",
+    "total_features": 230
   }
 }
