@@ -9032,11 +9032,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-10-29T18:07:47.276583+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.worldweatherattribution.org/climate-change-not-el-nino-main-driver-of-exceptional-drought-in-highly-vulnerable-amazon-river-basin/",
+        "title": "Climate change, not El Ni\u00f1o, main driver of exceptional drought in highly vulnerable Amazon River Basin",
+        "snippet": "",
+        "url": "https://www.worldweatherattribution.org/climate-change-not-el-nino-main-driver-of-exceptional-drought-in-highly-vulnerable-amazon-river-basin/",
+        "source": "World Weather Attribution",
+        "published_at": "01/24/2024, 08:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-11-18T19:57:08.906670+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "Amazon River Basin",
+        "osm_display": "Amazon River Basin, Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-11-18T19:59:33.983088+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-11-17T20:29:38.431394+00:00",
-    "total_features": 323
+    "last_updated": "2026-11-18T19:59:33.984706+00:00",
+    "total_features": 324
   }
 }
