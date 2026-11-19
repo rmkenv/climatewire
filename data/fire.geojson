@@ -27457,11 +27457,45 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-17T17:18:02.108592+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecentersquare.com/california/article_4fa1bc40-0a3b-4ef4-a822-947e6644782c.html",
+        "title": "Newsom goes to D.C. to seek $13B in wildfire relief aid",
+        "snippet": "",
+        "url": "https://www.thecentersquare.com/california/article_4fa1bc40-0a3b-4ef4-a822-947e6644782c.html",
+        "source": "The Center Square",
+        "published_at": "11/18/2026, 10:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-19T16:54:15.189360+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-19T17:02:50.064548+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-18T16:55:31.000402+00:00",
-    "total_features": 816
+    "last_updated": "2026-11-19T17:02:50.069748+00:00",
+    "total_features": 817
   }
 }
