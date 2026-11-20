@@ -27491,11 +27491,147 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-19T17:02:50.064548+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailydispatch.com/fire-news/montana/um-study-over-half-of-montanans-would-adjust-travel-plans-due-to-wildfire-smoke/",
+        "title": "UM study: over half of Montanans would adjust travel plans due to wildfire smoke",
+        "snippet": "",
+        "url": "https://dailydispatch.com/fire-news/montana/um-study-over-half-of-montanans-would-adjust-travel-plans-due-to-wildfire-smoke/",
+        "source": "DailyDispatch.com",
+        "published_at": "11/20/2026, 04:20 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-20T16:28:43.242024+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Montanans",
+        "osm_display": "Montanans, Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-20T16:37:23.443382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/2026/11/19/east-tennessee-wildfire-grows-500-acres-one-day/",
+        "title": "East Tennessee wildfire grows to 500 acres in one day",
+        "snippet": "",
+        "url": "https://www.wvlt.tv/2026/11/19/east-tennessee-wildfire-grows-500-acres-one-day/",
+        "source": "WVLT",
+        "published_at": "11/19/2026, 05:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-20T16:28:43.242024+00:00",
+        "outlet_region": "Tennessee",
+        "mention_text": "East Tennessee",
+        "osm_display": "East Tennessee",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-20T16:37:23.443382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.politico.com/newsletters/california-currents/2026/11/16/cold-days-for-the-wildfire-liability-deal-01168704",
+        "title": "Cold days for the wildfire liability deal",
+        "snippet": "",
+        "url": "https://www.politico.com/newsletters/california-currents/2026/11/16/cold-days-for-the-wildfire-liability-deal-01168704",
+        "source": "Politico",
+        "published_at": "11/17/2026, 12:30 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-20T16:28:43.242024+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-20T16:37:23.443382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.northwestgeorgianews.com/newsom-goes-to-d-c-to-seek-13b-in-wildfire-relief-aid/article_af3ba06c-f8cd-5ecb-b303-5cc8c13c6749.html",
+        "title": "Newsom goes to D.C. to seek $13B in wildfire relief aid",
+        "snippet": "",
+        "url": "https://www.northwestgeorgianews.com/newsom-goes-to-d-c-to-seek-13b-in-wildfire-relief-aid/article_af3ba06c-f8cd-5ecb-b303-5cc8c13c6749.html",
+        "source": "The Rome News-Tribune",
+        "published_at": "11/18/2026, 10:20 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-20T16:28:43.242024+00:00",
+        "outlet_region": "Wyoming",
+        "mention_text": "D.C.",
+        "osm_display": "D.C., Wyoming",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-20T16:37:23.443382+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-19T17:02:50.069748+00:00",
-    "total_features": 817
+    "last_updated": "2026-11-20T16:37:23.449168+00:00",
+    "total_features": 821
   }
 }
