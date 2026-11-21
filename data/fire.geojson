@@ -27627,11 +27627,147 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-20T16:37:23.443382+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/california/story/2026-11-20/palisades-fire-arson-retrial-verdict",
+        "title": "Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire",
+        "snippet": "",
+        "url": "https://www.latimes.com/california/story/2026-11-20/palisades-fire-arson-retrial-verdict",
+        "source": "Los Angeles Times",
+        "published_at": "11/21/2026, 01:59 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-21T15:43:56.298609+00:00",
+        "outlet_region": null,
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-21T15:51:32.874944+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/2026/11/19/east-tennessee-wildfire-grows-500-acres-one-day/",
+        "title": "Greene County wildfire now 70% contained, Dept. of Forestry says",
+        "snippet": "",
+        "url": "https://www.wvlt.tv/2026/11/19/east-tennessee-wildfire-grows-500-acres-one-day/",
+        "source": "WVLT",
+        "published_at": "11/19/2026, 05:07 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-21T15:43:56.298609+00:00",
+        "outlet_region": null,
+        "mention_text": "east tennessee wildfire",
+        "osm_display": "east tennessee wildfire",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-21T15:51:32.874944+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.deccanchronicle.com/lifestyle/environment/federal-jury-convicts-man-of-starting-the-los-angeles-wildfire-in-2025-2006570",
+        "title": "Federal Jury Convicts Man of Starting The Los Angeles Wildfire in 2025",
+        "snippet": "",
+        "url": "https://www.deccanchronicle.com/lifestyle/environment/federal-jury-convicts-man-of-starting-the-los-angeles-wildfire-in-2025-2006570",
+        "source": "Deccan Chronicle",
+        "published_at": "11/21/2026, 07:46 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-21T15:43:56.298609+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "los angeles",
+        "osm_display": "los angeles, Texas",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-21T15:51:32.874944+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "http://goldrushcam.com/sierrasuntimes/index.php/news/local-news/83654-rural-county-representatives-of-california-reports-wildfire-emergency-act-introduced-in-congress",
+        "title": "Rural County Representatives of California Reports Wildfire Emergency Act Introduced in Congress",
+        "snippet": "",
+        "url": "http://goldrushcam.com/sierrasuntimes/index.php/news/local-news/83654-rural-county-representatives-of-california-reports-wildfire-emergency-act-introduced-in-congress",
+        "source": "Sierra Sun Times",
+        "published_at": "11/21/2026, 11:57 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-21T15:43:56.298609+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-21T15:51:32.874944+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-20T16:37:23.449168+00:00",
-    "total_features": 821
+    "last_updated": "2026-11-21T15:51:32.880282+00:00",
+    "total_features": 825
   }
 }
