@@ -27763,11 +27763,147 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-21T15:51:32.874944+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://kiowacountypress.net/content/nature-conservancy-announces-21m-wildfire-risk-reduction-projects-idaho-wyoming",
+        "title": "The Nature Conservancy announces $2.1M wildfire risk reduction projects in Idaho, Wyoming",
+        "snippet": "",
+        "url": "https://kiowacountypress.net/content/nature-conservancy-announces-21m-wildfire-risk-reduction-projects-idaho-wyoming",
+        "source": "Kiowa County Press",
+        "published_at": "11/22/2026, 12:00 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-22T15:45:28.362923+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-22T15:53:18.739490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cincinnati.com/press-release/story/154603/colorado-springs-deck-builder-genesis-group-explains-what-colorados-wildfire-code-means-for-new-decks/",
+        "title": "Colorado Springs Deck Builder Genesis Group Explains What Colorado's Wildfire Code Means for New Decks",
+        "snippet": "",
+        "url": "https://www.cincinnati.com/press-release/story/154603/colorado-springs-deck-builder-genesis-group-explains-what-colorados-wildfire-code-means-for-new-decks/",
+        "source": "Cincinnati Enquirer",
+        "published_at": "11/22/2026, 02:23 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-22T15:45:28.362923+00:00",
+        "outlet_region": "Ohio",
+        "mention_text": "Colorado",
+        "osm_display": "Colorado, Ohio",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-22T15:53:18.739490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/83654-rural-county-representatives-of-california-reports-wildfire-emergency-act-introduced-in-congress",
+        "title": "Rural County Representatives of California Reports Wildfire Emergency Act Introduced in Congress",
+        "snippet": "",
+        "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/83654-rural-county-representatives-of-california-reports-wildfire-emergency-act-introduced-in-congress",
+        "source": "Sierra Sun Times",
+        "published_at": "11/21/2026, 11:57 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-22T15:45:28.362923+00:00",
+        "outlet_region": "California",
+        "mention_text": "california",
+        "osm_display": "california",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-22T15:53:18.739490+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.070938,
+          44.572021
+        ]
+      },
+      "properties": {
+        "article_id": "https://wisevoter.com/world/us/or/2026/11/22/oregon-supreme-court-expands-pacificorp-wildfire-review",
+        "title": "Oregon Supreme Court Expands PacifiCorp Wildfire Review",
+        "snippet": "",
+        "url": "https://wisevoter.com/world/us/or/2026/11/22/oregon-supreme-court-expands-pacificorp-wildfire-review",
+        "source": "Wisevoter",
+        "published_at": "11/22/2026, 05:54 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-22T15:45:28.362923+00:00",
+        "outlet_region": "Oregon",
+        "mention_text": "Oregon Supreme Court Expands",
+        "osm_display": "Oregon Supreme Court Expands",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-22T15:53:18.739490+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-21T15:51:32.880282+00:00",
-    "total_features": 825
+    "last_updated": "2026-11-22T15:53:18.743953+00:00",
+    "total_features": 829
   }
 }
