@@ -9092,11 +9092,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-11-21T18:43:18.445111+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478828,
+          44.240459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.idahostatejournal.com/news/local/gov-little-signs-emergency-drought-declaration-for-all-of-idaho/article_5dfd8157-e42c-56fe-9c28-e342dfcab1f9.html",
+        "title": "Gov. Little signs emergency drought declaration for all of Idaho",
+        "snippet": "",
+        "url": "https://www.idahostatejournal.com/news/local/gov-little-signs-emergency-drought-declaration-for-all-of-idaho/article_5dfd8157-e42c-56fe-9c28-e342dfcab1f9.html",
+        "source": "Idaho State Journal",
+        "published_at": "04/14/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-11-24T21:54:33.313965+00:00",
+        "outlet_region": "Idaho",
+        "mention_text": "Idaho",
+        "osm_display": "Idaho",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "drought_declaration",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-11-24T22:02:55.535870+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-11-23T23:24:24.181572+00:00",
-    "total_features": 325
+    "last_updated": "2026-11-24T22:02:55.537485+00:00",
+    "total_features": 326
   }
 }
