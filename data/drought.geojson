@@ -9122,11 +9122,41 @@
         "usdm_in_drought": null,
         "run_at": "2026-11-24T22:02:55.535870+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "article_id": "https://oklahomafarmreport.com/2026/09/03/drought-monitor-exceptional-drought-persists-in-oklahoma-as-august-ends/",
+        "title": "Drought Monitor: Exceptional Drought Persists in Oklahoma as August Ends",
+        "snippet": "",
+        "url": "https://oklahomafarmreport.com/2026/09/03/drought-monitor-exceptional-drought-persists-in-oklahoma-as-august-ends/",
+        "source": "Oklahoma Farm Report",
+        "published_at": "09/03/2026, 07:00 AM, +0000 UTC",
+        "wire": "drought",
+        "fetched_at": "2026-11-25T21:01:18.773926+00:00",
+        "outlet_region": "Oklahoma",
+        "mention_text": "Oklahoma",
+        "osm_display": "Oklahoma",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "exceptional_drought",
+        "usdm_dm_category": null,
+        "usdm_dm_label": null,
+        "usdm_in_drought": null,
+        "run_at": "2026-11-25T21:09:24.113040+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "drought",
-    "last_updated": "2026-11-24T22:02:55.537485+00:00",
-    "total_features": 326
+    "last_updated": "2026-11-25T21:09:24.115084+00:00",
+    "total_features": 327
   }
 }
