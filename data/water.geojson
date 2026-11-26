@@ -2226,11 +2226,46 @@
         "usgs_gw_depth_ft": 402.63,
         "run_at": "2026-11-14T16:56:57.924840+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ajc.com/politics/2025/08/judges-ask-if-georgias-ban-on-giving-snacks-to-voters-violates-free-speech/",
+        "title": "Federal appeals court considers food-and-water ban in Georgia's voting law",
+        "snippet": "",
+        "url": "https://www.ajc.com/politics/2025/08/judges-ask-if-georgias-ban-on-giving-snacks-to-voters-violates-free-speech/",
+        "source": "The Atlanta Journal-Constitution",
+        "published_at": "08/13/2025, 07:00 AM, +0000 UTC",
+        "wire": "water",
+        "fetched_at": "2026-11-26T20:00:07.946435+00:00",
+        "outlet_region": "Georgia",
+        "mention_text": "Georgia",
+        "osm_display": "Georgia",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "water_scarcity_event",
+        "usgs_streamflow_site_no": "02212735",
+        "usgs_streamflow_name": "OCMULGEE RIVER AT GA 18, AT DAMES FERRY, GA",
+        "usgs_streamflow_dist_km": 8.28,
+        "usgs_streamflow_cfs": 449.0,
+        "usgs_gw_site_no": "323302083263401",
+        "usgs_gw_name": "18U001",
+        "usgs_gw_dist_km": 57.61,
+        "usgs_gw_depth_ft": 170.95,
+        "run_at": "2026-11-26T20:09:33.869789+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "water",
-    "last_updated": "2026-11-25T20:34:24.346963+00:00",
-    "total_features": 68
+    "last_updated": "2026-11-26T20:09:33.870517+00:00",
+    "total_features": 69
   }
 }
