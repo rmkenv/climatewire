@@ -28069,11 +28069,147 @@
         "firms_active_fire_nearby": null,
         "run_at": "2026-11-24T19:22:40.542443+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755371,
+          41.597782
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stamfordadvocate.com/news/article/brush-fire-risk-moderate-across-connecticut-22553732.php",
+        "title": "Brush fire risk is moderate across Connecticut Saturday",
+        "snippet": "",
+        "url": "https://www.stamfordadvocate.com/news/article/brush-fire-risk-moderate-across-connecticut-22553732.php",
+        "source": "Stamford Advocate",
+        "published_at": "11/28/2026, 03:33 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-28T16:28:09.477802+00:00",
+        "outlet_region": "Connecticut",
+        "mention_text": "Connecticut",
+        "osm_display": "Connecticut",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-28T16:35:18.993401+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243683,
+          34.052235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/california/fires/article318284904.html",
+        "title": "Breaking: New wildfire reported in Los Angeles County on Nov. 27",
+        "snippet": "",
+        "url": "https://www.sacbee.com/news/california/fires/article318284904.html",
+        "source": "Sacramento Bee",
+        "published_at": "11/27/2026, 10:12 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-28T16:28:09.477802+00:00",
+        "outlet_region": null,
+        "mention_text": "Los Angeles County",
+        "osm_display": "Los Angeles County",
+        "osm_type": "city",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-28T16:35:18.993401+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.c2es.org/2026/11/growing-stronger-a-new-resilience-blueprint-for-extreme-heat-wildfire-and-flooding-in-south-central-texas/",
+        "title": "Growing Stronger: A New Resilience Blueprint for Extreme Heat, Wildfire, and Flooding in South Central Texas",
+        "snippet": "",
+        "url": "https://www.c2es.org/2026/11/growing-stronger-a-new-resilience-blueprint-for-extreme-heat-wildfire-and-flooding-in-south-central-texas/",
+        "source": "Center for Climate and Energy Solutions",
+        "published_at": "11/23/2026, 03:18 PM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-28T16:28:09.477802+00:00",
+        "outlet_region": "Texas",
+        "mention_text": "texas",
+        "osm_display": "texas",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-28T16:35:18.993401+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "article_id": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/83823-california-u-s-senator-adam-schiff-unveils-legislation-to-expand-wildfire-related-research-to-protect-public-health-and-environment",
+        "title": "California U.S. Senator Adam Schiff Unveils Legislation to Expand Wildfire-Related Research to Protect Public Health and Environment",
+        "snippet": "",
+        "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/83823-california-u-s-senator-adam-schiff-unveils-legislation-to-expand-wildfire-related-research-to-protect-public-health-and-environment",
+        "source": "Sierra Sun Times",
+        "published_at": "11/27/2026, 10:34 AM, +0000 UTC",
+        "wire": "fire",
+        "fetched_at": "2026-11-28T16:28:09.477802+00:00",
+        "outlet_region": "California",
+        "mention_text": "California",
+        "osm_display": "California",
+        "osm_type": "state",
+        "geocoded": true,
+        "event_type": "wildfire_event",
+        "firms_dist_km": null,
+        "firms_frp_mw": null,
+        "firms_brightness": null,
+        "firms_acq_datetime": null,
+        "firms_confidence": null,
+        "firms_daynight": null,
+        "firms_active_fire_nearby": null,
+        "run_at": "2026-11-28T16:35:18.993401+00:00"
+      }
     }
   ],
   "metadata": {
     "wire": "fire",
-    "last_updated": "2026-11-27T17:49:45.257566+00:00",
-    "total_features": 834
+    "last_updated": "2026-11-28T16:35:18.999448+00:00",
+    "total_features": 838
   }
 }
